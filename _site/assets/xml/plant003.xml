@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      <div type="plant" xml:id="A-003">
+        <head>N. 3 LAURO SILVESTRE</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000422887">[<hi>Viburnum Tinus L.</hi>]</ref>]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Lauro silvestre da volgari - Gara Gar Daphnos - Tinus Plinij - Gara et Gar da Arabi (<ptr target="#A-003N1"/>) -
+            Daphnos da Greci - Artigene a Roma - Molesso da Lanzanesi. (<ptr target="#A-003N2"/>)</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Ne sonno de due spezie de lauri domestici et noti, una fa le foglie maggior
+            dell'altro, ma nel resto simili, et questo de silvestre.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne luoghi asperi et frigidi monti, et in <placeName ref="https://www.geonames.org/3175397/istria.html">Istria</placeName> ne sonno.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> In humidi et non molto solsticij luoghi molto vaghi si dimostrano, et per far
+            spaliere suoi rami se aprendeno chome deli altri ancora, et si avertisca che produce de
+            molti minuti vermi che mangiano le foglie et rodeno le giovane cimete con detrimento del
+            albero.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Sul pendio di un monte sorge l'intera pianta fiorita e fruttifera, mentre a parte son
+            figurate due foglie mostranti le due pagine. La figura della pianta è abbastanza buona,
+            brutta e sproporzionata è invece quella del monte, come infelici son le figure di
+            alberi, case, uomini.</p>
+          <p>Il nome abruzzese <hi>molesso</hi> fu tratto dall'<persName ref="#Anguillara">Anguillara</persName> che a p. 80 dei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref>
+            parlò di questa specie sotto i nomi <hi>Tinus</hi> e <foreign xml:lang="grc">Δάφνη
+              ἀγρία</foreign>.</p>
+          <p>Nella lista delle piante coltivate a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> dal <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
+            vocata; alij sui generis arborem esse putant»].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-003N1" n="1"> Nomi del vero lauro (<hi>Laurus nobilis L.</hi>).</note>
+          <note xml:id="A-003N2" n="2"> Di <placeName ref="https://www.geonames.org/8957658/lanciano.html">Lanciano</placeName>, prov. di <placeName ref="https://www.geonames.org/3178796/chieti.html">Chieti</placeName>.</note>
+
+          <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+          <pb n="14"/>
+        </div>
+        </body>
+        </text>
+        </TEI>

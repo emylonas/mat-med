@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <div type="plant" xml:id="A-001">
+        <head>N. I CIRUELAS MONTESES</head>
+        <ab>[Not identified]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Ciruelas monteses ex fruta de Indiani. <seg type="trans"><foreign xml:lang="eng">wild plums</foreign>
+            <foreign xml:lang="ita">prugne selvatiche</foreign></seg></p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Tre sorte di Ciruelas ne sonno, questa monteses, incarnadas et amarilas come vedereti
+            <note type="editorial"> [<ref type="internal" target="#A-021">NN. 21</ref> e <ref type="internal" target="#A-069">N.
+              69</ref>]</note>.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoa radice [...] (<ptr target="#A-001-N1"/>), son albero grande et di grosso tronco con colore
+            verdezzio, suoe frondi poche sopra a rami simil al gelsomin, suoi fruti verdi et maturati
+            rossi et sonno molto saporosi, dice nel <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">lib. primo del India</ref> a k. 48 (<ptr target="#A-001-N2"/>)
+            et son simil a marasche ma sanza picioli qualli imediatamente si atacano al legnio del
+            tronco.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> De l'<placeName>India</placeName> in pittura fu portato questo insieme con altri 10
+            alberi come quivi li
+            vedereti alla Maestà Cesarea, dunde essendo orator alla Sua Maestà al'hora il clar.
+            magnif. mess. <persName ref="#daMula">Marc'Antonio da Mulla</persName> et hora ill. et rev. benemerito cardinal (<ptr target="#A-001-N3"/>) ne
+            fezze cavar coppia da quelli de Suoa Maestà et io da questi istessi cavai li presenti
+            depinti.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> De suoi picoli nuclei ci nascono, ma meglio per inesto in albero che habbi nucleo.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Suoi fruti sonno gustevoli et si mangiano.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fruttifera intorno alla quale vedonsi volare vari insetti].</p>
+        </div>
+
+        <div type="notes">
+          <note xml:id="A-001-N1">In bianco. </note>
+          <note xml:id="A-001-N2">La sigla k si deve leggere a carte (pagina).</note>
+          <note xml:id="A-001-N3"> * <persName ref="#daMula">Marco Antonio da Mula</persName> (latinizzato <persName ref="#daMula">Amulio</persName>) nacque a Venezia il
+            12 febbraio 1505. Dopo aver occupato vari uffici in Dalmazia e in Terraferma, fu nel
+            1551 inviato ambasciatore a Carlo V e stette presso di lui fino al 1553. Fu poi nel 1559
+            ambasciatore straordinario a Filippo II per congratularsi della pace di Cateau Cambrésis
+            e nel 1560 oratore presso il papa Pio IV. Da questo fu, mentre era in carica, nominato
+            vescovo di Verona ad insaputa del Senato, che rifiutò l'elezione come contraria alle
+            leggi, destituì l'ambasciatore e lo mise al bando dalla Repubblica. Quasi a risarcirlo,
+            il Papa nel 1561 lo creò cardinale, nel 1562 vescovo di Rieti e finalmente nel 1565
+            prefetto della Vaticana. In tale ufficio morì il 13 marzo 1570. La sua salma fu, secondo
+            le sue ultime volontà, trasportata a Venezia e tumulata nella chiesa di S.
+              Giobbe (Ed.).</note>
+        </div>
+        <div type="bibl">
+          <bibl>Peter Mason, José Pardo-Tomás, Bringing it back from Mexico: Eleven paintings of trees in I cinque libri delle piante of Pier’Antonio Michiel (1510–1576),
+            <hi>Journal of the History of Collections</hi>, Volume 32, Issue 2, July 2020, Pages 225–237. <idno>https://doi.org/10.1093/jhc/fhy062</idno></bibl>
+        </div>
+
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="13"/>
+      </div>
+
+    </body>
+        </text>
+        </TEI>

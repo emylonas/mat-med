@@ -1,0 +1,14 @@
+---
+layout: single
+author_profile: false
+---
+<script>
+      var CETEIcean = new CETEI();
+      CETEIcean.getHTML5('/assets/xml/plant001.xml', function(data) {
+        document.getElementById("TEI").innerHTML = "";
+        document.getElementById("TEI").appendChild(data);
+        CETEIcean.addStyle(document, data);
+      });
+
+    </script>
+<div id="TEI"></div>

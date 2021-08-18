@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      <div type="plant" xml:id="A-002">
+        <head>N. 2 INCOGNITA</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000439333">[<hi>Sambucus racemosa L.</hi>]</ref></ab>
+        <div type="editorial-D">
+          <p>[Il verso della pagina è bianco. Nel recto una figura incompletamente dipinta di ramo
+            fruttifero. Il disegno completo colla nomenclatura è a <ref type="internal" target="#A-066">N. 66</ref>. Notiamo che il <persName ref="#Ghini">Ghini</persName>
+            a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> coltivava un <hi rendition="italic">Frutex incognitus</hi>
+            di cui dà la descrizione <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">[305]</ref>
+            che pare sia questa specie].</p>
+        </div>
+      </div>
+
+        </body>
+        </text>
+        </TEI>
