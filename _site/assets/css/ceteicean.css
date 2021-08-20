@@ -284,13 +284,13 @@ tei-space[dim='horizontal']::before {
   direction: ltr;
 }
 
- tei-note::before {
+/* tei-note::before {
     content: "/*";
 }
 
 tei-note::after {
     content: "*/";
-}  
+} */
 
 tei-note[type='editorial'] {
   color: red;
