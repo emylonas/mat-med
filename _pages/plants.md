@@ -8,4 +8,4 @@ classes: wide
 sidebar:
   nav: "plants" 
 ---
-{{page.index}}
+<div id="main" role="main">
