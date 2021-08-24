@@ -18,4 +18,4 @@ layout: single-xml
 <div id="TEI"></div> -->
 
 This is content testing to make sure new file is loaded in edition
-This is plant number: {{page:plant-number}} bar
+This is plant number: {{page.plant-number}} bar
