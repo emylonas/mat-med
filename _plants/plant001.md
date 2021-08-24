@@ -1,8 +1,8 @@
 ---
+title: plant001
 plant-name: "Ciruelas Monteses"
 plant-number: "001"
 plant-xml: /assets/xml/plant001.xml
-title: {plant-number} { plant-name }
 layout: single-xml
 ---
 

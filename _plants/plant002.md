@@ -1,5 +1,5 @@
 ---
-title: {{page.plant-name}}
+title: plant002
 plant-name: "INCOGNITA"
 plant-number: "002"
 plant-xml: /assets/xml/plant002.xml
