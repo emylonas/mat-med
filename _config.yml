@@ -301,6 +301,6 @@ defaults:
     values:
       layout: single-xml
       author_profile: false
-      share: true
+      share: false
       sidebar:
         nav: "plants"      
