@@ -1,5 +1,6 @@
 ---
 title: Libro Azzurro
+layout: single
 ---
 
 Libro Azzurro
