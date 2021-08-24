@@ -267,9 +267,9 @@ tag_archive:
 
 # Collections
 collections:
-  assets/xml:
+  plants:
     output: true
-    # permalink: /:collection/:path/
+    permalink: /:collection/:path/
 
 
 
@@ -294,3 +294,13 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _plants
+  - scope:
+      path: "_plants"
+      type: plants
+    values:
+      layout: single-xml
+      author_profile: false
+      share: true
+      sidebar:
+        nav: "chapters"      
