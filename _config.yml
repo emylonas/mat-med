@@ -303,4 +303,4 @@ defaults:
       author_profile: false
       share: true
       sidebar:
-        nav: "chapters"      
+        nav: "plants"      
