@@ -2,10 +2,14 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: Maps
+  #   url: /maps/
   - title: Plants
     url: /plants/
+  # - title: Apothecaries
+  #   url: /apothecaries/
   # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #   url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
