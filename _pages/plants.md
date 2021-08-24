@@ -3,6 +3,9 @@ title: Plants
 layout: collection
 permalink: /plants/
 collection: plants
-entries_layout: grid
+layout: single
 classes: wide
+sidebar:
+  nav: "plants" 
 ---
+{{page.index}}
