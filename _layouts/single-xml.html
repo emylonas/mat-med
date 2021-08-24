@@ -42,7 +42,17 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+        <script>
+              var CETEIcean = new CETEI();
+              CETEIcean.getHTML5('{{page:plant-xml}}', function(data) {
+                document.getElementById("TEI").innerHTML = "";
+                document.getElementById("TEI").appendChild(data);
+                CETEIcean.addStyle(document, data);
+              });</script>
+
+        <div id="TEI"></div>
         {{ content }}
+
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
