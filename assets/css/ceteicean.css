@@ -1,4 +1,79 @@
-/* 2020-02-11 EM editing gap CSS */
+/*
+    2020-02-11 EM editing gap CSS
+   2021-08-24 EM building Mat Med CSS on top of Epidoc class
+  */
+
+
+
+tei-div{
+  display: block;
+}
+
+/* Hide the whole header. */
+tei-TEIHeader {
+  display: none;
+}
+
+/* Styles the plant name, main header. */
+tei-div[type="plant"] > tei-head {
+  display: block;
+  font-weight: bold;
+  font-size: 1.5m;
+  margin-left: -3%;
+  margin-top: 2%;
+  color: red;}
+
+
+/* All other head elements */
+ tei-head {
+    display: block;
+    font-weight: bold;
+    font-size: 1.5m;
+    margin-left: -3%;
+    margin-top: 2%;
+  }
+
+tei-p {
+  display: block;
+}
+
+tei-foreign {
+  font-style: italic;
+}
+
+tei-note[type="editorial"] {
+  font-size: smaller;
+}
+
+tei-div[type="editorial-D"]::before {
+  content: "Editorial Notes: (ed)";
+  display: block;
+  font-weight: bold;
+  font-size: 1.5m;
+  margin-left: -3%;
+  margin-top: 2%;
+}
+
+tei-div[type="notes"]::before {
+  content: "Notes";
+  display: block;
+  font-weight: bold;
+  font-size: 1.5m;
+  margin-left: -3%;
+  margin-top: 2%;
+
+}
+
+tei-div[type="notes"] tei-note {
+  display: block;
+}
+
+tei-div[type="bibl"] tei-bibl {
+  display: list-item;
+}
+
+/* --------------- Epidoc styles below ------------- */
+
 
 tei-expan > tei-ex::before {
     content: "(";
@@ -380,19 +455,3 @@ tei-num {
   direction: ltr;
   text-align: left;
 }
-
-
-tei-div {
-  display: block;
-}
-
-tei-head {
-  display: block;
-  font-weight: bold;
-  font-size: 1.5m;
-  margin-left: -3%;
-  margin-top: 2%}
-
-  tei-TEIHeader {
-    display: none;
-  }

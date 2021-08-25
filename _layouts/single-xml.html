@@ -43,11 +43,16 @@ layout: default
           </aside>
         {% endif %}
         <script>
-              var CETEIcean = new CETEI();
-              CETEIcean.getHTML5('{{page:plant-xml}}', function(data) {
+              var r = new CETEI();
+              r.addBehaviors({"tei":{
+                "persName": ["<b>","</b>"]
+              }
+            });
+              r.getHTML5('{{page:plant-xml}}', function(data) {
                 document.getElementById("TEI").innerHTML = "";
                 document.getElementById("TEI").appendChild(data);
-                CETEIcean.addStyle(document, data);
+                r.addStyle(document, data);
+
               });</script>
 
         <div id="TEI"></div>
