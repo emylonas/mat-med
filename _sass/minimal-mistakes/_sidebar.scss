@@ -351,3 +351,14 @@
   }
 }
 
+/*Cody edits*/
+/* Hide scrollbar for Chrome, Safari and Opera */
+.sidebar.sticky::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.sidebar.sticky {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
