@@ -1,6 +1,6 @@
 ---
 title: "Libro Azzurro"
-layout: single"
+layout: single
 ---
 
 Libro Azzurro"
