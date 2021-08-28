@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-119">
+        <head>N. 119 RAMNO DAL FOLICOLO</head>
+        <ab>[Paliurus Spina-Christi Mill.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Rhamno da Greci Persephonion, Leucacantha da altri Spinam albam il primo da Romani et
+            da Marzello Atadin da Aphri Tausis et Ausegum da Arabi Maruche da volgari Spin santo da
+            Ro- mani la prima spetie Spin de Christo in Abruzzio Paliuro primo da Theophrasto Spinam
+            ceruleam da Latini Scambrones da Spagnioli.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Tre spetie ne pone Diascoride, la prima con frondi lunghete picciole, tenere et
+            grassete. La seconda simil ma piu bianca dell'altro con foglie piu sottile [N. 118). La
+            terza piu nera et son questa in oppinione che sia il primo paliuro di Theophrasto.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> — In quantita a Costantinopoli. In Istria in boschi nelle ruine di Muglia (2) vechia
+            in quantita a Isola (3). Et per l'Italia in luoghi humidi et secchi.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>M. <persName ref="#Anguillara">Alv. Anguillara</persName> k. 52 dubita non sia stato adiunto in Diascoride la terza spetie. Et
+            Theophrasto ne parla de doi et dice che li Rhamni stano sempre verdi. Et li paliuri no.
+            Et questo Rhamno 3º son il primo paliuro di Theophrasto et di Diascoride, ma il Mattiolo
+            li confondono con raggioni suoe queste oppinioni.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita e fruttifera disegnata con molta negligenza, trovandovisi foglie
+            penninervie con una unica nervatura longitudinale e portanti alla base una sola spina
+            diritta di lunghezza esagerata e talvolta anche ramosa. Due figure laterali, una di ramo
+            forito colle foglie fatte in simil modo, l'altro di ramo fruttifero le cui foglie hanno
+            i tre nervi longitudinali, ma sono estipolate. Notiamo pel contrasto la precisione
+            dell'An- guillara : « le qual spine son sempre à due à due ma una è diritta et l'altra à
+            modo di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="86"/> uncino e per
+            lo più la diritta è posta sopra l'altra a guisa di arpione ». Anche la figura di
+            Mattioli fa bene spiccare i caratteri foliari).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-119N2" n="2"> Muggia.</note>
+          <note xml:id="A-119N3" n="3"> Isola d'Istria. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

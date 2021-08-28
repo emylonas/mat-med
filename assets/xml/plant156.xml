@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-156">
+        <head>N. 156 CIPRUS</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Ciprus albero da Plinio Et Cypero.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> De Cypero son anche in Herba. Legi nel lib. giallo a k. 84 et k. 63.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoa radice legnosa et profundasi, son albero di mediocre statura et ramoso, suoe
+            frondi di similitudine de zizoler (1). Suoi fiori non li ho veduti. Suoi semi piccoli,
+            rotondi odorifferi, et bianchi, simil di forma a coriandri.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Son albero di Egypto dunde hebbi de semi et mi naque, ne sonno in Canapo (2) nella
+            rippa del Nillo et son il migliore, in Ascalone cita nella Giudea et in Cypri.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Penso che se re verdeggia ma mi manco.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> Sole et humido.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> De suoi semi ci nasce.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Molti si credono che il Cipro Albero sia il volg. Ligustro, come il Corollario del
+            Barbaro et anche lo stesso Plinio acena di dubito come l'<persName ref="#Anguillara">Anguilara</persName> prudente ci manifesta
+            nelli suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 59, non esser il Ligustro el Cypero.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta sterile].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-156N1" n="1"> Ziryphus.</note>
+          <note xml:id="A-156N2" n="2"> Canopo pr., Abukir,</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

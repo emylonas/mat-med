@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-146">
+        <head>N. 146 ASPALATO</head>
+        <ab>(Genista aspalathoides Lam.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Aspalathus, Erysisceptron da Greci Sphagnion, Phasganon da altri Dyaxylon da Syri.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Due spetie ne pone Diascoride, uno con la cortice rubea odo- riffero, l'altro bianco
+            sanza odore.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In Istro, Nysiro, Syria et a Rhodi dunde io hebbi una mo stra di questo.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Sempre verdeggia mi fu deto.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> De suoi germini si possono trasportare, et credo di semi ancora ma pero non li ho
+            veduti.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONE</head>
+          <p> Questa son la oppinione del <persName ref="#Anguillara">Anguillara</persName> narrata da lui a k. 36 per raporto de M.
+            Costantin Rhodioto speziale dignissimo in Candia degno di fede, qual mi mando la mostra
+            di esso per il Magnifico sig. Gabriel Valaresso al tempo che Suoa Magnificencia era
+            consiglier in Candia (1). Altri pensorno che il Sandalo rosso sia l'Aspalato, ma
+            Serapione lo chia- risse. Altri se inganano tenendo il legittimo Aloe per il deto
+            Aspalato.</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI</head>
+          <p>Di meglio di questo per l'Aspalato io non ho gia veduto abenche de molte mostre si
+            vanno dimostrando.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[L'Anguillara riteneva dapprima che l'aspalato fosse l'incenso, ma rettifico l'opi-
+            nione dopochè il Rodiotto (2) qui nominato gli mando la descrizione della pianta pre-
+              <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="102"/> sente che è
+            riportata nei • Semplici &gt; Lo stesso Rodiotto mandò al Michiel un campione che perd
+            giunse secco, come lo dimostra la figura del presente codice nella quale i fiori son ben
+            poco distinti. Essa è la prima conosciuta, precedendo quella del Pona [204]).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-146N1" n="1"> Dal 16 Giugno 1550 al 15 Febbraio 1553.</note>
+          <note xml:id="A-146N2" n="2"> Non Roberto come lo chiama lo Sprengel.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

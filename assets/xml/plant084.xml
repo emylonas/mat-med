@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-084">
+        <head>N. 84 TRAGIO</head>
+        <ab>[Hypericum hircinum L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Tragio da Diascoride.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Due spetie ne pone Diascoride, questo et uno di herba scrito nel altro libro (1) k.
+            71.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Solamente nasce in Candia dice Diascoride et nel Peloponeso.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Plinio lo confunde hora tolendo la forma da uno autore hora da uno altro, facendolo
+            hora con frondi di Therebinto et hora di Ginepro.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Plinio al lib. 13 cap. 21 parla del tragio frutice che fu identificato colla specie
+            presente, al lib. 28 cap. 13 parla invece dell'erba tragio che si ritiene l'odierna sp.
+            Pim- pinclla Tragium le cui foglie superiori hanno segmenti lineari.</p>
+          <p>La presente figura è di pianta fiorita e precede quella data dal Pona.</p>
+          <p>Pegli altri iperici figurati nel Codice V. Ro. I, 236).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-084N1" n="1"> Giallo </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+

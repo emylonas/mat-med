@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-134">
+        <head>N. 134 SMILAX LEVIS DI CANDIA</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Smilax levis sp. di Candia da volg. Malocociso de Damocrito Volubile da Catone Smilace
+            lissia dal Matthiolo Dolichi da Galeno Vvindenkraut (1) Glate vvinden (2) Vueisz glocken
+            da Germani Des pha- seoles da Galli Jeblech da Arabi Cussus da Greci.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Varij sono li smilaci come da drieto appare k. 133.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Di Candia l'hebbi et mi naque.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>L'<persName ref="#Anguillara">Anguillara</persName> k. 290 dice che si fallano quelli che tengono che il Convolvolo sia la
+            similace lieve perché il fruto suo non son simil al lupino et si perde (3) ogni anno, ne
+            non fa l'effetto che narra Diascoride, ne non ha veduto lui piante che si convenga alla
+            descretione delli antiqui, ne meno quella spetie di fasuol turchesco maculato, ne anche
+            quello di Napoli bianco, ne quello volgar da Lio (4), ne quello fior di note demostro k.
+            11. Et k. 92 dice che il Malocociso de Damocrito son il Volubile di Catone et lo smilace
+            lissia del Mathiolo.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta sterile.</p>
+          <p>Però nella diagnosi c'è la descrizione degli organi riproduttivi: «suoi fiori tra le
+            frondi pendenti come in grappolini da quelli ci restavano suoe silique con suoi fagiuoli
+            dentro neri con il segno bianco».</p>
+          <p>Il Michiel mandò un campione di questa pianta all'Aldrovandi perché ne facesse parte al
+            <persName ref="#Ghini">Ghini</persName>, come risultò dalla poscritta alla lettera 14 Settembre 1553 ove la pianta ( <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="95"/> è chiamata «Similax
+            levis produce il seme come un fasuol ma nero. Notisi che nel vol. VII dell'Erbario
+            Aldrovandi, c. 97 e 142 c'è una Smilax levis ex Crela». Nella lettera 14 ottobre 1553
+            il Michiel scrive all'Aldrovandi: «V. S. mi richiede per le sue un rampollo del Smilax
+            levis et così la obedisco di quello io ho perché veramente in queste temperie piui
+            frigide per molti governi et carezze ch'io li habbi usato mai mi ha passato questo
+            termine ne più oltre non ho veduto, anzi ma (mai) più mi ha fatto il grappolo di fiori
+            se non sto anno come vedrà V. S. et le molti anni che ogni volta semino di maniere che
+            l'hard perso, per non havere più semi, come molte piante mi fa il medesimo et il medemo
+            a punto mi ha fatto il fen greco moderno (Ro. 199). Et V. S. sapia che la produce suoi
+            fiori in grappoli tra le frondi sopra el fruto et son simili a quelli di genista et di
+            colore anchora et le silique mai le ho possuto havere che li fiori dimostrano et poi ci
+            cascano et per esser tutti oramai cascati non ne mandò»]</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-134N1" n="1"> Windenkraut.</note>
+          <note xml:id="A-134N2" n="2"> Glattwinden.</note>
+          <note xml:id="A-134N3" n="3"> Perde i rami.</note>
+          <note xml:id="A-134N4" n="4"> Lido di Venezia.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+

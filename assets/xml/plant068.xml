@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-068">
+        <head>N. 68 QUAHUXILOTS</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Quahuxilots es fruta come pepero e comese corido (3) o asado da Indiani overo da
+            Spagnioli.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoe radici grosse et profunde. Son albero grande et grosso di colore variato, suoe
+            frondi per el piu vengono come l'Anagiro ma maggiori. Suoi fruti paiono Cucumeri ma piu
+            oblonghi di colore che nel verde gialegia, suoi fiori che doveva dir prima in lunghe
+            campanele di color verdeci et den- tro azuri.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p>Del India come deto nelli altri (N. 1). </p>
+        </div>
+        <div type="editorial-D">
+          <p>(Pianta fiorita e fruttifera con intorno insetti volanti. Nel Recchi è descritta (non
+            figurata – I, p. 90) col nome Quauhxilotl seu Arbor Cucumeris moschati: solo i fiori son
+            detti «candicanti » (4)).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-068N3" n="3"> Corido dev'essere trascrizione errata di cocido ». (Ed.).</note>
+          <note xml:id="A-068N4" n="4"> • È notevole, in quasi tutta questa descrizione, la coincidenza con la figura
+            del Codice ancbe nei particolari ; inoltre l' accenno al frutto crudo coclovo predulci a
+            conferma anche l' indicazione (Noni) comese cocido o asado». (Ed.). 7</note>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="50"/>
+      </div>
+    </body>
+  </text>
+</TEI>

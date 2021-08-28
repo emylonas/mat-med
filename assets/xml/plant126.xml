@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-126">
+        <head>N. 126 TITHIMALO DENDROIDE</head>
+        <ab>[Euphorbia dendroides L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Thytimalus dendroides et petreo da Latini - Leptophyllon et Pterophytes da Greci -
+            Tithymalo albero da volgari</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Varie sonno le spetie delli Tithimali come nelli altri libri vedrete.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nasse ne mine et tra sassi, ne son a Corphu dunde io ne hebbi, nelle maremme di
+            Nappoli de Reame (3), in Toscana et per la Liguria tra Nizza et Savona, et nel contorno
+            di Marsiglia.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Quasi sempre mantien suoe frondi. Li fruti di Giugno et Luglio con il seme poi.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Il Dodonei penso non l'habbi veduto alla demostracione che lui fa.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Servonsi nel medesimo modo il suo seme che gli altri et sonno delle medesime virtu
+            anche come si legge nel primo libro rosso k. 177 et il platifilo de larghe foglie per
+            esser volgare non lo figurai et legesi nel dito libro.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fertile; a parte un rametto fiorito e fruttifero. Le località di Toscana, Liguria e Marsiglia son prese dall'<persName ref="#Anguillara">Anguillara</persName> che vi rinvenne la pianta. Ma siccome oggidi
+            
+            (1) Il <persName ref="#Bonato">Bonato</persName> trascrisse erroneamente Saruma. 
+            (2) * È, inoltre, in contraddizione con
+            l'habitat e con lo stesso nome Jaruma, cho corrisponderebbero alla Cocropia peltata i
+            perché la forma delle foglie nettamente «palmate», se esatta, sarebbe caratteristica
+            della C. palmata, propria non delle Antille ma del continente. (Ed.). 
+            
+            <fw type="running-head" place="top">LIBRO
+            
+            AZZURRO</fw><pb n="90"/> essa non abita presso Marsiglia, si dubito da alcuno se il
+            Titimalo petreo di Anguillara fosse questa specie. Il Legré osserva che l'Anguillara è
+            testimonio degno di fede, che tuttora la specie vive presso Tolone e che può essere
+            scomparsa dal luogo indicato dall'Anguillara perché i «dintomi di allora furono occupati
+            da caseggiato in causa del continuo estendersi della città». La figura del Michiel viene
+            opportuna a confermare tali deduzioni e togliere ogni dubbio sulla sinonimia (*). Che la
+            figura del Dodoneo non sia tratta dall'originale può constatarsi dalle parole scritte
+            sotto (93): * «Tithymalus dendroides ex Codice caesareo» e la stessa descrizione è
+            presa dal <persName ref="#Belonio">Belonio</persName> e dà dimensioni esagerate alla pianta (2)].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-126N3" n="3"> La nostra Napoli era cosi chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
+            Grecia) che formó parte del dominii veneti. Ia località è presa dal Mattioli che vide la
+            pianta nelle maremme, poco dopo oltrepassato il confine tra lo Stato Pontificio ed il
+            Regno di Napoli, partendo da Terracina.</note>
+          <note xml:id="A-126N1" n="1"> Gasp. Bauhin che chiama la specie Tithymalus myrtifolius arboreus vi aggiunge
+            nella sinonimia: an Tithymalus petraeus Anguillarae?</note>
+          <note xml:id="A-126N2" n="2"> Si dubitò se la specie presente fosse il titimalo petreo di Anguillara perché
+            questo autore la dice «alta come un huomo che sia ben grande», dandole una statura cui
+            essa può eccezionalmente giungere. Il Dodoneo così ne parla: «Bellonius vero ad
+            duorum hominum altitudinem crescere et caudicem habere crassitudine cruris humani
+            memoriae prodidit» .. La pianta è conservata nell'Erbario Aldrovandi, Vol. II, 185.
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-104">
+        <head>N. 104 TEREBINTO</head>
+        <ab>[Pistacia Terebinthus L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Therebintum et Albotin da Greci Botin da Arabi Arbor grani viridis da Latini Scalegnia
+            Trinonte (3) in Abruzzio Corno Capra in Romagnia (4) Lentisco sul Padovano.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Vi sonno il maschio che non fa fruto et la femina si che (s) ne sonno de due specie.
+            Una produce il fruto rosso che rasembrano a lentec- chie, l'altra il produce verde, et
+            nel maturarsi rosso et doppo nero di gran- dezza di fava et sono uno grande et l'altro
+            piccolo et storto.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p>Suoe radice dure et proffunde, son albero mediocre con legno <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="75"/> arendevole et il scorzio raggioso et in
+            solpharato, suoe frondi a due a due et in fin una nel ordine del sorbo et simil al lauro
+            ma piui larghete, con al- quanto constrettivo sapore. Suoi fioreti pendenti in
+            grappolini rossi come l'olivo. Suoi fruti piccoli et tenaci rotondi et lustri, et
+            vengono poi certe ve- siche grosse uno dito et lunghete che entro ci sonno uno raggioso
+            liquore con certi picol animaleti che rasembrano a zanzale, ma de qui non produ- cono
+            suoe raggie, le quali sonno trate dal tronco del albero. Suoe vesiche a noce ma meno
+            grosse et lunghe. Et de piui producono anchora uno rotondo fruto tercio simil a nocelle.
+            Et suoe frondi alcuni le mangiano.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In Syria grandi e neri. Nel Monte Ida di Trogia (1). In Ma- cedonia ma picciol. In
+            Damasco sonno grandi. Nel Monte di Castel trento. Nel Monte Baldo. Et io ne ho custodito
+            uno di Cypri. Ne sonno in Schiavonia, in Toscana et in Abruzzio.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Come altri autori, il Michiel ritenne che le galle fossero frutti e perciò ne distin-
+            gue tre specie, di cui la prima è il vero frutto. </p>
+          <p>La figura rappresenta un prato in mezzo al quale sorge l'intera pianta con foglie e
+            pannocchie portanti drupe miste a galle sferiche gialle (frutto terzo dell'A).</p>
+          <p>È pur dipinto un uomo che sta estraendo dal tronco la resina ed attaccata al fusto c'è
+            una lista col motto : « Per compiacere lagrimo, allusivo alle proprietà mediche del-
+            l'estratto. A destra un ramo con foglie, pannocchia di frutti e galle (rutto terzo
+            sopra- nominato). A sinistra una foglia colla galla descritta nel testo come vescica a
+            noce (2) perché esternamente bruna e solcata longitudinalmente, ben riconoscibile per
+            quella prodotta dagl' insetti afidini del genere Pemphigus che l'autore per la
+            piccolezza del corpo e la trasparenza delle ale paragond a zanzare.</p>
+          <p>La figura dell'albero è difettosa.; migliori son quelle ai lati.</p>
+          <p>Del terebinto trovasi campione nell'Erbario Aldrovandi, Vol. II, 99].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-104N3" n="3"> L'Anguillara scrisse : Chjamasi il Terebintho in Abruzzio nel Contado di
+            Rocca Scale- gna Trivente voce alquanto corrotta da Terebintho .. Il Michiel credette.
+            che il villaggio abruzzese si chiamasse puramente Rocca e trascrisse Scalegna Trivento
+            come nome della pianta, corrompendo ulteriormente Trivents in Trinonte.</note>
+          <note xml:id="A-104N4" n="4"> A Roma.</note>
+          <note xml:id="A-104N5" n="5"> Si, della qual femmina.</note>
+          <note xml:id="A-104N1" n="1"> Odierno Kaz-dagh.</note>
+          <note xml:id="A-104N2" n="2"> La galla fu paragonata ad una noco perché non aveva ancora raggiunto il suo
+            completo sviluppo. Nel numero seguente, avendo avuto notizia della forma di una galla
+            matura, la para- gona ad un baccello. Pena e Lobelio (180) figurarono il terebinto colla
+            galla (folliculus) donde escono gli insetti (volucellas sive culices). </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

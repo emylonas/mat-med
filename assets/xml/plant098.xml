@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-098">
+        <head>N. 98 OLEANDRO</head>
+        <ab>[Nerium Oleander L.].</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Leandro da volgari Nerion et Rododendrum da Greci Oleander da Latini Nereo da Arabi –
+            Olander da Germani Resage da Galli Rorandrum da Romani Jemanem da Lucani Scyphen da
+            Egyptij Rhododaphnen da Punici Adespha da Arabi.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Di questi ne son che produce il fiore bianco et che lo pro- duce purpureo el qual
+            sonno fluviali et de il bianco ne son in piui rarita. L'altra specie dimandata silvestre
+            con foglia di Portulaca et strete con il suo tirso sopra alla terra sparsi et lunghi et
+            apresso le foglie vi sonno spine et nasce nelle case ruinate.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In luoghi ameni acquosi, et nelle maremme, alle rippe del Lago di Garda et nelle
+            maremme di Siena. In Candia ancora et de il bianco dunde io l'hebbi dal Ramusio et de
+            una pianta io ho impito (1) tutti li giar- dini de Italia.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p>De suoe propagine, de suoi rami et de semi bene inve-<fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="70"/> chiati sopra all'albero fino che la siliqua
+            si fende et poi seminarli. Et son di tanta natura che posta una rama in acqua manda
+            radice. dunde poi puolsi piantare.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Suoe frondi et fiori sono veneno mortifero alli quadrupedi. Et in Ponto' le pecchie
+            mangiasi de suoi fiori et il melle loro sonno avene- nato che fanno impazzire. Et agli
+            huomeni sonno rimedio contra li morsi de serpi. Et diconsi che dormendosi alla suoa
+            umbra si scoreno pericolo di vita...</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Benché l'Autore distingua, come due specie, le due varietà a fior bianco e purpureo,
+            per economia di spazio l'artista dipinse un solo arboscello con due rami a fiori
+            purpurei ed uno a fiori bianchi sorgente in un prato sul quale giace un frutto staccato.
+            Tre figure indicano le virtù di cui sopra è fatta parola. La prima presso il frutto
+            rappre- senta un uomo nudo disteso a terra colla testa appoggiata ad una lapide dove sta
+            scritto: «Il sonno spinto da sua vageza (2) mi feze (3) privo di cosi lieta vita ». La
+            se- conda rappresenta un cane assopito a piedi della pianta. La terza fatta in
+            inchiostro e limitata ai contorni rappresenta due serpenti.</p>
+          <p>Il primo leandro conosciuto dagli Europei fu quello a fiore purpureo, donde i nomi
+            rhododendron, rhododaphne di origine greca ed il nome francese laurier-rose ; è ricor-
+            dato nell'episodio dell'Asino d’Apuleio e trovasi figurato con poca esattezza nel Codice
+            Rinio a c. 408. La varietà a fior bianco era ignota in Italia e, come si apprende dal
+            testo, fu diffusa dal Michiel in modo da essere divenuta comune pei giardini (4). Pochi
+            anni dopo la compilazione di questo libro (nel 1570) il Pena (180) così parlava del
+            leandro: «Flores quos interdum rubellos, interdum albos memini tum in hortis
+            italicis, tum in maritimis » e la Historia Lugdunensis : «Nerium aliquot pinxit Lobelius
+            Alore albo quale se vidisse ait Pena tum in hortis italicis, tum in maritimis.
+            Dall'<persName ref="#Anguillara">Anguillara</persName> abbiamo la testimonianza che dieci anni prima il leandro a fior bianco
+            era per opera del Michiel divenuto comune nella nostra Penisola. Ecco le parole
+            dell'insigne bota- nico a pag. 82 (17): «Enne di quello che fa il fiore bianco ma in
+            tutto il resto poi sono simili. l'un e l'altro si ponno vedere nel vaghissimo giardino
+            del clarissimo messer Pier'Antonio Michiele nobile vinitiano in Vinegia a San Trovaso »
+            (Parere 11 Marzo 1560) ed a pag. 274 : • Enne di due maniere : uno che fa il fiore
+            bianco et l'altro roseo. Nascono spontaneamente ambedui in Candia per gli fiumi ma sono
+            notissimi anco in Italia et chiamansi da alcuni Nandro et ancora Oleandro » (Parere 20
+            Maggio 1560).</p>
+          <p>Avendo ben conosciuta la pianta, il Michiel ne diede una figura migliore che il
+            Mattioli (ed. 1560) (5) che la rappresentd colle foglie opposte od alterne e coi fiori
+            soli- tari terminali ed ascellari. Lo Chabray criticò la figura del Mattioli, ma ne fece
+            una peggiore e per giunta senza fiori, benchè dicesse di aver veduto la pianta coltivata
+            a Padova, Venezia e Mompellieri.</p>
+          <p>La figura presente ha foglie ora alterne, ora verticillate e fiori in cima tricotoma
+            conforme a realtà).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-098N1" n="1"> Empito.</note>
+          <note xml:id="A-098N2" n="2"> Vaghezza.</note>
+          <note xml:id="A-098N3" n="3"> Fece.</note>
+          <note xml:id="A-098N4" n="4"> Nell'Erbario Aldrovandi, Vol. II, 37 v'è il leandro a fior rosso e nel Vol.
+            VII, 41 quello a fior bianco.</note>
+          <note xml:id="A-098N5" n="5"> Nella posteriore edizione del 1568 il Mattioli diede una buona figura nella
+            quale le foglie sono ben disegnate ed i fiori ben collocati, però nel presente codice si
+            scorge meglio la disposizione tricotoma.</note>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="71"/>
+      </div>
+    </body>
+  </text>
+</TEI>

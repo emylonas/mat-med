@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-015">
+        <head>N. 15 CHIEREGINI</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000587875">[<hi>Cardiospermum Halicacabum L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Halicacabo pelegrin da Latini Chiereghini et Fratonzelli da volgari - Chairella a Napoli -
+            Concordia a Bressa - Vesicaria nigra seu peregrina dal Trago - Vvelsch Schluten da
+            Germani.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Varie sonno le spezie di Halicacabi, questo, la Physalida commune qual produce le
+            vesiche rosse con il fruto dentro rosso manifesto a speciali (<ptr target="#A-015N1"/>) una altra specie di
+            Halicacabo sonnifero con questo nome (<ptr target="#A-015N2"/>).</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoi fiori sonno bianchi piccolini da quali ci viene suoe verdi vesiche simil
+            all'uoigare Halicacabo che dentro portano suoi rotondi semi dui over 3 per vesicha Deri
+            signiati come da uno bianco cuore overo meza chierica di prete dunde a preso il
+            nome.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Io non saprei dire suo originale ma per Italia nelle fenestre et giardini non ci
+            mancano.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> De suoi semi seminati fata la luna di febraro ci nasce.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Per esserli depinto il cuore nel mezo d'il seme molti si credono che la sia valorosa
+            in amore.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Io per me crederei che il bolo de uno cuore scolpito che ci sonno nel suo seme non
+            vogli manifestare altro che valore et util forza si contenga a rimedii del cuore,
+            manifestandolo con questo esquisito segnio la natura.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita e fruttifera, figura abbastanza buona. Qui si fa strada la teoria delle
+            signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="http://thesaurus.cerl.org/record/cnp01881034">G.B. Porta</persName> ove accanto
+            alle figure espresse dalle piante ci sono quelle degli organi umani contro le cui
+            malattie doveva semplice usarsi. Riguardo alla presente specie troviamo la medesima
+            credenza nel <persName ref="#Mattioli">Mattioli</persName>].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-015N1" n="1"> Physalis Alkekengi.</note>
+          <note xml:id="A-015N2" n="2"> Physalis somnifera v. <ref target="#V-063">libro verde N. 63</ref>.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

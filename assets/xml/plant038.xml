@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-038">
+        <head>N. 38 PEZZO</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000482527">[<hi>Picea excelsa Lk.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Pezzo da volgari.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Il pezzo et il pino sonno una medema spezie. Et le spezie che fanno raggia sonno 8
+            come narra Theophrasto [N. 9].</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne monti fredi de Italia ne sonno in quantità dunde si fanno tanti legniami et
+            tavole.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> È da credere che tutte queste spezie ci nascano de suoi cascati fruti.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> L'ecc. <persName ref="#Anguillara">Anguillara</persName> k. 42 di 8 spezie di Alberi resiniferi raggiona.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[L'albero fruttifero sorge in mezzo ad una prateria con figure umane, agarici e
+            chiocciole. È mal disegnato, ma invece è buona una figura a parte di ramoscello con una
+            bella pigna.</p>
+          <p>Il <persName ref="#Rinio">Rinio</persName> a c. 203 chiama questa specie abete, mentre pel Michiel l'abete è <hi>Abies alba</hi> a
+            <ref type="internal" target="#A-036">N. 36</ref>. Oggidì ambedue le specie chiamansi abeti e nel Veneto l'abete p.d. (albéo) è la
+            specie presente, l'altra chiamansi <hi>avedin</hi>, nome notato dal Michiel a [<ref type="internal" target="#A-036">N. 36</ref>].</p>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="33"/>
+      </div>
+          </body>
+  </text>
+</TEI>

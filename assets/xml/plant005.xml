@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-005">
+        <head>N. 5 ATRAGENE</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000610926">[<hi>Clematis Vitalba L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Atragena Theophrasti - Vitison da volgari.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Questa son simil alla vite bianca volgare descrita inanti <ref type="internal" target="#A-007">k. 7</ref> ma questo son maggiore
+            assa[i] (<ptr target="#A-005N1"/>).</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne sonno tenute ne giardini per intesser loggie et pergolate.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> L'Ecc. M. <persName ref="#Anguillara">Alovise Anguillara</persName> protetore del copioso giardino de simplici della Ill.
+            Signoria nostra in Padova ne' suoi degni <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> a k. 301 dice non esser la Vite
+            silvestre. Et a k. 81 dice esser la Vite alba depinta dal Eccell. <persName ref="#Fuchs">Fuchsio</persName> per Vite nera.
+          </p>
+        </div>
+        <div type="editorial-D">
+          <p>[Figura di pianta sterile arrampicata attorno ad una tettoia sostenuta da due
+            colonne.</p>
+          <p> Trattandosi di pianta comune già figurata da altri e di un disegno e dipinto mediocre,
+            si sarebbe potuto omettere la trascrizione di questa pagina se essa non ci fornisse
+            buone indicazioni sulla storia del codice.</p>
+          <p>Nelle «Oppinioni» l'<persName ref="#Anguillara">Anguillara</persName> è qualificato «protettore del giardino de simplici» cioè
+            dell'Orto botanico di Padova ed è citata la sua opera sui Semplici, mentre alcune
+            pagine più in là (<ref type="internal" target="#A-041">N. 41, 42 ecc.</ref>) è citato come custode dell'Orto <persName ref="#Guilandino">Melchiorre Guilandino</persName>. 
+            Ora l'<persName ref="#Anguillara">Anguillara </persName>si dimise dalla carica nel 1561, anno in cui apparve alla luce
+            il suo libretto ed ebbe a successore il <persName ref="#Guilandino">Guilandino</persName>; dobbiamo dunque credere che prima di
+            quell'anno il patrizio veneto abbia incominciato a scrivere l'opera che è oggetto del
+            presente studio. Siccome altri documenti ci permettono di credere che essa sia stata
+            cominciata intorno al 1550, essa sarebbe stata proseguita con interruzioni (<ptr target="#A-005N2"/>), per
+            circa venticinque anni (<ptr target="#A-005N3"/>).</p>
+          <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+          <pb n="15"/>
+          <p>Le particolarità scritte nel testo sull'Anguillara e sulla sua opera ci danno anche una
+            prova di più essere questo libro Azzurro il primo della serie, non già l'ultimo come
+            ritenne il <persName ref="#Marsili">Marsili</persName> quale, non sappiamo dietro quali indizi, ordinò l'opera cominciando
+            col primo libro rosso, cui fece seguire il secondo rosso, il verde, il giallo,
+            l'azzurro. Già nella prefazione abbiamo veduto il vero ordine che diede al suo codice il
+            Michiel; qui soggiungiamo che nel primo libro rosso le citazioni dell'<persName ref="#Anguillara">Anguillara</persName> sono
+            fatte, come si vedrà, in modo sommario: «L'Anguillara a k. ...» o «L'Anguillara k. ...» e
+            così negli altri libri ed in questo stesso libro nelle pagine seguenti. Ne risulta
+            evidente che le prime pagine del lavoro sono queste in cui la citazione è integrale.</p>
+          <p> Nella introduzione si parlò di una copia del libro dei «Semplici», di <persName ref="#Anguillara">Anguillara</persName> con
+            annotazioni manoscritte del <persName ref="#Guilandino">Guilandino</persName> esistente alla Biblioteca Marciana. Alla pag. 301
+            citata anche dal Michiel si trovano le seguenti parole: «Ma, se l'Atragene havesse i
+            suoi frutti in racemi, come vuole Dioscoride, direi per le altre note rispondenti che
+            fosse la vite salvatica». Il <persName ref="#Guilandino">Guilandino</persName> sottosegnò le parole fra «Ma» e «Dioscoride» e
+            scrisse in margine: «Falsum est Atragenam esse vitem sylvestrem Dioscoridis, vide in
+            Miscellaneis in dictione Vitis sylvestris». Il <persName ref="#Guilandino">Guilandino</persName>, nella sua mania di
+            malignare, non comprese bene il detto dell'Anguillara, come lo comprese il Michiel.
+            L'<persName ref="#Anguillara">Anguillara</persName> dice che l' atragene dei Greci sarebbe la vite silvatica, se non fosse il
+            carattere dei frutti in racemi, quindi nega, non afferma, l'identità e d'altronde a pag.
+            81 identifica giustamente la vitalba colla vitis nigra del <persName ref="#Fuchs">Fuchs</persName>. Il <persName ref="#Guilandino">Guilandino</persName> credette
+            che l'<persName ref="#Anguillara">Anguillara</persName> identificasse l'atragene colla vite selvatica (<foreign xml:lang="grc">ἄμπελος αγρία</foreign>) di
+            Dioscoride (<ptr target="#A-005N4"/>)].</p>
+          <p>Il nome vernacolo <hi>vidisòn</hi> è tuttora vivo nel Veneto <ref type="bibl" target="http://id.sbn.it/bid/VIA0075631">[297]</ref></p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-005N1" n="1">* Assai. (Ed.).</note>
+          <note xml:id="A-005N2" n="2"> V. prefazione al libro giallo.</note>
+          <note xml:id="A-005N3" n="3"> Il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> ritiene che i libri sieno stati scritti nella prima metà
+            del secolo. Nessuna prova potemmo trovare nel codice di quest'asserzione, a meno che
+            non si ritenga tale l'indicazione della località di una pianta (<ref target="#R1-055">Ro. I, 55</ref>) «in pie' de
+            monti d'Austria a Tubinge». La città di Tubinga nel Württemberg appartenne all'Austria
+            dal 1520 al 1534, poi passò all'Impero romano-germanico, pero può darsi che il Michiel
+            continuasse a chiamarla austriaca anche dopo tale cambiamento, sia perché lo ignorasse,
+            sia perché l'imperatore di Germania era Carlo V di Casa d'Austria. Buona prova
+            dell'essere stato il codice cominciato ben prima del 1561, anzi intorno al 1550, abbiamo
+            delle lettere scritte dal Michiel all'<persName ref="#Aldrovandi">Aldrovandi</persName> che, a cura di uno studioso, saranno
+            presto pubblicate. In una di esse del 14 ottobre 1553 il Michiel parla del suo giardino
+            che «semper viret depinto» che è evidentemente questo codice, in un'altra del 10 aprile
+            1554 parla del lavoro che fa il pittore per dipingergli le piante. Queste lettere fanno
+            parte dei Ms. Aldrovandiani alla Biblioteca di Bologna, al N. 38. Tomo I, c. 175 e
+            176.</note>
+          <note xml:id="A-005N4" n="4">* I confronti, a pag. 301 dei Semplici, sono due. Oltre alle considerazioni,
+            qui messe in evidenza, per cui esclude l'identità fra atragene (vitalba) e vite
+            selvatica, l'<persName ref="#Anguillara">Anguillara</persName> espone, categoricamente, il suo giudizio negativo sull'identità
+            di <foreign xml:lang="grc">ἄμπελος ἀγρὶα</foreign>(vite selvatica) di Dioscoride con <hi>Amara dulcis</hi> (v. più avanti al <ref type="internal" target="#A-124">N.
+              124</ref>), alla quale invece, dandone una buona figura presa evidentemente dal vero,
+            l'aveva ravvicinata, per quanto dubitativamente, il <persName ref="#Mattioli">Mattioli</persName>. (Ed.).</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

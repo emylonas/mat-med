@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-093">
+        <head>N. 93 QUAYAUTL COLORADO</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Quoayautl colorado da Indiani overo Spagnioli.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoe radici bianchezzie, legnose, et proffunde, son Albero grande di beretinazzia
+            scorzia con frondi di persico, suoi fruti grandi piui che susini di colore che il rosso
+            gialleggia in forma di mandole con il verde scorzio.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Da l'India come dechiarito inanti nelli altri [N. 1).</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> Di calmo (1) et de li suoi nuclei ma non si belli.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fruttifera con insetti volanti e posati).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-093N1" n="1"> Innesto. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

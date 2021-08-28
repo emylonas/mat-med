@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-025">
+        <head>N. 25 CENTUNCULO</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000489602">[<hi>Polygonum Convolvulus L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Centunculo da Plinio - Clematide sp. da molti Greci.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Varie sonno le spezie di Clematide come si lege in Plinio al luogho qui soto
+            prealegato (<ptr target="#A-025N1"/>).</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nasce ne argeni campi et giardini da per se per tutta <placeName ref="https://www.geonames.org/3174618/lombardia.html">Lombardia</placeName>.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> A primavera si vede et suoi semi di giugno.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Si tiene da molti esser questa una specie di Clematite. M. <persName ref="#Anguillara">Alovise Anguillara</persName> tiene
+            che questa sia il Centunculo ma Plinio non dice che el se invilupi come fa questo ma la
+            timologia (<ptr target="#A-025N2"/>) di Centunculo che vol dir scala fa che cosi si creda.</p>
+        </div>
+        <div type="editorial-D">
+          <p> [Nella diagnosi il Michiel dice che le foglie «somigliano al capir di una cappa da
+            huomo dunde l'eccell. <persName ref="#Anguillara">Anguilara</persName> si a mosso a credere per questo che la sia il <hi>Centunculo</hi>». Alla pag. 173 dei Semplici di Anguillara all'articolo Cenlanculo non è por-
+            tata questa ragione che forse fu detta a voce al Michiel.</p>
+          <p>La figura presente è mediocre e presenta i fiori in grappoletti terminali, però ha
+            interesse perché identifica una delle specie di Anguillara che dal solo nome sarebbe
+            irreconoscibile perché nessuna delle piante conosciute oggidì sotto i nomi <hi>contunculo</hi>,
+            <hi>centonchio</hi> è <hi>Polygonum Convolvulus</hi>, anzi esse appartengono tutte ad altre famiglie
+            (<ptr target="#A-025N3"/>)].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-025N1" n="1"> Lib. 24 C. 13.</note>
+          <note xml:id="A-025N2" n="2"> Etimologia.</note>
+          <note xml:id="A-025N3" n="3"> <hi>Stellaria media</hi> (cariofillee), <hi>Contunculus minimus</hi> ed <hi>Anagallis arvensis</hi>
+            (primulacee). Myosotis arvensis (borragince). </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

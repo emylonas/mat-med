@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-158">
+        <head>N. 158 ALBERO DE INDIA</head>
+        <div type="name">
+          <head>NOME</head>
+          <p> Albero d'India.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoe radice sparse legnose, son alberi di mediocre stature, et son simili a melegrani
+            nelle suoe foglie ancora strette et lunghete.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nella India ci ritrovano.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Stano sempre verdi per quello mi son stato deto da uno errante spagniolo degno di fede
+            qual mi diede la mostra.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> Luogho sciuto et calido.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Son tenuto per sp. di melogranati da cui li ha veduti, et inteligenti ci sonno.</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI</head>
+          <p> Per quel ho veduto io che son il legnio et la foglia, mi pare corisponder af deto
+            ingranato, non scio come sia il fruto et il resto.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> In questo albero li ucelli ne fanno nidi, Et la suoa scorza nel sapore son simil alla
+            canela, nell'amaro ha del Zenzaro. Et nel odore a ga- rofali, ma pero non è spetiaria
+            dice il lib. primo 51 dell'Indie.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta sterile].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

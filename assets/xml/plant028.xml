@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-028">
+        <head>N. 28 GIANDE</head>
+        <div type="editorial-D">
+          <p>[Tre buone figure rappresentanti ghiande di quercia prive di cupola. Manca il
+            testo].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

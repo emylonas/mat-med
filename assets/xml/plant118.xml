@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-118">
+        <head>N. 118 RAMNO BIANCO</head>
+        <ab>(Hippophaë rhamnoides L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Rhamno bianco secondo da volgari.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Tre spetie quivi ne dimostro. Et questa son piu bianca della prima et piu lunghe
+            foglie et sottille.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nasce nelli sieppi in Friuli et in Toscana in Schiavonia (1).</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Penso stia sempre verde, suoi fruti di Lugio.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> Humido, umbroso, et grasso terreno.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[II Michiel ne ricevette un campione fruttifero e perciò nella diagnosi non parla dei
+            fiori che non vide e pone una stazione che non è quella preferita dalla specie amante i
+            terreni ghiaiosi ed esposti.</p>
+          <p>Dalle parole aggiunte ben si comprende essere questo il «Rhamno secondo del-
+            l'<persName ref="#Anguillara">Anguillara</persName> il quale lo trovò sui muri vecchi fuori della porta di Zara ed in altri luo
+            ghi della Dalmazia ove si usava per far siepi].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-118N1" n="1"> Quest'ultima abitazione tolta dall'Anguillara, </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

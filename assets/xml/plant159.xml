@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-159">
+        <head>N. 159 PEPE</head>
+        <ab>[I. fittizia] [II. Xylopia aethiopica A. Rich.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Pepe, legi k. 73.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> In ditto. Et questa altra con sylique di Hetiopica.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoa radice pocha, suoi sarmenti che se invoglieno (1) come li volubili, ramosi come
+            viticelle, suoe frondi simil tra le mandole et il cedro, suoi pepi in racemi nel summo
+            de rami (I). Et del Hetyopico demostro pur da driedo (2) non vidi altro che uno mazzio
+            di silique simile a fasuoli de molte contenute da uno ramo, et credensi sia il nero di
+            Serapione (II).</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p>Leggi ut supra, ma questo io lo hebbi dal Ramusio et credo vene per quella istessa via
+            che hebbe anche l'Ecc. Mathioli (II).</p>
+        </div>
+
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="108"/>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Penso stia sempre verde, suoe frondi, li grappoli de Esta et maturati alle fin di
+            setembre (I).</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Se inganorno li antiqui della forma di la pianta. Come hora la nova navigatione ha
+            posto in luce. Et se inganano de molti che si credeno ch' il Zelin di Serrapione sia il
+            Carpesio, questa demostra suoe foglie non sonno come di Hedera come da molti della ditta
+            navigatione ho inteso essere ma bene se invoglieno comme questa [1]. Quello poi che
+            produce silique [II] son tenuto per il nero di Serrapione dunde dalla diversita de
+            raporti et deti si possono veramente comprendere essere diverse forme di piante che lo
+            pro- duce. Et io ne ho veduto di tre specie, questa commune delle spetiarie (I), una di
+            rotondo, liscio et maggiore qual l'hebbi dal Ramusio [II] et la terza mi naque da quella
+            pianta demostra a k. 73 tenuto per il salvatico.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Legi ut supra da driedo et leggesi in Thomaso Porchacchi alla isola di Taprobana (3) a
+            k. 96. Et l'fa ch el sia albero simil alla Hedera.</p>
+        </div>
+        <div type="editorial-D">
+          <p>(La prima figura è una copia di quella del Mattioli il quale però dichiara di non aver
+            visto la pianta nè verde nè secca, ma di avere ricevuto il disegno da un Porto- ghese
+            reduce dalle Indie.</p>
+          <p>La seconda figura rappresenta solo alcuni frutti e, come dice l'Autore, fu tratta da un
+            campione inviatogli dal Ramusio che avrebbe pur mandato il campione donde fu tratta la
+            figura del Mattioli.</p>
+          <p>Riguardo al pepe (Piper nigrum) il Michiel cortegge l'errore degli antichi i quali
+            credevano [201], seguiti in ciò da autori medievali (219) e contemporanei (126] che il
+            pepe fosse un albero a foglie di ginepro; però l'unica cognizione giusta da lui
+            sostituita è che il fusto è sarmentoso e rampicante. Nel resto egli pure erra, fidandosi
+            dei rap porti inesatti dei viaggiatori e della figura di Mattioli. Qualche anno dopo
+            apparve la figura mediocre, ma tratta dal vero, di C. Acosta [2] ). -</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-159N1" n="1"> Si avvolgono.</note>
+          <note xml:id="A-159N2" n="2"> Nella facciata retro.</note>
+          <note xml:id="A-159N3" n="3"> * Il Porcacchi specifica cho col nome di Taprobana indica Sumatra e pon
+            Ceylon; come del resto risulta dalla illustrazione cartografica. (Ed.). </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

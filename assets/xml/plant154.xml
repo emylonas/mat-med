@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-154">
+        <head>N. 154 TEMBUL TENUTO</head>
+        <div type="name">
+          <head>NOME</head>
+          <p> Tembul da Persiani Et li altri nomi 153.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Se questo ci fusse sarebbeno doi specie (1), l'altra da driedo k. 153 -</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoa radice ramosa et grossa. Son albero grande, suoe foglie piui grande del Lauro,
+            con tre nervi sotili per lungho, liscie et di chiaro verde.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Si portano a noi delle suoe foglie de Alessandria.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Credo che sempre si stia verde.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> Sole et paese calido.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> Penso che fazzi fruti con nuclei che di quelli ci nasca.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Hermolao, Ruelio, et dal Brasavola son tenuto per il Tembul de li Arabi sanza lasarsi
+            intendere la ragione et il perché. dunde io penso che queste foglie siano de Alberi
+            incogniti a noi.</p>
+        </div>
+        <div type="editorial-D">
+          <p>(Fu disegnata dapprima una foglia ingiallita (145 mm. X45) mm. e poi un albero col
+            tronco mozzo alto e con rami fogliosi. Ben distinte in tutte le foglie le tre ner-
+            vature longitudinali].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-154N1" n="1"> • Dal confronto dei due fogli 153 € 154, tenendo conto delle differenze di
+            scrittura che rive- lano aggiunte successive (nella trascrizione, in corsivo) pare che
+            il Michiel avesse prima seguito l'Anguillara ritenendo trattarsi di due specie distinte,
+            risp. d'India e di Persia, e si sia poi indotto ad attribuire alla 1 anche nomi e
+            località della 24, più che per seguire la citata opinione del Guilandino (?) che le
+            avrebbe identificate, per il dubbio, prudente, che si trattasse di foglie di • Alberi
+            incogniti a noi ». Potrebbe quindi darsi che avesse ricevuto foglie di Piper Belel o lo
+            Folia Malabalhri, ma mancano elementi per riconoscerle. (Ed.).</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

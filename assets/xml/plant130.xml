@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-130">
+        <head>N. 130 CEINER MELO</head>
+        <ab>[Cycas circinnalis L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Ceiner melo da Mesopotamiani et Antiocheni.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p>Suoa radice in superficie scura. Son albero non molto alto <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="92"/> di grosezza come huomo et il scorzio come
+            le muse verde et a modo una pelle, fa solamente quatro foglie grandissime in croce. Suo
+            fruto grande che lo tagliano in sonde per venderlo per mangiare et maturo diviene
+            citrino come le muse.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In Antiochia et in Mesopotamia. Et questo per raporto de uno peregrino fiamengo
+            simplicista dignissimo che passando per quelli luoghi ne piglio il schizzo.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Sempre verdeggia. Et il fruto nel fin dell'Esta.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> Io penso che nel fruti vi siano de semi et di quelli nasca.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> De suoi fruti si mangiano gustevolmente sanza offendere.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta maschile con foglie non ancora sezionate ed infiorescenza verde.</p>
+          <p>La figura che, come narra l'Autore, fu tratta da uno schizzo è alquanto rozza, però fa
+            riconoscere abbastanza bene la specie e precede quella di Andrea Cleyer (271) di oltre
+            un secolo). -</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

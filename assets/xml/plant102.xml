@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-102">
+        <head>N. 102 CASIA SOLUTIVA</head>
+        <ab>(Cassia Fistula L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Cassia solutiva et siliqua de Egipto da Latini Cassia nera da il Greco Atuario.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Sonno de piui specie le Cassie arabice, ma questa son solutiva, non conosciuta dalli
+            Greci antiqui ecceto Atuario.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Vengono le Cassie portate a noi di Alessandria.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> · Luogho calido, grasso, et humoroso, et qui da noi con il fredo si perde.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> De suoi caratori (1) ci nasce voluntieri et si lascia vedere fino alla altezzia di
+            brazzio et poi il fredo la amazza.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> L'<persName ref="#Anguillara">Anguilara</persName> k. 31 dice esser differenza tra la Cassia de latini et quella de Greci
+            per doi ss aromatica et con uno solo et chiarisce bene. Casia son il Cneoro de Greci et
+            tiene sia la Lavanda et il Rosmarino li Cneori di Theophrasto et la Cassia di Igino. Et
+            il saputo Ruelio nel primo volume della natura delle piante chiama la Cassia solutiva
+            questa sequitando gli Arabi Cassia fistola.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Son di temperamento calida et humida nel primo (2). Et spinge le acute colore (3) et
+            purifica il sangue et son risolutiva et lenitiva come son gia in manifesto uso per le
+            spetiarie. ma bene diro cosi che tenga in se qualche di oculta malignita percio con la
+            esperienza si vede che a molti son nociva con pessimo travaglio caggionando, come con
+            mio esperimento lo manifesto. et nuoce a cui alle (4) viscere deboli et il corpo
+            lubrico. Et leggesi copioso nel Mathiolo al cap. del Cinamomo.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fruttifera con insetti volanti. A parte una foglia ed un frammento di
+            frutto.</p>
+          <p><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="74"/> Al N. 79 l'autore
+            parla della nasalz dei Greci differente dalla cassia attuale che è qui descritta ed in
+            questa pagina parla anche della xxola che i Latini trascrivevano pur cassia (5) e che
+            era un'erba usata per ghirlande (cassia coronaria dei Romani) chia- mata da Igino
+            xvéopov . Per le lunghe questioni sull'identificazione del cneoro può ve- dersi il
+            Mattioli (6),</p>
+          <p>La presente specie fu chiamata dai Greci bizantini <foreign xml:lang="grc">γλυκοκάλαμος</foreign> (canna dolce) come trovasi in Nicola Mirepsico (201 p. 49
+            (Ed.)] e più tardi usurpo il nome di cassia per la somiglianza dei suoi legumi
+            cilindrici e legnosi colla scorza rotolata del- l'antica <foreign xml:lang="grc">κασσία</foreign> (Cinnamomum Cassia) ora chiamata cassia lignea. Questo errore
+            insinuato dagli Arabi fu però riconosciuto da vari semplicisti, p. e. dal Rinio che però
+            a c. 322 dà una figura fittizia della Cassia fistula ed a c. 437 pur parlando della
+            cassia lignea non ne da alcuna figura.</p>
+          <p>Della presente figura del Michiel fece copia il Marini (197) cui si attribuisce il pri-
+            mato della iconografia [276]. Donde l'abbia tratta il Michiel non sappiamo perché egli
+            non dice espressamente di aver coltivato la pianta ; notiamo che il Brasavola suo con-
+            temporaneo vide la pianta stessa coltivata nell'orto dei Comaro a Murano).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-102N1" n="1"> Cardiolo o gardtolo diminutivo di carato è veramente il nome veneziano del
+            seme di car- rubo ; qui è usato pel seme di cassia.</note>
+          <note xml:id="A-102N2" n="2"> Grado.</note>
+          <note xml:id="A-102N3" n="3"> * Coloro sta per collere = umori. (Ed.).</note>
+          <note xml:id="A-102N4" n="4"> Ha le. 10</note>
+          <note xml:id="A-102N5" n="5"> La lettera , dei Greci si pronuncia aspra e percid i Romani la traducevano
+            con due S. es. Parnassus, Narcissus.</note>
+          <note xml:id="A-102N6" n="6"> La casia o cassia poetica di Pena e Lobelio. Osyris alba. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

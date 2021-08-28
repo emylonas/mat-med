@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-131">
+        <head>N. 131 FASUOL DE INDIA</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Fasuol d'India purpureo da volgari - Dolicos quella sp. di Turcho maculato Smilax
+            hortensis da Lat. Faselen, Vuelsch oder Vuild Bonen da Germ.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> De le sp. de faioli ne son in grande varieta, questa una, una di Candia con il fasuolo
+            nero, una da Napoli con il gran bianco, una di Turchia con il gran grande et pentechiato
+            macchiato tenuto per il Dolicos. Delli communi ne sonno de bianchezzi et di rossi. Et
+            una sp. simili ma pic- colini et molto agrate nelle manestre, ma per esser tutti faioli
+            et chi ne sa una la sano tutte pero non acasca demostracione se non di questo raro, [V.
+            N. 133).</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoa radice sotillina da qualle viene suoi fusti sotil allati che se invoglieno
+            forniti di piccole et rascontrate frondi simil a lente ma minore, al gusto molto dolce
+            simil alla liquiritia ma piu acuta et la nota si serano con il dreto delle foglie in
+            fuora sopra a ramuscoli che ogni ramuscolo par una sol fronde. Suoi fiori non li ho mai
+            possuto vedere tante volte io l'ho se- minata et mi son pervenuti all'altezza di gommito
+            et mai piu. Et poi con il fredo sempre si hanno persa. Suoi fagiuoli alli communi ma
+            picoli et pur- purei et qualche uno di nero lucenti et vaghi.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Venghono dell'India dunde hanno preso il nome Et ne ho havuto de Soria et se ne
+            ritrovano nel pepe tondo.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Seminasi ogni anno et tardano a nascer nel resto io non ho veduto.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> Molto sole non meno acqua et grasso terreno.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>Son di molti che tengono che quella sp. di maculati chiamati <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="93"/> turchi sia lo smilace degli horti descrito
+            da Diascoride et gli Dolichi di Theo- phrasto lib. 8 cap. 3 et Galeno. al primo di
+            alimenti. Et al primo di Paolo Gineta (1).</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI NELLA PIANTA</head>
+          <p> Et che questo non sia sp. di faioli non si debbe negar.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Sonno piuí gustevoli che gli altri et si acompagniano con quelli domestici minuti
+            qualli al gusto sonno migliori di tutti, ma pero gonfiano et generano ventosita come si
+            legge in Diascoride lib. 2. 100.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[La figura rappresenta la pianta come potè ottenerla l'autore, cioè sterile. A lato un
+            recipiente che contiene alcuni semi rossi.</p>
+          <p>Questo • fasuol purpureo d'India, è una specie di cui Aldrovandi desiderava avere il
+            campione dal Michiel].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-131N1" n="1"> Egineta. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

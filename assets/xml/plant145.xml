@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-145">
+        <head>N. 145 PERO CERVINO</head>
+        <ab>(Cotoneaster integerrima Medic.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Pero cervino da Pugliesi Chamemespilus Valerij Cordi.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Varii sono le sorte di Peri. Et questi con l'arte delle va- rieta de inesti come anche
+            ne sonno de silvestri. et questa spetie tenuta ancor lei.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Da simplicisti son tenuta per spetie di perastro. Et M. Marchio eccell. giardiniero in
+            Padova tiene il sia il Chamemespilo di Valerio Cordi.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fruttifera ; a parte una foglia in grandezza naturale. L'opinione del Gui-
+            landino qui citata è erronea perché il Chamaemespilus del Cordo è Pirus Chamaeme- spilus
+            (115). Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152).
+            -</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

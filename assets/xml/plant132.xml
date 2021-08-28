@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-132">
+        <head>N. 132 ZARZAPARILLA</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Zarza parilla da Indiani - Salsa pariglia da volgari.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoe radici legniose proffunde intricate in se medesime et fol- tamente, non grosse et
+            scorziute, nasce in gran coppia a guisa de Rovi et per li suoi germogli manda fuora
+            quasi da ogni parte de rami picciole fogline sopra a ramuscoli lunghi che credo se
+            invilupano.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In molte parte dell'India se ne ritrova ma la migliore nel- l'Isola di Puna et nel
+            teritorio di Guaiaquil cita. Et nell'Isola de Argento in grande quantità.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> De molti si credeno che il sequente milax aspero sia la zarzaperiglia overo congenere
+            come il Mattiolo. Et dimostra la zarzaperiglia con foglie simili ma non pungenti, non
+            scio a cui si debba prestar piui fede hover (2) alli <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533 http://id.sbn.it/bid/TO0E019412 http://id.sbn.it/bid/RMLE012360">libri dell'India</ref> over a lui. La
+            dimostra a k. 1271.</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI NELLA PIANTA</head>
+          <p> Questa son la pianta medesima cosi di- mandata da Indiani et con foglie piccole.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> In India si prevaleno di suoe radici per molte infirmita et spe- tialmente per dolori
+            del mal francese, per il fiato puzzolente, agli ritrati (3) et alli impiagati. Il modo
+            di doprarle insegnia il primo libro del India k. III.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fittizia con foglie di veccia e sterile. Pero, dopo aver data la figura,
+            l'autore ebbe dei dubbi sulla sua legittimità, come lo provano le parole da lui aggiunte
+            nel testo. E difatti la prima figura fatta sull'originale è quella del Mattioli].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-132N2" n="2"> Ovvero.</note>
+          <note xml:id="A-132N3" n="3"> Rattratti. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-032">
+        <head>N. 32 PIPER MONTAN</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637755">[<hi>Daphne Mezereum L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Piper montan da rustici - Mezereo da Arabi - Chameleam, Thymelea, Pyros Achnen (<ptr target="#A-032N1"/>),
+            Cnestron, Chneoron da Greci - Laureola minor recenciorum - Chamedaphne Dioscoride - Choconidio
+            da Theophrasto.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Da gli Arabi sonno tre spezie di Mezereo poste, uno bianco et l'altro nero et la terza
+            la Laureola ci pone assa confusamente, dunde io darò pittura et forma di la Laureola [<ref type="internal" target="#A-033">N.
+              33</ref>] et di questa Thimelea et di la Chamelea [<ref type="internal" target="#A-030">N. 30</ref>] et di Chame Thymelea [<ref type="internal" target="#A-031">N. 31</ref>]. Et nel
+            <ref target="#V-0187">libro verde de Thymelea k. 187</ref>.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne monti et valli de <placeName ref="https://www.geonames.org/8977899/cividale.html">Zividal de Bellun</placeName>, ne monti et <placeName ref="https://www.geonames.org/3172219/val-di-non.html">valli di Annania nella
+            giuridicione di Trento</placeName> et in altri frigidi monti de Italia.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Ne <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 298 del <persName ref="#Anguillara">Anguilara</persName> dice che questo non son la Thymelea ne manco la
+            Chamelea, ma tiene sia il Cochonidio di Theophrasto. Ma per la oppinion del Mattiolo
+            son la Thymelea ma avertasi all'invoglio del fruto che dice duro et nero et non rosso
+            come fa questo piper montan ma bene si conviene alla Chamedaphne.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita e fruttifera con ciuffi di foglie in cima e drupe sotto le foglie,
+            quindi più alte dei numerosi fiori. Ben si vede che lo scopo dell'artista era di
+            figurare le varie parti della pianta senza riguardo all'ordine del loro svolgimento. Una
+            figura simile, ma meno completa trovasi al <ref target="#V-006">N. 6 del libro verde</ref>. Come si esprime nel
+            testo, il Michiel, figurando quattro specie di Daphne nei <ref type="internal" target="#A-030">NN. da 30</ref><ref type="internal" target="#A-033"> a 33</ref>, volle
+            insegnare a ben distinguerle, dimostrando esser la presente il <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="30"/> vero mezereo degli Arabi e le altre delle
+            specie affini. A queste egli giustamente avvicina la pianta al <ref target="#V-187">N. 187 del libro verde</ref>.
+            Una sesta specie da lui non riconosciuta congenere perché ebbe il campione in cattivo
+            stato trovasi al <ref target="#R1-377">N. 377 del primo libro rosso</ref> ].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-032N1" n="1">
+            <foreign xml:lang="grc">πυρός άχνη</foreign> = lumo.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

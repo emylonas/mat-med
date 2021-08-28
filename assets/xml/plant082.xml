@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-082">
+        <head>N. 82 NOCE DE INDIA</head>
+        <ab>(Cocos nucifera L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Noce de India volgarmente Neregil, Jeumedi da Arabi Nux magna da Latini Chitorin da
+            Indiani.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Con questa voce di noce varieta si sentono [v. N. 81).</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Sua radice proffunda et è Albero molto grande che ne fanno alberi de suoi navilij.
+            Suoe frondi tanto grande che li serveno per stuore, et di esse ne fanno velle, de il
+            legno che son duro ne fanno chiodi per li suoi navilj perché non possono doperare ferro
+            rispeto alla Calamita che vi sonno in quel mare. Di suoi fruti ne fanno panne (2) quando
+            maturati. Quando acerbi ne fanno aceto, et bene maturati ne tragono oglio. Qualli sono
+            grandi et in forma di noce ma lissi sanza costole de piui scorzi et invogli, con il
+            buono di dentro son grasso et utile ad ingrassarsi, et hano dura polpa concavo in mezzo
+            et vacua, tenace, viscosa et dolce al gusto come di burro.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne vengono de India. Nell'isola de San Lorenzo (3),</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Sonno le noci calide nel secondo ordine et nel primo humide, mangiandone agravano il
+            stomaco abenche di molte matrone con esse cer- <fw type="running-head" place="top">LIBRO
+              AZZURRO</fw><pb n="60"/> cano di augumentare la carne. Et de molti dote sonno narrate
+            da il Mat- tiolo al cap. delle Noci Corollario del Barbaro al cap. di Unguenti in Comun
+            cap. 54 Thomaso Porcacchi k. 93.</p>
+        </div>
+        <div type="editorial-D">
+          <p>(L'albero è fittizio con foglie ovali, larghe, penninervie, di cui una è figurata a
+            parte e con frutti sparsi. Sopra di esso s'arrampicano una scimia e due quadrupedi. A
+            parte un frutto privato dell'epicarpo, poco ben disegnato.</p>
+          <p>A quei tempi si spiegava il magnetismo terrestre, ammettendo l'esistenza nelle viscere
+            della terra di un gran ammasso di calamita naturale orientato da nord a sud. Credevasi
+            pure che una porzione di quest'ammasso affiorasse nell'Oceano Indiano for- mando
+            un'isola pericolosa alle navi perché attirava a sè tutti i chiodi e gli altri pezzi di
+            ferro, facendole andare a picco. Questa credenza era stata resa popolare da i Viaggi di
+            Sindbad il Marinaio nelle Mille ed una notti e ad essa allude il Michiel, dicendo che si
+            usavano chiodi formati col legno della palma del cocco).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-082N2" n="2"> Pane.</note>
+          <note xml:id="A-082N3" n="3"> · Madagascar. (Ed.).</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

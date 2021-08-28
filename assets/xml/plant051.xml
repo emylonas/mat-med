@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-051">
+        <head>N. 51 CUCIOPHORON</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Cuciophoron da Theophrasto Arieno il suo frutto da Plinio.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Non ho fin hora veduto se non uno fruto che vide anche l'ecc. <persName ref="#Anguillara">Anguillara</persName> k. 70 qual
+            tiene sia di questo albero, qual è simil a uno melo cotognio ripieno de nervi che fa
+            fastidio a mangiarlo che conviensi sputarlo, son alquanto dolcie con nocciolo di pruno
+            durissimo et bianco del qualle si fanno manichi di trivelli et anelli. Et li portò M.
+            Michiele Passamonte spetiale piacentino.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Dalla remota reggione dalla Nubia. </p>
+        </div>
+        <div type="editorial-D">
+          <p>[E figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
+            lasciato lo spazio in mezzo per dipingere la pianta, ma non potè mai farne la
+            conoscenza].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
