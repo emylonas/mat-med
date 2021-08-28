@@ -17,11 +17,17 @@
 #baseurl                  : "/minimal-xml/"
 
 # THEME-SETTINGS-RECLAIM
+theme                    : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url                      : "http://cody.digitalscholarship.brown.edu"
+baseurl                  : "/minimal-xml/"
+
+# THEME-SETTINGS-OTHER
 #theme                    : "minimal-mistakes-jekyll"
 #remote_theme             : "mmistakes/minimal-mistakes"
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-#url                      : "http://cody.digitalscholarship.brown.edu"
-#baseurl                  : "/minimal-xml/"
+#url                      : ""
+#baseurl                  : "/"
 
 # Site Settings
 locale                   : "en-US"
