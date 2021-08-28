@@ -1,16 +1,16 @@
 ---
-title: Libro Azzurro
-layout: single
+title: "Libro Azzurro"
+layout: single"
 ---
 
-Libro Azzurro
+Libro Azzurro"
 =============
 
-LIBRO AZZURRO
+LIBRO AZZURRO"
 
 \[Page 11\]
 
-LIBRO DE ALBORI, FRUTICI ET IN VOGLI
+LIBRO DE ALBORI, FRUTICI ET IN VOGLI"
 ------------------------------------
 
 Considerando io, Piero Antonio Michiel fu de Messer Marco, che l'ordine in tutte le ationi sonno apreciabile, però al meglio io ho saputo, ho partito le varietà delle piante in diversi libri aciò siano manco confusi et reduti in manco volume essendo partiti in quatro distinte opere, zioè questa di Albori, frutici et invogli ([1](#prN1 "1")), la seconda di Herbe aculeate et di radici bulbose et rotonde, il terzio di Piante legnose et di piante con radice capillare et sottille, il quarto di Herbe con radice carnose et grosse, dunde l'huomo saperà ([2](#prN2 "2")) più al facile ritrovare quello che desidera governandosi da questo ordine saperà in qual libro son la pianta che ricerca. Et ogni libro harà ([3](#prN3 "3")) il suo indice et alfabeto con tutte le varietà de sinonomi ho possuto intravenire, acioché tanto il latin quanto il volgare et tanto il greco quanto l'aleman et altre nationi anche possi ogni uno per il suo nome intravenire in quello che desidera, et pigliarne quella utilità et inteligentia che potrà, dando colpa al debil et pocho saper mio, cogliendo qualche rosa, se pure ne serano, tra tanti spini.
