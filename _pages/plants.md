@@ -8,4 +8,3 @@ classes: wide
 sidebar:
   nav: "plants" 
 ---
-<div id="main" role="main">
