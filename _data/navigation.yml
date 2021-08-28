@@ -24,320 +24,320 @@ plants:
   - title: Plants
     children:
       - title: Libro Azzurro
-        url: /plants/index/
+        url:  /plants/index/
       - title: 1 CIRUELAS MONTESES
-        url: /plants/plant001/
+        url:  /plants/plant001/
       - title: 2 INCOGNITA
-        url: /plants/plant002/
+        url:  /plants/plant002/
       - title: 3 LAURO SILVESTRE
-        url: /plants/plant003/
+        url:  /plants/plant003/
       - title: 4 ALBERO INCOGNITO
-        url: /plants/plant004/
+        url:  /plants/plant004/
       - title: 5 ATRAGENE
-        url: /plants/plant005/
+        url:  /plants/plant005/
       - title: 6 VITE NERA VULGARE
-        url: /plants/plant006/
+        url:  /plants/plant006/
       - title: 7 VITE BIANCA VULGARE
-        url: /plants/plant007/
+        url:  /plants/plant007/
       - title: 8 SAVINA
-        url: /plants/plant008/
+        url:  /plants/plant008/
       - title: 9 CEDRO
-        url: /plants/plant009/
-      - title: 1O RUS
-        url: /plants/plant010/
+        url:  /plants/plant009/
+      - title: 10 RUS
+        url:  /plants/plant010/
       - title: 11 SMILACE LISIA
-        url: /plants/plant011/
+        url:  /plants/plant011/
       - title: 12 LIGUSTRO
-        url: /plants/plant012/
+        url:  /plants/plant012/
       - title: 13 PUTANA VEL OLIVELA
-        url: /plants/plant013/
+        url:  /plants/plant013/
       - title: 14 PHILIREA
-        url: /plants/plant014/
+        url:  /plants/plant014/
       - title: 15 CHIEREGINI
-        url: /plants/plant015/
+        url:  /plants/plant015/
       - title: 16 ELO CAPOLI
-        url: /plants/plant016/
+        url:  /plants/plant016/
       - title: 17 CEDRIOLO
-        url: /plants/plant017/
+        url:  /plants/plant017/
       - title: 18, 19, 20
-        url: /plants/plant018/
+        url:  /plants/plant018_019_020/
       - title: 21 CIRUELAS INCARNADAS ES FRUTA
-        url: /plants/plant019/
+        url:  /plants/plant021/
       - title: 22 MOLI ALBERO DE INDIA
-        url: /plants/plant020/
+        url:  /plants/plant022/
       - title: 23 SCAMONEA
-        url: /plants/plant021/
+        url:  /plants/plant023/
       - title: 24 VITE NERA, TAMARO
-        url: /plants/plant022/
+        url:  /plants/plant024/
       - title: 25 CENTUNCULO
-        url: /plants/plant023/
+        url:  /plants/plant025/
       - title: 26 OSTRIN VEL OSTREA
-        url: /plants/plant024/
+        url:  /plants/plant026/
       - title: 27 FUSARIA, STONBER
-        url: /plants/plant025/
+        url:  /plants/plant027/
       - title: 28 GIANDE
-        url: /plants/plant026/
+        url:  /plants/plant028/
       - title: 29
-        url: /plants/plant027/
+        url:  /plants/plant029/
       - title: 30 CHAMELEA
-        url: /plants/plant028/
+        url:  /plants/plant030/
       - title: 31 CHAME TIMELEA SPE.
-        url: /plants/plant029/
+        url:  /plants/plant031/
       - title: 32 PIPER MONTAN
-        url: /plants/plant030/
+        url:  /plants/plant032/
       - title: 33 LAUREOLA
-        url: /plants/plant031/
+        url:  /plants/plant033/
       - title: 34 CHAMECERASO
-        url: /plants/plant032/
+        url:  /plants/plant034/
       - title: 35 ROSA SENIS
-        url: /plants/plant033/
+        url:  /plants/plant035/
       - title: 36 ABETE
-        url: /plants/plant034/
+        url:  /plants/plant036/
       - title: 37 TASO
-        url: /plants/plant035/
+        url:  /plants/plant037/
       - title: 38 PEZZO
-        url: /plants/plant036/
+        url:  /plants/plant038/
       - title: 39. ALBERO SIMIL AL CIPRESO
-        url: /plants/plant037/
+        url:  /plants/plant039/
       - title: 40 FRUTES CITRIO SIMIL
-        url: /plants/plant038/
+        url:  /plants/plant040/
       - title: 41 VIRCITOSICA
-        url: /plants/plant039/
+        url:  /plants/plant041/
       - title: 42 ASCLEPIAS
-        url: /plants/plant040/
+        url:  /plants/plant042/
       - title: 43 ASCLEPIAS DE FRANCIA
-        url: /plants/plant041/
+        url:  /plants/plant043/
       - title: 44 CAPORE ES FRUTA
-        url: /plants/plant042/
+        url:  /plants/plant044/
       - title: 45 CHICO CAPOLT
-        url: /plants/plant043/
+        url:  /plants/plant045/
       - title: 46 FRUTICE INCOGNITO
-        url: /plants/plant044/
+        url:  /plants/plant046/
       - title: 47 ALBERO DA L'UVA
-        url: /plants/plant045/
+        url:  /plants/plant047/
       - title: 48 AGRIFOLIO
-        url: /plants/plant046/
+        url:  /plants/plant048/
       - title: 49 FICUS EGIPTIA
-        url: /plants/plant047/
+        url:  /plants/plant049/
       - title: 50 SECO MORO FRATESCO
-        url: /plants/plant048/
+        url:  /plants/plant050/
       - title: 51 CUCIOPHORON
-        url: /plants/plant049/
+        url:  /plants/plant051/
       - title: 52 MACALEB
-        url: /plants/plant050/
+        url:  /plants/plant052/
       - title: 53 CRATEGON
-        url: /plants/plant051/
+        url:  /plants/plant053/
       - title: 54 LICIO PO
-        url: /plants/plant052/
+        url:  /plants/plant054/
       - title: 55 LICIO SO INDIANO
-        url: /plants/plant053/
+        url:  /plants/plant055/
       - title: 56 SUBER TH.
-        url: /plants/plant054/
+        url:  /plants/plant056/
       - title: 57 HEBANO
-        url: /plants/plant055/
+        url:  /plants/plant057/
       - title: 58 ANAGIRO, EGANO
-        url: /plants/plant056/
+        url:  /plants/plant058/
       - title: 59 ANAGIRO
-        url: /plants/plant057/
+        url:  /plants/plant059/
       - title: 60 PRUNUS THEO.
-        url: /plants/plant058/
+        url:  /plants/plant060/
       - title: 61 ZARNAB
-        url: /plants/plant059/
+        url:  /plants/plant061/
       - title: 62 ANDRACNE
-        url: /plants/plant060/
+        url:  /plants/plant062/
       - title: 63 SCOTANUS
-        url: /plants/plant061/
+        url:  /plants/plant063/
       - title: 64 PLATANO
-        url: /plants/plant062/
+        url:  /plants/plant064/
       - title: 65 SORBO TERMINALE
-        url: /plants/plant063/
+        url:  /plants/plant065/
       - title: 66 SAMBUCO SP.C
-        url: /plants/plant064/
+        url:  /plants/plant066/
       - title: 67 CACAO BLANCO
-        url: /plants/plant065/
+        url:  /plants/plant067/
       - title: 68 QUAHUXILOTS
-        url: /plants/plant066/
+        url:  /plants/plant068/
       - title: 69 CIRUELAS AMARILLAS COMUNES ES FRUTA
-        url: /plants/plant067/
+        url:  /plants/plant069/
       - title: 70 APARINE
-        url: /plants/plant068/
+        url:  /plants/plant070/
       - title: 71 MADRE SILVA
-        url: /plants/plant069/
+        url:  /plants/plant071/
       - title: 72 ALIMO DE CRATEUA
-        url: /plants/plant070/
+        url:  /plants/plant072/
       - title: 73 PEPE TONDO
-        url: /plants/plant071/
+        url:  /plants/plant073/
       - title: 74 RIBES MENOR
-        url: /plants/plant072/
+        url:  /plants/plant074/
       - title: 75 CORNIOLO
-        url: /plants/plant073/
+        url:  /plants/plant075/
       - title: 76 TILIA FEMINA
-        url: /plants/plant074/
+        url:  /plants/plant076/
       - title: 77 OPULO
-        url: /plants/plant075/
+        url:  /plants/plant077/
       - title: 78 GAROFALI
-        url: /plants/plant076/
+        url:  /plants/plant078/
       - title: 79 CANELA
-        url: /plants/plant077/
+        url:  /plants/plant079/
       - title: 80 MAMAI ALBERO DE INDIA
-        url: /plants/plant078/
+        url:  /plants/plant080/
       - title: 81 NOCE MOSCATA
-        url: /plants/plant079/
+        url:  /plants/plant081/
       - title: 82 NOCE DE INDIA
-        url: /plants/plant080/
+        url:  /plants/plant082/
       - title: 83 AGNO CASTO
-        url: /plants/plant081/
+        url:  /plants/plant083/
       - title: 84 TRAGIO
-        url: /plants/plant082/
+        url:  /plants/plant084/
       - title: 85 PERSEA
-        url: /plants/plant083/
+        url:  /plants/plant085/
       - title: 86 AZAROLO
-        url: /plants/plant084/
+        url:  /plants/plant086/
       - title: 87 SPIN BIANCO
-        url: /plants/plant085/
+        url:  /plants/plant087/
       - title: 88 ACATIA SECONDA
-        url: /plants/plant086/
+        url:  /plants/plant088/
       - title: 89 ACATIA
-        url: /plants/plant087/
+        url:  /plants/plant089/
       - title: 90 CHARANCE
-        url: /plants/plant088/
+        url:  /plants/plant090/
       - title: 91 BRIONIA
-        url: /plants/plant089/
+        url:  /plants/plant091/
       - title: 92 CAPOLI OTERECAS ES FRUTA
-        url: /plants/plant090/
+        url:  /plants/plant092/
       - title: 93 QUAYAUTL COLORADO
-        url: /plants/plant091/
+        url:  /plants/plant093/
       - title: 94 ALLATERNO
-        url: /plants/plant092/
+        url:  /plants/plant094/
       - title: 95 STORACE
-        url: /plants/plant093/
+        url:  /plants/plant095/
       - title: 96 BALSAMO
-        url: /plants/plant094/
+        url:  /plants/plant096/
       - title: 97 VISCO
-        url: /plants/plant095/
+        url:  /plants/plant097/
       - title: 98 OLEANDRO
-        url: /plants/plant096/
+        url:  /plants/plant098/
       - title: 99 BEN DA PERFUMIERI
-        url: /plants/plant097/
+        url:  /plants/plant099/
       - title: 100 BETULA
-        url: /plants/plant098/
+        url:  /plants/plant100/
       - title: 101 BARBA IOVIS
-        url: /plants/plant099/
+        url:  /plants/plant101/
       - title: 102 CASIA SOLUTIVA
-        url: /plants/plant100/
+        url:  /plants/plant102/
       - title: 103 MIRIDE ARBORE
-        url: /plants/plant101/
+        url:  /plants/plant103/
       - title: 104 TEREBINTO
-        url: /plants/plant102/
+        url:  /plants/plant104/
       - title: 105 LENTISCO
-        url: /plants/plant103/
+        url:  /plants/plant105/
       - title: 106 PALIURO DI AGATOCLE
-        url: /plants/plant104/
+        url:  /plants/plant106/
       - title: 107 CUMARA
-        url: /plants/plant105/
+        url:  /plants/plant107/
       - title: 108 FRUTICE INCOGNITO
-        url: /plants/plant106/
+        url:  /plants/plant108/
       - title: 109 CROTON NICANDRO
-        url: /plants/plant107/
-      - title: IIO SEBESTE SP.
-        url: /plants/plant108/
-      - title: III SEBESTE DI LEVANTE
-        url: /plants/plant109/
-      - title: II2 GUAICO
-        url: /plants/plant110/
+        url:  /plants/plant109/
+      - title: 11O SEBESTE SP.
+        url:  /plants/plant110/
+      - title: 111 SEBESTE DI LEVANTE
+        url:  /plants/plant111/
+      - title: 112 GUAICO
+        url:  /plants/plant112/
       - title: 113 GUAIABO
-        url: /plants/plant111/
+        url:  /plants/plant113/
       - title: 114 PISTACHIER
-        url: /plants/plant112/
+        url:  /plants/plant114/
       - title: 115 STAFILODENDRO
-        url: /plants/plant113/
-      - title: 114\. [\* N. II6 CUA MUCHEL
-        url: /plants/plant114/
+        url:  /plants/plant115/
+      - title: 116 CUA MUCHEL
+        url:  /plants/plant116/
       - title: 117 RAMNO PRIMO B.O
-        url: /plants/plant115/
+        url:  /plants/plant117/
       - title: 118 RAMNO BIANCO
-        url: /plants/plant116/
+        url:  /plants/plant118/
       - title: 119 RAMNO DAL FOLICOLO
-        url: /plants/plant117/
+        url:  /plants/plant119/
       - title: 120 COLUTEA
-        url: /plants/plant118/
+        url:  /plants/plant120/
       - title: 121 GENESTA
-        url: /plants/plant119/
+        url:  /plants/plant121/
       - title: 122 GENESTELA PHRIGIA
-        url: /plants/plant120/
+        url:  /plants/plant122/
       - title: 123 GENESTELA
-        url: /plants/plant121/
+        url:  /plants/plant123/
       - title: 124 SOLANO AQUATICO
-        url: /plants/plant122/
+        url:  /plants/plant124/
       - title: 125 JARUMA ALBERO DE INDIA
-        url: /plants/plant123/
+        url:  /plants/plant125/
       - title: 126 TITHIMALO DENDROIDE
-        url: /plants/plant124/
+        url:  /plants/plant126/
       - title: 127 MIRTO LATIFOLIA
-        url: /plants/plant125/
+        url:  /plants/plant127/
       - title: 128 MIRTO MINUTO
-        url: /plants/plant126/
+        url:  /plants/plant128/
       - title: 129 GENSAMIN GIALO
-        url: /plants/plant127/
+        url:  /plants/plant129/
       - title: 130 CEINER MELO
-        url: /plants/plant128/
+        url:  /plants/plant130/
       - title: 131 FASUOL DE INDIA
-        url: /plants/plant129/
+        url:  /plants/plant131/
       - title: 132 ZARZAPARILLA
-        url: /plants/plant130/
+        url:  /plants/plant132/
       - title: 133 SMILACE ASPERA
-        url: /plants/plant131/
+        url:  /plants/plant133/
       - title: 134 SMILAX LEVIS DI CANDIA
-        url: /plants/plant132/
+        url:  /plants/plant134/
       - title: 135 SPIN CERBIN
-        url: /plants/plant133/
-      - title: 134\. [N.136 CAROBER SALVATICO
-        url: /plants/plant134/
+        url:  /plants/plant135/
+      - title: 136 CAROBER SALVATICO
+        url:  /plants/plant136/
       - title: 137 RIBES SP.
-        url: /plants/plant135/
+        url:  /plants/plant137/
       - title: 138 LANTANA
-        url: /plants/plant136/
+        url:  /plants/plant138/
       - title: 139 BERBERI
-        url: /plants/plant137/
+        url:  /plants/plant139/
       - title: 140 ERICHA
-        url: /plants/plant138/
+        url:  /plants/plant140/
       - title: 141 NIL SP.
-        url: /plants/plant139/
+        url:  /plants/plant141/
       - title: 142 NIL SP.
-        url: /plants/plant140/
+        url:  /plants/plant142/
       - title: 143 ALIMO
-        url: /plants/plant141/
-      - title: I44 ARIA
-        url: /plants/plant142/
+        url:  /plants/plant143/
+      - title: 144 ARIA
+        url:  /plants/plant144/
       - title: 145 PERO CERVINO
-        url: /plants/plant143/
+        url:  /plants/plant145/
       - title: 146 ASPALATO
-        url: /plants/plant144/
+        url:  /plants/plant146/
       - title: 147 TAMARINDI
-        url: /plants/plant145/
+        url:  /plants/plant147/
       - title: 148 CITISO
-        url: /plants/plant146/
+        url:  /plants/plant148/
       - title: 149 FRANGOLA
-        url: /plants/plant147/
+        url:  /plants/plant149/
       - title: 150 e 151
-        url: /plants/plant148/
+        url:  /plants/plant150_151/
       - title: 152 OXIACANTA
-        url: /plants/plant149/
+        url:  /plants/plant152/
       - title: 153 TEMBUL
-        url: /plants/plant150/
+        url:  /plants/plant153/
       - title: 154 TEMBUL TENUTO
-        url: /plants/plant151/
+        url:  /plants/plant154/
       - title: 155 LOTO
-        url: /plants/plant152/
+        url:  /plants/plant155/
       - title: 156 CIPRUS
-        url: /plants/plant153/
+        url:  /plants/plant156/
       - title: 157 HAI
-        url: /plants/plant154/
+        url:  /plants/plant157/
       - title: 158 ALBERO DE INDIA
-        url: /plants/plant155/
+        url:  /plants/plant158/
       - title: 159 PEPE
-        url: /plants/plant156/
+        url:  /plants/plant159/
       - title: 160 GRANA
-        url: /plants/plant157/
+        url:  /plants/plant160/
       - title: 161 OTRA MANERA DE MECOACAN
-        url: /plants/plant158/
+        url:  /plants/plant161/
