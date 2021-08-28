@@ -8,8 +8,8 @@ main:
     url: /plants/
   # - title: Apothecaries
   #   url: /apothecaries/
-  # - title: "About"
-  #   url: /about/
+  - title: "About"
+    url: /about/
   # - title: "Edition"
   #   url: /edition/
   # - title: "Sample Posts"
