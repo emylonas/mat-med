@@ -23,7 +23,6 @@
 
 <div id="main" role="main">
   {% include sidebar.html %}
-
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -49,6 +48,10 @@
             </nav>
           </aside>
         {% endif %}
+        {{ content }}
+
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
         <script>
               var r = new CETEI();
               r.addBehaviors({"tei":{
@@ -61,12 +64,7 @@
                 r.addStyle(document, data);
 
               });</script>
-
         <div id="TEI"></div>
-        {{ content }}
-
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
