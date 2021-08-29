@@ -1,8 +1,9 @@
 ---
+layout: default
 ---
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 | default: "en"}} class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -19,7 +20,6 @@
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
-
 
 <div id="main" role="main">
   {% include sidebar.html %}
