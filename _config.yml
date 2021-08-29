@@ -26,7 +26,7 @@ baseurl                  : "/"
 # theme                    : "minimal-mistakes-jekyll"
 # minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # url                      : "http://cody.digitalscholarship.brown.edu"
-# baseurl                  : "/minimal-xml/"
+# baseurl                  : "/minxml/"
 
 # THEME-SETTINGS-OTHER
 #theme                    : "minimal-mistakes-jekyll"
