@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-127">
+        <head>N. 127 MIRTO LATIFOLIA</head>
+        <ab>(Myrtus communis L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Mirto gentile latifolia da volgari. Li altri nomi se dirano alla sequente specie.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Di tre sp. mortina ne pose Catone. Candida, nera, et congiugale chiamasi hoggi
+            sativi, salvatici et latifolia. Io non dimostro la piu communa con foglie grande.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Quelli di Egipto sonno piui odorifferi, ne sonno in Toscana, Siena et in Romagnia, et
+            son dedicato a Venere in segnio di pace.</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI</head>
+          <p> DELLA PIANTA Questa son specie di mirto che non si puol negare.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Gli profumieri de suoi fiori ne trae aqua lambicata odoriffera. Et del suo succhio se
+            ne thrae vino et oglio. Et suoe chocoline (3) in vece di pepe da antiqui furno usate. Da
+            il seme et frondi secche et polverizati et di questa polvere posta nel vino et beuto
+            valle a velenati per fonghi et alla peste...</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita. Nel testo l'autore dice : « suoi fiori tra le frondi verso la summita
+            bianchi piccioli di 7 fogline in ruosa di buono odore però nella figura i fiori
+            ascellari tro- vansi a tutte le altezze ed hanno le corolle di cinque lobi].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-127N3" n="3"> Bacche. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

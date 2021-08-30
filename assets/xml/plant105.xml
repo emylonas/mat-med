@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-105">
+        <head>N. 105 LENTISCO</head>
+        <ab>(Pistacia Lentiscus L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Lentiscus da Latini - Schinus da Greci Mescehe et Meseccha da Arabi Stinchi da
+            Pugliesi Lama il mastice da Arabi.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Due sonno le spetie di Lentischi, uno in albero e l'altro in frutice.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p>Suoe radice legnose et proffunde. Suoi rami vencidi et aren- devoli di rossignio colore
+            de qualli se ne fanno stecchi da denti. Suoe frondi constrettive simil al mirto ma
+            fallate sopra a suoi rami (3) et finiscono in <fw type="running-head" place="top">LIBRO
+              AZZURRO</fw><pb n="76"/> due di grave odor et il resto della pianta ancora (1),
+            lunghete (2), crasse et di scuro colore con il nervo di rosso colore che nel mezzo di
+            esse le divi- deno per lungho. Suoi fruti piccoli di rossignio colore rotondi. Et oltra
+            il fruto produce certi bacelli ritorti simil a cometi ne quali sonno uno limpido liquore
+            del qualle invecchiato nascono certi piccoli volatili animaleti simil a quegli che
+            nascono nelle visicche de gl'Olmi. Suoi fiori a sorgo ma divisi piccoli rossigni
+            pendenti in piccol grappolini.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nelle mareme de il Mare Tireno verso Napoli, Siena, et Ro- magnia ancora, Chio,
+            Candia, Ponto.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> In tutto il volubil corso del corente anno verdeggiante si di- mostra suoi fruti
+            nell'Esta et suoi corneti poi.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Il Mathiolo dice che anche in Italia fa il mastice, ma non pero come in Chio et
+            Candia.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[In una prateria sorge un albero fiorito con insetti. A parte un ramo fiorito e due
+            figure umane che stanno stuzzicandosi i denti ad una tavola dove è scritto : « de sua
+            ombra godiamo et il dente netiamo ».</p>
+          <p>La figura dell'intero albero è brutta e poco esatta, migliore è quella del ramo;
+            ambedue son preferibili per esattezza scientifica a quella, solo artisticamente bella,
+            che lasciò il Rinio a c. 173. Tra le pagine v'è un frammento di foglia.</p>
+          <p>A differenza della tavola precedente, in questa non trovasi alcuna figura delle galle
+            di cui è parola nel testo e non può trovarsi perché esse non crescono sul lentisco, ma
+            sul terebinto ed infatti son figurate immature nel numero precedente. Il Michiel ebbe
+            notizia della forma di queste galle mature, le credette diverse da quelle già figurate
+            e, per errore di informazione, credette crescessero sul lentisco, mentre son proprie del
+            tere- binto e chiamansi volgarmente carrube di Giuda. Fa sorpresa il veder l'errore
+            ripetuto in libri molto recenti (161)].</p>
+          <p>Pena e Lobelio (180) parlano dell'industria degli stecchini (dentiscalpia) di cui si
+            parla e che era esercitata a Genova dai galeotti).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-105N3" n="3"> Alterne.</note>
+          <note xml:id="A-105N1" n="1"> Ha grave odore.</note>
+          <note xml:id="A-105N2" n="2"> Le frondi. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

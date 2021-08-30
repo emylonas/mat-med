@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-055">
+        <head>N. 55 LICIO SO INDIANO</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Licio secondo indiano da Diascoride Lonchite da altri Aspalato da molti li nomi
+            sequenti Erysi sceptrum, Sphagnon et Phasganum da altri Diaxylon da Syri Darsisahan,
+            Mahat, Michad, Kilkij da Arabi Arbor granati Silvestris da latini Atrac da altri.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Di doi licij ragiona Dioscoride.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> suoi fruti rotondi simil al altro primo Licio over al rotondo pepe, neri et molti
+            insieme come in folti grappoli et duri nel masticarli.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nasce in India dice Dioscoride ma questo l' hebbi de Puglia.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>L'Ecc. <persName ref="#Anguillara">Anguillara</persName> k. 63 dice non lo conoscer et de molti dimostrano questo. Et l'Ecc.
+            M. Bernardin Trivisan, letor di Simplici in Padova dignissimo tiene che questo sia
+            l'Aspalato.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita in paesaggio montuoso. A sinistra un rametto con foglie e frutti]
+            (3).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-055N3" n="3"> • Rami spinosi ; frutu in grappoli, coronati dal calice. (Ed.).</note>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="42"/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-036">
+        <head>N. 36 ABETE</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000510976">[<hi>Abies alba Mill.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Abete da Latini Avezzo da volg. et Avedin.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Varie sonne le spezie di alberi consimili di questa foglia. questo Avezzo, il Tasso
+            [<ref type="internal" target="#A-037">N. 37</ref>], il Larice, la Picea, il Pin, il Pezzo [<ref type="internal" target="#A-038">N. 38</ref>]. Et di questo Abete ne son il
+            maschio et la femina.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne monti frigidi nella <placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName>, in <placeName ref="https://www.geonames.org/3218910/cadore.html">Cadore</placeName> et in <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html">Friule</placeName>.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> Io penso che de suoi fruti caduti ci nascano et in molti anni ci voleno a ridursi a
+            perfetione et grandezza.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Di queste spezie ne raggiona bene il mio carissimo comp. <persName ref="#Anguillara">Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> a k.
+            42 et 43.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[La figura dell'albero sorge nel centro di un labirinto circondato da siepe con uccelli
+            posati e volanti. Essa è poco esatta sia per la tinta della scorza, sia per quella delle
+            foglie, sia per la tinta e posizione degli strobili. Migliore è la figura di un ramo
+            foglioso che fu aggiunto dopo. Abbastanza buona la diagnosi in cui notiamo il carattere delle foglie «rascontrate strete et lunghete simil al nasso ma queste nelle cime
+            pareno che si vogliono aprire», alludendosi all'apice bifido del lembo, mentre nel nasso
+            figurato e descritto al numero seguente parla dell'unica punta.</p>
+          <p>L'aggettivo <hi>rascontrate</hi> che generalmente per Michiel significa <hi>opposte</hi> ha qui ed
+            altrove (<ref target="#R1-149">Ro. I, 149</ref>) il significato di <hi>distiche</hi>].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

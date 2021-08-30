@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-148">
+        <head>N. 148 CITISO</head>
+        <ab>[Medicago arborea L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Cytiso, li altri nomi a k. 116 nel libro primo rosso.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> In ditto (1).</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoa radice et tronchi legnosi et son albero non molto grande et ramoso. Suoe frondi
+            di trifolio, suoi fiori in forma de gigli, semi in suoi ritorte silique.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> lo questa nta non scio d'haverla veduta se non dal Mathiolo che la dimostra. El qual
+            dice haverla havuta dal sig. <persName ref="#Cortuso">Jacomo Antonio Cortusio</persName> padovano mio anche
+            familiarissimo.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>Li gia nominati degnissimi scrutatori la tiene per il vero Cytiso et la dimostra il
+            Mathiolo dico a k. 1223. </p>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="103"/>
+        <div type="disagreements">
+          <head>DISPARERI</head>
+          <p> Da Diascoride impoi che cignia esser herba et non albero con tutti li altri autori
+            viene bene.</p>
+        </div>
+        <div type="editorial-D">
+          <p>(La figura molto rozza è copiata, come è detto nel testo, da quella del Mattioli, ma è
+            copiata male perché i fiori, che il Mattioli fece papilionacei, qui sono campanu- lati.
+            L'opinione del botanico sanese che questa pianta fosse il citiso virgiliano fu seguita
+            anche da altri (Gleditsch)].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-148N1" n="1"> Ed anche in questo libro N. 122.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

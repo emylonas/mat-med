@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-075">
+        <head>N. 75 CORNIOLO</head>
+        <ab>[Cornus mas L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Corniolo da volgari Cranea, Cran et Carmu da Greci Canium vel Cornicellium da
+            Latini.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p>Diconsi ritrovarsi maschio et femina. Il maschio son differente che vengono maggiore,
+            gli suoi tronchi et rami piui grossi et malagevoli da scorziare sanza midola. Et per
+            esser pocha differenza ne ho dato una pittura. Et son anche una altra femina tenuti
+            leggi k. 46.</p>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="54"/>
+
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Avegna che in Italia non ce ne manchino, non di meno in Macedonia ne sonno in coppia
+            et con piui saporiti frutini. Nel monte Ida il maschio son sterile et la femina produce
+            il fruto, ma in Macedonia l'uno et l'altro il produce.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Mantengono assa suoe fronde. Suoi fioreti a principio di primavera con li fruti poi.
+            Il maschio li mandano inanti che la femina.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Suoi fiori sonno nocivi alle appi. Et il suo legno tiene del veleno essendo verde.
+            Et de suoi fruti fannosi aqua per restringere e' flussi...</p>
+        </div>
+        <div type="editorial-D">
+          <p>[L'autore nella diagnosi aggiunge altre differenze tra il maschio e la femmina: «la
+            femina produce le suoe cocole acerbe doppo l'autunno le quali alcuno animale le gusta.
+            Et il suo legnio son inutile et fongoso della femina, ma il maschio son forte et duro».</p>
+          <p>In una prateria sorge l'albero con foglie, fiori e frutti ed a sinistra v'è un ramo pur
+            con foglie, fiori e frutti, mentre ben si sa che i fiori sono precoci. Un uomo scende da
+            una scala a piuoli appoggiata all'albero con una cesta carica di frutta].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -43,15 +43,21 @@ layout: default
           </aside>
         {% endif %}
         <script>
-              var r = new CETEI();
-              r.addBehaviors({"tei":{
-                "persName": ["<b>","</b>"]
-              }
-            });
-              r.getHTML5('{{page:plant-xml}}', function(data) {
+          var CETEIcean = new CETEI();
+          CETEIcean.addBehaviors({"tei":{
+           "ptr": function(elt) {
+             var link = document.createElement("a");
+             link.innerHTML = elt.getAttribute("target").replace(/#A-\d+-N(\d+)/, "$1");
+             link.href = elt.getAttribute("target");
+             return link;
+            },
+            "pb": ["[DeToni p. $@n]"]
+          }
+          });
+              CETEIcean.getHTML5('{{page:plant-xml}}', function(data) {
                 document.getElementById("TEI").innerHTML = "";
                 document.getElementById("TEI").appendChild(data);
-                r.addStyle(document, data);
+                CETEIcean.addStyle(document, data);
 
               });</script>
 

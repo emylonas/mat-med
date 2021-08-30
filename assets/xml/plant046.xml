@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-046">
+        <head>N. 46 FRUTICE INCOGNITO</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000359767">[<hi>Lonicera alpigena L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Frutice incognito ritrovato dal Piloto - Corno femina da molti.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Si questo fusse spezie di Corno ne sarebbe di due spezie di femina et uno di maschio,
+            legi <ref type="internal" target="#A-075">k. 75</ref>.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne coli bolognesi ne sonno in quantita.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>L'ecc. m. <persName ref="#Aldrovandi">Ulisse Aldrovandi</persName> tiene sia spezie di Corno femina unde la si potrà chiamare
+            con genere al Corno femina.</p>
+        </div>
+        <div type="editorial-D">
+          <p> [La figura non molto buona è di pianta fiorita; a parte un rametto con due foglie in
+            grandezza naturale. Il Michiel nota circa la disposizione dei fiori che son <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="38"/> «tenuti da lunghi et
+            sotil picioli che ogni uno ne portano due simil a quelli del Chamaepitis ma minor
+            alquanto da quali ci vengono suoi...». La diagnosi non prosegue, perché l'autore non
+            conobbe i frutti.</p>
+          <p>Più tardi il Michiel trovò una pianta congenere non fiorita, ma fruttifera che da lui
+            fu figurata al <ref type="internal" target="#A-149">N. 149</ref> col nome «frangola» ed espresse il dubbio che si trattasse della
+            medesima specie, andando poco lontano dal vero.</p>
+          <p>La specie presente ſu descritta dal <persName ref="#Gesner">Gesner</persName> <ref type="bibl" target="http://id.sbn.it/bid/PUVE006389">[131]</ref> col nome <hi>Chamaecerasus</hi>].</p>
+        </div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

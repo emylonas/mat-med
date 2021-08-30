@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-091">
+        <head>N. 91 BRIONIA</head>
+        <ab>[Bryonia dioica Jacq. e]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Vite alba, Viticella et Brionia da Latini Zucha salvatica da volgari Fesera, Fea vel
+            Fesin da Arabi Ampelos leuchi vel leuce da Greci Ophyostaphylon da molti Chelidonion et
+            Melothron da al- cuni Philothron, Archezostin et Agrosti da altri Cedrostin da varij
+            Stikyurtz vulder Zitwan (2) da Germ. De la Couleuree vel du feu ardant da Galli Bucranij
+            dal Ghyno.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Quatro sonno le Vite non parlando delle vinifere, due bian- che et due nere; delle
+            bianche questa, et l'altra da volgari chiamata Vite alba et parmi il Ciclamino secondo a
+            molti [N. 7]. Di le nere una il Tamaro (N. 24), l'altra volgare posta io l'ho in luogho
+            della seconda clematide de Diascoride [N. 6).</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nasce voluntieri apresso a Olmi et a quelli si alligano, ne sieppi et apie (3) de
+            monti in Lombardia.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita e fruttifera. La figura è mediocre, ma assai belli sono il disegno ed
+            il colorito della radice che era la parte usata in medicina, sia col suo nome legittimo,
+            sia modellata in forma umana col nome di radice di mandragora].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-091N2" n="2"> Stickwutz, Wilder Zitwan (Fucus, De Hist. stirpium, p. 95 – Ed.).</note>
+          <note xml:id="A-091N3" n="3"> A piè.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

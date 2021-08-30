@@ -37,7 +37,7 @@ tei-p {
   display: block;
 }
 
-tei-foreign {
+tei-foreign, tei-hi {
   font-style: italic;
 }
 
@@ -46,7 +46,7 @@ tei-note[type="editorial"] {
 }
 
 tei-div[type="editorial-D"]::before {
-  content: "Editorial Notes: (ed)";
+  content: "Editorial Notes (DeToni)";
   display: block;
   font-weight: bold;
   font-size: 1.5m;
@@ -66,10 +66,42 @@ tei-div[type="notes"]::before {
 
 tei-div[type="notes"] tei-note {
   display: block;
+  counter-reset: note;
+}
+
+
+tei-note::before {
+  counter-increment: note;                   /* Increment the value of note counter by 1 */
+  content:  counter(note) ". ";    /* Display the value of counter, and a period before the  content of each note */
+}
+
+
+tei-div[type="bibl"]::before {
+  content: "Bibliography";
+  display: block;
+  font-weight: bold;
+  font-size: 1.5m;
+  margin-left: -3%;
+  margin-top: 2%;
+
 }
 
 tei-div[type="bibl"] tei-bibl {
   display: list-item;
+}
+
+tei-pb {
+  color: grey;
+  font-style: italic;
+}
+
+tei-fw {
+  display: none;
+}
+
+tei-ptr > a {
+  vertical-align: super;
+  font-size: smaller;
 }
 
 /* --------------- Epidoc styles below ------------- */
@@ -359,17 +391,6 @@ tei-space[dim='horizontal']::before {
   direction: ltr;
 }
 
-/* tei-note::before {
-    content: "/*";
-}
-
-tei-note::after {
-    content: "*/";
-} */
-
-tei-note[type='editorial'] {
-  color: red;
-}
 
 tei-supplied[reason="lost"]::before {
     content: "[";

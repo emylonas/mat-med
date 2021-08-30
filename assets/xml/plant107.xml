@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-107">
+        <head>N. 107 CUMARA</head>
+        <ab>[Arbutus Unedo L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Cumara nel Vesentin - Arbuto, Albatro, Corbezolo et Arbor fragaria da Latini - Comaron et
+            Memechile hoc est Unedonem da Greci - Laureolo, Legno Giudeo et Imbriacola nella Toscana - 
+            Cerasa marina in Romagnia - Catilabinch, Hautanchi da Arabi - Strangulator patris sui, Fidus
+            lupi, Suborbito da Latini.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Due sonno le spetie di Arbuto, una fertile et l'altra sterile. Et ne sonno poi in
+            herba che fanno le fraghe piui gentile che si mangiano con foglie di Trifolio, come
+            narra le Pandette (3).</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne monti de Italia, in Istria, in Arabia venghono molto grande come ci narra Juba de
+            altezza de 50 gommiti.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> - L'Ecc. <persName ref="#Anguillara">Anguillara</persName> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
+            vel andrachne sia l'Arbuto di Diascoride.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Vengono li montagnieri fino a Venetia a vendere de mazzi de suoi vaghi fruti ma
+            pungenti et nuocono al stomaco. Et li tordi et merli nel verno di essi si notriscono et
+            sonno tenuto esser utile alla peste et anche con questi si ristagniano li flussi et
+            corsi di sangue.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita e fruttifera con figure di farfalle volanti e di un lupo ai piedi del-
+            l'arboscello, allusivo al nome • ficus lupi » A parte due coppie di frutti accompagnati
+            da foglia. Il disegno delle foglie non compete certo con quello che troviamo nel Rinio a
+            c. 330, ma la figura del Michiel è più completa ed esatta, comprendendo fiori e frutti a
+            tutti i gradi di maturità ed aggregati come lo sono in natura.</p>
+          <p>Il nome qui citato del dialetto vicentino è corruzione del xdu.zcos di Teofrasto).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-107N3" n="3"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
+            agli arbuti, ci- tando le Pandette, ma in quest'opera esse sono collocate separate sub
+            Fragaria.</note>
+        </div>
+
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="78"/>
+      </div>
+    </body>
+  </text>
+</TEI>

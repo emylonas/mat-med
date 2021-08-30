@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-094">
+        <head>N. 94 ALLATERNO</head>
+        <ab>[Phyllirea variabilis Timb. var. media L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Alaterno da Plinio Allaterna chiamano ancora li vilani da Lanzan a Santo Vito (2)
+            driedo le marine et boschi Amorellum Pandette Olivastro Silvestre da molti Linterna da
+            Pugliesi Comorica da Schiavoni.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nella Istria si fanno legnie et in altri boschi in Italia. Et de molto belli in boschi
+            da Pisa a Livorno.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Questo albero alcuna staggion non li nuoce et sempre ver- deggia, li fiori di
+            primavera con il fruto poi.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> Bosco humido et opacho.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>Molti gia si credetero essere il lecio di Plinio 16.27 ma que- sto non puol esser per
+            non far giande. L'<persName ref="#Anguillara">Anguilara</persName> dice esser l'Alaterna Pli- nii et non dice altro se non che
+            suoe foglie sonno tra l'Ischio et Olivo. Alcuni non sonno fuori di oppinione che sia
+            l'Ancorellum Pandette k. 19.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[In un prato di monte con boschi in distanza sorge la pianta fruttifera con vicino un
+            uomo il quale ne spacca i rami colla bipenne. Presso alla pianta un cane accovacciato ed
+            una catasta di legna ormai segata. Due figure a parte di ramo fiorito e di ramo frut-
+            tifero. Anche nell'Erb. Aldrovandi vol. II, N. 365 questa pianta è chiamata Alatema
+            Plinij.</p>
+          <p>Ed è degno di nota che il vero alatemo è al N. 13 di questo codice col nome Phili- tea.
+            E come al N. 13 si nota che le foglie sono « falate&gt; cioè alterne, qui si nota che sono
+            • rascontrate cioè opposte.</p>
+          <p>Questa pianta è l'alaterna (alterna nell'indice alfabetico) di Anguillara, pag.
+            85].</p>
+
+        </div>
+        <div type="notes">
+          <note xml:id="A-094N2" n="2"> Da Lanciano a S. Vito di Chieti,</note>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="67"/>
+
+      </div>
+    </body>
+  </text>
+</TEI>

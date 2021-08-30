@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,14 +13,13 @@
     </fileDesc>
   </teiHeader>
   <text>
-
-    <body>
+  <body>
       <div type="plant" xml:id="A-001">
         <head>N. I CIRUELAS MONTESES</head>
         <ab>[Not identified]</ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Ciruelas monteses ex fruta de Indiani. <seg type="trans"><foreign xml:lang="eng">wild plums</foreign>
+          <p> Ciruelas monteses ex fruta de Indiani. <seg type="trans"><foreign xml:lang="eng">wild plums</foreign> 
             <foreign xml:lang="ita">prugne selvatiche</foreign></seg></p>
         </div>
         <div type="genus">
@@ -59,7 +56,7 @@
         <div type="editorial-D">
           <p>[Pianta fruttifera intorno alla quale vedonsi volare vari insetti].</p>
         </div>
-
+        
         <div type="notes">
           <note xml:id="A-001-N1">In bianco. </note>
           <note xml:id="A-001-N2">La sigla k si deve leggere a carte (pagina).</note>
@@ -76,14 +73,13 @@
               Giobbe (Ed.).</note>
         </div>
         <div type="bibl">
-          <bibl>Peter Mason, José Pardo-Tomás, Bringing it back from Mexico: Eleven paintings of trees in I cinque libri delle piante of Pier’Antonio Michiel (1510–1576),
+          <bibl>Peter Mason, José Pardo-Tomás, Bringing it back from Mexico: Eleven paintings of trees in I cinque libri delle piante of Pier’Antonio Michiel (1510–1576), 
             <hi>Journal of the History of Collections</hi>, Volume 32, Issue 2, July 2020, Pages 225–237. <idno>https://doi.org/10.1093/jhc/fhy062</idno></bibl>
         </div>
-
+        
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="13"/>
       </div>
-
     </body>
-        </text>
-        </TEI>
+  </text>
+</TEI>

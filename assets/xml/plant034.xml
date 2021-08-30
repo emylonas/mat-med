@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-034">
+        <head>N. 34 CHAMECERASO</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Chameceraso da volg.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Son sp. magg. d'il albero dell'uva scritto <ref type="internal" target="#A-047">k. 47</ref>.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne monti d'<placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName> et .... (<ptr target="#A-034N1"/>).</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Fanno il suo fruto pessimo sangue et son in fin nocivo ma per non esser agrato [= grato, gradevole] viene
+            lasciato.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Fiori bianchi, frutti rossi e calice supero].</p>
+          <div type="notes">
+            <note xml:id="A-034N1" n="1"> In bianco.</note>
+          </div>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="31"/>
+      </div>
+    </body>
+  </text>
+</TEI>
