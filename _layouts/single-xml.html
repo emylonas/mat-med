@@ -22,7 +22,7 @@ layout: default
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
 
-    <div class="page__inner-wrap">
+    <div class="page__inner-wrap col-md-3">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
@@ -41,7 +41,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        <div class="col-md-3">
+
         {{ content }}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
@@ -67,7 +67,7 @@ layout: default
       </script>
       
         <div id="TEI"></div>
-      </div>
+
       <div class="col-md-3">
         <img src="{{page.plant-img | relative_url}}" width="20%"> 
        <br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem eveniet vero, necessitatibus quisquam maiores error fugit veritatis, odio minima nam corrupti, eligendi ipsa reprehenderit? Laborum, obcaecati harum? Eius, voluptates animi.
