@@ -17,16 +17,16 @@ url                      : ""
 baseurl                  : "/"
 
 # GITHUB REMOTE THEME
-#remote_theme             : "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-#url                      : "https://emylonas.github.io"
-#baseurl                  : "/minimal-xml/"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url                      : "https://emylonas.github.io"
+baseurl                  : "/minimal-xml/"
 
 # THEME-SETTINGS-RECLAIM
-# theme                    : "minimal-mistakes-jekyll"
-# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# url                      : "http://cody.digitalscholarship.brown.edu"
-# baseurl                  : "/minxml/"
+ theme                    : "minimal-mistakes-jekyll"
+ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+ url                      : "http://cody.digitalscholarship.brown.edu"
+ baseurl                  : "/minxml/"
 
 # THEME-SETTINGS-OTHER
 #theme                    : "minimal-mistakes-jekyll"
@@ -330,4 +330,4 @@ defaults:
       author_profile: false
       share: false
       sidebar:
-        nav: "plants"      
+        nav: "plants"
