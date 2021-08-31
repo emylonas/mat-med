@@ -52,7 +52,7 @@ layout: default
                 "persName": ["<b>","</b>"]
               }
             });
-              r.getHTML5('{../..page.plant-xml}}', function(data) {
+              r.getHTML5('{{page.plant-xml}}', function(data) {
                 document.getElementById("TEI").innerHTML = "";
                 document.getElementById("TEI").appendChild(data);
                 r.addStyle(document, data);
