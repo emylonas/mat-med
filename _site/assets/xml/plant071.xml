@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-071">
+        <head>N. 71 MADRE SILVA</head>
+        <ab>(Lonicera Caprifolium L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Stribonio da Latini Mater silva, Barba de Becho da volgari Polium Veneris da Magi
+            Turcum da Egyptij Volucrum maius da Romani Lavath da Aphricani Splenon, Epetitim, Lineal
+            et Pericli- meno da Greci – Geyszblate (3), Spechoder, (4) Vvaldgilgen (5) et Zeunling
+            da Germani Chevrefueille da Galli — Venciboscho et Asinam maiorem da molti Mircinem
+            idest Chalichanthemon et Clematim da alcuni Capri- folium da altri – Grimathpariclimenon
+            da Arabi Peridemon, Velliceos, Exacanton delle Pandette.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nasce ne sieppi et fossi in quantita invogliendosi in essi. Et ponosi nelli vaghi
+            giardini per inteser porte, muri, finestre et fazade.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>L'<persName ref="#Anguillara">Anguilara</persName> mi disse che Oriobasio et Crateua dicono macran che significa lungha alla
+            radice a k. 252. </p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita e fruttifera con ai lati due rametti, uno fiorito, l'altro fruttifero.
+            L'Anguillara cito le parole prav praxtlar maxpay, dietro le quali argomento che il peri-
+              <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="51"/> climeno fosse la
+            madresilva, mentre oggidi si distinguono le due specie L. Periclyme- num e L.
+            Caprifolium.</p>
+          <p>La lunga diagnosi che dà il Michiel nel testo dimostra la cura colla quale studið la
+            pianta. P. e. delle foglie dice: « venghono a doi una giusta l'altra et verso le cime
+            abraciano il fusto che pareno una sol fronda rotonda » e dei rami : «quegli rami che
+            pro- ducono fiore finiscono il ramo da fiore et non da foglie », riconoscendo così la
+            connazione delle foglie superiori e la distinzione dei rami fertili dagli sterili non
+            figurati nella tavola).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-071N3" n="3"> Geisblatt.</note>
+          <note xml:id="A-071N4" n="4"> e</note>
+          <note xml:id="A-071N5" n="5"> • Si deve evidentemente leggere Spock- oder Waldgilgen. (Ed.).</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

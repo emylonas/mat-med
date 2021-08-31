@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-066">
+        <head>N. 66 SAMBUCO SP.C</head>
+        <ab>(Sambucus racemosa L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Sambucus silvestris Trago Acten, Dendronarctu, hoc est Arborem ursi, da altri –
+            Scobiem da Galli Seba da Daci - Grosser Mal- baum da Germani Frassini species da
+            alcuni.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Due spezie sonno poste da Diascoride, et per esser vol- gare io non le dimostro, una
+            son in albero et son proprio sambuco (2), l'altra spezie chiamato Chameacte et Ebulo
+            (3), qual viene in frutice. Et questo che non son in altro differente se non nel fiore
+            et fruto et son tenuto per il silvestre.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In Germania et in Monte Baldo sul Veronese.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Columella ci narra questi versi : Atque habilis naturi soli et Gramina letto. Parturit
+            et ruptilas. Ebuli creat uvida baccas. Sanguinis Ebuli minioque rubentem. Et nella
+            Bucolica Egloga ultima (4). Et il Ruelio de Natura Stirpium libro primo cap. primo
+            versus finem. </p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita in mezzo ad un prato. Sul ſusto si arrampica un gatto, mentre un altro
+            è a terra con un topo in bocca. A parte due rami, uno fiorito, l'altro fruttifero).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-066N2" n="2"> S. nigra.</note>
+          <note xml:id="A-066N3" n="3"> S. Ebulus.</note>
+          <note xml:id="A-066N4" n="4"> • I versi cui si allude sono: Atque habilis natura soli et gramina lacta
+            Parturit et rutilas ebuli creat uvido baccas Colum. X, 9-10 Sanguineis ebuli baccis
+            minioque rubentem Verg. Buc. X. 37 (Ed.).</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

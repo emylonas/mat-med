@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-160">
+        <head>N. 160 GRANA</head>
+        <ab>(Quercus coccifera L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Grana para tenir da Spagnioli Cocus baphica, Granum infectorium da Greci et Latini
+            Carmen, Kermes da Arabi Scharlach ber (1) da Tedeschi Vermillon da Francesi Chervach da
+            Dalmati.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Di Grana sara questo arbusto. Et sonno varie spetie la pro- duce, quella che dice
+            Diascoride nascer nelle quercie, et della pimpinella ancora. Una altra spetie si porta
+            novamente dalle Indie occidentali che potria esser quella pungente ho dimostro nel libro
+            giallo a k. 144.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Son arbusto assa di grossa radice, et tronchi, con foglie che tira al quanto
+            all'aquifolio ma non pungente, con rotondi frutini poi che di essi se ne cavano la
+            grana.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p>Io di questo arbusto ne hebbi uno ramo secho et insieme <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="109"/> la discretione con queste parole quivi
+            scrite dal Cl.mo M. Antonio Barbarigo fu bailo a Costantinopoli. Et disse nascerne verso
+            Andernopoli (2) ne boschi loro. Et questa potria esser quella che narra Plinio nascere
+            in Aphrica et quella di Diascoride che nasce nelle quercie in Cilicia, ne sonno anchora
+            in Boemia et Polonia.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Sempre verdeggia. Et suoi fruti l'Esta qualli stano lungho tempo sopra l'albero.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> De suoi fruti da se caduti ci nasce.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Quello che si dimostra nelle spetiarie non si rasembra a quella che narra Diascoride
+            se ingana li reverendi Padri (196) intorno alla Grana et il Cremesino, credendo che ci
+            siano differenza insieme. Et... (3).</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI NELLA PIANTA</head>
+          <p> Et perché io ho havuto la discrecione diversamente cioe esser albero et non pongente
+            lo posto quivi (4). Et altri con foglie spinose pero lo posto anche al luogo delle
+            piante spinose (5).</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta con foglie e cogli insetti parassiti (Coccus Ilicis) collocati alle ascelle
+            foliari, dietro l'idea che fossero frutti, idea che troveremo ribadita al N. 144 del
+            libro giallo colle parole : «di fruti di granna ci nasce benchè in quel libro il Michiel
+            mostri di sapere che quei corpi rossi lasciati a se producono insetti. Questo errore
+            durò a lungo, benchè un contemporaneo del Michiel (208) li qualificasse giustamente come
+            animaletti ed an- cora prima di lui tali li ritenesse il popolo, chiamandoli vermi,
+            donde la parola ver- miglio indicante il colore. Altri due contemporanei del Michiel, il
+            Pena ed il Lobelio asserirono che la grana non era nè frutto, nè seme, ma • excrementum
+            ilicis » che poi si trasforma in moscerini, assimilandola alle galle, come più tardi
+            fece il Fagon. Du- rante (111) li chiamo bacche.</p>
+          <p>Nel commento alla figura di questa stessa pianta al N. 144 del libro giallo si parlerà
+            delle tre piante coccifere di <persName ref="#Anguillara">Anguillara</persName> e della loro identificazione. Qui l'autore
+            parla di un'altra specie di grana tintoria, di cui parla anche il Mattioli, proveniente
+            dalle Indie occidentali che è la cocciniglia (Coccus Cacti) ma mostra di non conoscere
+            su qual pianta si trovi, benchè questa pianta sia da lui figurata nel libro giallo N.
+            121. Solo, forse per aver sentito dire che era pianta spinosa, arrischia l'opinione che
+            sia la • pianta pro- pria » figurata nel medesimo libro N. 144 che invece è identica
+            alla presente.</p>
+          <p>La figura data in questa pagina è inferiore a quella del Rinio c. 172, ma supe- riore a
+            quella molto infelice che diede, un secolo dopo il Michiel, lo Chabray (63). Che la
+            pianta fosse poco diffusa abbiamo la prova in ciò che nel secolo XVII era notata fra le
+            più cospicue dell'Orto botanico di Pisa [262]].</p>
+          <div type="notes">
+            <note xml:id="A-160N1" n="1"> Beere = bacca da scarlatto.</note>
+            <note xml:id="A-160N2" n="2"> Adrianopoli.</note>
+            <note xml:id="A-160N3" n="3"> Non continua.</note>
+            <note xml:id="A-160N4" n="4"> E non pungente l'ho posto qui.</note>
+            <note xml:id="A-160N5" n="5"> Cioè alla fine del libro giallo.</note>
+          </div>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>
+      

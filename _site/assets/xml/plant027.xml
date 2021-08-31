@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-027">
+        <head>N. 27 FUSARIA, STONBER</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000681728">[<hi>Euonymus Europaeus L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p>Evonimo da Theophrasto - Fusaria latini - Barete da preti da vuolgari - Stomber (<ptr target="#A-027N1"/>) da
+            Germani - Silio da Italiani et Fusaro - Spindelbaum da Tedeschi.</p>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="28"/>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Due spezie ci sonno maschio et femina ne altra differenza tra loro non ci è se non
+            nella grandezza.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne sonno in boschi de <placeName ref="https://www.geonames.org/3174618/lombardia.html">Lombardia</placeName> della minor. Et del maggior in <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Alemagnia</placeName> et io nel mio
+            giardino per molti anni ne ho mantenuto uno.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Da simplicisti sonno tenuti per l'Evonimo di Theophrasto lib. 3 cap. ultimo. Et
+            l'eccell. <persName ref="#Anguillara">Anguillara</persName> k. 81 tiene anchora lui.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Si dice che de suoi semi bagnati in acqua di vita et posti sopra a fracidi denti et
+            dolorati li risanano et cavano il dolore. Et la sua polvere ocide li pedocchi. ... </p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fruttifera; a parte un ramo fiorito. La pianta sorge in un piano erboso con
+            case e figure di donne ed uccelli].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-027N1" n="1"> Forse Slounboer, cioè bacca producente stupore, pegli effetti venefici.
+            Veramente i frutti sono capsule, ma pel vivo color rosso o per la consistenza carnosa
+            dei semi si riguardavano come bacche.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

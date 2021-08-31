@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-111">
+        <head>N. III SEBESTE DI LEVANTE</head>
+        <ab>(Cordia Myxa L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Sebeste da volgari et latini Mixaria et Mahalomagiata da Greci Faulis Sebesten da
+            Arabi Mamilla cannis (2) da Persi Schwartz- brustbeerle da Tedeschi.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Sarebbe due spetie, questa una et quella inanti demostra chi volesse fusse spezie di
+            Sebeste piui presto che altro k. 110.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In Alesandria et Soria dunde sonno portate a noi.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p>Mi naque de suoi semi et mi pare sempre stia verde ma pero non lo afermo perché mi
+            morse (3) con il grande fredo. Suoi fruti io ho sen- tito che nascono molti insieme in
+            cima e' rami come in panocchia et me lo disse il Falopia.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fruttifera sorgente in un prato con figure di uomini nudi e di animali. A parte
+            un ramo con foglie e frutti. Benchè il Falloppio avesse giustamente descritta
+            l'infruttescenza, il Michiel la figurd come grappolo semplice ; contuttocið la figura è
+            migliore dal lato scientifico di quella del Rinio (c. 414) nella quale solo i frutti
+            sono legittimi e le foglie son fittizie. Sarebbe riuscita ancor migliore se il Michiel
+            avesse preso cognizione di quella data dal Mattioli, ma questa figura fu pubblicata dopo
+            la presente nell'edizione del 1568 che il Michiel consulto quando ormai la pittura era
+            fatta. Infatti <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="81"/> il
+            Mattioli nell'edizione precedente del 1560 all'articolo Prunus dice del sebesten da lui
+            riguardato specie di pruno : « nunc vero non ubique familiares, sed raris admodum hortis
+            et viridarijs virent » e non ne da alcuna figura, mentre in quella del 1568 dice: • Ma
+            hora non so io che s'habbino i Sebesteni in verun horto d'Italia. Fummene man- dato un
+            ramo seccho con i frutti dal clarissimo medico M. Gabriele Falloppia di Padova, di cui è
+            qui la figura ». D'altra parte il Marini (176) che copið la presente figura del Mi-
+            chiel ne scrive: «si Myxorum (Sebesten arabes vocant) plantam ad vivam effigiem
+            expressam ostenderemus, quam nemo hactenus, quod equidem sciam, monstravit, eius nobis
+            sicut et aliorum multorum copiam fecit insignis vir probitate ac meritis Petrus Antonius
+            Michaelius, quem antea saepe nominavimus.</p>
+          <p>Rammentando ciò che dicemmo altrove, che il presente Codice fu cominciato in- torno al
+            1561, tenendo presente altresi che il Marini pubblico l'opera sua nel 1562 e facendo gli
+            opportuni confronti delle asserzioni dei tre autori, possiamo trarre le con- seguenze :
+            1° Il primato della conoscenza della specie spetta al Falloppio ; 2Il primato
+            dell'iconografia spetta al Michiel).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-111N2" n="2"> Canis.</note>
+          <note xml:id="A-111N3" n="3"> Mori.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

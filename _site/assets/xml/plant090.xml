@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-090">
+        <head>N. 90 CHARANCE</head>
+        <ab>[Momordica Balsamina L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Charancia da volgari Balsamina da latini et Pomum mirabile dal Trago Merveille zioe
+            (1) mirabile pomum da Galli Viticella da alcuni Pomum hierosolimitanum da Italia
+            Balsamkraut da Germani.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Tre spetie da volgari sono di Balsamina. Una simplicemente con il nome di Balsamina
+            (2), l'altra son il Giranio Momordica (3) et questa. Et di tutte li antiqui non ne ha
+            fatto mentione salvo chi non volesse dire che la Momordica fusse il Geranio primo di
+            Diascoride.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In Lombardia non ci manca sopra le finestre custodita da vaghe et delicate mani
+            facendosi umbra di esse et gelosia.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Se ne fanno perfetissimo oglio per con prestezza consolidare, et ferite massime suoe
+            foglie per nervi. Et giova alle mamelle ulcerate et a dolori della matrice, aposteme et
+            ulcere. Et diconsi che ungendosi con <fw type="running-head" place="top">LIBRO
+              AZZURRO</fw><pb n="65"/> questo oglio la matrice et poi usar con il marito fa
+            ingravidare. Et il Mathiolo ne raggiona de molte virtu al cap. 184 (1) de Vite nera.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Buona figura di pianta avvolgentesi intorno ad uno stelo. A sinistra un rametto con
+            foglia, fiore e frutto verde, a destra un rametto con foglie e frutto maturo.</p>
+          <p>La più antica figura che si conosca di questa specie è quella alla c. 140 del Cod.
+            Rinio, la quale supera in bellezza questa del Michiel. A quei tempi, cioè nella prima
+            metà del sec. XV, si usava solo il nome caranza, ora applicato ad una congenere, e
+            quelli di Balsamina e Momordica cominciarono ad usarsi verso la fine (19).</p>
+          <p>Il Geranio primo di Dioscoride è G. tuberosum come risulta dalla diagnosi : <foreign xml:lang="grc">γεράνιον φύλλῳ ἀνεμόνης ῥίζᾳ ὑποστρογγύλῃ γλυγέιᾳ</foreign> (geranio a
+            foglie d'anemone, a radice gonfia, dolce) e quello che si chiamava nel sec. XVI Geranio
+            Momordica (G. rotundifolium) era secondo il Mattioli, il <foreign xml:lang="grc">γεράνιον ἕτερον</foreign> o Geranio secondo di Dioscoride, benchè la diagnosi possa
+            servire ad altre specie, come G. molle, Erodium malacoides.</p>
+          <p>La specie presente è la Balsamina 1 o Caranzi di Anguillara, p. 243].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-090N1" n="1"> Ciod.</note>
+          <note xml:id="A-090N2" n="2"> Impalions Balsamina, lib. Ro. I, N. 64.</note>
+          <note xml:id="A-090N3" n="3"> Geranium rotundifolium. 1 c. 148 del lib. IV. (Ed.). </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-045">
+        <head>N. 45 CHICO CAPOLT</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000294988">[<hi>Achras Sapota L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Chico capolt (<ptr target="#A-045N1"/>) da Indiani over Spagnioli.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Parmi sp. di pomi musetini et gentili.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoe radice grande grosse et legnose, son albero grande di grosso tronco et di
+            pavonazio colore fornito di amuchiate frondi strete et lunghe simil a persichi, suoi
+            fruti simil a pomi piccoli et tenuti da lungheti piccioli, overo a armelini (<ptr target="#A-045N2"/>). De
+            l'India transferiti in Ispania come deto nell'altri.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> De in serto (<ptr target="#A-045N3"/>) è da credere che meglio ci venga che di nuclei seminati.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fruttifera con vari insetti volanti all'intorno. La figura fu copiata dal
+            Marini che la credette il Mirabolano indo degli antichi. La figura del Marini è
+            invertita rispetto alla presente in conseguenza della riproduzione fatta per la stampa.
+            Oltracciò fu cangiato il colorito, essendovi verde il fusto che il Michiel fa paonazzo
+            ed atri i frutti che il Michiel fece ranciati. Il Marini portò queste variazioni per
+            uniformarsi alla descrizione dei Mirabolani indi.</p>
+          <p>Per maggiori spiegazioni v. <ref type="internal" target="#A-067">N. 67</ref>].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-045N1" n="1"> * La lettura del codice è incerta: potrebbe essere anche zapolt. Si tratta
+            ogni modo della pianta che gli spagnoli chiamano Chico zapote (<hi>Achras Sapota L.</hi>).
+            (Ed.).</note>
+          <note xml:id="A-045N2" n="2"> Albicocche.</note>
+          <note xml:id="A-045N3" n="3"> Innesto. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

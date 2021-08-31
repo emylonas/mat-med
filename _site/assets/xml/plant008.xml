@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-008">
+        <head>N. 8 SAVINA</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000354994">[<hi>I. Juniperus Sabina L.</hi>]</ref>. - <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355663">[<hi>II, Juniperus phoenicea L.</hi></ref>]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p>Savina da volg. - Abhel da Arabici da Germ. - Savinier da Galeno - Arathy, Barython
+            et Baron Brachi da Greci - Sabina da Romani - Sevembaum (<ptr target="#A-008N1"/>) da Germ. - Savinier da Galeno - Smirichi Gluchi (<ptr target="#A-008N2"/>) per la Schiavonia
+              <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="17"/> Thuvia da
+            Theophrasto et Tuffia - Sellagine Plinij una altra Herba simile.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Due sonno le sp. di Savine, l'una che rassembrano nella foglia a Cipressi [I] et
+            l'altra al Tamarigio [II].</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Quella con foglie di Cipresso ma piui spinose viene de <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName>, l'altra per la
+            <placeName ref="https://www.geonames.org/3190590/slavonia.html">Schiavonia</placeName> ne sono (<ptr target="#A-008N3"/>).</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>L'Ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 46 dice esser de due spezie et la prima
+            esser la Tuvia Theophrasti et anche altri moderni simplicisti cosi ci tiene. Altri pure
+            de moderni tiene esser la <hi>Miride Egiptia</hi>. Et molti con errore la prendeno per la
+            Selagine di Plinio che son herba.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Le magice femine triste ne fanno de varie spurticie (<ptr target="#A-008N4"/>) con esse. Et fannosi proffumi
+            di esse che giovano posti al luogho delle donne per far uscire morti fanciuli. Et
+            beendone con il vino et melle sana il regio morbo (<ptr target="#A-008N5"/>). Et son valorosa per escicar et
+            provocar li mestrui et fanno urinare el sangue ... </p>
+        </div>
+        <div type="editorial-D">
+          <p>[La prima pianta è un albero fruttifero, della seconda v'è solo un rametto con foglie,
+            amenti e frutti. Per meglio rappresentare le virtù della pianta <hi>J. Sabina</hi> che in realtà
+            ha effetti violenti e più volte somministrata con imprudenza o malizia produsse
+            l'aborto, l'albero porta sospesi due vasi di vetro, nell'uno dei quali vedesi un feto,
+            nell'altro una figura di donna incappucciata, forse la maga che l'Autore avrebbe condannato ad esser conservata in alcool per subir la pena del taglione. La seconda pianta
+            fu contemporaneamente figurata dal <persName ref="#Mattioli">Mattioli</persName> sotto il nome di <hi>cedro fenicio</hi>. Sia dalla
+            presente figura, sia da quanto dice espressamente nel testo l'<persName ref="#Anguillara">Anguillara</persName>, risulta che la
+            pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName>Pasqualigo</persName> è la
+            sabina, quindi a torto il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> disse che l'Anguillara vide in quel giardino
+            la vera <hi>Thuia</hi>].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-008N1" n="1"> Sevenbaum.</note>
+          <note xml:id="A-008N2" n="2"> Smric-gluhi.</note>
+          <note xml:id="A-008N3" n="3"> Tratto dall'Anguillara.</note>
+          <note xml:id="A-008N4" n="4"> Sporcizie.</note>
+          <note xml:id="A-008N5" n="5"> Itterizia.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

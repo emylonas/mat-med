@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-064">
+        <head>N. 64 PLATANO</head>
+        <ab>[Platanus orientalis L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Platano over Suffire da Greci Dulb, Dulbo over Baccam da Arabi Palma Christi in
+            Ispania Scotano da Latini.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> — Ne sonno in Sicilia qualli furno portati per il Mare Gionio (1) et ne sonno qualche
+            uno in Italia, in Candia ne sonno in quantità, et io ne ho mantenuto uno nel mio
+            giardineto.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Se bene mi racordo non perde fronde. li fruti de Giugno et Luglio</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> In molta humidita et apresso all'acque. Et se ne vegono doi alle Scalle d'il Bel
+            vedere acanto il corente fiume che scaturisce con vagho artificio al palagio che fu
+            della Santita di Papa Giulio inanti si giunga a Roma et mandano dilletevol et suave
+            ombra. Et chi li annafiassero con vino molto gli gioveriano come faceano ei Romani.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> Germoglia et si rimette; et son albero che rizeve ogni sorte de in Esti (2) ma
+            corompono alquanto gli sapori.</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI</head>
+          <p> NELLA PLANTA Questo son l'istesso narrato da Theophrasto et da Licinio Mutiano.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Suoa umbra son molto soave et dilettevol come si lege che ciascheduno debasi guardare
+            da la polvere che ci nasse delle suoe frondi impero (3) ritirata nelle fauce ci nuoce et
+            anche nell'occhi et orecchie... </p>
+        </div>
+        <div type="editorial-D">
+          <p> (In mezzo ad un paesaggio con caseggiato sorge l'albero fruttifero. La figura con è
+            molto buona, ma ha importanza perché rappresenta una pianta rara a quei tempi in Italia,
+            come apprendiamo non solo dal Michiel, ma anche dall'<persName ref="#Anguillara/">Anguillara</persName> che ne conta pochi
+            individui nel Veronese, nel Bolognese ed a Padova, quest'ultimo nel giardino di Mons. 
+            Torquato Bembo (4).</p>
+          <p>Un secolo dopo la compilazione del presente codice lo Chabray (p. 62) scriveva del
+            Platano: * in Orbe nostro rara admodum est : nec nisi in divitum hortis apud Italos,
+            Hispa- nos, Siculos et Constantinopolitanos reperitur. Sic speciosas habent Florentiae
+            pomoeria: Romae, Bononiae, Patavij et Neapolitanae urbis horti».</p>
+          <p>Le prime notizie sul platano furono date da Marco Polo sotto i nomi di albero del sole
+            o albero secco). </p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-064N1" n="1"> Ionio.</note>
+          <note xml:id="A-064N2" n="2"> Innesti.</note>
+          <note xml:id="A-064N3" n="3"> Imperocche.</note>
+          <note xml:id="A-064N4" n="4"> Questo platano fu cantato in versi da Giovanni Hagius e Pietro Cotichio.
+            Altre figure della pianta diedero il <persName ref="#Belonio">Belon</persName> ed il Trago (41306), un campione si trova
+            nell'Erbario Aldrovandi, .</note>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="48"/>
+      </div>
+    </body>
+  </text>
+</TEI>

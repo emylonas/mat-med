@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-043">
+        <head>N. 43 ASCLEPIAS DE FRANCIA</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000633390">[<hi>Cynanchum nigrum Pers.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Asclepias da volgari - Periplocada come pianta che se invilupa da Greci - Apocino da
+            molti.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Tre spezie con questa ho dimostro [<ref type="internal" target="#A-041">NN. 41</ref>, <ref type="internal" target="#A-042">42</ref>].</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In (sic) l'hebbi di Francia dal <persName>Tholomei giovane simplicista</persName> degnissimo.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> L'ecc. <persName ref="#Anguillara">Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 274 al cap. del A pochino di questa ne parla. Et
+            molti tengono oppinione sia piui presto apocino che asclepias.</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI NELLA PIANTA</head>
+          <p> Questa pianta tiene pocha o niente di parte de similitudine con la Asclepiade descrita
+            da Diascoride.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Si possono comprendere che son pianta ancora piui malignia che tutte l'altre che
+            mandano latte et questo per esser giallezzio et piui efficazzie il suo succhio.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita. Nel testo il Michiel paragona le foglie a quelle della «persicaria
+            aquatica ma più lunghe». Quando egli ricevette il campione, i fiori erano ormai
+            sbiaditi e con quella tinta gialliccia son rappresentati nella pittura; perciò l'autore
+            nella diagnosi avverte che sono «di colore purpurescente scuro et grandi come quelli
+            del secho moro fratesco dal qualle ci viene poi» cioè al <ref type="internal" target="#A-050">N. 50</ref>.</p>
+          <p>L'Anguillara nel suo libro, dopo aver parlato dell'apocino dice: «Doppo di questa mi
+            furono mandate nel 1549 di Grecia due piante che producono silique, le quali ambedue si
+            aviluppano su per gli alberi con lunghi rami. Una fa le foglie simili all'Hedera (<ptr target="#A-043N2"/>) e
+            l'altra simili all'Oleandro (<ptr target="#A-043N2"/>) et questa (<ptr target="#A-043N3"/>) fa un succo bianco e quella (<ptr target="#A-043N4"/>) gialligno». Ambe le piante gli furono inviate col nome di Periplocada, col qual nome si intendeva
+            qualunque pianta volubile].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-043N1" n="1"> È quella figurata dal Michiel al numero precedente.</note>
+          <note xml:id="A-043N2" n="2"> È la pianta figurata nel presente numero.</note>
+          <note xml:id="A-043N3" n="3"> Intendesi la prima, cioè grammaticalmente <hi>quella</hi>.</note>
+          <note xml:id="A-043N4" n="4"> Intendesi la seconda, cioè grammaticalmente <hi>questa</hi>.</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

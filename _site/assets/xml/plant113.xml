@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-113">
+        <head>N. 113 GUAIABO</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Guaiabo da Indiani Et Guaive, Guaiave.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Ne sonno de varie sorte che producono de varij fruti, in al- cuni rotondi in altri
+            lunghi.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In India nel Darien.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Suo legno son sano. Et li fruti verdi ristringono come le sorbe, dunde poleno
+            adoperarli in vece di sorbe. Et leggesi nel <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">primo libro del India 48 et 142</ref>. Et nel
+            <ref type="bibl" target="http://id.sbn.it/bid/LO1E013261"/>secondo k. 98.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta fiorita e fruttifera, figura forse copiata (di Psidium pyriferum ?)].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

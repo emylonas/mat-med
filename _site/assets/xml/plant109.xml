@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-109">
+        <head>N. 109 CROTON NICANDRO</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Croton da Nicandro.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In luoghi asperi, montuosi et sassosi in Dalmatia a molini di Sebenico.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Io credo stia sempre verde. Suoi fruti al fin dell'Esta.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> L'<persName ref="#Anguillara">Anguilara</persName> k. 204 dice che potrebbe esser questo il Cro- ton de Nicandro.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Per non haver gustato de suoi frutti non vi scio che dire ma il suo legnio puol valere
+            in vece di quel del Pino.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Fusto nodoso, a foglie lineari verticillate, fiori rossi, frutti rossi. Pare fittizia,
+            dietro la descrizione dell'Anguillara (1)].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-109N1" n="1"> * L'interesse che può avere questa pianta - se, come pare, esaminata o
+            comunicata dall' Anguillara – più che nella supposta corrispondenza col testo di
+            Nicandro (questo autore npuxd, verso 676 la nomina senza nessuna indicazione, e solo il
+            suo commentatore la dice vagamente simile al pino ), sta nella possibilità che
+            rappresenti quella specie che l' Anguillara osservò a Sebonico, e che le fg. disegnate
+            nettamente aciculari, insieme con l'accenno al legno e ai frutti, farebbero supporte una
+            conifera a galbulo. Oltre all'indicazione della località, anche la diagnosi data dal
+            Michiel é ricalcata dall'Anguillara. (Ed.). </note>
+        </div>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="79"/>
+      </div>
+    </body>
+  </text>
+</TEI>

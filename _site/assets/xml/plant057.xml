@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-057">
+        <head>N. 57 HEBANO</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Hebano da volg. latini Abnus, Ebus, Ebibirius da Arabi.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Dui sonno li generi del Ebano uno laudato et vagho, l'altro vile et vitiato, il raro
+            son molto prestante, di l'altro ne son molto. Et son comendato nel colore del
+            legnio.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Narra Theophrasto che sono molti che dicono esser simil al Terebintho ne foglia rami
+            et nel resto ancora ma il fruto son simil allo mandole in forma et gusto ma non in
+            grandezza et son albero fruticoso a modo di Cytiso et duro di legnio l'Absi e di legnio
+            nero et morde la lingua et di buon odore. Et il Indo son con lineamenti bianchi et di
+            color sub-ruffo.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne sonno in India. Et io hebbi questo ritrato da uno portogese di Hetyopia.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONE</head>
+          <p> Mi fu fermato dal deto portogese esser forma del He- bano ma che io l'affermi non ne
+            scio altro. -</p>
+        </div>
+        <div type="editorial-D">
+          <p>(Pianta a foglie piccole, ovali allungate; frutti rotondi, verdi, ascellari,
+            solitari).</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

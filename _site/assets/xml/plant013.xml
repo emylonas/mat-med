@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-013">
+        <head>N. 13 PUTANA VEL OLIVELA</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000462513">[<hi>Rhamnus Alaternus L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Olivela, Putana vel Phylirea in Roma - Faulbauim da Germani.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> In Romagnia voleno sia sp. di Phylirea. Et la Conestrella, <ref type="internal" target="#A-012">[N. 12]</ref> la terza poi la
+            sequente et migliore delle qual ne sonno una altra sp. con le foglie rascontrate.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne sonno nei monti et vigne di <placeName ref="https://www.geonames.org/3169071/roma.html">Roma</placeName>.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> Sempre sta verde, suoi fiori de agosto con il fruto poi del qual li tordi se
+            ingrassano.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName>Agustin Alpago</persName>
+            et a molti non sonno de oppinion.</p>
+        </div>
+        <div type="disagreements">
+          <head>DISPARERI NELLA PIANTA</head>
+          <p> Non si puol negare che la non sia sp. di Phylirea si per il gusto come per la
+            forma.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Pianta con fiori e frutti a due gradi di maturità, cioè rossi ed oscuri. A parte un
+            rametto con foglie e frutti maturi. Sui rami varie figure di tordi. Il <persName ref="#Bonato">Bonato</persName> la ritenne
+            Phyllirea latifolia, ma la figura ha le foglie alterne il che è asserito anche nel testo
+            colle parole: «et venghon falate». Notisi che anche il <persName ref="#Cesalpino">Cesalpino</persName> chiamava questa
+            specie Phyllirea. Al <ref type="internal" target="#A-152">N. 152</ref> di questo libro si paragonano le sue foglie a quelle
+            dell'agazzino. Una Phyllirea è a <ref type="internal" target="#A-094">N. 94</ref> col nome alaterno].</p>
+        </div>
+      </div>
+<fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="22"/>
+          </body>
+  </text>
+</TEI>

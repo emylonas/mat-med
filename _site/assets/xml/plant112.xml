@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-112">
+        <head>N. 112 GUAICO</head>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Guaico da Indiani Legno santo, legno dal mal francese da volg. Guaiacan et china dali
+            medemi Indiani Arbor Indica occidentalis da Latini Frantzosen Holtz, Blatrerholtz da
+            Germani.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Credesi che questo et il Guaiacan et China siano uno istesso, apar nel primo (1)
+            dell'India k. 40 Arbor Indica occidentalis. Et il Manardo ne fa di 3 sp. et nel legno si
+            conosce aperto, ma pero non scio se sia diversi alberi overo uno solo piui chiaro et
+            piui venato scuro di tronco et legno.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoa radice proffunda. Son albero grande come frassine di grossezza di huomo con
+            nerregnia cortezzia et dentro giallezzio venado. Suoe frondi ferme et brevi simil al
+            piantagine. Et il magn. M. Giovan Batista Duodo ritrovo una foglia che son ritrata, la
+            vide nelli invogli delle canelle che si fa giudicio possi esser di questo Albero si per
+            el gusto come per la forma assigniatagli da Spagnioli, la qual è simil a peri con grosso
+            nervo nel suo mezzo ma più larghe con gusto alquanto astringente. Li fiori sonno gialli,
+            da qualli ci viene suoi fruti grossi come noce e.... (2).</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Nelle Indie ritrovati da Spagnioli di Colocuti (3) dalla Ta- brobana. Et anche in
+            Ethiopia.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p> De suoi semi et ne seminai ma non mi naque.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p>Il Gualtieri dimostra havere oppinione che sia sp. di Ebano et altri ancora.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Come ben si comprende dal testo la foglia disegnata a parte è di una pianta differente
+            dalla intiera e malamente il Michiel la giudico della stessa specie dopo aver detto e
+            confermato nel disegno che le foglie dell'albero son di piantaggine. </p>
+          <p><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="82"/> L'intera pianta
+            fiorita e fruttifera ha qualche idea del Guaiaco di Giammaica ma dev'esser fittizia
+            (4)].</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-112N1" n="1"> • Questa citazione deltprimot libro (77] è certo una svista; dovevaessere t
+            libro II, k. 40 •·(Ed.).</note>
+          <note xml:id="A-112N2" n="2"> Non prosegue.</note>
+          <note xml:id="A-112N3" n="3"> Calicut.</note>
+          <note xml:id="A-112N4" n="4"> • Ha fiori solitari, gialli. (Ed.). </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

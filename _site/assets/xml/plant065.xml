@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-065">
+        <head>N. 65 SORBO TERMINALE</head>
+        <ab>[Pirus torminalis Ehrh.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Sorbe torminale da volgari Crategus son il sorbe torminale Plinij. Milder Sperwerbaum,
+            Eschronsel da Germani (1).</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Con nome di sorbe, oltra di questo son il domestico. Et de Crategon sono inanti k. 53
+            uno altro albero.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne monti de Italia ne sonno. Et li frati zocolanti in San Fran- cesco nel suo
+            giardineto ne ha uno.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> L'<persName ref="#Anguillara">Anguillara</persName> et' altri k. 80 tiene che il Sorbo torminale di Plinio sia l'istesso che
+            il Crategus di Theophrasto, ma le foglie non lo dimostrano se son questo che le hanno di
+            Platano. </p>
+        </div>
+        <div type="editorial-D">
+          <p>(Pianta fiorita e fruttifera ; a parte due ramoscelli, uno fiorito, l'altro fruttifero
+            in grandezza naturale).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-065N1" n="1"> Nomi del sorbo comune,</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-101">
+        <head>N. 101 BARBA IOVIS</head>
+        <ab>[Anthyllis Barba-Jovis L.]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Barba Jovis in Italia Impia Plinij da molti Herba Her culis vel Honades, idest
+            Sticados citrinum, ma non è pero il sticados (1).</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Se Impia questa et nel primo libro rosso k. 102.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> L'hebbi de Abruzzio, ne luoghi maritimi et asperi che ne mangiano le capre.</p>
+        </div>
+        <div type="seasonality">
+          <head>TEMPO</head>
+          <p> A primavera si rivede et con il fredo si perde.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> Luogho solsticio et che sentano da salso come il corniculato Papavero (Ve. 57).</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Alcuni volevano la fusse l'Impia di Plinio, altri la Barba Giovis. Et l'<persName ref="#Anguillara">Anguillara</persName> k.
+            86 dice esserne due sorte, la prima si ritrova in Toscana nel Monte nero (2) et son
+            questa, l'altra nelle montagnie della Magiella et son specie di Citiso flessibile con
+            foglie d'argento.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p>Dice Plinio che suoi rami deti figliuoli sorgono sopra la madre zioe (3) rami grossi
+            dunde di quivi son domandata Impia. Et altri dicono per che son lasciata da animali et
+            pesta tra doi sassi bolle ma no ho ritro- vato la esperienza esser vera in questa. Il
+            suo succhio mescolato con late et vino de la impia son contra l'angine.</p>
+        </div>
+        <div type="editorial-D">
+          <p>(Pianta fiorita. Nella diagnosi l'autore dice: «picciol frondi nel ordine del gensa-
+              <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="73"/> min et ogni
+            ramuscolo par una sol fronda », sospettando cosi trattarsi di una foglia composta.</p>
+          <p>Dopo il Michiel e l'Anguillara parlò di questa specie Gaspare Bauhin che la trovo
+            coltivata nel giardino di Mons. Torquato Bembo in Padova, ma non ne diede figura. Più
+            tardi lo Chabray (73) se ne procurò un campione sterile da Montenero dietro l'indi-
+            cazione di Anguillara e ne diede figura (pag. 611) in sostituzione di altra falsa che
+            avea dato (pag. 83), perd non ne fu ancora soddisfatto (4), Perciò non conoscendosi che
+            la de- scrizione vaga di Bauhin (5) e le figure imperfette di Chabray vi furono dubbi
+            sulla identificazione della Barba Jovis prima di Anguillara (315] che ora la figura del
+            Michiel permette di accertare).</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-101N1" n="1"> Helichrysum Stoechas, lib. Ro. I, 324, e Ve. 90. H. Slouchas è il Barba Tovis
+            dei vecchi codici (61).</note>
+          <note xml:id="A-101N2" n="2"> PT. Livorno.</note>
+          <note xml:id="A-101N3" n="3"> Ciod.</note>
+          <note xml:id="A-101N4" n="4"> • Non omni ex parte bona, siquidem desiderantur pores ..</note>
+          <note xml:id="A-101N5" n="5"> • Vaga quidem significationis est Barba Jovis. (Chabray., p. 82).</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

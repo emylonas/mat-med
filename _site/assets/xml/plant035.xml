@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-035">
+        <head>N. 35 ROSA SENIS</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000465348">[<hi>Philadelphus coronarius L.</hi>]</ref></ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Rosa Senis da volg. - Et Seringa.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Son posto anche quel albero son a <ref type="internal" target="#A-004">k. 4</ref> per spezie di Seringa dimandato Argavani.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Ne monti di <placeName ref="https://www.geonames.org/3174618/lombardia.html">Lumbardia</placeName> non ci mancano et ne' giardini per intesser spaliere et anche si
+            riduce in albero come ho fato io.</p>
+        </div>
+        <div type="exposure">
+          <head>AMANO</head>
+          <p> Sole et humido ci vuole a farla produr bella vaghezza de suoi copiosi fiori con odore
+            grato in principio ma sequitando nel odorarlo fastidisse.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Plinio et Diascoride nelle spezie delle Canne ne parla di questa per oppinione di
+            molti. Et son tenuta per la terza spezie.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Figura mediocre di pianta fiorita; a parte una bella figura di ramoscello fiorito.</p>
+          <p>Il Michiel, come narra, coltivò nel suo giardino questa pianta e fu il primo ad
+            effigiarla. Più tardi viene la figura data dal <persName ref="#Clusius">Clusio</persName> (<ref type="bibl" target="http://id.sbn.it/bid/UFIE002981">Hist. I. 55</ref>) sotto il nome <hi>Frutex
+              coronarius</hi>].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

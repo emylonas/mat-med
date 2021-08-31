@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-139">
+        <head>N. 139 BERBERI</head>
+        <ab>[Berberis vulgaris L.)</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Berberi da Latini et volgari. Paisselbeer (1), Saurich (2), Erbsel et Versich da
+            Germani (3) Espine vinete et ou du Berberi da Galli Oxiacanta officinis dal Trago
+            Ammiberberis da Arabi Ravach da Greci.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Tre spetie di Berberi si raggiona, quello delli Arabi che son l'acuta spina [N. 152),
+            il secondo questo, il terzo molti si onne l'Uva cre- spina over uva spina (1), la qual
+            per esser tanto familiar de gli bruodi (5) non ho havuto bisognio di mostrarla.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> In molti monti, selve et luoghi campestri di Lombardia.</p>
+        </div>
+        <div type="opinions">
+          <head>OPPINIONI</head>
+          <p> Molti dimostrano questa pianta per l'Oxiacantha et non scio con che raggioni essendo
+            questo in ogni parte differente. Et questo con l'uva crespina non sonno stati in
+            cognizione de molti antiqui.</p>
+        </div>
+        <div type="properties">
+          <head>VIRTÙ</head>
+          <p> Suoi acini del Crespino sonno usati con rosti (6) invece di agresto et sonno amiche
+            delle gravide et giova nelle acute febri. Et di suoi acini del berberi si fanno vino
+            mescolato con giulebbo violato buono per spenger la sete per le ditte (7). Et son simil
+            nelle virtu et forma al pero sal- vatico. leggi Avicenna lib. 2. Pandette 39 de
+            Ammiberberis.</p>
+        </div>
+        <div type="editorial-D">
+          <p>(Pianta fiorita e fruttifera ; a parte ramoscello fiorito e ramoscello fruttifero. Er-
+            roneo è il primo none tedesco che appartiene all'uva orsina. Il Michiel invece corregge
+            un errore comune ai suoi tempi, in cui cadde anche il Rinio (c. 340), per cui si rite-
+            neva che il berberi fosse l' Eukrauta dei Greci <ref target="A-152)"><ref target="A-152)">(N. 152)</ref></ref> e percið male stanno le sue citazioni di autori
+            che presero il medesimo abbaglio, come lo prova il frutto a quello del pero selvatico).
+            paragone del</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-139N1" n="1"> Preisselsbeere.</note>
+          <note xml:id="A-139N2" n="2"> Säuerlich = acidulo.</note>
+          <note xml:id="A-139N3" n="3"> • Nomi tedeschi ricavati dal FUCSIUS (De historia stirpium, p. 542).
+            (Ed.).</note>
+          <note xml:id="A-139N4" n="4"> Ribes Grossularia.</note>
+          <note xml:id="A-139N5" n="5"> Bruoli.</note>
+          <note xml:id="A-139N6" n="6"> Arrosti.</note>
+          <note xml:id="A-139N7" n="7"> Le dette, cioè le febbri. </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

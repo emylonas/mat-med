@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-099">
+        <head>N. 99 BEN DA PERFUMIERI</head>
+        <ab>(Moringa alata * an aptius M. pterigosperma Gaertner ?]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Ben da profumieri Gianda unguentaria da Latini Mira- bolano et Balano mirepsico da
+            Greci.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Due spetie ne ponne Mesue l'uno fa il fruto grande et l'altro picciolo, il grande
+            triangulare come in nocciola l'altro come cece. Et in que- sto a k. 4.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoa radice legnosa et scura. Son albero mediocre di legno beretinazzio, suoe frondi
+            sopra a ramuscoli rascontrate qualle finiscono in una come gensamini (1) ma piccole
+            lunghete, ma nelle cime suoe sonno come tolte via di maniera che paiono come rotonde
+            (2), con gusto alquanto amaro, suoi fruti rotondi bianchi con suoa mandola grassa, amara
+            et rotonda dentro.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> Vengono di Soria, portate a noi suoi rotondi fruti. Et di Barbaria.</p>
+        </div>
+        <div type="reproduction">
+          <head>GENERATIONE</head>
+          <p>De suoi rotondi nuclei mi son nato ma con il fredo il persi.</p>
+        </div>
+        <div type="editorial-D">
+          <p>(La pianta sorge sul pendio di un monte abitato ed è sterile, non avendone il Mi- chiel
+            potuto ottenere i frutti (3). Perciò egli, non avendo potuto conoscere l'opera del-
+            l'Acosta (2] la quale fu pubblicata due anni dopo la sua morte, credette, come gene-
+            ralmente si riteneva, che fossero frutti i semi. Era uso di sgusciare i semi od almeno
+            troncar loro le ale quando si spedivano in Europa per economia di spazio, perciò il Mi-
+            chiel li chiama rotondi. Il Rinio invece conobbe i semi della congenere M. aptera e li
+            figurò come frutti sopra un albero fittizio a c. 375. Invece la presente figura, pur
+            avendo delle imperfezioni nella divisione delle foglie simili a quelle della figura
+            dell'Acosta, mo stra di esser tratta dal vero, come già apprendiamo dal testo. Ne fece
+            una copia il Ma- rini (197] col nome di Ben album, citando il nostro autore colle
+            seguenti parole : « De folio arboris non conveniunt veteres, Dioscorides enim myricae,
+            Theophrastus myrthi, Plinius vero heliotropij folio persimile esse affirmati, nos veram
+            imaginem arboris P. A. Michelij liberalitate nacta Theophrasti lectione probamus,
+            mendumque in Dioscoride fuisse suspicamur neque Plinij similitudine qui heliotropio
+            confert mihi sane displicet, est enim revera eius arboris folium myrti seu heliotropij
+            folijs haud absimile, sicuti cum myrica nihil simile habet sed et arbor est procera quae
+            unguentariam fert glan- dem, non ut myrica arbustum .</p>
+          <p>Il Mattioli che esaminò la figura copiata dal Marini, vedendola si differente dalle
+            descrizioni degli antichi, dubitò fosse fittizia (4), il che dimostra che, quando egli
+            visitò <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="72"/> il giardino
+            del Michiel, la pianta era ormai morta. Il Mattioli poi suppose che la Ghianda
+            unguentaria fosse Syringa vulgaris, il che gli attirò le critiche del <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandino</persName> di cui
+            parla il nostro autore al N. 4.</p>
+          <p>Malgrado la pubblicazione dell'opera di Acosta che dà la vera forma del frutto, la
+            credenza che il guscio seminale fosse il pericarpo continud per oltre un secolo
+            (43).</p>
+          <p>Come nota il Michiel, questa moringa era il dopobalavos dei Greci che, per la somiglianza del nome, fu a torto confuso [40] coi mirabolani degli Arabi di cui si parla
+            al</p>
+        </div>
+        <div type="notes">
+          <note xml:id="A-099N1" n="1"> Gelsomini.</note>
+          <note xml:id="A-099N2" n="2"> Cioè smarginate · obcordate.</note>
+          <note xml:id="A-099N3" n="3"> Lo stesso caso avvenne al Ghini (305).</note>
+          <note xml:id="A-099N4" n="4"> «L'ecc. medico Andrea Marini... dipinge una pianta per la Ghianda unguentaria
+            la quale dice baver havuta dal cl. M. Pier Antonio Michieli gentilhuomo venetiano molto
+            differente in tutte le parti dall'altre dette di sopra. Ma non ho ragione con cui possa
+            provare se sia vera o falsa questa figura. Il titolo che vi è scritto sopra so ben io
+            esser falso per esser scritto BEN BIANCO onde ho da dubitare che la pianta non seguiti
+            il medesimo errore » [* cd. 1568, pag. 1297). Più tardi si seppe che il Beben bianco era
+            Centaurea Behen; in quei tempi si offriva come tale la specie figu- rata al Ve., 70.
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+     <!--<div type="plant" xml:id="A-067"><head>N. 67</head>).
+</div>-->

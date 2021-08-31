@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body><div type="plant" xml:id="A-016">
+        <head>N. 16 ELO CAPOLI</head>
+        <ab>[Not identified]</ab>
+        <div type="name">
+          <head>NOMI</head>
+          <p> Elo Capoli da Spagnioli overo Indiani.</p>
+        </div>
+        <div type="genus">
+          <head>GENERA</head>
+          <p> Hano qualche convenienzia et similitudine con quel albero dal'Uva che habbiamo in
+            Italia, demostro quivi inanti <ref type="internal" target="#A-047">[N. 47]</ref>.</p>
+        </div>
+        <div type="shape">
+          <head>FORMA</head>
+          <p> Suoe radice legnose, son albero grande di scura cortezzia suoe frondi et fruti hanno
+            similitudine con l'Albero dal'Uva et son in ogni parte simil al Capoli otercas <ref type="internal" target="#A-092">[N. 92]</ref>
+            se non che questo à el scorzio del Albero piui chiaro et li graspi de fruti piui
+            longhi.</p>
+        </div>
+        <div type="location">
+          <head>LUOGHO</head>
+          <p> L'hebbi depinto de Spagnia retrati nell'India come deto inanti <ref type="internal" target="#A-001">[N. 1]</ref>.</p>
+        </div>
+        <div type="editorial-D">
+          <p>[Figura di albero con fiori verdastri e frutti di colori vari dal verde, al giallo ed
+            all'azzurro secondo i grappoli. Sull'albero vari uccelli, farfalle e bruchi; notevole
+            fra gli altri un pappagallo azzurro].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
