@@ -14,6 +14,10 @@ tei-TEIHeader {
   display: none;
 }
 
+tei-text {
+  font-family: serif;
+}
+
 /* Styles the plant name, main header. */
 tei-div[type="plant"] > tei-head {
   display: block;
@@ -21,7 +25,7 @@ tei-div[type="plant"] > tei-head {
   font-size: 1.5m;
   margin-left: -3%;
   margin-top: 2%;
-  color: red;}
+}
 
 
 /* All other head elements */
@@ -33,6 +37,12 @@ tei-div[type="plant"] > tei-head {
     margin-top: 2%;
   }
 
+tei-div[type="editorial-D"], tei-div[type="editorial-M"], tei-div[type="notes"],
+tei-div[type="bibl"] {
+  font-family: sans-serif;
+  font-size: smaller;
+}
+
 tei-p {
   display: block;
 }
@@ -41,32 +51,28 @@ tei-foreign, tei-hi {
   font-style: italic;
 }
 
-tei-note[type="editorial"] {
-  font-size: smaller;
-}
-
 tei-div[type="editorial-D"]::before {
+  border-top: solid grey;
   content: "Editorial Notes (DeToni)";
   display: block;
   font-weight: bold;
-  font-size: 1.5m;
+  font-size: 1m;
   margin-left: -3%;
-  margin-top: 2%;
+  margin-top: 5%;
 }
 
 tei-div[type="notes"]::before {
   content: "Notes";
   display: block;
   font-weight: bold;
-  font-size: 1.5m;
+  font-size: 1m;
   margin-left: -3%;
   margin-top: 2%;
-
+  counter-reset: note;
 }
 
 tei-div[type="notes"] tei-note {
   display: block;
-  counter-reset: note;
 }
 
 
@@ -80,7 +86,7 @@ tei-div[type="bibl"]::before {
   content: "Bibliography";
   display: block;
   font-weight: bold;
-  font-size: 1.5m;
+  font-size: 1m;
   margin-left: -3%;
   margin-top: 2%;
 
