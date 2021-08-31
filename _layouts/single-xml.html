@@ -41,7 +41,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        <div class="col-md-4">
+        <div class="col-md-3">
         {{ content }}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
@@ -68,8 +68,8 @@ layout: default
       
         <div id="TEI"></div>
       </div>
-      <div class="col-md-4">
-        <img src="{{page.plant-img | relative_url}}" width="100%"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem eveniet vero, necessitatibus quisquam maiores error fugit veritatis, odio minima nam corrupti, eligendi ipsa reprehenderit? Laborum, obcaecati harum? Eius, voluptates animi.
+      <div class="col-md-3">
+        <img src="{{page.plant-img | relative_url}}" width="20%"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem eveniet vero, necessitatibus quisquam maiores error fugit veritatis, odio minima nam corrupti, eligendi ipsa reprehenderit? Laborum, obcaecati harum? Eius, voluptates animi.
       </div>
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
