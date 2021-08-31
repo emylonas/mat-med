@@ -43,7 +43,7 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
-        
+
         <script>
           var CETEIcean = new CETEI();
           CETEIcean.addBehaviors({"tei":{
@@ -56,7 +56,7 @@ layout: default
             "pb": ["[DeToni p. $@n]"]
           }
           });
-              CETEIcean.getHTML5('{{page:plant-xml}}', function(data) {
+              CETEIcean.getHTML5('../../{{plant-xml}}', function(data) {
                 document.getElementById("TEI").innerHTML = "";
                 document.getElementById("TEI").appendChild(data);
                 CETEIcean.addStyle(document, data);
@@ -64,7 +64,7 @@ layout: default
               });</script>
 
         <div id="TEI"></div>
-       
+
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
