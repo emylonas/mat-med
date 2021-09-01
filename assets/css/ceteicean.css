@@ -107,7 +107,7 @@ tei-fw {
 
 tei-ptr > a {
   vertical-align: super;
-  font-size: smaller;
+  font-size: small;
 }
 
 /* --------------- Epidoc styles below ------------- */
