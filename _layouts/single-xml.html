@@ -49,7 +49,7 @@ layout: default
           CETEIcean.addBehaviors({"tei":{
            "ptr": function(elt) {
              var link = document.createElement("a");
-             link.innerHTML = elt.getAttribute("target").replace(/#A-\d+-N(\d+)/, "$1");
+             link.innerHTML = elt.getAttribute("target").replace(/#A\-((\d+))(\d+.([^\d\"]))/, "");
              link.href = elt.getAttribute("target");
              return link;
             },
