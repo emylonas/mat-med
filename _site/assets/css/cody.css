@@ -37,7 +37,7 @@ clear: both;
 
   .page__inner-wrap {
     float: left;
-    margin-top: 1em;
+    margin-top: 0em;
     margin-left: 0em; // cody edit
     margin-right: 0;
     width: 100%;
