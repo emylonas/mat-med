@@ -22,7 +22,7 @@ clear: both;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
-@media (min-width: 80em)
+/* @media (min-width: 80em)
 .page {
     width: 100%;
     padding-right: none;
@@ -30,7 +30,7 @@ clear: both;
 .page.h-entry {
   width: 100%;
   padding-right: unset;
-}
+} */
 /* .page {
   @include breakpoint($large) {
     float: right;
