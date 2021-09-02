@@ -36,6 +36,7 @@ layout: default
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
+              <img src="{{ page.plant-img | relative_url }}">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
             </nav>
@@ -44,7 +45,11 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+
       <script>
+          var hu = document.querySelector('.page__title a');
+          hu.removeAttribute('href');
+
           var CETEIcean = new CETEI();
           CETEIcean.addBehaviors({"tei":{
            "ptr": function(elt) {
@@ -60,9 +65,9 @@ layout: default
                 document.getElementById("TEI").innerHTML = "";
                 document.getElementById("TEI").appendChild(data);
                 CETEIcean.addStyle(document, data);
-
               });
       </script>
+
       </div>
         <div id="TEI"></div>
 
