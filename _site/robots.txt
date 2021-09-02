@@ -1,1 +1,0 @@
-Sitemap: https://ccarvel.github.io/xml-minimal/sitemap.xml
