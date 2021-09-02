@@ -23,7 +23,7 @@ clear: both;
   scrollbar-width: none;  /* Firefox */
 }
 
-.page {
+/* .page {
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -54,7 +54,7 @@ clear: both;
       clear: both;
     }
   }
-}
+} */
 @media (min-width: 80em)
 .page {
     width: 100%;
