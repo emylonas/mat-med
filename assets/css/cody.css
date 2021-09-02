@@ -22,7 +22,7 @@ clear: both;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
-#main > article .page .h-entry {
+.article.page.h-entry {
   width: 100%;
   padding-right: unset;
 /* .page {
