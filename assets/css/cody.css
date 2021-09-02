@@ -55,3 +55,8 @@ clear: both;
     }
   }
 }
+@media (min-width: 80em)
+.page {
+    width: 100%;
+    padding-right: none;
+}
