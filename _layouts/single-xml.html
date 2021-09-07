@@ -66,6 +66,22 @@ layout: default
                 document.getElementById("TEI").appendChild(data);
                 CETEIcean.addStyle(document, data);
               });
+
+        var c = new CETEI();
+        c.addBehaviors({tei:{
+          "ref": function(ctg) {
+            var link = document.createElement("a");
+            link.innerHTML = ctg.getAttribute("target").replace(/(#A\-)(\d\d\d)/,"plant"$2)
+            link.href = ctg.getAttribute("target");
+            return link;
+            },
+          };
+          c.getHTML5('../../{{page.plant-xml}}', function(data) {
+                document.getElementById("TEI").innerHTML = "";
+                document.getElementById("TEI").appendChild(data);
+                CETEIcean.addStyle(document, data);
+              });
+        });
       </script>
 
       </div>
