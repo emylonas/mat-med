@@ -50,6 +50,9 @@ layout: default
           var hu = document.querySelector('.page__title a');
           hu.removeAttribute('href');
 
+          var trf = document.querySelector('tei-p > tei-ref > span:nth-child(1)');
+          trf.getAttribute("target").replace(/(#A\-)(\d\d\d)/,"\/plant"$2)
+
           var CETEIcean = new CETEI();
           CETEIcean.addBehaviors({"tei":{
            "ptr": function(elt) {
