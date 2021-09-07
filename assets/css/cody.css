@@ -22,7 +22,7 @@ clear: both;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
-nav.toc{
+.toc .nav__title{
   display:none;
 }
 /* @media (min-width: 80em)
