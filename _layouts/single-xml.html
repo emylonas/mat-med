@@ -61,7 +61,7 @@ layout: default
             "pb": ["[DeToni p. $@n]"]
           }
           });
-              CETEIcean.getHTML5('../../{{page.plant-xml}}', function(data) {
+              CETEIcean.getHTML5('{{page.plant-xml | relative_url}}', function(data) {
                 document.getElementById("TEI").innerHTML = "";
                 document.getElementById("TEI").appendChild(data);
                 CETEIcean.addStyle(document, data);
