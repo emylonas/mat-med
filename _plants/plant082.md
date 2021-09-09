@@ -5,7 +5,5 @@ plant-number: "082"
 plant-xml: /assets/xml/plant082.xml
 plant-img: /assets/img/plant082.jpg
 layout: single-xml
-toc:true
-
-
+toc: true
 ---
