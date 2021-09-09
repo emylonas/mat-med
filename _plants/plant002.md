@@ -6,4 +6,5 @@ plant-xml: /assets/xml/plant002.xml
 plant-img: /assets/img/plant002.jpg
 layout: single-xml
 toc: true
+
 ---
