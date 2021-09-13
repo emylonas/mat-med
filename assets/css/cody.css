@@ -34,22 +34,22 @@ h4.nav__title{
   width: 100%;
   padding-right: unset;
 } */
-/* .page {
+.page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    width: 100%;
+    /* padding-right: $right-sidebar-width-narrow; */
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    width: 100%;
+    /* padding-right: $right-sidebar-width; */
   }
 
   .page__inner-wrap {
     float: left;
     margin-top: 1em;
-    margin-left: 1em; // cody edit
+    margin-left: 0em;
     margin-right: 0;
     width: 100%;
     clear: both;
@@ -65,4 +65,4 @@ h4.nav__title{
       clear: both;
     }
   }
-} */
+}
