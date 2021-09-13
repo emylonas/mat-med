@@ -27,7 +27,7 @@ h4.nav__title{
 }
 /* .page.h-entry {
 	width: 100%;
-	padding-right: unset;
+	padding-right: 0;
 }
 .page {
 	@include breakpoint($large) { float: right;
