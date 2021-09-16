@@ -43,11 +43,14 @@ h4.nav__title{
 	margin-right: 0;
 	width: 100%;
 	clear: both;
-	.page__content, .page__meta, .page__share { position: relative;
-	float: left;
-	margin-left: 0;
-	margin-right: 0;
-	width: 100%;
-	clear: both;
+	.page__content, 
+	.page__meta, 
+	.page__share { 
+		position: relative;
+		float: left;
+		margin-left: 0;
+		margin-right: 0;
+		width: 100%;
+		clear: both;
 }
-}
+}}
