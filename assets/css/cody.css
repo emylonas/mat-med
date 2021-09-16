@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Cody edits*/
 div#TEI {
 clear: both;
@@ -29,3 +30,40 @@ h4.nav__title{
 	width: 100%;
 	padding-right: 0em;
 }
+=======
+---
+#custom scss
+---
+// .page {
+//   @include breakpoint($large) {
+//     float: right;
+//     width: 100%;
+//     padding-right: 0;
+//   }
+
+//   @include breakpoint($x-large) {
+//     width: 100%;
+//     padding-right: 0;
+//   }
+
+//   .page__inner-wrap {
+//     float: left;
+//     margin-top: 1em;
+//     margin-left: 0em; 
+//     margin-right: 0;
+//     width: 100%;
+//     clear: both;
+
+//     .page__content,
+//     .page__meta,
+//     .page__share {
+//       position: relative;
+//       float: left;
+//       margin-left: 0;
+//       margin-right: 0;
+//       width: 100%;
+//       clear: both;
+//     }
+//   }
+// }
+>>>>>>> parent of 000d439 (update css to scss and references)
