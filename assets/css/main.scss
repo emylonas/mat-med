@@ -2,15 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 .page {
-    @include breakpoint($large) {
       float: right;
       width: 100%;
       padding-right: 0;
-    }
-  
-    @include breakpoint($x-large) {
-      width: 100%;
-      padding-right: 0;
+
     }
   
     .page__inner-wrap {
@@ -32,8 +27,7 @@
         clear: both;
       }
     }
-  }
-  
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
