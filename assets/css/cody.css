@@ -35,10 +35,10 @@ div#topimgs a {
 	top: 50%;
 	transform: translate(0, -50%);
 }
-/* 
+
 div#topimgs a img {
-	width: 75;
-} */
+	width: 90;
+}
 
 /* .page.h-entry {
 	width: 100%;
