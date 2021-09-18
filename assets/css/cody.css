@@ -22,9 +22,9 @@ clear: both;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
-h4.nav__title{
+/* h4.nav__title{
   display:none;
-}
+} */
 div#topimgs {
 	height: 100;
 	position: relative;
