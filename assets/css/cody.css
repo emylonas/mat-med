@@ -25,6 +25,19 @@ clear: both;
 h4.nav__title{
   display:none;
 }
+#topimgs {
+	height: 100;
+	position: relative;
+}
+#topimgs a {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+}
+#topimgs a img {
+	height: 90;
+}
 /* .page.h-entry {
 	width: 100%;
 	padding-right: 0;
