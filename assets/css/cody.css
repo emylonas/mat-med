@@ -29,15 +29,17 @@ div#topimgs {
 	height: 100;
 	position: relative;
 }
-/* div#topimgs a {
+div#topimgs a {
 	margin: 0;
 	position: absolute;
 	top: 50%;
 	transform: translate(0, -50%);
 }
-div#topimgs a img {
+
+/* div#topimgs a img {
 	width: 75;
 } */
+
 /* .page.h-entry {
 	width: 100%;
 	padding-right: 0;
