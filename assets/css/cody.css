@@ -25,7 +25,7 @@ clear: both;
 /* h4.nav__title{
   display:none;
 } */
-div#topimgs {
+/* div#topimgs {
 	height: 100;
 	position: relative;
 }
@@ -37,7 +37,7 @@ div#topimgs a {
 }
 div#topimgs a img {
 	width: 75;
-}
+} */
 /* .page.h-entry {
 	width: 100%;
 	padding-right: 0;
