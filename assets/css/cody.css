@@ -25,18 +25,18 @@ clear: both;
 h4.nav__title{
   display:none;
 }
-div#topimgs {
+#topimgs {
 	height: 100px;
 	position: relative;
 }
-div#topimgs a {
+#topimgs a {
 	margin: 0;
 	position: absolute;
 	top: 50%;
 	transform: translate(0, -50%);
 }
 
-div#topimgs a img {
+#topimgs a img {
 	width: 90;
 }
 
