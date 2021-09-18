@@ -36,9 +36,9 @@ div#topimgs a {
 	transform: translate(0, -50%);
 }
 
-/* div#topimgs a img {
+div#topimgs a img {
 	width: 75;
-} */
+}
 
 /* .page.h-entry {
 	width: 100%;
