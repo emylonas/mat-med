@@ -25,11 +25,11 @@ clear: both;
 h4.nav__title{
   display:none;
 }
-/* div#topimgs {
+div#topimgs {
 	height: 100;
 	position: relative;
 }
-div#topimgs a {
+/* div#topimgs a {
 	margin: 0;
 	position: absolute;
 	top: 50%;
