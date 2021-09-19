@@ -63,6 +63,7 @@ div#TEI {
 		padding-right: 5px;
 	}
 	#topimgs a #img2 {
+		border: 1px solid blue;
 		padding-left: 5px;
 	}
 	/*#main > article {
