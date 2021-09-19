@@ -59,6 +59,7 @@ div#TEI {
 		margin: auto;*/
 	}
 	#topimgs a #img1 {
+		border: 1px solid blue;
 		padding-right: 5px;
 	}
 	#topimgs a #img2 {
