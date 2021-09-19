@@ -287,7 +287,7 @@ tag_archive:
 
 # Collections
 collections:
-  plants:
+  edition:
     output: true
     permalink: /:collection/:path/
 
@@ -321,11 +321,11 @@ defaults:
       author_profile: false
   # _plants
   - scope:
-      path: "_plants"
-      type: plants
+      path: "_edition"
+      type: edition
     values:
       layout: single-xml
       author_profile: false
       share: false
       sidebar:
-        nav: "plants"      
+        nav: "edition"      

@@ -1,8 +1,8 @@
 ---
-title: Plants
+title: Edition
 layout: collection
-permalink: /plants/
-collection: plants
+permalink: /edition/
+collection: edition
 layout: single
 classes: wide
 sidebar:

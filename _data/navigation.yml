@@ -20,8 +20,8 @@ main:
   #   url: /sitemap/
 
 #plants sidebar
-plants:
-  - title: Plants
+edition:
+  - title: Edition
     children:
       - title: Libro Azzurro
         url:  /plants/index/
