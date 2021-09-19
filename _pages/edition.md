@@ -6,5 +6,5 @@ collection: edition
 layout: single
 classes: wide
 sidebar:
-  nav: "plants" 
+  nav: "edition" 
 ---
