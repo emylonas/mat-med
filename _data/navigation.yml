@@ -2,11 +2,11 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: Gardens
+  - title: "Gardens"
     url: /gardens/
-  - title: Edition
+  - title: "Edition"
     url: /edition/
-  - title: Apothecaries
+  - title: "Apothecaries"
     url: /apothecaries/
   - title: "About"
     url: /about/
