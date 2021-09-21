@@ -15,7 +15,8 @@ tei-TEIHeader {
 }
 
 tei-text {
-  font-family: serif;
+  font-family: "Garamond", serif;
+  font-size: unset;
 }
 
 /* Styles the plant name, main header. */
@@ -39,7 +40,7 @@ tei-div[type="plant"] > tei-head {
 
 tei-div[type="editorial-D"], tei-div[type="editorial-M"], tei-div[type="notes"],
 tei-div[type="bibl"] {
-  font-family: sans-serif;
+  font-family: "Trebuchet", sans-serif;
   font-size: smaller;
 }
 
