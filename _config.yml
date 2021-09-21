@@ -12,21 +12,21 @@
 
 #LOCAL
 #theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", contrast", "dark", "dirt", "neon", "mint", "plum", sunrise"
-url                      : ""
-baseurl                  : "/"
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#url                      : ""
+#baseurl                  : "/"
 
 # GITHUB REMOTE THEME
-#remote_theme             : "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-#url                      : "https://emylonas.github.io"
-#baseurl                  : "/minimal-xml/"
+remote_theme             : "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url                      : "https://ccarvel.github.io"
+baseurl                  : "/xml-minimal"
 
 # THEME-SETTINGS-RECLAIM
- #theme                    : "minimal-mistakes-jekyll"
- #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
- #url                      : "http://cody.digitalscholarship.brown.edu"
- #baseurl                  : "/minxml/"
+# theme                    : "minimal-mistakes-jekyll"
+# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# url                      : "http://cody.digitalscholarship.brown.edu"
+# baseurl                  : "/minxml/"
 
 # THEME-SETTINGS-OTHER
 #theme                    : "minimal-mistakes-jekyll"
@@ -42,8 +42,6 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sabrina Minuzzi"
 description              : "Early Modern Herbs in Venice"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -289,7 +287,7 @@ tag_archive:
 
 # Collections
 collections:
-  plants:
+  edition:
     output: true
     permalink: /:collection/:path/
 
@@ -323,11 +321,11 @@ defaults:
       author_profile: false
   # _plants
   - scope:
-      path: "_plants"
-      type: plants
+      path: "_edition"
+      type: edition
     values:
       layout: single-xml
       author_profile: false
       share: false
       sidebar:
-        nav: "plants"
+        nav: "edition"

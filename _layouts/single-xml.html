@@ -13,10 +13,13 @@ layout: default
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
+<div id="topimgs" role="topimgs">
+    <a href="{{ page.plant-img | relative_url }}"><img id="img1" src="{{ page.plant-img | relative_url }}"/></a>
 
+    <a href="{{ page.plant-img2 | relative_url }}"><img id="img2" src="{{ page.plant-img2 | relative_url }}"/></a>
+</div>
 <div id="main" role="main">
   {% include sidebar.html %}
-
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -37,37 +40,40 @@ layout: default
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
+              <a href="{{ page.plant-img | relative_url }}"><img src="{{ page.plant-img | relative_url }}"/></a>
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
             </nav>
           </aside>
         {% endif %}
         {{ content }}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
 
-        <script>
+      <script>
+          var hu = document.querySelector('.page__title a');
+          hu.removeAttribute('href');
+
           var CETEIcean = new CETEI();
           CETEIcean.addBehaviors({"tei":{
            "ptr": function(elt) {
              var link = document.createElement("a");
-             link.innerHTML = elt.getAttribute("target").replace(/#A-\d+-N(\d+)/, "$1");
+             link.innerHTML = elt.getAttribute("target").replace(/#A\-((\d+))(\d+.([^\d\"]))/, "");
              link.href = elt.getAttribute("target");
              return link;
             },
             "pb": ["[DeToni p. $@n]"]
           }
           });
-              CETEIcean.getHTML5('../../{{page:plant-xml}}', function(data) {
+              CETEIcean.getHTML5('{{page.plant-xml | relative_url}}', function(data) {
                 document.getElementById("TEI").innerHTML = "";
                 document.getElementById("TEI").appendChild(data);
                 CETEIcean.addStyle(document, data);
+              });
+      </script>
 
-              });</script>
-
+      </div>
         <div id="TEI"></div>
-
-
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}

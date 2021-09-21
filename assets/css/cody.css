@@ -1,57 +1,100 @@
 /*Cody edits*/
 div#TEI {
-clear: both;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1em;
-    padding-right: 1em;
-    -webkit-animation: intro 0.3s both;
-    animation: intro 0.3s both;
-    max-width: 100%;
-    -webkit-animation-delay: 0.15s;
-    animation-delay: 0.15s;
-    }
+	clear: both;
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 1em;
+		padding-right: 1em;
+		-webkit-animation: intro 0.3s both;
+		animation: intro 0.3s both;
+		max-width: 100%;
+		-webkit-animation-delay: 0.15s;
+		animation-delay: 0.15s;
+		}
 
-/* Hide scrollbar for Chrome, Safari and Opera */
-.sidebar.sticky::-webkit-scrollbar {
-  display: none;
-}
+	/* Hide scrollbar for Chrome, Safari and Opera */
+	.sidebar.sticky::-webkit-scrollbar {
+	  display: none;
+	}
 
-/* Hide scrollbar for IE, Edge and Firefox */
-.sidebar.sticky {
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
-}
+	/* Hide scrollbar for IE, Edge and Firefox */
+	.sidebar.sticky {
+	  -ms-overflow-style: none;  /* IE and Edge */
+	  scrollbar-width: none;  /* Firefox */
+	}
+	h4.nav__title{
+	  display:none;
+	}
+	#topimgs {
+		height: 300px;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	  border: 1px solid blue;
+	}
+	#topimgs a {
+	/*	margin-top: 0;
+		margin-bottom: 0;
+		position: absolute;
+		top: 50%;
+		transform: translate(0, -50%);*/
+	}
 
-.page {
-  @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
-  }
+	#topimgs a img {
+		  width: auto;
+		  height: 230px;
+	/*	  width: 50%;
+		float: left;
+		text-align: center;
+		margin: auto;
+		display: inline-block;
+			max-height: 100%;
+		max-width: 100%;
+			position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		margin: auto;*/
+	}
+	#topimgs a #img1 {
+		border: 1px solid blue;
+		padding-right: 5px;
+	}
+	#topimgs a #img2 {
+		border: 1px solid blue;
+		padding-left: 5px;
+	}
+	/*#main > article {
+		width: calc(100%-500px);
+		padding-right: 0;
 
-  @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
-  }
+	}*/
 
-  .page__inner-wrap {
-    float: left;
-    margin-top: 1em;
-    margin-left: 1em; // cody edit
-    margin-right: 0;
-    width: 100%;
-    clear: both;
-
-    .page__content,
-    .page__meta,
-    .page__share {
-      position: relative;
-      float: left;
-      margin-left: 0;
-      margin-right: 0;
-      width: 100%;
-      clear: both;
-    }
-  }
-}
+	/* .page.h-entry {
+		width: 100%;
+		padding-right: 0;
+	}
+	.page {
+		@include breakpoint($large) { float: right;
+		width: 100%;
+		padding-right: 0;
+		@include breakpoint($x-large) { width: 100%;
+		padding-right: 0;
+	}
+	.page__inner-wrap {
+		float: left;
+		margin-top: 1em;
+		margin-left: 0em;
+		margin-right: 0;
+		width: 100%;
+		clear: both;
+		.page__content, .page__meta, .page__share { position: relative;
+		float: left;
+		margin-left: 0;
+		margin-right: 0;
+		width: 100%;
+		clear: both;
+	}
+	} */
