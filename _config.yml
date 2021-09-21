@@ -12,15 +12,15 @@
 
 #LOCAL
 #theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", contrast", "dark", "dirt", "neon", "mint", "plum", sunrise"
-url                      : ""
-baseurl                  : "/"
+#minimal_mistakes_skin    : "default" # "air", "aqua", contrast", "dark", "dirt", "neon", "mint", "plum", sunrise"
+#url                      : ""
+#baseurl                  : "/"
 
 # GITHUB REMOTE THEME
-#remote_theme             : "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-#url                      : "https://emylonas.github.io"
-#baseurl                  : "/minimal-xml/"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url                      : "https://emylonas.github.io"
+baseurl                  : "/xml-minimal/"
 
 # THEME-SETTINGS-RECLAIM
  #theme                    : "minimal-mistakes-jekyll"
