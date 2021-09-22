@@ -58,11 +58,11 @@ div#TEI {
 		right: 0;
 		margin: auto;*/
 	}
-	#topimgs a #img1 {
+	#topimgs a #img2 {
 		border: 1px solid blue;
 		padding-right: 5px;
 	}
-	#topimgs a #img2 {
+	#topimgs a #img1 {
 		border: 1px solid blue;
 		padding-left: 5px;
 	}
