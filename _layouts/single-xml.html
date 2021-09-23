@@ -14,7 +14,9 @@ layout: default
   {% endunless %}
 {% endif %}
 <div class="top-flex">
-  <div class="flex-child"><h1>{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}</h1></div>
+  <div class="flex-child top-name"><h1>{{ page.top-name }}</h1></div>
+  <div class="flex-child latin" ><h2>{{ page.top-latin }}</h1></div>
+
   <div class="flex-child">
     <a href="{{ page.plant-img2 | relative_url }}"><img id="img2" src="{{ page.plant-img2 | relative_url }}"/></a>
     <a href="{{ page.plant-img | relative_url }}"><img id="img1" src="{{ page.plant-img | relative_url }}"/></a>
