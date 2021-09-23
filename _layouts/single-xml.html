@@ -13,10 +13,12 @@ layout: default
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
-<div id="topimgs" role="topimgs">
-    <a href="{{ page.plant-img | relative_url }}"><img id="img1" src="{{ page.plant-img | relative_url }}"/></a>
-
+<div class="top-flex">
+  <div class="flex-child"><h1>{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}</h1></div>
+  <div class="flex-child">
     <a href="{{ page.plant-img2 | relative_url }}"><img id="img2" src="{{ page.plant-img2 | relative_url }}"/></a>
+    <a href="{{ page.plant-img | relative_url }}"><img id="img1" src="{{ page.plant-img | relative_url }}"/></a>
+  </div>
 </div>
 <div id="main" role="main">
   {% include sidebar.html %}
