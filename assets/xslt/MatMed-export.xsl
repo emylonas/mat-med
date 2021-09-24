@@ -15,23 +15,29 @@
 
 
     <xsl:template match="t:div[@type = 'plant']">
-        
-        <!-- create xml document for each plant. -->
-        <xsl:result-document href="../xmlout/plant{@xml:id}.xml">
+
+        <!-- create xml document for each plant.
+             to change the location for the split up xml files, change
+           the path in the href below.-->
+
+        <xsl:result-document href="plant{@xml:id}.xml">
             <TEI xmlns="http://www.tei-c.org/ns/1.0">
                 <xsl:copy-of select="/t:TEI/t:teiHeader"/> <xsl:copy-of select="self::t:div"/>
             </TEI>
         </xsl:result-document>
-        
-        <!-- create md document for each plant -->
-        <xsl:result-document method="text" href="out-md/plant{@xml:id}.md">
+
+        <!-- create md document for each plant
+             to change the location for the split up xml files, change
+           the path in the href below. -->
+
+        <xsl:result-document method="text" href="../_edition/plant{@xml:id}.md">
             <xsl:variable name="plant-title" select="t:head"/>
             <xsl:variable name="plant-num" select="substring-after(@xml:id, '-')"/>\
             <xsl:variable name="plant-taxon-link" select="t:ab/t:ref/@target"/>
             <xsl:variable name="plant-taxon-content" select="t:ab/t:ref"/>
             <!-- try to make regex to match only name, not numbers. don't need now -->
             <xsl:variable name="plant-name" select="replace($plant-title,'(N[\.N]\s+\d+) ([\w ]+)','$1')"/>
-            
+
             <xsl:text>---
 title: "</xsl:text><xsl:value-of select="$plant-title"/><xsl:text>"
 plant-name: "</xsl:text><xsl:value-of select="$plant-name"/><xsl:text>"
