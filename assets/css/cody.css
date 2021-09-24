@@ -78,11 +78,21 @@ div#TEI {
 		border: 1px solid blue;
 		padding-right: 5px;
 	}
-	/*#main > article {
+	h2.top-name {
+		font-weight: normal;
+		margin: 0;
+	}
+	h3.top-name{
+	    font-weight: normal;
+		margin: 0;
+	}
+	/* #main {
+		max-width: 80%;
+	} */
+	#main article {
 		width: calc(100%-500px);
 		padding-right: 0;
 
-	}*/
 
 	/* .page.h-entry {
 		width: 100%;
