@@ -25,6 +25,7 @@ div#TEI {
 	h4.nav__title{
 	  display:none;
 	}
+	#page-title {display:none;}
 	.top-flex {
 		display: flex;
 		justify-content: center;
@@ -33,7 +34,7 @@ div#TEI {
 		/* width: 100%; */
 		border: 1px solid blue;
 	}
-	#page-title {display:none;}
+	
 	.flex-child {
 		flex: 1;
 		border: 2px solid yellow;
@@ -52,8 +53,9 @@ div#TEI {
 	}
 	
 	.top-flex a img {
-		  width: auto;
-		  height: 230px;
+		  width: 25%;
+		  height: 25%;
+		  /* height: 230px; */
 	/*	  width: 50%;
 		float: left;
 		text-align: center;
@@ -76,11 +78,21 @@ div#TEI {
 		border: 1px solid blue;
 		padding-right: 5px;
 	}
-	/*#main > article {
+	h2.top-name {
+		font-weight: normal;
+		margin: 0;
+	}
+	h3.top-name{
+	    font-weight: normal;
+		margin: 0;
+	}
+	/* #main {
+		max-width: 80%;
+	} */
+	#main article {
 		width: calc(100%-500px);
 		padding-right: 0;
 
-	}*/
 
 	/* .page.h-entry {
 		width: 100%;

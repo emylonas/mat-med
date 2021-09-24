@@ -7,4 +7,5 @@ plant-img: /assets/img/plant001.jpg
 plant-img2: /assets/img/plant001_verso.jpg
 layout: single-xml
 toc: false
+flora-latin:
 ---
