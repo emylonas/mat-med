@@ -10,5 +10,5 @@ plant-taxon-link1: "http://www.worldfloraonline.org/taxon/wfo-0000354994"
 plant-taxon-link2: "http://www.worldfloraonline.org/taxon/wfo-0000355663"
 plant-taxon-content1: "[I. Juniperus Sabina L.]"
 plant-taxon-content2: "[II, Juniperus phoenicea L."
-layout: single-xml=m
+layout: single-xml-m
 ---
