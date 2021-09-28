@@ -12,7 +12,7 @@ If you click on one of the red triangles, you will enlarge the section/portion o
 
 The term *giardino* was used with rather indefinite and overlapping meanings: to indicate a garden proper, a vegetable garden, an orchard, and even a field. Many gardens belonged to owners with a passion for botany, who enriched them with plants from all over the known world to enjoy their exotic beauty and study their medicinal properties.
 
-## Find Out More
-* Find out more: John Dixon Hunt, “The Garden in the City of Venice: Epitome of a State and Site”, *Studies in the History of Gardens & Designed Landscapes*, 19:1 (1999), 46-61, DOI: 10.1080/14601176.1999.10435570.
+## Learn More
+* John Dixon Hunt, “The Garden in the City of Venice: Epitome of a State and Site”, *Studies in the History of Gardens & Designed Landscapes*, 19:1 (1999), 46-61, DOI: 10.1080/14601176.1999.10435570.
 
 * Maria Francesca Tiepolo, “Fonti documentarie sui giardini nell'Archivio di Stato di Venezia fino al 1797”, in *Il giardino veneto. Storia e conservazione*, a cura di Margherita Azzi Visentini, Italo Zannier, Rosario Assunto (Venezia: Istituto Veneto di Scienze, Lettere ed Arti, 1988), 331–338, and, in general, the whole publication.
