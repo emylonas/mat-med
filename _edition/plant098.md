@@ -1,10 +1,12 @@
 ---
-title: "OLEANDRO"
-plant-name: "OLEANDRO"
+title: "N. 98 OLEANDRO"
+plant-name: "N. 98"
 plant-number: "098"
-plant-xml: /assets/xml/plant098.xml
-plant-img: /assets/img/plant098.jpg
-plant-img2: /assets/img/plant098_verso.jpg
+plant-img1: "/assets/img/plant098_verso.jpg"
+plant-img2: "/assets/img/plant098.jpg"
+plant-xml: "/assets/xml/plant098.xml"
+plant-title: "N. 98 OLEANDRO"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

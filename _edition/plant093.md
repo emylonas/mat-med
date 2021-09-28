@@ -1,10 +1,12 @@
 ---
-title: "QUAYAUTL COLORADO"
-plant-name: "QUAYAUTL COLORADO"
+title: "N. 93 QUAYAUTL COLORADO"
+plant-name: "N. 93"
 plant-number: "093"
-plant-xml: /assets/xml/plant093.xml
-plant-img: /assets/img/plant093.jpg
-plant-img2: /assets/img/plant093_verso.jpg
+plant-img1: "/assets/img/plant093_verso.jpg"
+plant-img2: "/assets/img/plant093.jpg"
+plant-xml: "/assets/xml/plant093.xml"
+plant-title: "N. 93 QUAYAUTL COLORADO"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

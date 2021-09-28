@@ -1,10 +1,12 @@
 ---
-title: "NOCE DE INDIA"
-plant-name: "NOCE DE INDIA"
+title: "N. 82 NOCE DE INDIA"
+plant-name: "N. 82"
 plant-number: "082"
-plant-xml: /assets/xml/plant082.xml
-plant-img: /assets/img/plant082.jpg
-plant-img2: /assets/img/plant082_verso.jpg
+plant-img1: "/assets/img/plant082_verso.jpg"
+plant-img2: "/assets/img/plant082.jpg"
+plant-xml: "/assets/xml/plant082.xml"
+plant-title: "N. 82 NOCE DE INDIA"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

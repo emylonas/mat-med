@@ -1,10 +1,12 @@
 ---
-title: "NIL SP."
-plant-name: "NIL SP."
+title: "N. 142 NIL SP."
+plant-name: "N. 142."
 plant-number: "142"
-plant-xml: /assets/xml/plant142.xml
-plant-img: /assets/img/plant142.jpg
-plant-img2: /assets/img/plant142_verso.jpg
+plant-img1: "/assets/img/plant142_verso.jpg"
+plant-img2: "/assets/img/plant142.jpg"
+plant-xml: "/assets/xml/plant142.xml"
+plant-title: "N. 142 NIL SP."
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

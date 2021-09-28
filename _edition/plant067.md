@@ -1,10 +1,12 @@
 ---
-title: "CACAO BLANCO"
-plant-name: "CACAO BLANCO"
+title: "N. 67 CACAO BLANCO"
+plant-name: "N. 67"
 plant-number: "067"
-plant-xml: /assets/xml/plant067.xml
-plant-img: /assets/img/plant067.jpg
-plant-img2: /assets/img/plant067_verso.jpg
+plant-img1: "/assets/img/plant067_verso.jpg"
+plant-img2: "/assets/img/plant067.jpg"
+plant-xml: "/assets/xml/plant067.xml"
+plant-title: "N. 67 CACAO BLANCO"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

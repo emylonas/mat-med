@@ -1,10 +1,12 @@
 ---
-title: "ANAGIRO"
-plant-name: "ANAGIRO"
+title: "N. 59 ANAGIRO"
+plant-name: "N. 59"
 plant-number: "059"
-plant-xml: /assets/xml/plant059.xml
-plant-img: /assets/img/plant059.jpg
-plant-img2: /assets/img/plant059_verso.jpg
+plant-img1: "/assets/img/plant059_verso.jpg"
+plant-img2: "/assets/img/plant059.jpg"
+plant-xml: "/assets/xml/plant059.xml"
+plant-title: "N. 59 ANAGIRO"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

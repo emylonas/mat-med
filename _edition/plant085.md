@@ -1,10 +1,12 @@
 ---
-title: "PERSEA"
-plant-name: "PERSEA"
+title: "N. 85 PERSEA"
+plant-name: "N. 85"
 plant-number: "085"
-plant-xml: /assets/xml/plant085.xml
-plant-img: /assets/img/plant085.jpg
-plant-img2: /assets/img/plant085_verso.jpg
+plant-img1: "/assets/img/plant085_verso.jpg"
+plant-img2: "/assets/img/plant085.jpg"
+plant-xml: "/assets/xml/plant085.xml"
+plant-title: "N. 85 PERSEA"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

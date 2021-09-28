@@ -1,10 +1,12 @@
 ---
-title: "CHARANCE"
-plant-name: "CHARANCE"
+title: "N. 90 CHARANCE"
+plant-name: "N. 90"
 plant-number: "090"
-plant-xml: /assets/xml/plant090.xml
-plant-img: /assets/img/plant090.jpg
-plant-img2: /assets/img/plant090_verso.jpg
+plant-img1: "/assets/img/plant090_verso.jpg"
+plant-img2: "/assets/img/plant090.jpg"
+plant-xml: "/assets/xml/plant090.xml"
+plant-title: "N. 90 CHARANCE"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

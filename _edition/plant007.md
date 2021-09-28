@@ -1,10 +1,12 @@
 ---
-title: "VITE BIANCA VULGARE"
-plant-name: "VITE BIANCA VULGARE"
+title: "N. 7 VITE BIANCA VULGARE"
+plant-name: "N. 7"
 plant-number: "007"
-plant-xml: /assets/xml/plant007.xml
-plant-img: /assets/img/plant007.jpg
-plant-img2: /assets/img/plant007_verso.jpg
+plant-img1: "/assets/img/plant007_verso.jpg"
+plant-img2: "/assets/img/plant007.jpg"
+plant-xml: "/assets/xml/plant007.xml"
+plant-title: "N. 7 VITE BIANCA VULGARE"
+plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000609903"
+plant-taxon-content: "[Clematis Flammula L.]"
 layout: single-xml
-toc: false
 ---

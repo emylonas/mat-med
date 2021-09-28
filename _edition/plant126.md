@@ -1,10 +1,12 @@
 ---
-title: "TITHIMALO DENDROIDE"
-plant-name: "TITHIMALO DENDROIDE"
+title: "N. 126 TITHIMALO DENDROIDE"
+plant-name: "N. 126"
 plant-number: "126"
-plant-xml: /assets/xml/plant126.xml
-plant-img: /assets/img/plant126.jpg
-plant-img2: /assets/img/plant126_verso.jpg
+plant-img1: "/assets/img/plant126_verso.jpg"
+plant-img2: "/assets/img/plant126.jpg"
+plant-xml: "/assets/xml/plant126.xml"
+plant-title: "N. 126 TITHIMALO DENDROIDE"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

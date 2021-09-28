@@ -1,10 +1,12 @@
 ---
-title: "FRUTICE INCOGNITO"
-plant-name: "FRUTICE INCOGNITO"
+title: "N. 108 FRUTICE INCOGNITO"
+plant-name: "N. 108"
 plant-number: "108"
-plant-xml: /assets/xml/plant108.xml
-plant-img: /assets/img/plant108.jpg
-plant-img2: /assets/img/plant108_verso.jpg
+plant-img1: "/assets/img/plant108_verso.jpg"
+plant-img2: "/assets/img/plant108.jpg"
+plant-xml: "/assets/xml/plant108.xml"
+plant-title: "N. 108 FRUTICE INCOGNITO"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

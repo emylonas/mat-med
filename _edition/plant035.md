@@ -1,10 +1,12 @@
 ---
-title: "ROSA SENIS"
-plant-name: "ROSA SENIS"
+title: "N. 35 ROSA SENIS"
+plant-name: "N. 35"
 plant-number: "035"
-plant-xml: /assets/xml/plant035.xml
-plant-img: /assets/img/plant035.jpg
-plant-img2: /assets/img/plant035_verso.jpg
+plant-img1: "/assets/img/plant035_verso.jpg"
+plant-img2: "/assets/img/plant035.jpg"
+plant-xml: "/assets/xml/plant035.xml"
+plant-title: "N. 35 ROSA SENIS"
+plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000465348"
+plant-taxon-content: "[Philadelphus coronarius L.]"
 layout: single-xml
-toc: false
 ---

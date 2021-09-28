@@ -1,10 +1,12 @@
 ---
-title: "PISTACHIER"
-plant-name: "PISTACHIER"
+title: "N. 114 PISTACHIER"
+plant-name: "N. 114"
 plant-number: "114"
-plant-xml: /assets/xml/plant114.xml
-plant-img: /assets/img/plant114.jpg
-plant-img2: /assets/img/plant114_verso.jpg
+plant-img1: "/assets/img/plant114_verso.jpg"
+plant-img2: "/assets/img/plant114.jpg"
+plant-xml: "/assets/xml/plant114.xml"
+plant-title: "N. 114 PISTACHIER"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---

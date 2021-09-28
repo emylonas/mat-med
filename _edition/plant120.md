@@ -1,10 +1,12 @@
 ---
-title: "COLUTEA"
-plant-name: "COLUTEA"
+title: "N. 120 COLUTEA"
+plant-name: "N. 120"
 plant-number: "120"
-plant-xml: /assets/xml/plant120.xml
-plant-img: /assets/img/plant120.jpg
-plant-img2: /assets/img/plant120_verso.jpg
+plant-img1: "/assets/img/plant120_verso.jpg"
+plant-img2: "/assets/img/plant120.jpg"
+plant-xml: "/assets/xml/plant120.xml"
+plant-title: "N. 120 COLUTEA"
+plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
-toc: false
 ---
