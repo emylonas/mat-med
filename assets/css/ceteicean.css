@@ -21,11 +21,12 @@ tei-text {
 
 /* Styles the plant name, main header. */
 tei-div[type="plant"] > tei-head {
-  display: block;
+  display: none;
+  /* display: block;
   font-weight: bold;
   font-size: 1.5m;
   margin-left: -3%;
-  margin-top: 2%;
+  margin-top: 2%; */
 }
 
 
@@ -46,6 +47,10 @@ tei-div[type="bibl"] {
 
 tei-p {
   display: block;
+}
+
+tei-ab {
+  display: none;
 }
 
 tei-foreign, tei-hi {

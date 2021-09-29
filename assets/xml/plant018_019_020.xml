@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader><div type="plant" xml:id="A-018_019_020">
+        <head>NN 18, 19, 20</head>
+        <div type="editorial-D">
+          <p>[Pagine bianche]</p>
+        </div>
+      </div></TEI>

@@ -65,6 +65,8 @@ plant-name: "</xsl:text><xsl:value-of select="$plant-name"/><xsl:text>"
 plant-number: "</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>"
 plant-xml: "/assets/xml/plant</xsl:text><xsl:value-of
                 select="$plant-num"/><xsl:text>.xml"
+plant-img1: "/assets/img/plant</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>_verso.jpg"
+plant-img2: "/assets/img/plant</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>.jpg"
 plant-title: "</xsl:text><xsl:value-of select="$plant-title"/><xsl:text>"
 plant-taxon-link: "</xsl:text><xsl:value-of select="$plant-taxon-link"/><xsl:text>"
 plant-taxon-link: "</xsl:text><xsl:value-of select="$plant-taxon-content"/><xsl:text>"
