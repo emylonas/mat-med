@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant016_verso.jpg"
 plant-img2: "/assets/img/plant016.jpg"
 plant-title: "N. 16 ELO CAPOLI"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

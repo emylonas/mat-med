@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant057_verso.jpg"
 plant-img2: "/assets/img/plant057.jpg"
 plant-title: "N. 57 HEBANO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

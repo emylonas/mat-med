@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant024_verso.jpg"
 plant-img2: "/assets/img/plant024.jpg"
 plant-title: "N. 24 VITE NERA, TAMARO"
 plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000568332"
-plant-taxon-link: "[Tamus communis L.]."
+plant-taxon-content: "[Tamus communis L.]."
 layout: single-xml
 ---

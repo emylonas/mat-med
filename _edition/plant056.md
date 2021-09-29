@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant056_verso.jpg"
 plant-img2: "/assets/img/plant056.jpg"
 plant-title: "N. 56 SUBER TH."
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

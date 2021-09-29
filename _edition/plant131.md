@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant131_verso.jpg"
 plant-img2: "/assets/img/plant131.jpg"
 plant-title: "N. 131 FASUOL DE INDIA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

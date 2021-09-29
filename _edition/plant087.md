@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant087_verso.jpg"
 plant-img2: "/assets/img/plant087.jpg"
 plant-title: "N. 87 SPIN BIANCO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

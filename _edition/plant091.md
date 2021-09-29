@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant091_verso.jpg"
 plant-img2: "/assets/img/plant091.jpg"
 plant-title: "N. 91 BRIONIA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

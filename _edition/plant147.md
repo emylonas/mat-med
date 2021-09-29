@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant147_verso.jpg"
 plant-img2: "/assets/img/plant147.jpg"
 plant-title: "N. 147 TAMARINDI"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

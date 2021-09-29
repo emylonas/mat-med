@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant124_verso.jpg"
 plant-img2: "/assets/img/plant124.jpg"
 plant-title: "N. 124 SOLANO AQUATICO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant105_verso.jpg"
 plant-img2: "/assets/img/plant105.jpg"
 plant-title: "N. 105 LENTISCO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

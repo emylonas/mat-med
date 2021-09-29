@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant154_verso.jpg"
 plant-img2: "/assets/img/plant154.jpg"
 plant-title: "N. 154 TEMBUL TENUTO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

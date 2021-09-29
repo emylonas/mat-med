@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant112_verso.jpg"
 plant-img2: "/assets/img/plant112.jpg"
 plant-title: "N. II2 GUAICO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

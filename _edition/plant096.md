@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant096_verso.jpg"
 plant-img2: "/assets/img/plant096.jpg"
 plant-title: "N. 96 BALSAMO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

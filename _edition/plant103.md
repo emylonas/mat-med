@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant103_verso.jpg"
 plant-img2: "/assets/img/plant103.jpg"
 plant-title: "N. 103 MIRIDE ARBORE"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

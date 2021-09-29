@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant130_verso.jpg"
 plant-img2: "/assets/img/plant130.jpg"
 plant-title: "N. 130 CEINER MELO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

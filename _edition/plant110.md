@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant110_verso.jpg"
 plant-img2: "/assets/img/plant110.jpg"
 plant-title: "N. IIO SEBESTE SP."
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

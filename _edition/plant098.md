@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant098_verso.jpg"
 plant-img2: "/assets/img/plant098.jpg"
 plant-title: "N. 98 OLEANDRO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

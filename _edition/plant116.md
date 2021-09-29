@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant116_verso.jpg"
 plant-img2: "/assets/img/plant116.jpg"
 plant-title: "* N. II6 CUA MUCHEL"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

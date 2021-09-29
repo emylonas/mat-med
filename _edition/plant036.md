@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant036_verso.jpg"
 plant-img2: "/assets/img/plant036.jpg"
 plant-title: "N. 36 ABETE"
 plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000510976"
-plant-taxon-link: "[Abies alba Mill.]"
+plant-taxon-content: "[Abies alba Mill.]"
 layout: single-xml
 ---

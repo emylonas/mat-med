@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant083_verso.jpg"
 plant-img2: "/assets/img/plant083.jpg"
 plant-title: "N. 83 AGNO CASTO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

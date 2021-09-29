@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant054_verso.jpg"
 plant-img2: "/assets/img/plant054.jpg"
 plant-title: "N. 54 LICIO PO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

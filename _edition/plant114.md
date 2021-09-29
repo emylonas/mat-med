@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant114_verso.jpg"
 plant-img2: "/assets/img/plant114.jpg"
 plant-title: "N. 114 PISTACHIER"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

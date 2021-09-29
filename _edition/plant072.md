@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant072_verso.jpg"
 plant-img2: "/assets/img/plant072.jpg"
 plant-title: "N. 72 ALIMO DE CRATEUA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

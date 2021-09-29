@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant152_verso.jpg"
 plant-img2: "/assets/img/plant152.jpg"
 plant-title: "N. 152 OXIACANTA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

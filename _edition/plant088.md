@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant088_verso.jpg"
 plant-img2: "/assets/img/plant088.jpg"
 plant-title: "N. 88 ACATIA SECONDA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant127_verso.jpg"
 plant-img2: "/assets/img/plant127.jpg"
 plant-title: "N. 127 MIRTO LATIFOLIA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant080_verso.jpg"
 plant-img2: "/assets/img/plant080.jpg"
 plant-title: "N. 80 MAMAI ALBERO DE INDIA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

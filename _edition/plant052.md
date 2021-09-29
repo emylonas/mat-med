@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant052_verso.jpg"
 plant-img2: "/assets/img/plant052.jpg"
 plant-title: "N. 52 MACALEB"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant044_verso.jpg"
 plant-img2: "/assets/img/plant044.jpg"
 plant-title: "N. 44 CAPORE ES FRUTA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

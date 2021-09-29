@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant135_verso.jpg"
 plant-img2: "/assets/img/plant135.jpg"
 plant-title: "N. 135 SPIN CERBIN"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

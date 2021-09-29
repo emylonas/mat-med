@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant040_verso.jpg"
 plant-img2: "/assets/img/plant040.jpg"
 plant-title: "N. 40 FRUTES CITRIO SIMIL"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

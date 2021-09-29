@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant120_verso.jpg"
 plant-img2: "/assets/img/plant120.jpg"
 plant-title: "N. 120 COLUTEA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

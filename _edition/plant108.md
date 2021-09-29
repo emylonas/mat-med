@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant108_verso.jpg"
 plant-img2: "/assets/img/plant108.jpg"
 plant-title: "N. 108 FRUTICE INCOGNITO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

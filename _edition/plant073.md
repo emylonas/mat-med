@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant073_verso.jpg"
 plant-img2: "/assets/img/plant073.jpg"
 plant-title: "N. 73 PEPE TONDO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant079_verso.jpg"
 plant-img2: "/assets/img/plant079.jpg"
 plant-title: "N. 79 CANELA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

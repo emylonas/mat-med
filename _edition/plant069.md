@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant069_verso.jpg"
 plant-img2: "/assets/img/plant069.jpg"
 plant-title: "N. 69 CIRUELAS AMARILLAS COMUNES ES FRUTA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

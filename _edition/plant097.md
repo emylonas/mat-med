@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant097_verso.jpg"
 plant-img2: "/assets/img/plant097.jpg"
 plant-title: "N. 97 VISCO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

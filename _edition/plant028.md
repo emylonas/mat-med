@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant028_verso.jpg"
 plant-img2: "/assets/img/plant028.jpg"
 plant-title: "N. 28 GIANDE"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

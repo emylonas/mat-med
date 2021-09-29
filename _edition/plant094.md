@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant094_verso.jpg"
 plant-img2: "/assets/img/plant094.jpg"
 plant-title: "N. 94 ALLATERNO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

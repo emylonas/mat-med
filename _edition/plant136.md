@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant136_verso.jpg"
 plant-img2: "/assets/img/plant136.jpg"
 plant-title: "N.136 CAROBER SALVATICO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

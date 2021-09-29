@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant095_verso.jpg"
 plant-img2: "/assets/img/plant095.jpg"
 plant-title: "N. 95 STORACE"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

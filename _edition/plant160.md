@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant160_verso.jpg"
 plant-img2: "/assets/img/plant160.jpg"
 plant-title: "N. 160 GRANA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant004_verso.jpg"
 plant-img2: "/assets/img/plant004.jpg"
 plant-title: "N. 4 ALBERO INCOGNITO"
 plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000818704"
-plant-taxon-link: "[Syringa vulgaris L.]"
+plant-taxon-content: "[Syringa vulgaris L.]"
 layout: single-xml
 ---

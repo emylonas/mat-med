@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant022_verso.jpg"
 plant-img2: "/assets/img/plant022.jpg"
 plant-title: "* N. 22 MOLI ALBERO DE INDIA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

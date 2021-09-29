@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant148_verso.jpg"
 plant-img2: "/assets/img/plant148.jpg"
 plant-title: "N. 148 CITISO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

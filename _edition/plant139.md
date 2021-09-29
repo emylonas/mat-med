@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant139_verso.jpg"
 plant-img2: "/assets/img/plant139.jpg"
 plant-title: "N. 139 BERBERI"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

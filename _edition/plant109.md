@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant109_verso.jpg"
 plant-img2: "/assets/img/plant109.jpg"
 plant-title: "N. 109 CROTON NICANDRO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

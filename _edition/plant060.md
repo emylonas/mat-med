@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant060_verso.jpg"
 plant-img2: "/assets/img/plant060.jpg"
 plant-title: "N. 60 PRUNUS THEO."
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

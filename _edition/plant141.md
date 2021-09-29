@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant141_verso.jpg"
 plant-img2: "/assets/img/plant141.jpg"
 plant-title: "N. 141 NIL SP."
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

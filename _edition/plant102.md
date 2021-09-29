@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant102_verso.jpg"
 plant-img2: "/assets/img/plant102.jpg"
 plant-title: "N. 102 CASIA SOLUTIVA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

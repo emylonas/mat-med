@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant149_verso.jpg"
 plant-img2: "/assets/img/plant149.jpg"
 plant-title: "N. 149 FRANGOLA"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

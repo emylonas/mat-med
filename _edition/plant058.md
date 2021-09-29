@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant058_verso.jpg"
 plant-img2: "/assets/img/plant058.jpg"
 plant-title: "N. 58 ANAGIRO, EGANO"
 plant-taxon-link: ""
-plant-taxon-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

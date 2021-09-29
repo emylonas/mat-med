@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant006_verso.jpg"
 plant-img2: "/assets/img/plant006.jpg"
 plant-title: "N. 6 VITE NERA VULGARE"
 plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000610944"
-plant-taxon-link: "[Clematis Viticella L.]"
+plant-taxon-content: "[Clematis Viticella L.]"
 layout: single-xml
 ---

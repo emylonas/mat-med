@@ -7,6 +7,6 @@ plant-img1: "/assets/img/plant045_verso.jpg"
 plant-img2: "/assets/img/plant045.jpg"
 plant-title: "N. 45 CHICO CAPOLT"
 plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000294988"
-plant-taxon-link: "[Achras Sapota L.]"
+plant-taxon-content: "[Achras Sapota L.]"
 layout: single-xml
 ---
