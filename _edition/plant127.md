@@ -2,11 +2,9 @@
 title: "N. 127 MIRTO LATIFOLIA"
 plant-name: "N. 127"
 plant-number: "127"
-plant-img1: "/assets/img/plant127_verso.jpg"
-plant-img2: "/assets/img/plant127.jpg"
 plant-xml: "/assets/xml/plant127.xml"
 plant-title: "N. 127 MIRTO LATIFOLIA"
 plant-taxon-link: ""
-plant-taxon-content: ""
+plant-taxon-link: ""
 layout: single-xml
 ---

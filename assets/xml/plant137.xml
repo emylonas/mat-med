@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-137">
+  </teiHeader><div type="plant" xml:id="A-137">
         <head>N. 137 RIBES SP.</head>
         <ab>(Viburnum Opulus L.)</ab>
         <div type="name">
@@ -50,11 +47,8 @@
             carattere frequentissimo, quello delle glandole peziolari).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-137N3" n="3"> Mal trascritto da treublin. V. N. 74. Questi nomi appartengono al vero ribes
+          <note xml:id="A-137-N3" n="3"> Mal trascritto da treublin. V. N. 74. Questi nomi appartengono al vero ribes
             che l'Autore chiama qui ribes minoro.</note>
-          <note xml:id="A-137N1" n="1"> Sile. </note>
+          <note xml:id="A-137-N1" n="1"> Sile. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

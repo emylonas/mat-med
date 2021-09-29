@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-086">
+  </teiHeader><div type="plant" xml:id="A-086">
         <head>N. 86 AZAROLO</head>
         <ab>[Crataegus Azarolus L.]</ab>
         <div type="name">
@@ -59,15 +56,12 @@
             déontidos ontávalos di Teofrasto è Mespilus Cotoneaster qui figurato al N. 145). -</p>
         </div>
         <div type="notes">
-          <note xml:id="A-086N1" n="1"> Mespilus germanica.</note>
-          <note xml:id="A-086N2" n="2"> A Ragusa.</note>
-          <note xml:id="A-086N3" n="3"> Piedigrotta.</note>
-          <note xml:id="A-086N4" n="4"> A Rimini.</note>
-          <note xml:id="A-086N5" n="5"> Innestarlo.</note>
-          <note xml:id="A-086N6" n="6"> Pose.</note>
-          <note xml:id="A-086N7" n="7"> Trovasi un campione nell'Erbario Aldrovandi col nome Mespilus Aronia.</note>
+          <note xml:id="A-086-N1" n="1"> Mespilus germanica.</note>
+          <note xml:id="A-086-N2" n="2"> A Ragusa.</note>
+          <note xml:id="A-086-N3" n="3"> Piedigrotta.</note>
+          <note xml:id="A-086-N4" n="4"> A Rimini.</note>
+          <note xml:id="A-086-N5" n="5"> Innestarlo.</note>
+          <note xml:id="A-086-N6" n="6"> Pose.</note>
+          <note xml:id="A-086-N7" n="7"> Trovasi un campione nell'Erbario Aldrovandi col nome Mespilus Aronia.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

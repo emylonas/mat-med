@@ -2,11 +2,9 @@
 title: "N. 126 TITHIMALO DENDROIDE"
 plant-name: "N. 126"
 plant-number: "126"
-plant-img1: "/assets/img/plant126_verso.jpg"
-plant-img2: "/assets/img/plant126.jpg"
 plant-xml: "/assets/xml/plant126.xml"
 plant-title: "N. 126 TITHIMALO DENDROIDE"
 plant-taxon-link: ""
-plant-taxon-content: ""
+plant-taxon-link: ""
 layout: single-xml
 ---

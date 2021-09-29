@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-084">
+  </teiHeader><div type="plant" xml:id="A-084">
         <head>N. 84 TRAGIO</head>
         <ab>[Hypericum hircinum L.]</ab>
         <div type="name">
@@ -42,10 +39,6 @@
           <p>Pegli altri iperici figurati nel Codice V. Ro. I, 236).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-084N1" n="1"> Giallo </note>
+          <note xml:id="A-084-N1" n="1"> Giallo </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
-
+      </div></TEI>

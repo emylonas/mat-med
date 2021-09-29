@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-134">
+  </teiHeader><div type="plant" xml:id="A-134">
         <head>N. 134 SMILAX LEVIS DI CANDIA</head>
         <div type="name">
           <head>NOMI</head>
@@ -60,13 +57,9 @@
             cascano et per esser tutti oramai cascati non ne mandò»]</p>
         </div>
         <div type="notes">
-          <note xml:id="A-134N1" n="1"> Windenkraut.</note>
-          <note xml:id="A-134N2" n="2"> Glattwinden.</note>
-          <note xml:id="A-134N3" n="3"> Perde i rami.</note>
-          <note xml:id="A-134N4" n="4"> Lido di Venezia.</note>
+          <note xml:id="A-134-N1" n="1"> Windenkraut.</note>
+          <note xml:id="A-134-N2" n="2"> Glattwinden.</note>
+          <note xml:id="A-134-N3" n="3"> Perde i rami.</note>
+          <note xml:id="A-134-N4" n="4"> Lido di Venezia.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
-
+      </div></TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-051">
+  </teiHeader><div type="plant" xml:id="A-051">
         <head>N. 51 CUCIOPHORON</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
         <div type="name">
@@ -37,7 +34,4 @@
             lasciato lo spazio in mezzo per dipingere la pianta, ma non potè mai farne la
             conoscenza].</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

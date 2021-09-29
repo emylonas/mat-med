@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-146">
+  </teiHeader><div type="plant" xml:id="A-146">
         <head>N. 146 ASPALATO</head>
         <ab>(Genista aspalathoides Lam.)</ab>
         <div type="name">
@@ -61,10 +58,7 @@
             poco distinti. Essa è la prima conosciuta, precedendo quella del Pona [204]).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-146N1" n="1"> Dal 16 Giugno 1550 al 15 Febbraio 1553.</note>
-          <note xml:id="A-146N2" n="2"> Non Roberto come lo chiama lo Sprengel.</note>
+          <note xml:id="A-146-N1" n="1"> Dal 16 Giugno 1550 al 15 Febbraio 1553.</note>
+          <note xml:id="A-146-N2" n="2"> Non Roberto come lo chiama lo Sprengel.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

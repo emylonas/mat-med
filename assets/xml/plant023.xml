@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-023">
+  </teiHeader><div type="plant" xml:id="A-023">
         <head>N. 23 SCAMONEA</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001298534">[<hi>Convolvolus Scammonia L.</hi>]</ref></ab>
         <div type="name">
@@ -32,7 +29,7 @@
         <div type="shape">
           <head>FORMA</head>
           <p> Suoa radice gomosa sfilosa gialezzia, grande et grossa. suoi fusti sotilli, rotondi
-            che se invogliono (<ptr target="#A-023N1"/>) a quel li sonno acanto, suoe frondi con intervallo dal una al
+            che se invogliono (<ptr target="#A-023-N1"/>) a quel li sonno acanto, suoe frondi con intervallo dal una al
             altra di forma simil al volgare volubile con 3 punte in sesto di lancia, ma larghe
             abasso, al gusto pocho acetose, suoi fiori bianchi in campanele simil volubilo deto,
             suoi semi di scuro colore lungheto et simil a quello del fiore di note ma roano.</p>
@@ -40,8 +37,8 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> In <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, in <placeName ref="https://www.geonames.org/6697802/crete.html">Candia</placeName> et per <placeName>Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
-            si vegono nelli pitteri in smartello (<ptr target="#A-023N2"/>) che di Cipri vengono mandati a noi. L'elleta
-            (<ptr target="#A-023N1"/>) si ricoglie in <placeName ref="https://www.geonames.org/8285551/mysie.html">Misia</placeName> nell'Asia, et in <placeName ref="https://www.geonames.org/260311/kefalonia-island.html">Collophone</placeName> isola nel Jonie dunde vi sonno l'
+            si vegono nelli pitteri in smartello (<ptr target="#A-023-N2"/>) che di Cipri vengono mandati a noi. L'elleta
+            (<ptr target="#A-023-N1"/>) si ricoglie in <placeName ref="https://www.geonames.org/8285551/mysie.html">Misia</placeName> nell'Asia, et in <placeName ref="https://www.geonames.org/260311/kefalonia-island.html">Collophone</placeName> isola nel Jonie dunde vi sonno l'
             Oraculo di Appoline.</p>
         </div>
         <div type="seasonality">
@@ -75,7 +72,7 @@
             dissegnato la maggior parte delle figure di questo nostro volume per non haver forse
             egli saputo che il Liberale l'haveva presa dal nostro giardino...».</p>
           <p>Da ciò può dedursi che le figure date dal <persName ref="#Mattioli">Mattioli</persName> e dal Michiel sono contemporanee o
-            quasi, ma d'altra parte la questione della priorità diventa oziosa (<ptr target="#A-023N4"/>) ora che sappiamo
+            quasi, ma d'altra parte la questione della priorità diventa oziosa (<ptr target="#A-023-N4"/>) ora che sappiamo
             essere stata la scammonea figurata, benchè imperfettamente, un secolo prima dei nostri
             due botanici, da <persName ref="#Rinio">Benedetto Rinio</persName>.</p>
           <p>Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
@@ -85,14 +82,11 @@
             dall'Angelo] <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-023N1" n="1"> Avvolgono.</note>
-          <note xml:id="A-023N2" n="2"> Vasi da fiori di terraglia smaltata.</note>
-          <note xml:id="A-023N3" n="3"> Eletta,</note>
-          <note xml:id="A-023N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="#Anguillara">Anguillara</persName> ne fece nascere una
+          <note xml:id="A-023-N1" n="1"> Avvolgono.</note>
+          <note xml:id="A-023-N2" n="2"> Vasi da fiori di terraglia smaltata.</note>
+          <note xml:id="A-023-N3" n="3"> Eletta,</note>
+          <note xml:id="A-023-N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="#Anguillara">Anguillara</persName> ne fece nascere una
             pianta da semi avuti di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="https://www.treccani.it/enciclopedia/lorenzo-priuli_%28Dizionario-Biografico%29/">Lorenzo Priuli</persName>
             a <placeName ref="https://www.geonames.org/6542281/padova.html">Padova</placeName> e <persName>Giulio Moderato</persName> a <placeName ref="https://www.geonames.org/6541863/rimini.html">Rimini</placeName>. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

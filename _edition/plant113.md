@@ -2,11 +2,9 @@
 title: "N. 113 GUAIABO"
 plant-name: "N. 113"
 plant-number: "113"
-plant-img1: "/assets/img/plant113_verso.jpg"
-plant-img2: "/assets/img/plant113.jpg"
 plant-xml: "/assets/xml/plant113.xml"
 plant-title: "N. 113 GUAIABO"
 plant-taxon-link: ""
-plant-taxon-content: ""
+plant-taxon-link: ""
 layout: single-xml
 ---

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-002">
+  </teiHeader><div type="plant" xml:id="A-002">
         <head>N. 2 INCOGNITA</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000439333">[<hi>Sambucus racemosa L.</hi>]</ref></ab>
         <div type="editorial-D">
@@ -23,7 +20,4 @@
             di cui dà la descrizione <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">[305]</ref> 
             che pare sia questa specie].</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

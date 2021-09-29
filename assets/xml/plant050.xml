@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-050">
+  </teiHeader><div type="plant" xml:id="A-050">
         <head>N. 50 SECO MORO FRATESCO</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000450150">[<hi>Melia Azedarach L.</hi>]</ref></ab>
         <div type="name">
@@ -39,7 +36,7 @@
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
-          <p>Gli profumieri radoppia la quantità de suoi fiori con li fiori de gensamini bianchi (<ptr target="#A-050N1"/>)
+          <p>Gli profumieri radoppia la quantità de suoi fiori con li fiori de gensamini bianchi (<ptr target="#A-050-N1"/>)
             lambicandoli per far aqua perfettissima odoriffera. De suoi fruti over nuclei infilzati
             se ne fanno corone de pater nostri ... .</p>
         </div>
@@ -59,9 +56,6 @@
             <persName ref="#Veglia">Dionisio Veglia</persName> lo segnalava come una delle piante più cospicue di quell'Orto <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-050N1" n="1"> Gelsomini.</note>
+          <note xml:id="A-050-N1" n="1"> Gelsomini.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

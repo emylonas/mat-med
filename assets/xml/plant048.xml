@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-048">
+  </teiHeader><div type="plant" xml:id="A-048">
         <head>N. 48 AGRIFOLIO</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000729203">[<hi>Ilex Aquifolium L.</hi>]</ref></ab>
         <div type="name">
@@ -26,7 +23,7 @@
           <p> Molti et varii sonno li Paliuri ma questo molto meglio si rasembra al Paliuro scrito
             da Plinio et tolto da Theophrasto che tutti gli altri da varii et diversi autori
             menzonati come alli suoi capitoli chiaro vedrassi. Et de lothi legi nel <ref target="#R1-116">libro primo
-              rosso k. 116 </ref> (<ptr target="#A-048N3"/>).</p>
+              rosso k. 116 </ref> (<ptr target="#A-048-N3"/>).</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
@@ -54,11 +51,8 @@
             foglie e drupe]. commune</p>
         </div>
         <div type="notes">
-          <note xml:id="A-048N1" n="1"> Ed azzurro N. 155.</note>
+          <note xml:id="A-048-N1" n="1"> Ed azzurro N. 155.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="39"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,16 +10,14 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-011">
+  </teiHeader><div type="plant" xml:id="A-011">
         <head>N. II SMILACE LISIA</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000747944">[<hi>Ipomoea hederacea Jacq.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Fior di notte a Napoli - Smilace liscia celeste, Viteal et Volubile medio da volgari -
-            Helxine cissampelos et Convolvulus da Latini - Mitellvviden (<ptr target="#A-011N1"/>) et Vvoigartenvviden (<ptr target="#A-011N2"/>)
-            da Germani - Capanete vitreole (<ptr target="#A-011N3"/>) et lizet (<ptr target="#A-011N4"/>) da Galli - Granum Nil Avicena dal Ghyno vel
+            Helxine cissampelos et Convolvulus da Latini - Mitellvviden (<ptr target="#A-011-N1"/>) et Vvoigartenvviden (<ptr target="#A-011-N2"/>)
+            da Germani - Capanete vitreole (<ptr target="#A-011-N3"/>) et lizet (<ptr target="#A-011-N4"/>) da Galli - Granum Nil Avicena dal Ghyno vel
             Habel Nil.</p>
         </div>
         <div type="genus">
@@ -50,19 +47,16 @@
           <p>[Figura abbastanza buona di pianta fiorita e fruttifera. Il Michiel ed il <persName ref="#Gesner">Gesner</persName> (<ref type="bibl" target="http://id.sbn.it/bid/PUVE006389"><hi>De
             hortis Germaniae</hi>, f. 255a)</ref> furono i primi ad effigiare questa specie. Linneo, accettando l'identificazione del <persName ref="#Ghini">Ghini</persName>, lo chiamò Convolvulus Nil benché il Nil degli Arabi
             sia Indigofera tinctoria od altra pianta producente indaco, secondo i vari autori. Il
-            fior di notte odierno è <hi>Mirabilis Jalapa</hi>]. (<ptr target="#A-011N5"/>)</p>
+            fior di notte odierno è <hi>Mirabilis Jalapa</hi>]. (<ptr target="#A-011-N5"/>)</p>
         </div>
         <div type="notes">
-          <note xml:id="A-011N1" n="1"> Mittelwindc.</note>
-          <note xml:id="A-011N2" n="2"> Weingartenwinde.</note>
-          <note xml:id="A-011N3" n="3"> Campanette v.</note>
-          <note xml:id="A-011N4" n="4"> Liset</note>
-          <note xml:id="A-011N5" n="5"> * Del resto <hi>Ipomaca bona-nox L.</hi>, elencata dal SACCARDO (<ref type="bibl" target="http://id.sbn.it/bid/CUB0569627"><hi>Cronologia Fl. Italiana</hi>, Padova 1909</ref>) fra le piante settecentesche, è assai poco distinta da Ip. Nil e
+          <note xml:id="A-011-N1" n="1"> Mittelwindc.</note>
+          <note xml:id="A-011-N2" n="2"> Weingartenwinde.</note>
+          <note xml:id="A-011-N3" n="3"> Campanette v.</note>
+          <note xml:id="A-011-N4" n="4"> Liset</note>
+          <note xml:id="A-011-N5" n="5"> * Del resto <hi>Ipomaca bona-nox L.</hi>, elencata dal SACCARDO (<ref type="bibl" target="http://id.sbn.it/bid/CUB0569627"><hi>Cronologia Fl. Italiana</hi>, Padova 1909</ref>) fra le piante settecentesche, è assai poco distinta da Ip. Nil e
             da Pk, hederacea, i caratteri differenziali essendo su la tinta della corolla e la forma
             delle foglie, sovente alterate da eterofillia. Non potrebbero essere state confuse tutte
             insieme dal Michiel? (Ed.). </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

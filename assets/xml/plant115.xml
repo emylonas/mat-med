@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-115">
+  </teiHeader><div type="plant" xml:id="A-115">
         <head>N. 115 STAFILODENDRO</head>
         <ab>(Staphylea pinnata L.]</ab>
         <div type="name">
@@ -51,15 +48,12 @@
             in fatto ce n'era una sola, che è quella qui dipinta).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-115N3" n="3"> Bimpernüsslein.</note>
-          <note xml:id="A-115N4" n="4"> Giobbe.</note>
-          <note xml:id="A-115N5" n="5"> Saranno due.</note>
-          <note xml:id="A-115N6" n="6"> lo causa dei semi duri e lucenti che servono per fabbricar rosari donde il
+          <note xml:id="A-115-N3" n="3"> Bimpernüsslein.</note>
+          <note xml:id="A-115-N4" n="4"> Giobbe.</note>
+          <note xml:id="A-115-N5" n="5"> Saranno due.</note>
+          <note xml:id="A-115-N6" n="6"> lo causa dei semi duri e lucenti che servono per fabbricar rosari donde il
             nome bellu- Dese: pianta da corona ». Anche i frutti bianchi, duri e lucidi della pianta
             graminca chiamata oggidi Lagrime di Giobbe (Cois Lacryma) servono al medesimo
             uso.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

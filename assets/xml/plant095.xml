@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-095">
+  </teiHeader><div type="plant" xml:id="A-095">
         <head>N. 95 STORACE</head>
         <ab>[Styrax officinale L.]</ab>
         <div type="name">
@@ -68,11 +65,11 @@
             foglie »). </p>
         </div>
         <div type="notes">
-          <note xml:id="A-095N1" n="1"> Gebel-Akrah degli Arabi.</note>
-          <note xml:id="A-095N2" n="2"> Pisidia.</note>
-          <note xml:id="A-095N3" n="3"> Anatolia.</note>
-          <note xml:id="A-095N4" n="4"> Sporgenze mammillari.</note>
-          <note xml:id="A-095N5" n="5"> Aoche Pena e Lobelio (180) dichiarano averla vista la prima volta nel
+          <note xml:id="A-095-N1" n="1"> Gebel-Akrah degli Arabi.</note>
+          <note xml:id="A-095-N2" n="2"> Pisidia.</note>
+          <note xml:id="A-095-N3" n="3"> Anatolia.</note>
+          <note xml:id="A-095-N4" n="4"> Sporgenze mammillari.</note>
+          <note xml:id="A-095-N5" n="5"> Aoche Pena e Lobelio (180) dichiarano averla vista la prima volta nel
             giardino di S. Francesco in Venezia, anzi fu loro di guida per riconoscere poi la specie
             presso Solliès (Tolone) ove tuttora essa vegeta. Oggidi la pianta non si trova più a S.
             Francosco della Vigna. L'Aldrovandi la raccolse e la conservo col nome Stirar nel suo
@@ -80,7 +77,4 @@
             prefetto dell'Orto botanico di Pisa o la pianto nell'Orto stesso fra il 1992 e il 1595.
             Ancora nel 1635 era riguardata una delle piante più cospicue dell'Orto (262).</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

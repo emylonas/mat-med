@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-108">
+  </teiHeader><div type="plant" xml:id="A-108">
         <head>N. 108 FRUTICE INCOGNITO</head>
         <ab>[I. Vaccinium Vitis Idaea L.] [II. Vaccinium Myrtillus L.]</ab>
         <div type="name">
@@ -63,7 +60,4 @@
             col nome Myrtillus exiguus.</p>
           <p>La seconda figura è un ramo fiorifero rozzamente disegnato).</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

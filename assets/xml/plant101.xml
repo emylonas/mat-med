@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-101">
+  </teiHeader><div type="plant" xml:id="A-101">
         <head>N. 101 BARBA IOVIS</head>
         <ab>[Anthyllis Barba-Jovis L.]</ab>
         <div type="name">
@@ -65,14 +62,11 @@
             Michiel permette di accertare).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-101N1" n="1"> Helichrysum Stoechas, lib. Ro. I, 324, e Ve. 90. H. Slouchas è il Barba Tovis
+          <note xml:id="A-101-N1" n="1"> Helichrysum Stoechas, lib. Ro. I, 324, e Ve. 90. H. Slouchas è il Barba Tovis
             dei vecchi codici (61).</note>
-          <note xml:id="A-101N2" n="2"> PT. Livorno.</note>
-          <note xml:id="A-101N3" n="3"> Ciod.</note>
-          <note xml:id="A-101N4" n="4"> • Non omni ex parte bona, siquidem desiderantur pores ..</note>
-          <note xml:id="A-101N5" n="5"> • Vaga quidem significationis est Barba Jovis. (Chabray., p. 82).</note>
+          <note xml:id="A-101-N2" n="2"> PT. Livorno.</note>
+          <note xml:id="A-101-N3" n="3"> Ciod.</note>
+          <note xml:id="A-101-N4" n="4"> • Non omni ex parte bona, siquidem desiderantur pores ..</note>
+          <note xml:id="A-101-N5" n="5"> • Vaga quidem significationis est Barba Jovis. (Chabray., p. 82).</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

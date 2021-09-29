@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-109">
+  </teiHeader><div type="plant" xml:id="A-109">
         <head>N. 109 CROTON NICANDRO</head>
         <div type="name">
           <head>NOMI</head>
@@ -41,7 +38,7 @@
             dietro la descrizione dell'Anguillara (1)].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-109N1" n="1"> * L'interesse che può avere questa pianta - se, come pare, esaminata o
+          <note xml:id="A-109-N1" n="1"> * L'interesse che può avere questa pianta - se, come pare, esaminata o
             comunicata dall' Anguillara – più che nella supposta corrispondenza col testo di
             Nicandro (questo autore npuxd, verso 676 la nomina senza nessuna indicazione, e solo il
             suo commentatore la dice vagamente simile al pino ), sta nella possibilità che
@@ -52,7 +49,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="79"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

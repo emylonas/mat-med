@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-009">
+  </teiHeader><div type="plant" xml:id="A-009">
         <head>N. 9 CEDRO</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000355658">[<hi>I. Juniperus Oxycedrus L.</hi>]</ref> - <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355640">[<hi>II. J. macrocarpa S. et S.</hi>]</ref></ab>
         <div type="name">
@@ -50,17 +47,17 @@
         <div type="exposure">
           <head>AMANO</head>
           <p> Ne monti frigidi et sassosi sonno il suo proprio et non li bisognia tagliare suoe
-            cime, impero (<ptr target="#A-009N1"/>) si muore et piui non germinano.</p>
+            cime, impero (<ptr target="#A-009-N1"/>) si muore et piui non germinano.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> L'<persName ref="#Aldrovandi">Aldrovandi</persName> tiene ch'il Cedro phenicea vel Oxicedro sia quella spezie de Junipero che
-            descrive Diascoride quando dice (<ptr target="#A-009N2"/>) «Baccarum non nulle nucem pontu equar nar.a» lui
+            descrive Diascoride quando dice (<ptr target="#A-009-N2"/>) «Baccarum non nulle nucem pontu equar nar.a» lui
             intende di questo <hi>Cedro phenicea</hi>. Et Plinio par che confundano li giuniperi facendone di
             4 spezie et quello Cedralite son depinto dal <persName ref="#Belonio">Belonio</persName> nel suo libro <ref type="bibl" target="http://id.sbn.it/bid/CFIE000031">de Resiniferis</ref>, et
             questo son quello che fu edificato il tempio di Salamone et l'Arca di Noe tenuto da
             Hebrei. Et l'<persName ref="#Anguillara">Anguillara</persName> 45 dice che li Cedri de Theophrasto Diascoride con errore li
-            chiamorno Ginepri. Et il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandini</persName> nel Membro 24 (<ptr target="#A-009N3"/>) tiene che il Cedro maggior de
+            chiamorno Ginepri. Et il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandini</persName> nel Membro 24 (<ptr target="#A-009-N3"/>) tiene che il Cedro maggior de
             Greci sia il Larice de Latini et con molti belli discorsi.</p>
         </div>
         <div type="properties">
@@ -93,7 +90,7 @@
             prevenzione che i Cedri dovessero aver frutti a galbulo come i ginepri, mentre il
             Mattioli fece conoscere che il Cedro del Libano ha per frutti delle pigne. Da ciò la
             poca persuasione del Michiel che esso fosse un Cedro, la quale si basava sopra un passo
-            mal trascritto da Dioscoride che fu ridotto alla giusta lezione dal <persName ref="#Mattioli">Mattioli</persName>. (<ptr target="#A-009N4"/>)</p>
+            mal trascritto da Dioscoride che fu ridotto alla giusta lezione dal <persName ref="#Mattioli">Mattioli</persName>. (<ptr target="#A-009-N4"/>)</p>
           <p>Π passo in questione è: «<foreign xml:lang="grc">Κέδρος δένδρον εστί μέγα εξ ου η
               λεγομένη κεδρία συνάγεται. καρπόν δε έχει ώσπερ κυπαρίσσου, μακρότερον μεν παρά πολύ.
               λέγεται δε και άλλη κέδρος μικρά, ακανθώδης ώσπερ άρκευθος, φέρουσα καρπόν μέγεθος
@@ -108,20 +105,17 @@
             con Dioscoride, ammettendo che il Cedro maggiore sia baccifero].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-009N1" n="1"> Imperocché.</note>
-          <note xml:id="A-009N2" n="2">* Il passo cui si riferisce qui il Michiel si legge nel <ref type="bibl" target="http://id.sbn.it/bid/RMLE006854">Dioscoride curato
+          <note xml:id="A-009-N1" n="1"> Imperocché.</note>
+          <note xml:id="A-009-N2" n="2">* Il passo cui si riferisce qui il Michiel si legge nel <ref type="bibl" target="http://id.sbn.it/bid/RMLE006854">Dioscoride curato
             dal Ruellio (Lugduni, 1552, p. 84)</ref>: «Baccarum nonnullae nucis juglandis magnitudine
             nonnunquam grandescere, aliae nucem Ponticam acquare inveniuntur...» (Ed.).</note>
-          <note xml:id="A-009N3" n="3">* <ref type="bibl" target="http://id.sbn.it/bid/BVEE008573">M. GUILANDINI, <hi>Papyrus, hoc est Commentarius in tria C. Plinij maioris de
+          <note xml:id="A-009-N3" n="3">* <ref type="bibl" target="http://id.sbn.it/bid/BVEE008573">M. GUILANDINI, <hi>Papyrus, hoc est Commentarius in tria C. Plinij maioris de
             Papyro capita</hi> (Venezia, 1572)</ref>, «Membro XXIIII» (che va da p. 199 a p. 290).
             (Ed.).</note>
-          <note xml:id="A-009N4" n="4">* La correzione fu fatta dal <persName ref="#Mattioli">Mattioli</persName>, come dice egli stesso <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">(ed. Valgrisi,
+          <note xml:id="A-009-N4" n="4">* La correzione fu fatta dal <persName ref="#Mattioli">Mattioli</persName>, come dice egli stesso <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">(ed. Valgrisi,
             1568, pag. 141)</ref>, valendosi di «uno essemplare d'un Dioscoride antico hauto in
             <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> dal Sig. <persName>Antonio Cantacuzeno</persName>, gentilhomo di quella città, con il cui
             testimonio sono io restato chiaro, che i Dioscoridi greci che vanno communemente attorno
             nelle librarie, sono tutti scorretti, ecc. (Ed.) </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

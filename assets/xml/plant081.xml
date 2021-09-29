@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-081">
+  </teiHeader><div type="plant" xml:id="A-081">
         <head>N. 81 NOCE MOSCATA</head>
         <ab>[* Myristica fragrans Houtt.]</ab>
         <div type="name">
@@ -119,16 +116,13 @@
             alla divisione dei due emisferi di cui il commento al N. 99 del libro giallo). </p>
         </div>
         <div type="notes">
-          <note xml:id="A-081N1" n="1"> Elce.</note>
-          <note xml:id="A-081N2" n="2"> Molucche.</note>
-          <note xml:id="A-081N3" n="3"> Ternate.</note>
-          <note xml:id="A-081N4" n="4"> Motir.</note>
-          <note xml:id="A-081N5" n="5"> Zebu.</note>
-          <note xml:id="A-081N6" n="6"> Diminutivo di Ménega (Domenica) forse per la figarina di donna che si usa
+          <note xml:id="A-081-N1" n="1"> Elce.</note>
+          <note xml:id="A-081-N2" n="2"> Molucche.</note>
+          <note xml:id="A-081-N3" n="3"> Ternate.</note>
+          <note xml:id="A-081-N4" n="4"> Motir.</note>
+          <note xml:id="A-081-N5" n="5"> Zebu.</note>
+          <note xml:id="A-081-N6" n="6"> Diminutivo di Ménega (Domenica) forse per la figarina di donna che si usa
             dipingere nel vano fra le due spade. Il nomo di battesimo Domenica era usitatissimo al
             tempo della Repub- blica. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

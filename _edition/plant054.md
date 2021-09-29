@@ -2,11 +2,9 @@
 title: "N. 54 LICIO PO"
 plant-name: "N. 54"
 plant-number: "054"
-plant-img1: "/assets/img/plant054_verso.jpg"
-plant-img2: "/assets/img/plant054.jpg"
 plant-xml: "/assets/xml/plant054.xml"
 plant-title: "N. 54 LICIO PO"
 plant-taxon-link: ""
-plant-taxon-content: ""
+plant-taxon-link: ""
 layout: single-xml
 ---

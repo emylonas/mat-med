@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-145">
+  </teiHeader><div type="plant" xml:id="A-145">
         <head>N. 145 PERO CERVINO</head>
         <ab>(Cotoneaster integerrima Medic.]</ab>
         <div type="name">
@@ -36,7 +33,4 @@
             (115). Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152).
             -</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

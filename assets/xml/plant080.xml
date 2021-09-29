@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-080">
+  </teiHeader><div type="plant" xml:id="A-080">
         <head>N. 80 MAMAI ALBERO DE INDIA</head>
         <ab>[Mammea americana L.]</ab>
         <div type="name">
@@ -45,7 +42,4 @@
           <p>[Albero fruttifero. La pianta era stata descritta col nome Mamey da Gonzalo Fer-
             dinando Oviedo de Valdes (1525)). -</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

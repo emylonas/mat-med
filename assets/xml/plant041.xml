@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,15 +10,13 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-041">
+  </teiHeader><div type="plant" xml:id="A-041">
         <head>N. 41 VIRCITOSICA</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000633726">[<hi>Cynanchum Vincetoxicum Pers.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Asclepias da Latini - Vincitosica da volgari – Cission et Cissophilon da Greci -
-            Schvulbenurtz (<ptr target="#A-041N1"/>) da Germani - Hirundinario dal Trago - Polirizon Plinij.</p>
+            Schvulbenurtz (<ptr target="#A-041-N1"/>) da Germani - Hirundinario dal Trago - Polirizon Plinij.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -33,7 +30,7 @@
           <head>OPPINIONI</head>
           <p>M. <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Marchio</persName>, mastro d’il notabil Giardino della ill.ma Signoria nostra dice che il vulgo
             la tiene per il <hi>Polyrizon Plinij</hi>. Asclepias vitiose <persName ref="#Fuchs">Fuchsio</persName> refutata a Mattioli in Au[?]
-            (<ptr target="#A-041N2"/>). Il Trago ha oppinion per il suo libro che la sia l'Asclepiade.</p>
+            (<ptr target="#A-041-N2"/>). Il Trago ha oppinion per il suo libro che la sia l'Asclepiade.</p>
         </div>
         <div type="editorial-D">
           <p>[Nella copia del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">libro dei Semplici</ref>  di <persName ref="#Anguillara">Anguillara</persName> esistente alla Biblioteca Marciana di
@@ -50,14 +47,14 @@
           <p>La figura presente abbastanza buona è di pianta completa con fiori e frutti a tutti gli
             stati d'accrescimento fino alla deiscenza del follicolo. L'Anguillara fu condotto ad
             identificare il vincetossico col Polirizo di Plinio perché l'autore classico dice (lib.
-            27, c. 12) che le foglie somiglianti a quelle del mirto (<ptr target="#A-041N3"/>) servono contro il veleno dei serpenti.
+            27, c. 12) che le foglie somiglianti a quelle del mirto (<ptr target="#A-041-N3"/>) servono contro il veleno dei serpenti.
             Vi sono altre due piante nel testo pliniano col nome di polirizo, cioè l'elleboro nero e la
             pistolochia ma Plinio le chiama <hi>melanpodion</hi> e <hi>pistolochia</hi>, aggiungendo che alcuni le
-            chiamano polyrrhizon (<ptr target="#A-041N4"/>). Cosi si spiega l'equivoco del Guilandino il quale credette che
+            chiamano polyrrhizon (<ptr target="#A-041-N4"/>). Cosi si spiega l'equivoco del Guilandino il quale credette che
             l'Anguillara volesse identificare il vincetossico colla pistolochia di Plinio.</p>
           <p>A questo proposito notiamo che il Littré  <ref type="bibl" target="http://id.sbn.it/bid/UBO2441963">[176]</ref> non mise alcun nome linneano di fronte
             alla parola Polirizo di Plinio rigettando, con ragione, la sua identità con Aristolochia
-            Pistolochia (<ptr target="#A-041N5"/>). Il Legré <ref type="bibl" target="https://catalogue.bnf.fr/ark:/12148/cb45513429s">[170]</ref> mette il Polirizo tra le specie di Anguillara <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="35"/> che aspettano una
+            Pistolochia (<ptr target="#A-041-N5"/>). Il Legré <ref type="bibl" target="https://catalogue.bnf.fr/ark:/12148/cb45513429s">[170]</ref> mette il Polirizo tra le specie di Anguillara <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="35"/> che aspettano una
             identificazione la quale ora si sarebbe ottenuta a merito del nostro codice.</p>
           <p>In un'opera voluminosa come questa, comprendente oltre un migliaio di piante disposte
             con una classificazione artificiale era facile che l'autore dimenticasse di aver
@@ -68,8 +65,8 @@
               libro rosso</ref>].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-041N1" n="1"> Schwalbenwurz radice di rondine.</note>
-          <note xml:id="A-041N2" n="2"> * La lettura del Codice qui non è chiara. Quando all'opinione del <persName ref="#Fuchs">Fuchsio</persName>
+          <note xml:id="A-041-N1" n="1"> Schwalbenwurz radice di rondine.</note>
+          <note xml:id="A-041-N2" n="2"> * La lettura del Codice qui non è chiara. Quando all'opinione del <persName ref="#Fuchs">Fuchsio</persName>
             cui il passo allude, dev'essere quella implicita nella sinonimia (<ref type="bibl" target="http://id.sbn.it/bid/BVEE003520">De historia stirpium
               p. 130</ref>): «Aoradoras Graecis Asclepia Latinis, Herbariis Hirundinaria, Officinis
             Vincoloxicum, Germanis Schwalbenwurtz appellatur», dall'autore poche righe dopo
@@ -77,14 +74,11 @@
               1568, p. 856)</ref> la giudicava errata, in quanto aon si trovano nel Vincetossico quei
             caratteri dell'Asclepias dei Greci su cui il <persName ref="#Fuchs">Fuchsio</persName> appunto basava l'identificazione.
             (Ed).</note>
-          <note xml:id="A-041N3" n="3"> Anguillara paragonò la pianta al Rusco, avvertendo però che non punge.
+          <note xml:id="A-041-N3" n="3"> Anguillara paragonò la pianta al Rusco, avvertendo però che non punge.
             Notiamo che il Rusco fra gli altri nomi aveva quello di Oxymyrsins cioè mirto
             pungente.</note>
-          <note xml:id="A-041N4" n="4"> Nel libro verde di questo codice è chiamato melampodion la sp. <hi>Helleborus
+          <note xml:id="A-041-N4" n="4"> Nel libro verde di questo codice è chiamato melampodion la sp. <hi>Helleborus
             niger L.</hi> (<ref target="#V-176">Ve. 176</ref>) e polirision la sp. <hi>Veratrum nigrum L.</hi> (<ref target="#V-178">Ve. 178</ref>).</note>
-          <note xml:id="A-041N5" n="5"> Sulla Pistolochia v. <ref target="#G-076">Gi., 76</ref>.</note>
+          <note xml:id="A-041-N5" n="5"> Sulla Pistolochia v. <ref target="#G-076">Gi., 76</ref>.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

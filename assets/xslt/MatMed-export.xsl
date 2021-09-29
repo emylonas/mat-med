@@ -14,25 +14,46 @@
     <xsl:output method="xml" indent="no" exclude-result-prefixes="xs xd t"/>
 
 
-    <xsl:template match="t:div[@type = 'plant']">
+    <xsl:template match="t:div[@type='preface']">
+        
+        <!-- ************* xml document for the preface ************* -->
+        <xsl:result-document href="plant000.xml">
+            <TEI xmlns="http://www.tei-c.org/ns/1.0">
+                <xsl:copy-of select="/t:TEI/t:teiHeader"/> <xsl:copy-of select="self::t:div"/>
+            </TEI>
+        </xsl:result-document>
+        
+        <!-- ************* create md document for the preface ************* -->       
+        <xsl:result-document method="text" href="../../_edition/plant000.md">
+                <xsl:text>---
+title: "</xsl:text><xsl:value-of select="t:head"/><xsl:text>"
+plant-name: "</xsl:text><xsl:value-of select="t:head"/><xsl:text>"
+plant-number: "0"
+plant-xml: "/assets/xml/plant000.xml"
+plant-title: "</xsl:text><xsl:value-of select="t:head"/><xsl:text>"
+layout: single-xml
+---</xsl:text>
+            </xsl:result-document>-->
+        
+    </xsl:template>
+    
 
-        <!-- create xml document for each plant.
-             to change the location for the split up xml files, change
-           the path in the href below.-->
-
-        <xsl:result-document href="plant{@xml:id}.xml">
+    <xsl:template match="t:div[@type='plant']">
+        <xsl:variable name="xml-file" select="concat('plant',substring-after(@xml:id, '-'),'.xml')"/>
+        <xsl:variable name="md-file" select="concat('../../_edition/plant',substring-after(@xml:id, '-'),'.md')"/>
+        <!-- *************  create xml document for each plant. tos change the location for the split up xml files, change
+           the path in the href below.*************  -->
+        <xsl:result-document href="{$xml-file}">
             <TEI xmlns="http://www.tei-c.org/ns/1.0">
                 <xsl:copy-of select="/t:TEI/t:teiHeader"/> <xsl:copy-of select="self::t:div"/>
             </TEI>
         </xsl:result-document>
 
-        <!-- create md document for each plant
-             to change the location for the split up xml files, change
-           the path in the href below. -->
-
-        <xsl:result-document method="text" href="../_edition/plant{@xml:id}.md">
+    <!-- ************* create md document for each plant to change the location for the split up xml files, change
+           the path in the href below. ************* -->
+        <xsl:result-document method="text" href="{$md-file}">
             <xsl:variable name="plant-title" select="t:head"/>
-            <xsl:variable name="plant-num" select="substring-after(@xml:id, '-')"/>\
+            <xsl:variable name="plant-num" select="substring-after(@xml:id, '-')"/>
             <xsl:variable name="plant-taxon-link" select="t:ab/t:ref/@target"/>
             <xsl:variable name="plant-taxon-content" select="t:ab/t:ref"/>
             <!-- try to make regex to match only name, not numbers. don't need now -->
@@ -49,7 +70,8 @@ plant-taxon-link: "</xsl:text><xsl:value-of select="$plant-taxon-link"/><xsl:tex
 plant-taxon-link: "</xsl:text><xsl:value-of select="$plant-taxon-content"/><xsl:text>"
 layout: single-xml
 ---</xsl:text>
-        </xsl:result-document>--> </xsl:template>
-
+        </xsl:result-document>--> 
+          
+        </xsl:template>
 
 </xsl:stylesheet>

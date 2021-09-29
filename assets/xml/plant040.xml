@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-040">
+  </teiHeader><div type="plant" xml:id="A-040">
         <head>N. 40 FRUTES CITRIO SIMIL</head>
         <div type="name">
           <head>NOMI</head>
@@ -29,7 +26,7 @@
           <p> Suoe radice scure et legnose, suo tronco palido non molto grosso et son frutice che
             rimandano abasso, suoe frondi grossete, lustre, liscie, di bellissimo verde lunghe et
             larghe doi dita, simil al melo cedro ma minore come il lauro, suoi fiori per quel mi
-            disse un erante simplicista francese (<ptr target="#A-040N1"/>) sonno azuri, suoi fruti io non li ho veduti ma
+            disse un erante simplicista francese (<ptr target="#A-040-N1"/>) sonno azuri, suoi fruti io non li ho veduti ma
             li suoi nuclei et ossi sonno nella rotondità apuntiti simil a quelli delle Cerase ma
             oblonghi, involti in nera cartilagine et come pertugiata et apuntata.</p>
         </div>
@@ -52,11 +49,8 @@
           <p> [Pianta sterile; a parte una foglia in grandezza naturale e due assi del frutto].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-040N1" n="1">Pietro Belon.</note>
+          <note xml:id="A-040-N1" n="1">Pietro Belon.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="34"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

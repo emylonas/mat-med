@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-102">
+  </teiHeader><div type="plant" xml:id="A-102">
         <head>N. 102 CASIA SOLUTIVA</head>
         <ab>(Cassia Fistula L.)</ab>
         <div type="name">
@@ -76,16 +73,13 @@
             temporaneo vide la pianta stessa coltivata nell'orto dei Comaro a Murano).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-102N1" n="1"> Cardiolo o gardtolo diminutivo di carato è veramente il nome veneziano del
+          <note xml:id="A-102-N1" n="1"> Cardiolo o gardtolo diminutivo di carato è veramente il nome veneziano del
             seme di car- rubo ; qui è usato pel seme di cassia.</note>
-          <note xml:id="A-102N2" n="2"> Grado.</note>
-          <note xml:id="A-102N3" n="3"> * Coloro sta per collere = umori. (Ed.).</note>
-          <note xml:id="A-102N4" n="4"> Ha le. 10</note>
-          <note xml:id="A-102N5" n="5"> La lettera , dei Greci si pronuncia aspra e percid i Romani la traducevano
+          <note xml:id="A-102-N2" n="2"> Grado.</note>
+          <note xml:id="A-102-N3" n="3"> * Coloro sta per collere = umori. (Ed.).</note>
+          <note xml:id="A-102-N4" n="4"> Ha le. 10</note>
+          <note xml:id="A-102-N5" n="5"> La lettera , dei Greci si pronuncia aspra e percid i Romani la traducevano
             con due S. es. Parnassus, Narcissus.</note>
-          <note xml:id="A-102N6" n="6"> La casia o cassia poetica di Pena e Lobelio. Osyris alba. </note>
+          <note xml:id="A-102-N6" n="6"> La casia o cassia poetica di Pena e Lobelio. Osyris alba. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

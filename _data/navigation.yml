@@ -25,6 +25,8 @@ edition:
     children:
       - title: Libro Azzurro
         url:  /edition/index/
+      - title: Introduction
+        url:  /edition/plant000/      
       - title: 1 CIRUELAS MONTESES
         url:  /edition/plant001/
       - title: 2 INCOGNITA

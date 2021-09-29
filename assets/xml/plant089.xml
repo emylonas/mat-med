@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-089">
+  </teiHeader><div type="plant" xml:id="A-089">
         <head>N. 89 ACATIA</head>
         <ab>[Calycotome spinosa Lk.]</ab>
         <div type="name">
@@ -63,7 +60,4 @@
           <p>[Pianta fiorita. Il Michiel la chiama Acacia prima, mentre il Mattioli la chiama Acacia
             seconda]. -</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

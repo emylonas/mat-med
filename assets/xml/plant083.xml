@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-083">
+  </teiHeader><div type="plant" xml:id="A-083">
         <head>N. 83 AGNO CASTO</head>
         <ab>[Vitex Agnus-Castus L.)</ab>
         <div type="name">
@@ -65,7 +62,4 @@
             credevano i contem- poranei sulle virtù dell'agnocasto, mentre l'esperienza dimostrò
             essere il suo frutto uno stimolante).</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

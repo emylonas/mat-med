@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-098">
+  </teiHeader><div type="plant" xml:id="A-098">
         <head>N. 98 OLEANDRO</head>
         <ab>[Nerium Oleander L.].</ab>
         <div type="name">
@@ -84,18 +81,15 @@
             conforme a realtà).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-098N1" n="1"> Empito.</note>
-          <note xml:id="A-098N2" n="2"> Vaghezza.</note>
-          <note xml:id="A-098N3" n="3"> Fece.</note>
-          <note xml:id="A-098N4" n="4"> Nell'Erbario Aldrovandi, Vol. II, 37 v'è il leandro a fior rosso e nel Vol.
+          <note xml:id="A-098-N1" n="1"> Empito.</note>
+          <note xml:id="A-098-N2" n="2"> Vaghezza.</note>
+          <note xml:id="A-098-N3" n="3"> Fece.</note>
+          <note xml:id="A-098-N4" n="4"> Nell'Erbario Aldrovandi, Vol. II, 37 v'è il leandro a fior rosso e nel Vol.
             VII, 41 quello a fior bianco.</note>
-          <note xml:id="A-098N5" n="5"> Nella posteriore edizione del 1568 il Mattioli diede una buona figura nella
+          <note xml:id="A-098-N5" n="5"> Nella posteriore edizione del 1568 il Mattioli diede una buona figura nella
             quale le foglie sono ben disegnate ed i fiori ben collocati, però nel presente codice si
             scorge meglio la disposizione tricotoma.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="71"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

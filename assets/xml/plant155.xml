@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-155">
+  </teiHeader><div type="plant" xml:id="A-155">
         <head>N. 155 LOTO</head>
         <ab>[Celtis australis L.]</ab>
         <div type="name">
@@ -59,10 +56,7 @@
             quali si fanno mazze e manichi di fruste. Nel Padovano è chiamato bes- solaro).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-155N2" n="2"> Giudecca.</note>
-          <note xml:id="A-155N3" n="3"> S. Giovanni.</note>
+          <note xml:id="A-155-N2" n="2"> Giudecca.</note>
+          <note xml:id="A-155-N3" n="3"> S. Giovanni.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

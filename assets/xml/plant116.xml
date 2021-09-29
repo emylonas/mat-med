@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,10 +10,8 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-116">
-        <head>* N. 116 CUA MUCHEL</head>
+  </teiHeader><div type="plant" xml:id="A-116">
+        <head>* N. II6 CUA MUCHEL</head>
         <div type="name">
           <head>NOMI</head>
           <p> Cua muchel colorado es fruta da Spagnioli overo Indiani.</p>
@@ -56,7 +53,4 @@
           <p>(Figura della stessa fattura dei n. 1, 21, 69; albero a foglie abbinate, lanceolate,
             penninervie ; legumi verdi, subarticolati lunghi il doppio delle foglie. Ed.]. </p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

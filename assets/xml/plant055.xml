@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-055">
+  </teiHeader><div type="plant" xml:id="A-055">
         <head>N. 55 LICIO SO INDIANO</head>
         <div type="name">
           <head>NOMI</head>
@@ -45,11 +42,8 @@
             (3).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-055N3" n="3"> • Rami spinosi ; frutu in grappoli, coronati dal calice. (Ed.).</note>
+          <note xml:id="A-055-N3" n="3"> • Rami spinosi ; frutu in grappoli, coronati dal calice. (Ed.).</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="42"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

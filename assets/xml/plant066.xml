@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-066">
+  </teiHeader><div type="plant" xml:id="A-066">
         <head>N. 66 SAMBUCO SP.C</head>
         <ab>(Sambucus racemosa L.)</ab>
         <div type="name">
@@ -45,13 +42,10 @@
             è a terra con un topo in bocca. A parte due rami, uno fiorito, l'altro fruttifero).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-066N2" n="2"> S. nigra.</note>
-          <note xml:id="A-066N3" n="3"> S. Ebulus.</note>
-          <note xml:id="A-066N4" n="4"> • I versi cui si allude sono: Atque habilis natura soli et gramina lacta
+          <note xml:id="A-066-N2" n="2"> S. nigra.</note>
+          <note xml:id="A-066-N3" n="3"> S. Ebulus.</note>
+          <note xml:id="A-066-N4" n="4"> • I versi cui si allude sono: Atque habilis natura soli et gramina lacta
             Parturit et rutilas ebuli creat uvido baccas Colum. X, 9-10 Sanguineis ebuli baccis
             minioque rubentem Verg. Buc. X. 37 (Ed.).</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

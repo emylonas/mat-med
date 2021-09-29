@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-044">
+  </teiHeader><div type="plant" xml:id="A-044">
         <head>N. 44 CAPORE ES FRUTA</head>
         <div type="name">
           <head>NOMI</head>
@@ -34,12 +31,12 @@
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>
-          <p> Credo che verebbe bene di calmo (<ptr target="#A-044N1"/>) et di suoi nuclei anche ma minori frutti
+          <p> Credo che verebbe bene di calmo (<ptr target="#A-044-N1"/>) et di suoi nuclei anche ma minori frutti
             producono.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Si credeno communamente esser gustevol sp. di brombini (<ptr target="#A-044N2"/>).</p>
+          <p> Si credeno communamente esser gustevol sp. di brombini (<ptr target="#A-044-N2"/>).</p>
         </div>
         <div type="editorial-D">
           <p>[Albero fruttifero portante uccelli ed una lucerta. Da uno dei rami pende un cespuglio
@@ -47,10 +44,7 @@
             parole della diagnosi].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-044N1" n="1"> Innesto.</note>
-          <note xml:id="A-044N2" n="2"> Prugnole.</note>
+          <note xml:id="A-044-N1" n="1"> Innesto.</note>
+          <note xml:id="A-044-N2" n="2"> Prugnole.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

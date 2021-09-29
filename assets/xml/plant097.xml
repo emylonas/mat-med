@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-097">
+  </teiHeader><div type="plant" xml:id="A-097">
         <head>N. 97 VISCO</head>
         <ab>(Viscum album L.)</ab>
         <div type="name">
@@ -65,11 +62,8 @@
             vischio non ha radici.]</p>
         </div>
         <div type="notes">
-          <note xml:id="A-097N3" n="3"> Loranthus curopaeus.'</note>
-          <note xml:id="A-097N1" n="1"> Turdus sibi cacat mortem.</note>
-          <note xml:id="A-097N2" n="2"> La pania. </note>
+          <note xml:id="A-097-N3" n="3"> Loranthus curopaeus.'</note>
+          <note xml:id="A-097-N1" n="1"> Turdus sibi cacat mortem.</note>
+          <note xml:id="A-097-N2" n="2"> La pania. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

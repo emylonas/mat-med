@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-049">
+  </teiHeader><div type="plant" xml:id="A-049">
         <head>N. 49 FICUS EGIPTIA</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000690537">[<hi>Ficus Sycomorus L.</hi>]</ref></ab>
         <div type="name">
@@ -39,7 +36,7 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Quello Cyprio son simil a questo ma suoa foglia tira piui all' olmo et il suo legno di
-            Oppio. (<ptr target="#A-049N1"/>) Et credo che questo depinto sia il Cyprio et non quello de Egypto per farsi
+            Oppio. (<ptr target="#A-049-N1"/>) Et credo che questo depinto sia il Cyprio et non quello de Egypto per farsi
             li fruti sopra e rami et non nel tronco come fa l'Egyptio.</p>
         </div>
         <div type="editorial-D">
@@ -48,9 +45,6 @@
             ragiona più a lungo nella diagnosi].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-049N1" n="1"> Acer campestre.</note>
+          <note xml:id="A-049-N1" n="1"> Acer campestre.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

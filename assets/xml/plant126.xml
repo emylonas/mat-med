@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-126">
+  </teiHeader><div type="plant" xml:id="A-126">
         <head>N. 126 TITHIMALO DENDROIDE</head>
         <ab>[Euphorbia dendroides L.]</ab>
         <div type="name">
@@ -67,20 +64,17 @@
             presa dal <persName ref="#Belonio">Belonio</persName> e dà dimensioni esagerate alla pianta (2)].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-126N3" n="3"> La nostra Napoli era cosi chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
+          <note xml:id="A-126-N3" n="3"> La nostra Napoli era cosi chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
             Grecia) che formó parte del dominii veneti. Ia località è presa dal Mattioli che vide la
             pianta nelle maremme, poco dopo oltrepassato il confine tra lo Stato Pontificio ed il
             Regno di Napoli, partendo da Terracina.</note>
-          <note xml:id="A-126N1" n="1"> Gasp. Bauhin che chiama la specie Tithymalus myrtifolius arboreus vi aggiunge
+          <note xml:id="A-126-N1" n="1"> Gasp. Bauhin che chiama la specie Tithymalus myrtifolius arboreus vi aggiunge
             nella sinonimia: an Tithymalus petraeus Anguillarae?</note>
-          <note xml:id="A-126N2" n="2"> Si dubitò se la specie presente fosse il titimalo petreo di Anguillara perché
+          <note xml:id="A-126-N2" n="2"> Si dubitò se la specie presente fosse il titimalo petreo di Anguillara perché
             questo autore la dice «alta come un huomo che sia ben grande», dandole una statura cui
             essa può eccezionalmente giungere. Il Dodoneo così ne parla: «Bellonius vero ad
             duorum hominum altitudinem crescere et caudicem habere crassitudine cruris humani
             memoriae prodidit» .. La pianta è conservata nell'Erbario Aldrovandi, Vol. II, 185.
           </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

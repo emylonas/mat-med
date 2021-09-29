@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1027,7 +1028,7 @@
         </div>
       </div>
 
-      <div type="plant" xml:id="M17_18_19_20">
+      <div type="plant" xml:id="A-18_19_20">
         <head>NN 18, 19, 20</head>
         <div type="editorial-D">
           <p>[Pagine bianche]</p>
@@ -6923,7 +6924,7 @@
         </div>
       </div>
 
-      <div type="plant" xml:id="M150_151">
+      <div type="plant" xml:id="A-150_151">
         <head>NN 150 e 151</head>
         <div type="editorial-D">
           <p>[Pagine bianche).</p>

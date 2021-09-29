@@ -2,11 +2,9 @@
 title: "N. 67 CACAO BLANCO"
 plant-name: "N. 67"
 plant-number: "067"
-plant-img1: "/assets/img/plant067_verso.jpg"
-plant-img2: "/assets/img/plant067.jpg"
 plant-xml: "/assets/xml/plant067.xml"
 plant-title: "N. 67 CACAO BLANCO"
 plant-taxon-link: ""
-plant-taxon-content: ""
+plant-taxon-link: ""
 layout: single-xml
 ---

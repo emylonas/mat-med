@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,14 +10,12 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-031">
+  </teiHeader><div type="plant" xml:id="A-031">
         <head>N. 31 CHAME TIMELEA SPE.</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637544">[<hi>Daphne Cneorum L.</hi>]</ref></ab>
         <div type="name">
           <head>Nomi</head>
-          <p>Chame Thymelea in Bolognia Etolio da Euboici (<ptr target="#A-031N1"/>) Lino da alcuni perché si rasembra al
+          <p>Chame Thymelea in Bolognia Etolio da Euboici (<ptr target="#A-031-N1"/>) Lino da alcuni perché si rasembra al
             lino sparto.</p>
         </div>
         <div type="genus">
@@ -31,7 +28,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'Ecc. <persName ref="#Aldrovandi">Aldrovandi</persName> mi disse esser Chamethymelea zioe (<ptr target="#A-031N2"/>) humil thymelea.</p>
+          <p> L'Ecc. <persName ref="#Aldrovandi">Aldrovandi</persName> mi disse esser Chamethymelea zioe (<ptr target="#A-031-N2"/>) humil thymelea.</p>
         </div>
         <div type="editorial-D">
           <p>[Pianta fiorita. La Thymelaea di quasi tutti i floristi del secolo XVI era D. Gnidium,
@@ -42,10 +39,7 @@
             specie qui figurata al <ref type="internal" target="#A-072">N. 72</ref>].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-031N1" n="1"> Eubei cioè abitanti l'isola Eubea o Negroponte in Grecia.</note>
-          <note xml:id="A-031N2" n="2"> Cioè. </note>
+          <note xml:id="A-031-N1" n="1"> Eubei cioè abitanti l'isola Eubea o Negroponte in Grecia.</note>
+          <note xml:id="A-031-N2" n="2"> Cioè. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

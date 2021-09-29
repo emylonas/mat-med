@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-073">
+  </teiHeader><div type="plant" xml:id="A-073">
         <head>N. 73 PEPE TONDO</head>
         <ab>[Ribes nigrum L.)</ab>
         <div type="name">
@@ -33,7 +30,7 @@
           <p> Suoe radice legnose in superficie della terra, dentro bianche et di fora scure con
             aspero sapore. Frutica molto di viticei rami alti come huomo et nodosi, ripieni di
             foglie viticie ma piccole, con alquanto di brusco sapore, et odore pessimo che ritira
-            (<ptr target="#A-073N1"/>) alla malitia (<ptr target="#A-073N2"/>) di gatta con reverentia parlando, gli suoi fiori in racemi
+            (<ptr target="#A-073-N1"/>) alla malitia (<ptr target="#A-073-N2"/>) di gatta con reverentia parlando, gli suoi fiori in racemi
             piccioli di color che nel verde pocho rosseggia da qualli vengono poi il pepe tondo, al
             gusto acuto. Io lo vidi et gustai et mi naque. Tutta la pianta si rasembra assa al
             nostro ribes comun [N. 74].</p>
@@ -43,7 +40,7 @@
           <p> Dalle Indie nuove del Perù et da Calecut ne vengono portati a noi, et io ne ho
             custodito de molti anni fa. Et ne son in Toscana ancora di questa pianta per ralation
             del Ecc. M. <persName ref="#Ghini">Luca Ghino</persName>. L'Ethiopico son il buono, et il resto e anche questo sonno
-            tenuti per salvatici. Et di questo ne sonno nel regnio di Beniamin in Soria (<ptr target="#A-073N3"/>).
+            tenuti per salvatici. Et di questo ne sonno nel regnio di Beniamin in Soria (<ptr target="#A-073-N3"/>).
             L'optimo si porta d'Armenia; quello di Media son manco buono con il legno venenoso;
             quello di Ponto rosseggia et il suo seme offende nel odorarlo.</p>
         </div>
@@ -88,15 +85,12 @@
             aromatica, la canna palustre].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-073N1" n="1"> Si avvicina a quello.</note>
-          <note xml:id="A-073N2" n="2"> Sterco.</note>
-          <note xml:id="A-073N3" n="3"> Anguillara parlò del regno di <placeName ref="https://www.geonames.org/2423193/bene.html">Benin nella Guinea</placeName>, che il Michiel erroneamente
+          <note xml:id="A-073-N1" n="1"> Si avvicina a quello.</note>
+          <note xml:id="A-073-N2" n="2"> Sterco.</note>
+          <note xml:id="A-073-N3" n="3"> Anguillara parlò del regno di <placeName ref="https://www.geonames.org/2423193/bene.html">Benin nella Guinea</placeName>, che il Michiel erroneamente
             credette fosse il territorio della tribù di Beniamin nella Palestina, ora annessa alla
             Siria.</note>
-          <note xml:id="A-073N4" n="4"> Gesner conobbe la pianta presso Zurigo e la chiamò col nome che porta
+          <note xml:id="A-073-N4" n="4"> Gesner conobbe la pianta presso Zurigo e la chiamò col nome che porta
             attualmente.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-107">
+  </teiHeader><div type="plant" xml:id="A-107">
         <head>N. 107 CUMARA</head>
         <ab>[Arbutus Unedo L.]</ab>
         <div type="name">
@@ -55,14 +52,11 @@
           <p>Il nome qui citato del dialetto vicentino è corruzione del xdu.zcos di Teofrasto).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-107N3" n="3"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
+          <note xml:id="A-107-N3" n="3"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
             agli arbuti, ci- tando le Pandette, ma in quest'opera esse sono collocate separate sub
             Fragaria.</note>
         </div>
 
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="78"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

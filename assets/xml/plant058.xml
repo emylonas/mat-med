@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-058">
+  </teiHeader><div type="plant" xml:id="A-058">
         <head>N. 58 ANAGIRO, EGANO</head>
         <ab>[Cytisus Laburnum L.]</ab>
         <div type="name">
@@ -62,13 +59,10 @@
             Ghini e l' Aldrovandi, latinizzando la parola italiana, scrissero aburnum). .</p>
         </div>
         <div type="notes">
-          <note xml:id="A-058N1" n="1"> Il cambiamento della labiale nella &amp; dura trovasi in altre parole del
+          <note xml:id="A-058-N1" n="1"> Il cambiamento della labiale nella &amp; dura trovasi in altre parole del
             dialetto bellunese; es. ogol per oppio (opulus Acer campestre). Quanto alla I messa in
             posto della n, ricordiamo che i Greci stessi usavano promiscuamente <foreign xml:lang="grc">έβενος</foreign> cd <foreign xml:lang="grc">έβελος</foreign>.</note>
-          <note xml:id="A-058N2" n="2"> In modo similc louone divenne ollone (dial. ven, latón), lusignolo divenne
+          <note xml:id="A-058-N2" n="2"> In modo similc louone divenne ollone (dial. ven, latón), lusignolo divenne
             usignuolo (lat. luscixia).</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

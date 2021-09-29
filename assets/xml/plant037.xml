@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-037">
+  </teiHeader><div type="plant" xml:id="A-037">
         <head>N. 37 TASO</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000408637">[<hi>Taxus baccata L.</hi>]</ref></ab>
         <div type="name">
@@ -61,7 +58,4 @@
             Oggidi è assodato che solo la scorza e le foglie sono velenose, ma non per tutte le
             bestie, solo pegli equini, come asseri Teofrasto].</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

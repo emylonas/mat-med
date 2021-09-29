@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-114">
+  </teiHeader><div type="plant" xml:id="A-114">
         <head>N. 114 PISTACHIER</head>
         <ab>[Pistacia vera L.:]</ab>
         <div type="names">
@@ -70,15 +67,12 @@
             figura inesatta che par fittizia !).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-114N1" n="1"> Siriaco.</note>
-          <note xml:id="A-114N2" n="2"> Sogliono in Sicilia fecondare ed ingravidare questa specie d'Arbore nel
+          <note xml:id="A-114-N1" n="1"> Siriaco.</note>
+          <note xml:id="A-114-N2" n="2"> Sogliono in Sicilia fecondare ed ingravidare questa specie d'Arbore nel
             seguente modo: Attendono che il Pistacchio femina habbia i fiori aperti ed all'hora...
             •. Il Bocconc descrive cinque differenti metodi di fecondazione artificiale, il che
             prova che l'invenzione aon datava da pochi anni.</note>
-          <note xml:id="A-114N3" n="3"> II Boccone parla anche di queste due fecondazioni artificiali e dice che
+          <note xml:id="A-114-N3" n="3"> II Boccone parla anche di queste due fecondazioni artificiali e dice che
             quella dei pistac- chi chiamasi a Girgenti turchiariase. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

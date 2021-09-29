@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-099">
+  </teiHeader><div type="plant" xml:id="A-099">
         <head>N. 99 BEN DA PERFUMIERI</head>
         <ab>(Moringa alata * an aptius M. pterigosperma Gaertner ?]</ab>
         <div type="name">
@@ -73,10 +70,10 @@
             al</p>
         </div>
         <div type="notes">
-          <note xml:id="A-099N1" n="1"> Gelsomini.</note>
-          <note xml:id="A-099N2" n="2"> Cioè smarginate · obcordate.</note>
-          <note xml:id="A-099N3" n="3"> Lo stesso caso avvenne al Ghini (305).</note>
-          <note xml:id="A-099N4" n="4"> «L'ecc. medico Andrea Marini... dipinge una pianta per la Ghianda unguentaria
+          <note xml:id="A-099-N1" n="1"> Gelsomini.</note>
+          <note xml:id="A-099-N2" n="2"> Cioè smarginate · obcordate.</note>
+          <note xml:id="A-099-N3" n="3"> Lo stesso caso avvenne al Ghini (305).</note>
+          <note xml:id="A-099-N4" n="4"> «L'ecc. medico Andrea Marini... dipinge una pianta per la Ghianda unguentaria
             la quale dice baver havuta dal cl. M. Pier Antonio Michieli gentilhuomo venetiano molto
             differente in tutte le parti dall'altre dette di sopra. Ma non ho ragione con cui possa
             provare se sia vera o falsa questa figura. Il titolo che vi è scritto sopra so ben io
@@ -85,9 +82,4 @@
             Centaurea Behen; in quei tempi si offriva come tale la specie figu- rata al Ve., 70.
           </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
-     <!--<div type="plant" xml:id="A-067"><head>N. 67</head>).
-</div>-->
+      </div></TEI>

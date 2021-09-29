@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-063">
+  </teiHeader><div type="plant" xml:id="A-063">
         <head>N. 63 SCOTANUS</head>
         <ab>[Rhus Cotinus L.)</ab>
         <div type="name">
@@ -54,16 +51,13 @@
             fiori over penacchi»).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-063N2" n="2">* Il nome rosa che nei trattati mercantili del 'soo si legge per lo più nella
+          <note xml:id="A-063-N2" n="2">* Il nome rosa che nei trattati mercantili del 'soo si legge per lo più nella
             forma «roza» o «rozza» · designava una materia colorante, pure rossa, ricavata dalla
             Rubia tinctorum. (Ed.).</note>
-          <note xml:id="A-063N3" n="3"> * Questa corrispondenza con l'arabo e il greco (dulb, baccam, suffire,
+          <note xml:id="A-063-N3" n="3"> * Questa corrispondenza con l'arabo e il greco (dulb, baccam, suffire,
             platanus) che darebbe suffire come nome greco è trascritta dal <title ref="https://data.cerl.org/istc/is00511500">Pandectarium medicinas
               (Lione, 1478)</title> di Matteo Silvatico; invece, in quella più estesa data da <ref type="bibl" target="http://id.sbn.it/bid/RMLE007015">Serapione
                 (interprete N. Mutono, Venezia, 1552, p. 55)</ref>. Sufleire è uno dei nomi arabi.
             (Ed.).</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

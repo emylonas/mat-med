@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-141">
+  </teiHeader><div type="plant" xml:id="A-141">
         <head>N. 141 NIL SP.</head>
         <ab>[I pomoea purpurea Lam.)</ab>
         <div type="name">
@@ -48,12 +45,9 @@
             degli Arabi, vedi N. 11].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-141N1" n="1"> Indachi.</note>
-          <note xml:id="A-141N2" n="2"> Avvolge.</note>
-          <note xml:id="A-141N3" n="3"> C'è.</note>
-          <note xml:id="A-141N4" n="4"> Sbocciamento e fruttificazione. </note>
+          <note xml:id="A-141-N1" n="1"> Indachi.</note>
+          <note xml:id="A-141-N2" n="2"> Avvolge.</note>
+          <note xml:id="A-141-N3" n="3"> C'è.</note>
+          <note xml:id="A-141-N4" n="4"> Sbocciamento e fruttificazione. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

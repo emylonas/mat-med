@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-104">
+  </teiHeader><div type="plant" xml:id="A-104">
         <head>N. 104 TEREBINTO</head>
         <ab>[Pistacia Terebinthus L.]</ab>
         <div type="name">
@@ -62,19 +59,16 @@
           <p>Del terebinto trovasi campione nell'Erbario Aldrovandi, Vol. II, 99].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-104N3" n="3"> L'Anguillara scrisse : Chjamasi il Terebintho in Abruzzio nel Contado di
+          <note xml:id="A-104-N3" n="3"> L'Anguillara scrisse : Chjamasi il Terebintho in Abruzzio nel Contado di
             Rocca Scale- gna Trivente voce alquanto corrotta da Terebintho .. Il Michiel credette.
             che il villaggio abruzzese si chiamasse puramente Rocca e trascrisse Scalegna Trivento
             come nome della pianta, corrompendo ulteriormente Trivents in Trinonte.</note>
-          <note xml:id="A-104N4" n="4"> A Roma.</note>
-          <note xml:id="A-104N5" n="5"> Si, della qual femmina.</note>
-          <note xml:id="A-104N1" n="1"> Odierno Kaz-dagh.</note>
-          <note xml:id="A-104N2" n="2"> La galla fu paragonata ad una noco perché non aveva ancora raggiunto il suo
+          <note xml:id="A-104-N4" n="4"> A Roma.</note>
+          <note xml:id="A-104-N5" n="5"> Si, della qual femmina.</note>
+          <note xml:id="A-104-N1" n="1"> Odierno Kaz-dagh.</note>
+          <note xml:id="A-104-N2" n="2"> La galla fu paragonata ad una noco perché non aveva ancora raggiunto il suo
             completo sviluppo. Nel numero seguente, avendo avuto notizia della forma di una galla
             matura, la para- gona ad un baccello. Pena e Lobelio (180) figurarono il terebinto colla
             galla (folliculus) donde escono gli insetti (volucellas sive culices). </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

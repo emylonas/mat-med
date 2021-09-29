@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-132">
+  </teiHeader><div type="plant" xml:id="A-132">
         <head>N. 132 ZARZAPARILLA</head>
         <div type="name">
           <head>NOMI</head>
@@ -54,10 +51,7 @@
             nel testo. E difatti la prima figura fatta sull'originale è quella del Mattioli].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-132N2" n="2"> Ovvero.</note>
-          <note xml:id="A-132N3" n="3"> Rattratti. </note>
+          <note xml:id="A-132-N2" n="2"> Ovvero.</note>
+          <note xml:id="A-132-N3" n="3"> Rattratti. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

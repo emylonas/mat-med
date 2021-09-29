@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-128">
+  </teiHeader><div type="plant" xml:id="A-128">
         <head>N. 128 MIRTO MINUTO</head>
         <ab>[Myrtus communis L. var. tarentina L.]</ab>
         <div type="name">
@@ -37,7 +34,4 @@
             colle ale spiegate. Per completar la figura sono aggiunti due modelli di zampe che
             posano sopra uno stecco fissato traversalmente sull'orlo del vaso].</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

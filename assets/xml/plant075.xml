@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-075">
+  </teiHeader><div type="plant" xml:id="A-075">
         <head>N. 75 CORNIOLO</head>
         <ab>[Cornus mas L.]</ab>
         <div type="name">
@@ -55,7 +52,4 @@
             con foglie, fiori e frutti, mentre ben si sa che i fiori sono precoci. Un uomo scende da
             una scala a piuoli appoggiata all'albero con una cesta carica di frutta].</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,10 +10,8 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-112">
-        <head>N. 112 GUAICO</head>
+  </teiHeader><div type="plant" xml:id="A-112">
+        <head>N. II2 GUAICO</head>
         <div type="name">
           <head>NOMI</head>
           <p> Guaico da Indiani Legno santo, legno dal mal francese da volg. Guaiacan et china dali
@@ -60,13 +57,10 @@
             (4)].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-112N1" n="1"> • Questa citazione deltprimot libro (77] è certo una svista; dovevaessere t
+          <note xml:id="A-112-N1" n="1"> • Questa citazione deltprimot libro (77] è certo una svista; dovevaessere t
             libro II, k. 40 •·(Ed.).</note>
-          <note xml:id="A-112N2" n="2"> Non prosegue.</note>
-          <note xml:id="A-112N3" n="3"> Calicut.</note>
-          <note xml:id="A-112N4" n="4"> • Ha fiori solitari, gialli. (Ed.). </note>
+          <note xml:id="A-112-N2" n="2"> Non prosegue.</note>
+          <note xml:id="A-112-N3" n="3"> Calicut.</note>
+          <note xml:id="A-112-N4" n="4"> • Ha fiori solitari, gialli. (Ed.). </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

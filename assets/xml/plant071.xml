@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-071">
+  </teiHeader><div type="plant" xml:id="A-071">
         <head>N. 71 MADRE SILVA</head>
         <ab>(Lonicera Caprifolium L.)</ab>
         <div type="name">
@@ -49,11 +46,8 @@
             figurati nella tavola).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-071N3" n="3"> Geisblatt.</note>
-          <note xml:id="A-071N4" n="4"> e</note>
-          <note xml:id="A-071N5" n="5"> • Si deve evidentemente leggere Spock- oder Waldgilgen. (Ed.).</note>
+          <note xml:id="A-071-N3" n="3"> Geisblatt.</note>
+          <note xml:id="A-071-N4" n="4"> e</note>
+          <note xml:id="A-071-N5" n="5"> • Si deve evidentemente leggere Spock- oder Waldgilgen. (Ed.).</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

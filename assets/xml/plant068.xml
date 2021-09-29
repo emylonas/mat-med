@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-068">
+  </teiHeader><div type="plant" xml:id="A-068">
         <head>N. 68 QUAHUXILOTS</head>
         <div type="name">
           <head>NOMI</head>
@@ -37,14 +34,11 @@
             detti «candicanti » (4)).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-068N3" n="3"> Corido dev'essere trascrizione errata di cocido ». (Ed.).</note>
-          <note xml:id="A-068N4" n="4"> • È notevole, in quasi tutta questa descrizione, la coincidenza con la figura
+          <note xml:id="A-068-N3" n="3"> Corido dev'essere trascrizione errata di cocido ». (Ed.).</note>
+          <note xml:id="A-068-N4" n="4"> • È notevole, in quasi tutta questa descrizione, la coincidenza con la figura
             del Codice ancbe nei particolari ; inoltre l' accenno al frutto crudo coclovo predulci a
             conferma anche l' indicazione (Noni) comese cocido o asado». (Ed.). 7</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="50"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

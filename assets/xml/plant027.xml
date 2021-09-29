@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,14 +10,12 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-027">
+  </teiHeader><div type="plant" xml:id="A-027">
         <head>N. 27 FUSARIA, STONBER</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000681728">[<hi>Euonymus Europaeus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p>Evonimo da Theophrasto - Fusaria latini - Barete da preti da vuolgari - Stomber (<ptr target="#A-027N1"/>) da
+          <p>Evonimo da Theophrasto - Fusaria latini - Barete da preti da vuolgari - Stomber (<ptr target="#A-027-N1"/>) da
             Germani - Silio da Italiani et Fusaro - Spindelbaum da Tedeschi.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
@@ -48,11 +45,8 @@
             case e figure di donne ed uccelli].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-027N1" n="1"> Forse Slounboer, cioè bacca producente stupore, pegli effetti venefici.
+          <note xml:id="A-027-N1" n="1"> Forse Slounboer, cioè bacca producente stupore, pegli effetti venefici.
             Veramente i frutti sono capsule, ma pel vivo color rosso o per la consistenza carnosa
             dei semi si riguardavano come bacche.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,14 +10,12 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-032">
+  </teiHeader><div type="plant" xml:id="A-032">
         <head>N. 32 PIPER MONTAN</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637755">[<hi>Daphne Mezereum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Piper montan da rustici - Mezereo da Arabi - Chameleam, Thymelea, Pyros Achnen (<ptr target="#A-032N1"/>),
+          <p> Piper montan da rustici - Mezereo da Arabi - Chameleam, Thymelea, Pyros Achnen (<ptr target="#A-032-N1"/>),
             Cnestron, Chneoron da Greci - Laureola minor recenciorum - Chamedaphne Dioscoride - Choconidio
             da Theophrasto.</p>
         </div>
@@ -53,10 +50,7 @@
             stato trovasi al <ref target="#R1-377">N. 377 del primo libro rosso</ref> ].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-032N1" n="1">
+          <note xml:id="A-032-N1" n="1">
             <foreign xml:lang="grc">πυρός άχνη</foreign> = lumo.</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

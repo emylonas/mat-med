@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,28 +10,26 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-007">
+  </teiHeader><div type="plant" xml:id="A-007">
         <head>N. 7 VITE BIANCA VULGARE</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000609903">[<hi>Clematis Flammula L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Vite biacha (<ptr target="#A-007N1"/>) da volgari - Clematite dal Ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> - Clematitis aspera
+          <p> Vite biacha (<ptr target="#A-007-N1"/>) da volgari - Clematite dal Ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> - Clematitis aspera
             dal Ecc. M. <persName ref="#Ghini">Luca Ghini</persName> - Flamula Jovis da volgari - Ciclamino Secondo da il <persName ref="#Gualtiero">Gualtieri</persName> -
             Epigetin da alcuni Phylacrion da Egyptij - Ambuxum da Romani.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
           <p> Parmi che questa sia veramente spezie di la Atragene scrita inanti <ref type="internal" target="#A-005">[N. 5]</ref> essendo
-            molto simile se non nella grandezza. Et in me (<ptr target="#A-007N2"/>) di Vite ne ho dimostre 4 sorti, questa
+            molto simile se non nella grandezza. Et in me (<ptr target="#A-007-N2"/>) di Vite ne ho dimostre 4 sorti, questa
             et l'altra alba son la zucha salvatica <ref type="internal" target="#A-005">[N. 91]</ref>, la terza nera son il tamaro <ref type="internal" target="#A-005">[N. 24]</ref>,
             la quarta vite nera et per accordarsi nelle fatezze alla seconda Clematide de Diascoride
             in vece di quella io la posi <ref type="internal" target="#A-006">[N. 6]</ref>.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti de <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName> et apresso agli horti nel nostro <placeName ref="https://www.geonames.org/6951009/venice-lido.html">lito</placeName> (<ptr target="#A-007N3"/>) ne sonno in copia.</p>
+          <p> Ne monti de <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName> et apresso agli horti nel nostro <placeName ref="https://www.geonames.org/6951009/venice-lido.html">lito</placeName> (<ptr target="#A-007-N3"/>) ne sonno in copia.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -49,11 +46,8 @@
             quella lasciata dal <persName ref="https://data.cerl.org/thesaurus/cnp01365502">Rinio</persName> al <ref type="internal" target="#A-091">N. 91</ref>, però quest'ultima è artisticamente superiore].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-007N1" n="1"> Bianca</note>
-          <note xml:id="A-007N2" n="2"> Nel mio libro.</note>
-          <note xml:id="A-007N3" n="3"> Il Lido di Venezia. </note>
+          <note xml:id="A-007-N1" n="1"> Bianca</note>
+          <note xml:id="A-007-N2" n="2"> Nel mio libro.</note>
+          <note xml:id="A-007-N3" n="3"> Il Lido di Venezia. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

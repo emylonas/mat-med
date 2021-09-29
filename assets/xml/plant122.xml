@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-122">
+  </teiHeader><div type="plant" xml:id="A-122">
         <head>N. 122 GENESTELA PHRIGIA</head>
         <ab>[Cytisus ...]</ab>
         <div type="name">
@@ -51,10 +48,7 @@
             trifoliate.]</p>
         </div>
         <div type="notes">
-          <note xml:id="A-122N7" n="7"> Scio nelle Sporadi.</note>
-          <note xml:id="A-122N1" n="1"> * VERG. Buc. I. 25. (Ed.)</note>
+          <note xml:id="A-122-N7" n="7"> Scio nelle Sporadi.</note>
+          <note xml:id="A-122-N1" n="1"> * VERG. Buc. I. 25. (Ed.)</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

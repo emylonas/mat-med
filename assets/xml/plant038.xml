@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-038">
+  </teiHeader><div type="plant" xml:id="A-038">
         <head>N. 38 PEZZO</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000482527">[<hi>Picea excelsa Lk.</hi>]</ref></ab>
         <div type="name">
@@ -48,7 +45,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="33"/>
-      </div>
-          </body>
-  </text>
-</TEI>
+      </div></TEI>

@@ -1,12 +1,10 @@
 ---
-title: "N. 112 GUAICO"
-plant-name: "N. 112"
+title: "N. II2 GUAICO"
+plant-name: "N. II2 GUAICO"
 plant-number: "112"
-plant-img1: "/assets/img/plant112_verso.jpg"
-plant-img2: "/assets/img/plant112.jpg"
 plant-xml: "/assets/xml/plant112.xml"
-plant-title: "N. 112 GUAICO"
+plant-title: "N. II2 GUAICO"
 plant-taxon-link: ""
-plant-taxon-content: ""
+plant-taxon-link: ""
 layout: single-xml
 ---

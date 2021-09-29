@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-035">
+  </teiHeader><div type="plant" xml:id="A-035">
         <head>N. 35 ROSA SENIS</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000465348">[<hi>Philadelphus coronarius L.</hi>]</ref></ab>
         <div type="name">
@@ -45,7 +42,4 @@
             effigiarla. Più tardi viene la figura data dal <persName ref="#Clusius">Clusio</persName> (<ref type="bibl" target="http://id.sbn.it/bid/UFIE002981">Hist. I. 55</ref>) sotto il nome <hi>Frutex
               coronarius</hi>].</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

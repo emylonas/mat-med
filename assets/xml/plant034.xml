@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-034">
+  </teiHeader><div type="plant" xml:id="A-034">
         <head>N. 34 CHAMECERASO</head>
         <div type="name">
           <head>NOMI</head>
@@ -25,7 +22,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti d'<placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName> et .... (<ptr target="#A-034N1"/>).</p>
+          <p> Ne monti d'<placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName> et .... (<ptr target="#A-034-N1"/>).</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
@@ -35,11 +32,9 @@
         <div type="editorial-D">
           <p>[Fiori bianchi, frutti rossi e calice supero].</p>
           <div type="notes">
-            <note xml:id="A-034N1" n="1"> In bianco.</note>
+            <note xml:id="A-034-N1" n="1"> In bianco.</note>
           </div>
         </div>
-        <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="31"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+        <fw type="running-head" place="top">LIBRO AZZURRO</fw>
+        <pb n="31"/>
+      </div></TEI>

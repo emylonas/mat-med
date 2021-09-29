@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-061">
+  </teiHeader><div type="plant" xml:id="A-061">
         <head>N. 61 ZARNAB</head>
         <div type="name">
           <head>NOMI</head>
@@ -48,11 +45,8 @@
             aegyptiaca]. (2)</p>
         </div>
         <div type="notes">
-          <note xml:id="A-061N2" n="2"> * Infatti lo CHABRAY (<ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Stirpium icones el sciagraphia, Genevae, 1666</ref>) p. 66,
+          <note xml:id="A-061-N2" n="2"> * Infatti lo CHABRAY (<ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Stirpium icones el sciagraphia, Genevae, 1666</ref>) p. 66,
             riporta, secondo <persName ref="#Dasilico">Rauwolf</persName>, zarnab» a Salsal syrorum (Salix Safsal Forsk).
             (Ed.).</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,10 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-  <text>
-  <body>
-      <div type="plant" xml:id="A-001">
+  </teiHeader><div type="plant" xml:id="A-001">
         <head>N. I CIRUELAS MONTESES</head>
         <ab>[Not identified]</ab>
         <div type="name">
@@ -79,7 +75,4 @@
         
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="13"/>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

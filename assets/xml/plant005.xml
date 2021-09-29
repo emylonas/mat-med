@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-005">
+  </teiHeader><div type="plant" xml:id="A-005">
         <head>N. 5 ATRAGENE</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000610926">[<hi>Clematis Vitalba L.</hi>]</ref></ab>
         <div type="name">
@@ -23,7 +20,7 @@
         <div type="genus">
           <head>GENERA</head>
           <p> Questa son simil alla vite bianca volgare descrita inanti <ref type="internal" target="#A-007">k. 7</ref> ma questo son maggiore
-            assa[i] (<ptr target="#A-005N1"/>).</p>
+            assa[i] (<ptr target="#A-005-N1"/>).</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -49,8 +46,8 @@
             il suo libretto ed ebbe a successore il <persName ref="#Guilandino">Guilandino</persName>; dobbiamo dunque credere che prima di
             quell'anno il patrizio veneto abbia incominciato a scrivere l'opera che è oggetto del
             presente studio. Siccome altri documenti ci permettono di credere che essa sia stata
-            cominciata intorno al 1550, essa sarebbe stata proseguita con interruzioni (<ptr target="#A-005N2"/>), per
-            circa venticinque anni (<ptr target="#A-005N3"/>).</p>
+            cominciata intorno al 1550, essa sarebbe stata proseguita con interruzioni (<ptr target="#A-005-N2"/>), per
+            circa venticinque anni (<ptr target="#A-005-N3"/>).</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="15"/>
           <p>Le particolarità scritte nel testo sull'Anguillara e sulla sua opera ci danno anche una
@@ -74,13 +71,13 @@
             carattere dei frutti in racemi, quindi nega, non afferma, l'identità e d'altronde a pag.
             81 identifica giustamente la vitalba colla vitis nigra del <persName ref="#Fuchs">Fuchs</persName>. Il <persName ref="#Guilandino">Guilandino</persName> credette
             che l'<persName ref="#Anguillara">Anguillara</persName> identificasse l'atragene colla vite selvatica (<foreign xml:lang="grc">ἄμπελος αγρία</foreign>) di
-            Dioscoride (<ptr target="#A-005N4"/>)].</p>
+            Dioscoride (<ptr target="#A-005-N4"/>)].</p>
           <p>Il nome vernacolo <hi>vidisòn</hi> è tuttora vivo nel Veneto <ref type="bibl" target="http://id.sbn.it/bid/VIA0075631">[297]</ref></p>
         </div>
         <div type="notes">
-          <note xml:id="A-005N1" n="1">* Assai. (Ed.).</note>
-          <note xml:id="A-005N2" n="2"> V. prefazione al libro giallo.</note>
-          <note xml:id="A-005N3" n="3"> Il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> ritiene che i libri sieno stati scritti nella prima metà
+          <note xml:id="A-005-N1" n="1">* Assai. (Ed.).</note>
+          <note xml:id="A-005-N2" n="2"> V. prefazione al libro giallo.</note>
+          <note xml:id="A-005-N3" n="3"> Il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> ritiene che i libri sieno stati scritti nella prima metà
             del secolo. Nessuna prova potemmo trovare nel codice di quest'asserzione, a meno che
             non si ritenga tale l'indicazione della località di una pianta (<ref target="#R1-055">Ro. I, 55</ref>) «in pie' de
             monti d'Austria a Tubinge». La città di Tubinga nel Württemberg appartenne all'Austria
@@ -94,14 +91,11 @@
             1554 parla del lavoro che fa il pittore per dipingergli le piante. Queste lettere fanno
             parte dei Ms. Aldrovandiani alla Biblioteca di Bologna, al N. 38. Tomo I, c. 175 e
             176.</note>
-          <note xml:id="A-005N4" n="4">* I confronti, a pag. 301 dei Semplici, sono due. Oltre alle considerazioni,
+          <note xml:id="A-005-N4" n="4">* I confronti, a pag. 301 dei Semplici, sono due. Oltre alle considerazioni,
             qui messe in evidenza, per cui esclude l'identità fra atragene (vitalba) e vite
             selvatica, l'<persName ref="#Anguillara">Anguillara</persName> espone, categoricamente, il suo giudizio negativo sull'identità
             di <foreign xml:lang="grc">ἄμπελος ἀγρὶα</foreign>(vite selvatica) di Dioscoride con <hi>Amara dulcis</hi> (v. più avanti al <ref type="internal" target="#A-124">N.
               124</ref>), alla quale invece, dandone una buona figura presa evidentemente dal vero,
             l'aveva ravvicinata, per quanto dubitativamente, il <persName ref="#Mattioli">Mattioli</persName>. (Ed.).</note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

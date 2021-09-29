@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-127">
+  </teiHeader><div type="plant" xml:id="A-127">
         <head>N. 127 MIRTO LATIFOLIA</head>
         <ab>(Myrtus communis L.)</ab>
         <div type="name">
@@ -47,9 +44,6 @@
             ascellari tro- vansi a tutte le altezze ed hanno le corolle di cinque lobi].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-127N3" n="3"> Bacche. </note>
+          <note xml:id="A-127-N3" n="3"> Bacche. </note>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>

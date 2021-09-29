@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Libro Azzurro</title>
@@ -11,9 +10,7 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
-<text>
-  <body><div type="plant" xml:id="A-052">
+  </teiHeader><div type="plant" xml:id="A-052">
         <head>N. 52 MACALEB</head>
         <ab>(Prunus Mahaleb L.)</ab>
         <div type="name">
@@ -44,7 +41,4 @@
           <p>Secondo Serapione il Mahaleb era Phyllirea variabilis, secondo altri autori Ligu- strum
             vulgare ; quest'ultima opinione è riportata dal Rinio a c. 389 del suo codice).</p>
         </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </div></TEI>
