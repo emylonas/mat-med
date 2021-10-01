@@ -16,7 +16,7 @@ layout: default
 <div class="top-flex">
   <div class="flex-child top-name">
 
-<!--     <h2 class="top-name">{{ page.title }}</h2> -->    
+<!--     <h2 class="top-name">{{ page.title }}</h2> -->
 <h3 class="top-name">
   {{page.plant-title}}<br>
   <a href="{{page.plant-taxon-link}}"><em>{{ page.plant-taxon-content }}</em></a>
@@ -72,6 +72,14 @@ layout: default
              link.href = elt.getAttribute("target");
              return link;
             },
+            "ref": [
+              ["[target=internal]", function(elt) {
+                var link = document.createElement("a");
+                link.innerHTML = elt.getAttribute("target").replace(/#A\-((\d+))(\d+.([^\d\"]))/, "");
+                link.href = elt.getAttribute("target");
+                return link;
+               }]
+            ],
             "pb": ["[DeToni p. $@n]"]
           }
           });
