@@ -73,7 +73,12 @@ layout: default
              return link;
             },
             "ref": [
-              ["[type=internal]", ["<a href=\"$rw@target.substring(1)\">","</a>"]]
+              ["[type=internal]", [ function(elt) {
+                var link = document.createElement("a");
+                link.innerHTML = elt.getAttribute("target");
+                link.href = elt.getAttribute("target").replace(/#A\-((\d+))/, "\1");
+                return link;
+               }]]
             ],
             "pb": ["[DeToni p. $@n]"]
           }
