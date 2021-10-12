@@ -10,7 +10,7 @@ sidebar:
 ---
 
 # Pietro Antonio Michel’s Herbal in five books
-<img src="../assets/img/72dpi_title-pages-azzurro_mss.png" style="margin-left:2em" align="right" width="200px"/>
+<img src="../assets/img/72dpi_title-pages-azzurro_mss.png" class="img-right" align="right" width="200px"/>
 Marciana Library, Venice, **Ms It. II, 26-30 (= 4860-64)**, *I cinque libri di piante*
 <br clear="right"/>
 
