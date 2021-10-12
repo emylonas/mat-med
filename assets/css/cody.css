@@ -25,6 +25,12 @@ div#TEI {
 	h4.nav__title{
 	  display:none;
 	}
+	img.img-left {
+		margin-right: 2em;
+	  }
+	img.img-right {
+		margin-left: 2em;
+	  }
 	#page-title {display:none;}
 	.top-flex {
 		display: flex;
@@ -120,9 +126,3 @@ div#TEI {
 		clear: both;
 	}
 	} */
-	img.img-left {
-		margin-right: 1em;
-	  }
-	img.img-right {
-		margin-left: 1em;
-	  }
