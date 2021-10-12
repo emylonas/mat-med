@@ -123,3 +123,6 @@ div#TEI {
 	.img-left {
 		margin-right: 1em;
 	  }
+	.img-right {
+		margin-left: 1em;
+	  }
