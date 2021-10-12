@@ -14,9 +14,11 @@ sidebar:
 Marciana Library, Venice, **Ms It. II, 26-30 (= 4860-64)**, *I cinque libri di piante*
 
 A few among the many Venetian garden owners compiled manuscripts describing the sheer number of varieties and the qualities of the plants that they grew. One was penned by the Venetian *amateur* Pietro Antonio Michiel (1510-1576): *I cinque libri di piante*, illustrated by Domenico dalle Greche and by other less skilled  painters.
-![image](<img src="../assets/img/72dpi_Pietro-Antonio-Micheli-P-V-PHAIDRA_o_4440_optim.jpg"/>){: .img-left}
 
+<img src="../assets/img/72dpi_Pietro-Antonio-Micheli-P-V-PHAIDRA_o_4440.jpg" align="left" width="200px"/>
 The noble Pietro Antonio Michiel owned a beautiful spacious garden in San Trovaso (see de Barbari’s Map), where he cultivated the local and exotic plants that he kept on describing and cataloguing from about mid-century until his death. The botanist Pietro Andrea Mattioli referred to his garden as “noteworthy for the peregrine plants found there, as well as the aqueducts & the extremely rare grotesques that are admirably manufactured” (cf. P.A. Mattioli, *I Discorsi… nelli sei libri di Pedacio Discoride Anazarbeo della materia medicinale*, Venetia 1568, p. [21], *Mattioli agli studiosi lettori*).
+<br clear="left"/>
+
 
 Thanks to Michiel’s proven expertise as a *de facto* botanist, between 1551 and 1555 the Republic entrusted him with the care of the Botanical Garden of Padua, which served for the university education of future physicians, in collaboration with the prefect Anguillara.
 
