@@ -120,9 +120,9 @@ div#TEI {
 		clear: both;
 	}
 	} */
-	.img-left {
+	img.img-left {
 		margin-right: 1em;
 	  }
-	.img-right {
+	img.img-right {
 		margin-left: 1em;
 	  }
