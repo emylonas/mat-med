@@ -38,12 +38,12 @@ div#TEI {
 		align-items: center;
 		height: 400px;
 		max-width: 100%; 
-		border: 1px solid blue;
+		/* border: 1px solid blue; */
 	}
 	
 	.flex-child {
 		flex: 1;
-		border: 2px solid yellow;
+		/* border: 2px solid yellow; */
 	}
 
 	.flex-child:first-child {
@@ -82,11 +82,11 @@ div#TEI {
 		margin: auto;*/
 	}
 	.top-flex a #img1 {
-		border: 1px solid blue;
+		/* border: 1px solid blue; */
 		padding-left: 5px;
 	}
 	.top-flex a #img2 {
-		border: 1px solid blue;
+		/* border: 1px solid blue; */
 		padding-right: 5px;
 	}
 	h2.top-name {
