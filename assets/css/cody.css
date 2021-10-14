@@ -58,10 +58,10 @@ div#TEI {
 		transform: translate(0, -50%);*/
 	}
 	.top-flex img#img1 {
-		height: 33%;
+		width: 33%;
 	}
 	.top-flex img#img2 {
-		height: 25%;
+		width: 25%;
 	}
 	/* .top-flex a img {
 		  width: 25%;
