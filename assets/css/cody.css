@@ -132,8 +132,8 @@ div#TEI {
 	}
 	} */
 hr.horizline {
-	border-style: double;
-	border-top-width: 1px;
-	border-top-color: #00FFFF;
+	margin: auto;
+	border-top: 2px double #00FFFF;
 	width: 1235px;
+
 }
