@@ -25,6 +25,12 @@ div#TEI {
 	h4.nav__title{
 	  display:none;
 	}
+	img.img-left {
+		margin-right: 2em;
+	  }
+	img.img-right {
+		margin-left: 2em;
+	  }
 	#page-title {display:none;}
 	.top-flex {
 		display: flex;
@@ -82,7 +88,7 @@ div#TEI {
 		font-weight: normal;
 		margin: 0;
 	}
-	h3.top-name{
+	h3.top-name {
 	    font-weight: normal;
 		margin: 0;
 	}
