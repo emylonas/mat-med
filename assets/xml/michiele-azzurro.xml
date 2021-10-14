@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../tei_MatMed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+>>>>>>> 1f32c3d8f009768e59136a09d204a2a7dfe23637
   <teiHeader>
     <fileDesc>
       <titleStmt>
