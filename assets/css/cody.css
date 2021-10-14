@@ -131,3 +131,7 @@ div#TEI {
 		clear: both;
 	}
 	} */
+hr.horizline {
+	border-style: double;
+	width: 1235px;
+}
