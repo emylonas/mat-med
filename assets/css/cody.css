@@ -57,7 +57,12 @@ div#TEI {
 		top: 50%;
 		transform: translate(0, -50%);*/
 	}
-	
+	.top-flex img#img1 {
+		height: 33%;
+	}
+	.top-flex img#img2 {
+		height: 25%;
+	}
 	.top-flex a img {
 		  width: 25%;
 		  height: 25%;
