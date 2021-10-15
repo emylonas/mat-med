@@ -12,14 +12,14 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-071">
         <head>N. 71 MADRE SILVA</head>
-        <ab>(Lonicera Caprifolium L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000359853"/>[<hi>Lonicera Caprifolium</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Stribonio da Latini Mater silva, Barba de Becho da volgari Polium Veneris da Magi
             Turcum da Egyptij Volucrum maius da Romani Lavath da Aphricani Splenon, Epetitim, Lineal
-            et Pericli- meno da Greci – Geyszblate (3), Spechoder, (4) Vvaldgilgen (5) et Zeunling
+            et Periclimeno da Greci – Geyszblate (<ptr target="#A-071-N1"/>), Spechoder, (<ptr target="#A-071-N2"/>) Vvaldgilgen (<ptr target="#A-071-N3"/>) et Zeunling
             da Germani Chevrefueille da Galli — Venciboscho et Asinam maiorem da molti Mircinem
-            idest Chalichanthemon et Clematim da alcuni Capri- folium da altri – Grimathpariclimenon
+            idest Chalichanthemon et Clematim da alcuni Caprifolium da altri – Grimathpariclimenon
             da Arabi Peridemon, Velliceos, Exacanton delle Pandette.</p>
         </div>
         <div type="location">
@@ -36,18 +36,18 @@
           <p>[Pianta fiorita e fruttifera con ai lati due rametti, uno fiorito, l'altro fruttifero.
             L'Anguillara cito le parole prav praxtlar maxpay, dietro le quali argomento che il peri-
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="51"/> climeno fosse la
-            madresilva, mentre oggidi si distinguono le due specie L. Periclyme- num e L.
+            madresilva, mentre oggidi si distinguono le due specie L. Periclymenum e L.
             Caprifolium.</p>
-          <p>La lunga diagnosi che dà il Michiel nel testo dimostra la cura colla quale studið la
-            pianta. P. e. delle foglie dice: « venghono a doi una giusta l'altra et verso le cime
-            abraciano il fusto che pareno una sol fronda rotonda » e dei rami : «quegli rami che
-            pro- ducono fiore finiscono il ramo da fiore et non da foglie », riconoscendo così la
+          <p>La lunga diagnosi che dà il Michiel nel testo dimostra la cura colla quale studiò la
+            pianta. P. e. delle foglie dice: «venghono a doi una giusta l'altra et verso le cime
+            abraciano il fusto che pareno una sol fronda rotonda» e dei rami: «quegli rami che
+            producono fiore finiscono il ramo da fiore et non da foglie», riconoscendo così la
             connazione delle foglie superiori e la distinzione dei rami fertili dagli sterili non
-            figurati nella tavola).</p>
+            figurati nella tavola].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-071-N3" n="3"> Geisblatt.</note>
-          <note xml:id="A-071-N4" n="4"> e</note>
-          <note xml:id="A-071-N5" n="5"> • Si deve evidentemente leggere Spock- oder Waldgilgen. (Ed.).</note>
+          <note xml:id="A-071-N1" n="1"> Geisblatt.</note>
+          <note xml:id="A-071-N2" n="2"> e</note>
+          <note xml:id="A-071-N3" n="3"> * Si deve evidentemente leggere Spockoder Waldgilgen. (Ed.).</note>
         </div>
       </div></TEI>

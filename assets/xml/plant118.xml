@@ -12,7 +12,7 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-118">
         <head>N. 118 RAMNO BIANCO</head>
-        <ab>(Hippophaë rhamnoides L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000723743">[<hi>Hippophaë rhamnoides L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Rhamno bianco secondo da volgari.</p>
@@ -24,7 +24,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce nelli sieppi in Friuli et in Toscana in Schiavonia (1).</p>
+          <p> Nasce nelli sieppi in Friuli et in Toscana in Schiavonia (<ptr target="#A-118-N1"/>).</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -38,8 +38,7 @@
           <p>[II Michiel ne ricevette un campione fruttifero e perciò nella diagnosi non parla dei
             fiori che non vide e pone una stazione che non è quella preferita dalla specie amante i
             terreni ghiaiosi ed esposti.</p>
-          <p>Dalle parole aggiunte ben si comprende essere questo il «Rhamno secondo del-
-            l'<persName ref="#Anguillara">Anguillara</persName> il quale lo trovò sui muri vecchi fuori della porta di Zara ed in altri luo
+          <p>Dalle parole aggiunte ben si comprende essere questo il «Rhamno secondo dell'<persName ref="#Anguillara">Anguillara</persName> il quale lo trovò sui muri vecchi fuori della porta di Zara ed in altri luo
             ghi della Dalmazia ove si usava per far siepi].</p>
         </div>
         <div type="notes">

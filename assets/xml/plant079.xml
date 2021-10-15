@@ -12,11 +12,11 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-079">
         <head>N. 79 CANELA</head>
-        <ab>[* Cinnamomum zeylanicum Nees]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000605543">[*<hi>Cinnamomum zeylanicum Nees</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Canella da volgari - Cinamomo da molti avegna che altro ci sia il Cinamomo - Cassia
-            fistula con doi ss da Diascoride (1) - Chiarzamber da Arabi et Darsen da Arabi - Arbor Sceni
+            fistula con doi ss da Diascoride (<ptr target="#A-079-N1"/>) - Chiarzamber da Arabi et Darsen da Arabi - Arbor Sceni
             da Persiani - Melochaa pur da Arabi.</p>
         </div>
         <div type="genus">
@@ -26,20 +26,20 @@
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p> Suoe radice lunghe et sotille son albero di honesta gran- dezza et si rasembra al pomo
-            in granato (2), suoi trunchi et rami non molto grossi et scorziuti che si fendino
+          <p> Suoe radice lunghe et sotille son albero di honesta grandezza et si rasembra al pomo
+            in granato (<ptr target="#A-079-N2"/>), suoi trunchi et rami non molto grossi et scorziuti che si fendino
             formando la Canela, sua foglia di Lauro con uno spigolo nel mezzo, grossete et ferme,
-            liscie' et palide, al gusto aro- matiche con pocha amaritudine, et fa certe capellete
+            liscie' et palide, al gusto aromatiche con pocha amaritudine, et fa certe capellete
             come giande di sovero. Le foglie, li germogli, le scorze, le radici et li fruti hanno
             sapor di Canela, ma le capelete sonno Migliori et mi maraviglio che non si portano a
             noi.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce nell'India come apare nel secondo (3) <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">[libro] del India k. 145 et 205</ref> ma in pochi
-            luoghi. In Matil (1) isola, nelle Maluche (5) ne sonno assai. In Cumaro et nel suo
+          <p> Nasce nell'India come apare nel secondo (<ptr target="#A-079-N3"/>) <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">[libro] del India k. 145 et 205</ref> ma in pochi
+            luoghi. In Matil (<ptr target="#A-079-N4"/>) isola, nelle Maluche (<ptr target="#A-079-N5"/>) ne sonno assai. In Cumaro et nel suo
             contorno che cade soto l'Equinotiale sonnovi le selve di questi Alberi et anche ne
-            mantengano assai nelle loro possessioni. El Dia- scoride dice nascere in Arabia.</p>
+            mantengano assai nelle loro possessioni. El Diascoride dice nascere in Arabia.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -48,21 +48,21 @@
         <div type="reproduction">
           <head>GENERATIONE</head>
           <p> De suoi virgulti et germini mi disse lui, ma non mi seppe dire de suoi fiori et fruti
-            per non esser stato in quel tempo li produ- cono.</p>
+            per non esser stato in quel tempo li producono.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
           <p>Il Mattiolo tiene et altri simplicisti degni che la Cassia con doi ss de Greci sia .la
             volgar canela. Et Galeno dice che la canella si <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="57"/> transforma in Cinamomo. Et la Cassia fistula non è la
-            Casia solutiva, ma questa non sera (6) già quella descrive Diascoride sarmentosa con
+            Casia solutiva, ma questa non sera (<ptr target="#A-079-N6"/>) già quella descrive Diascoride sarmentosa con
             foglie di pepe, ma pero questa depinta al gusto di la foglia non puol negar che non sia
             sperie di Canela.</p>
         </div>
         <div type="editorial-D">
           <p>[La differenza fra le varie piante chiamate cassia e casia è meglio spiegata al N.
-            102.</p>
+            102].</p>
           <p>La figura del presente foglio rappresenta un albero fruttifero situato alla base di una
-            collina ; a lato è dipinta una foglia. Il disegno, fatto come il precedente, colla guida
+            collina; a lato è dipinta una foglia. Il disegno, fatto come il precedente, colla guida
             di un ramo, ha pure la sua parte di fittizio].</p>
         </div>
         <div type="notes">

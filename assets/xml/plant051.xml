@@ -15,23 +15,23 @@
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Cuciophoron da Theophrasto Arieno il suo frutto da Plinio.</p>
+          <p> Cuciophoron da <persName ref="#Theofrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="#Plinius">Plinio</persName>.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p> Non ho fin hora veduto se non uno fruto che vide anche l'ecc. <persName ref="#Anguillara">Anguillara</persName> k. 70 qual
+          <p> Non ho fin hora veduto se non uno fruto che vide anche l'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 70 qual
             tiene sia di questo albero, qual è simil a uno melo cotognio ripieno de nervi che fa
             fastidio a mangiarlo che conviensi sputarlo, son alquanto dolcie con nocciolo di pruno
             durissimo et bianco del qualle si fanno manichi di trivelli et anelli. Et li portò M.
-            Michiele Passamonte spetiale piacentino.</p>
+            <persName ref="#Passamonte">Michiele Passamonte</persName> spetiale piacentino.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Dalla remota reggione dalla Nubia. </p>
+          <p> Dalla remota reggione dalla <placeName ref="https://www.geonames.org/350981/nubia.html">Nubia</placeName>.</p>
         </div>
         <div type="editorial-D">
-          <p>[E figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
-            lasciato lo spazio in mezzo per dipingere la pianta, ma non potè mai farne la
+          <p>[È figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
+            lasciato lo spazio in mezzo per dipingere la pianta, ma non poté mai farne la
             conoscenza].</p>
         </div>
       </div></TEI>

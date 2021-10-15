@@ -12,7 +12,7 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-056">
         <head>N. 56 SUBER TH.</head>
-        <ab>(Quercus Suber L.)</ab>
+        <ab><ref target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/>[<hi>Quercus Suber L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Suber da Theophrasto et dal Gaza.</p>
@@ -21,12 +21,12 @@
           <head>FORMA</head>
           <p> Son albero palido con crasse foglie strette, lunghe, liscie et falate sopra e fusti
             simil al frassino et apresso a suoe frondi ci nasce certi minuti grappolini, da qualli
-            poi ci viene suoe giande mi penso perché non le vidi ed hebbi questa mostra dal Ecc.
+            poi ci viene suoe giande mi penso perché non le vidi ed hebbi questa mostra dal ecc.
             sig. <persName ref="#Aldrovandi">Ulisse Aldrovandi</persName> di Bolognia.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Theophrasto dice esser albero familiare de Pyrreni et questo dimostro l'hebbi di
+          <p> Theophrasto dice esser albero familiare de <placeName ref="https://www.geonames.org/3112616/pyrenees.html">Pyrreni [Pirenei]</placeName> et questo dimostro l'hebbi di
             Bolognia dal deto Aldrovandi.</p>
         </div>
         <div type="genus">
@@ -36,12 +36,12 @@
         <div type="opinions">
           <head>OPPINIONE</head>
           <p> Son de oppinion de molti che questo sia il vero Suber el qual son la seconda sp. dal
-            Gaza cosi denominato. </p>
+            Gaza così denominato. </p>
         </div>
         <div type="editorial-D">
           <p>[Pianta cogli amenti maschili. A parte una foglia.</p>
-          <p>Il Michiel non vide gli amenti femmine e perciò suppose che le ghiande si for- massero
-            dai « minuti grappolini cioè dagli amenti maschili pero con riserva, perché questi non
-            fruttificarono, ma, com'era loro destino, morirono).</p>
+          <p>Il Michiel non vide gli amenti femmine e perciò suppose che le ghiande si formassero
+            dai «minuti grappolini cioè dagli amenti maschili pero con riserva, perché questi non
+            fruttificarono, ma, com'era loro destino, morirono].</p>
         </div>
       </div></TEI>

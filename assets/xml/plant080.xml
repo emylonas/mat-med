@@ -12,7 +12,7 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-080">
         <head>N. 80 MAMAI ALBERO DE INDIA</head>
-        <ab>[Mammea americana L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000375040">[<hi>Mammea americana L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Mamaj da Indiani.</p>
@@ -20,13 +20,13 @@
         <div type="shape">
           <head>FORMA</head>
           <p> Sua radice dura et proffunda, son albero bello verde alto et in capellato di frondi
-            piu lunghe che larghe et viene ristreto come il ci- presso, son di legno tenue. Produce
-            suoi fruti grandi, tondi con gusto di per- sico et suoa carne come di susino et sonno
-            buoni, et dentro fa 4 et piu ossi ristreti insieme come semi, et molto amari.</p>
+            più lunghe che larghe et viene ristreto come il cipresso, son di legno tenue. Produce
+            suoi fruti grandi, tondi con gusto di persico et suoa carne come di susino et sonno
+            buoni, et dentro fa 4 et più ossi ristreti insieme come semi, et molto amari.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In India nel Darien come apar (* 77) nel testo del secondo del India k. 97.</p>
+          <p> In India nel Darien come apar [* 77] nel testo del secondo del India k. 97.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -34,12 +34,11 @@
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
-          <p> Non sonno da mangiarsene molti havendo il gusto di per- sico convien haversi anche
-            delle quallita cative come lui. Et suoi semi an- cora puolsi convenire come quelli di
+          <p> Non sonno da mangiarsene molti havendo il gusto di persico convien haversi anche
+            delle quallità cative come lui. Et suoi semi ancora puolsi convenire come quelli di
             persichi deti. </p>
         </div>
         <div type="editorial-D">
-          <p>[Albero fruttifero. La pianta era stata descritta col nome Mamey da Gonzalo Fer-
-            dinando Oviedo de Valdes (1525)). -</p>
+          <p>[Albero fruttifero. La pianta era stata descritta col nome Mamey da <ref type="bibl" target="http://id.sbn.it/bid/RMLE012034">Gonzalo Ferdinando Oviedo de Valdes (1525 [ma 1535])</ref>]. -</p>
         </div>
       </div></TEI>

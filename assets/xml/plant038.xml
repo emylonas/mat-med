@@ -33,7 +33,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'ecc. <persName ref="#Anguillara">Anguillara</persName> k. 42 di 8 spezie di Alberi resiniferi raggiona.</p>
+          <p> L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 42 di 8 spezie di Alberi resiniferi raggiona.</p>
         </div>
         <div type="editorial-D">
           <p>[L'albero fruttifero sorge in mezzo ad una prateria con figure umane, agarici e

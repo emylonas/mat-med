@@ -14,22 +14,22 @@
         <head>N. 60 PRUNUS THEO.</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Cocigia Plinij Prunus Theophrasti (5).</p>
+          <p> Cocigia Plinij - Prunus Theophrasti (<ptr target="#A-060-N1"/>).</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Tante et varie sonno le sp. di pruni sì de Silvestri come di faturati inserti che non
+          <p> Tante et varie sonno le sp. di pruni, si' de silvestri come di faturati inserti, che non
             son lingue che li potessero connumerare, ma questo son differente da gli altri.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p>Suoa radice non molto grossa son picciol albero con foglie <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="45"/> di Cumara minore (?). Il fruto si dice
+          <p>Suoa radice non molto grossa son picciol albero con foglie <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="45"/> di Cumara minore (<ptr target="#A-060-N2"/>). Il fruto si dice
             divenir in Papos et questo effetto non fa altro albero.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Il Corolario dice essere il Cociggia di Plinio perché Pl. lib. 13.20 dice di Cocigia
-            quello che Theophrasto nara di Prunus lib. 3 cap. 16.</p>
+          <p> Il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario [di E. Barbaro]</ref> dice essere il Cociggia di Plinio perché Pl. lib. 13.20 dice di Cocigia
+            quello che Theophrasto nara di <hi>Prunus</hi> lib. 3 cap. 16.</p>
         </div>
         <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
@@ -38,15 +38,14 @@
         </div>
         <div type="editorial-D">
           <p>[Non conoscendosi il frutto la pianta fu dipinta sterile. Mal trascritto pure in
-            «coccigria &gt; troviamo il nome usato da vari floristi del sec. XVI (Aldrovandi, III, 80,
-            Anguillara, Dodoneo, Pena e Lobelio. p. 412, Dalechamps, p. 193. Constantin, Tabernemontano, G. Bauhin, Hist. plant., 1650, p. 494) per indicare Rhus Cotinus che qui è a N.
-            63].</p>
+            «coccigria» troviamo il nome usato da vari floristi del sec. XVI (Aldrovandi, III, 80,
+            Anguillara, Dodoneo, Pena e Lobelio. p. 412, Dalechamps, p. 193. Constantin, Tabernemontano, G. Bauhin, Hist. plant., 1650, p. 494) per indicare Rhus Cotinus che qui è a <ref type="internal" target="#A-063">N. 63</ref>].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-060-N5" n="5"> • L'identità supposta nei • Nomi. c giustificata nelle • Oppinioni • - di
-            Coccygia di Plinio , con • Prunus di Teofrasto. deriva evidentemente dall'aver
+          <note xml:id="A-060-N1" n="1"> * L'identità - supposta nei «Nomi» e giustificata nelle «Oppinioni» - di
+            «Coccygia di Plinio», con «Prunus di Teofrasto», deriva evidentemente dall'aver
             consultato Teofrasto nella traduzione latina del Gaza, in cui il nome originale
-            (xoxxuryia nella lez, corretta) era reso con pru- nus (= gr. xoxxuunada). (Ed.).</note>
-          <note xml:id="A-060-N1" n="1"> Comaro (Arbutus Unedo). </note>
+            (κοκκυγυέα nella lez. corretta) era reso con prunus (= gr. κοκκυμηλέα). (Ed.).</note>
+          <note xml:id="A-060-N2" n="2"> Comaro (<hi>Arbutus Unedo</hi>). </note>
         </div>
       </div></TEI>

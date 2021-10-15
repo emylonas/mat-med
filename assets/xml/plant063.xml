@@ -12,22 +12,22 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-063">
         <head>N. 63 SCOTANUS</head>
-        <ab>[Rhus Cotinus L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Scotanus da Latini et Plinio - Cotino da Greci - Albero dal penacchio da volgari - Rosa per
-            Italia (2) - Schiapuci da conza corami alla Zudeca - Dulb da Arabi et baccam Suffire,
-            Platanus arbor da Greci (3).</p>
+            Italia (<ptr target="#A-063-N1"/>) - Schiapuci da conza corami alla Zudeca - Dulb da Arabi et baccam - Suffire,
+            Platanus arbor da Greci (<ptr target="#A-063-N2"/>).</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nelle rippe del Istria tra sassi ne sonno in quantita, et per monti di Lombardia si
+          <p> Nelle rippe del <placeName ref="http://www.geonames.org/3175397/istria.html">Istria</placeName> tra sassi ne sonno in quantità, et per monti di Lombardia si
             trova.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> <persName ref="#Anguillara/">Anguilara</persName> k. 85 tiene per il scatano di Plinio. Et li ten- tori usano li bastoni de
-            suoe radice per far purpura Plinio 16.19. Io credo che le Pandette cap. 226 de Dulb
+          <p> <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 85 tiene per il scatano di Plinio. Et li tentori usano li bastoni de
+            suoe radice per far purpura Plinio 16.19. Io credo che le <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298"> Pandette [di Matteo Silvatico]</ref> cap. 226 de Dulb
             confunda il scotano che si conzia li corami con il platano sequente.</p>
         </div>
         <div type="disagreements">
@@ -38,7 +38,7 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p>De suoe foglie et ramuscoli si purgano li corami. Et leggesi come di sopra apar.
-            Serapione lib. agg. cap. Dulb. </p>
+            <persName ref="#Serapione">Serapione</persName> lib. agg. cap. Dulb. </p>
         </div>
         <div type="editorial-D">
           <p>[Anche il <persName ref="#Rinio">Rinio</persName> a c. 438, pur non citando le Pandette di Matteo Silvatico confuse lo
@@ -48,16 +48,16 @@
             un ramoscello fruttifero. Il Michiel non conobbe i fiori e mise in dubbio se tali <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="47"/> fossero i lunghi
             peduncoli sterili e pelosi, come si apprende dalle sue frasi: «nel summo de rami viene
             diremo fiori che si restano poi una folta panocchia et chioma». ... «di Maggio suoi
-            fiori over penacchi»).</p>
+            fiori over penacchi»].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-063-N2" n="2">* Il nome rosa che nei trattati mercantili del 'soo si legge per lo più nella
+          <note xml:id="A-063-N1" n="1">* Il nome rosa che nei trattati mercantili del 'soo si legge per lo più nella
             forma «roza» o «rozza» · designava una materia colorante, pure rossa, ricavata dalla
             Rubia tinctorum. (Ed.).</note>
-          <note xml:id="A-063-N3" n="3"> * Questa corrispondenza con l'arabo e il greco (dulb, baccam, suffire,
+          <note xml:id="A-063-N2" n="2"> * Questa corrispondenza con l'arabo e il greco (dulb, baccam, suffire,
             platanus) che darebbe suffire come nome greco è trascritta dal <title ref="https://data.cerl.org/istc/is00511500">Pandectarium medicinas
               (Lione, 1478)</title> di Matteo Silvatico; invece, in quella più estesa data da <ref type="bibl" target="http://id.sbn.it/bid/RMLE007015">Serapione
-                (interprete N. Mutono, Venezia, 1552, p. 55)</ref>. Sufleire è uno dei nomi arabi.
+                (interprete N. Mutono, Venezia, 1552, p. 55)</ref>. Suffeire è uno dei nomi arabi.
             (Ed.).</note>
         </div>
       </div></TEI>

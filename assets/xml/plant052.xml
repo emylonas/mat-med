@@ -12,10 +12,11 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-052">
         <head>N. 52 MACALEB</head>
-        <ab>(Prunus Mahaleb L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/>[<hi>Prunus Mahaleb L.</hi>]</ab>
+  
         <div type="name">
           <head>NOMI</head>
-          <p> Machaleb da profumieri et Serapione.</p>
+          <p> Machaleb da' profumieri et <persName ref="#Serapione">Serapione</persName>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -23,22 +24,22 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> A Monte Baldo sul Veronese et in Schiavonia.</p>
+          <p> A <placeName ref="https://www.geonames.org/3182460/monte-baldo.html">Monte Baldo</placeName> sul veronese et in <placeName ref="https://www.geonames.org/3190590/slavonia.html">Schiavonia</placeName>.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>
-          <p> De suoi semi mi naque.</p>
+          <p> De' suoi semi mi naque.</p>
         </div>
         <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Questo son l'istesso nato de semi di Machaleb da profumieri. Et s'ingano Serapione nel
-            credersi che la Phyllirea di Diascoride sia il Machaleb degli Arabi. -</p>
+          <p> Questo son l'istesso nato de semi di Machaleb da profumieri. Et s'inganò Serapione nel
+            credersi che la Phyllirea di Diascoride sia il Machaleb degli Arabi.</p>
         </div>
         <div type="editorial-D">
           <p>[Pianta fiorita e fruttifera. A parte un ramoscello con foglie.</p>
           <p>Il Michiel qui corregge un errore di Serapione seguito da altri Arabi e già avvertito
-            da Simone da Cordo che perd non aveva indicato qual fosse il vero Mahaleb.</p>
-          <p>Secondo Serapione il Mahaleb era Phyllirea variabilis, secondo altri autori Ligu- strum
-            vulgare ; quest'ultima opinione è riportata dal Rinio a c. 389 del suo codice).</p>
+            da <persName ref="#Cordo">Simone da Cordo</persName> che però non aveva indicato qual fosse il vero Mahaleb.</p>
+          <p>Secondo <persName ref="#Serapione">Serapione</persName> il Mahaleb era Phyllirea variabilis, secondo altri autori Ligustrum
+            vulgare; quest'ultima opinione è riportata dal <persName ref="#Rinio">Rinio</persName> a c. 389 del suo codice].</p>
         </div>
       </div></TEI>

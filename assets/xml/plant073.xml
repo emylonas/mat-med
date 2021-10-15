@@ -12,7 +12,7 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-073">
         <head>N. 73 PEPE TONDO</head>
-        <ab>[Ribes nigrum L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000405161">[<hi>Ribes nigrum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Pepe tondo Pepe da Greci et Latini Falfel da Arabici Pimenta del rabo da Portogesi
@@ -55,7 +55,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'Ecc. <persName ref="#Anguillara">Anguilara</persName> mi disse esser l'Amomo de Diascoride ma non fa fior di viola bianca.
+          <p>L'ecc. <persName ref="#Anguillara">Anguilara</persName> mi disse esser l'Amomo de Diascoride ma non fa fior di viola bianca.
             Et k. 34 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> dice esser il Pepe salvatico. Et che questo sia veramente sp.
             di pepe mi son confirmato da alcuni degni Turchi soriani, ma sonno piante diverse che lo
             producono. Et anche diverse da il longo pepe come Portogesi affermano. Et che producono
@@ -78,7 +78,7 @@
             sue analogie col Ribes rubrum.</p>
           <p>La figura è di pianta fiorita in un paesaggio di valle prossima al mare; le glandole
             alla pagina inferiore delle foglie furono imitate con orpello.</p>
-          <p>Il nome arabo Hab-el-zelin qui citato trovasi la prima volta in Serapione, indicante
+          <p>Il nome arabo Hab-el-zelin qui citato trovasi la prima volta in <persName ref="#Serapione">Serapione</persName>, indicante
             una pianta non ancora determinata. Per alcuni autori [246] era Cyperus esculentus, il
             che fu negato dal Dodoneo [107], per altri, come il nostro, Ribes nigrum. Il nome gradatamente si corruppe in El-zelin, Al-zelin, Azzelin, Assaline e sotto quest'ultima
             forma è tuttora vivo nel dialetto veneto, ma indica una pianta ben diversa e nemmeno

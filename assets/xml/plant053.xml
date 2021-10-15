@@ -14,8 +14,8 @@
         <head>N. 53 CRATEGON</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Crategon da Theophrasto Sambucus aquaticus motomorum Pie de Occha dal Vulgo Aquifolio
-            et Ilex in Italia et da il Corolario.</p>
+          <p> Crategon da <persName ref="#Theofrastus">Theophrasto</persName> - Sambucus aquaticus motomorum, Piè de Occha dal vulgo - Aquifolio
+            et Ilex in Italia et da il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario [di E. Barbaro]</ref>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -31,11 +31,11 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Il Corolario dice essere chiamato in Italia Aquifolio et non esser altro che l'Ilex et
-            il Mateolo non così conferma. Et M. <persName ref="#Anguillara">Alovise Anguilara</persName> dice esser il Sorbo torminale ma a
+            il <persName ref="#Mattioli">Mateolo</persName> non così conferma. Et M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alovise Anguillara</ref> dice esser il Sorbo torminale ma a
             molti non pare k. 80. </p>
         </div>
         <div type="editorial-D">
-          <p>(Foglie intere, ovali-lanceolate, disposte a palma; frutti ascellari, isolati, bruni,
-            piccoli).</p>
+          <p>[Foglie intere, ovali-lanceolate, disposte a palma; frutti ascellari, isolati, bruni,
+            piccoli].</p>
         </div>
       </div></TEI>

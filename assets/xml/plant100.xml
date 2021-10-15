@@ -12,15 +12,15 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-100">
         <head>N. 100 BETULA</head>
-        <ab>[Betula alba L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000330385">[<hi>Betula alba L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Betula da Theophrasto Biola et Belula in Italia Birchen da Tedeschi.</p>
+          <p> Betula da Theophrasto - Biola et Belula in Italia - Birchen da Tedeschi.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti in Italia ne sonno. Et in Grecia ancora. In paesi et luoghi frigidi in
-            Gallia.</p>
+          <p> Ne monti in <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName> ne sonno. Et in <placeName ref="https://www.geonames.org/390903/hellenic-republic.html">Grecia</placeName> ancora. In paesi et luoghi frigidi in
+            <placeName ref="https://www.geonames.org/3017382/republic-of-france.html">Gallia</placeName>.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>

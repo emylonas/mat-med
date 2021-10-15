@@ -12,7 +12,7 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-087">
         <head>N. 87 SPIN BIANCO</head>
-        <ab>(Crataegus oxyacantha L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000985328">[<hi>Crataegus oxyacantha L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Spin bianco da volgari Oxiacanta da molti Azarolo sp. da alcuni.</p>
@@ -27,9 +27,9 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>- L'<persName ref="#Anguillara">Anguillara</persName> k. 57 de spina acuta dice non essere questo spin bianco perché non sta
+          <p>- L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 57 de spina acuta dice non essere questo spin bianco perché non sta
             sempre verde ne ha spini di malo medico, ne simil al pero salvatico. Et che non conosce
-            la spina acuta. Io ne dimostro una inanti k. 152 cosi tenuta dal Ecc. <persName ref="#Ghini">Ghino</persName> et da molti
+            la spina acuta. Io ne dimostro una inanti k. 152 così tenuta dal ecc. <persName ref="#Ghini">Ghino</persName> et da molti
             simplicisti degni.</p>
         </div>
         <div type="editorial-D">
@@ -38,12 +38,12 @@
             spine e frutti maturi.</p>
           <p>Al tempo del Michiel i pareri sull'identificazione della sp. otvárania di Teofrasto e
             Dioscoride erano divisi. Alcuni, seguendo il Trago che alla sua volta aveva seguito gli
-            autori medievali (246), stavano per Berberis vulgaris <ref target="A-139)">[N.
+            autori medievali [246], stavano per Berberis vulgaris <ref target="A-139">[N.
               139]</ref>, altri, seguendo il Ruellio, <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="63"/> il Ghini, per Mespilus Pyracantha, altri per la specie
             presente. L'Anguillara si astenne dal dar giudizio; il Michiel, studiata la diagnosi di
-            Dioscoride, concluse giustamente per la seconda specie <ref target="A-152)">(N.
-              152)</ref> e così fecero altri botanici, ma Linneo stette per la terza opi- nione ed
+            Dioscoride, concluse giustamente per la seconda specie <ref target="A-152">[N.
+              152]</ref> e così fecero altri botanici, ma Linneo stette per la terza opinione ed
             il falso nome da lui dato al biancospino è causa di frequenti errori nelle indagini di
             botanica storica].</p>
         </div>

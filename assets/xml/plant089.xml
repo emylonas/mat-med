@@ -12,11 +12,11 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-089">
         <head>N. 89 ACATIA</head>
-        <ab>[Calycotome spinosa Lk.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213263">[<hi>Calycotome spinosa Lk.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p>Acatia prima da Diascoride Alcarthi da Arabi Acantho da Theophrasto Sethim da molti
-            safrim da Arabi Santh et Alcharad il suo fruto da deti Samaga la gomma Il succo spremuto
+          <p>Acatia prima da Diascoride - Alcarthi da Arabi - Acantho da Theophrasto - Sethim da molti - 
+            safrim da Arabi - Santh et Alcharad il suo fruto da deti - Samaga la gomma - Il succo spremuto
             dalla silaqua Albassari da deti Arabi. <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="64"/>
           </p>
@@ -32,7 +32,7 @@
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
-          <p> Per ogni staggion verde si dimostra, suoi fiori nel mezzo del- l'Esta et le silique
+          <p> Per ogni staggion verde si dimostra, suoi fiori nel mezzo dell'esta' [= estate] et le silique
             poi.</p>
         </div>
         <div type="exposure">
@@ -41,16 +41,16 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'<persName ref="#Anguillara">Anguilara</persName> k. 63 dice non havere veduto se non il seme della Acatia prima. Et della
+          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguilara</ref> k. 63 dice non havere veduto se non il seme della Acatia prima. Et della
             seconda non è l'Aspalato secondo ma tiene sia una pianta simil alla Genestra con spine
             sotili, foglia di ruta, fiori di corniola et silique di ginestra Et è frutice che ne
             sonno in Corsica et credo sia questo demostro. Et le due Acatie di Diascoride sonno
             poste da Theophrasto soto nome di Achanto. El qual molti li tiene sia l'Albero Sethim
             che il Signore commando a Moise facesse il Tabernacolo di questo legno come si legge nel
             Esodo cap. 25 et 26 et cap. 25 nel lib. dei Numeri dice che il popolo de Isdrael stete
-            in Sethym dunde questo albero si dinomina dal paese. Et an- chora si chiama nella Arabia
+            in Sethym dunde questo albero si dinomina dal paese. Et anchora si chiama nella Arabia
             con questo nome. Et il suo fruto safrim, santh et alcharad. Et la gomma samaga, et il
-            sugo spremuto dalle silique Albas- sari che par la vera Acatia de Midici.</p>
+            sugo spremuto dalle silique Albassari che par la vera Acatia de Midici.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>

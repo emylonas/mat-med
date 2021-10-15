@@ -12,10 +12,10 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-122">
         <head>N. 122 GENESTELA PHRIGIA</head>
-        <ab>[Cytisus ...]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-4000010595">[<hi>Cytisus ...</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Genistela phrigia da volg. Viburna Anguilara Cytiso tenuto da molti Vivurna in
+          <p> Genistela phrigia da volg. - Viburna Anguilara - Cytiso tenuto da molti - Vivurna in
             Calabria.</p>
         </div>
         <div type="genus">
@@ -25,15 +25,15 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In Phrigia. Et io l'hebbi dal francese Bellonio et l'ho custo- dita de molti anni. Et
-            Galeno de Cytiso dice venirci da Sio (7). Di l'altra mostra legniosa l'hebbi di
+          <p> In Phrigia. Et io l'hebbi dal francese Bellonio et l'ho custodita de molti anni. Et
+            Galeno de Cytiso dice venirci da Sio (<ptr target="#A-122-N1"/>). Di l'altra mostra legniosa l'hebbi di
             Levante.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'<persName ref="#Anguillara">Anguilara</persName> k. 85 la tiene per il Cytiso di Galeno. Et gia haveva oppinione che fusse
+          <p>L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 85 la tiene per il Cytiso di Galeno. Et già haveva oppinione che fusse
             la Viburna. di quantum lenta solent inter <fw type="running-head" place="top">LIBRO
-              AZZURRO</fw><pb n="88"/> viburna cupressi (1). L'altra mostra al meglio viene tenuta
+              AZZURRO</fw><pb n="88"/> viburna cupressi (<ptr target="#A-122-N2"/>). L'altra mostra al meglio viene tenuta
             per specie di Citiso ancora lei. Et il Mattiolo mi dimostra uno altro di albero a k.
             1223.</p>
         </div>
@@ -44,11 +44,11 @@
             di laburnum, avornio). Da quanto dice il Michiel pare che l'Anguillara dopo la pubbli-
             cazione del suo libretto abbia cambiato idea identificando la specie col citiso di
             Galeno che nelle pag. 83-85 è ritenuto la specie qui figurata al Ro. I, 116.</p>
-          <p>La seconda ha fiori • quasi di ben bianco, ma purpurezzi»; le foglie sono
+          <p>La seconda ha fiori «quasi di ben bianco, ma purpurezzi»; le foglie sono
             trifoliate.]</p>
         </div>
         <div type="notes">
-          <note xml:id="A-122-N7" n="7"> Scio nelle Sporadi.</note>
-          <note xml:id="A-122-N1" n="1"> * VERG. Buc. I. 25. (Ed.)</note>
+          <note xml:id="A-122-N1" n="1"> Scio nelle Sporadi.</note>
+          <note xml:id="A-122-N2" n="2"> * VERG. Buc. I. 25. (Ed.)</note>
         </div>
       </div></TEI>

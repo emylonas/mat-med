@@ -14,7 +14,7 @@
         <head>N. 61 ZARNAB</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Zarnab da le Pandette.</p>
+          <p> Zarnab da <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298">le Pandette [di Matteo Silvatico]</ref>.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
@@ -23,7 +23,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In Arabia et in Damiata. Io ne hebbi una mostra secha.</p>
+          <p> In <placeName ref="https://www.geonames.org/6957698/arabia.html">Arabia</placeName> et in <placeName ref="https://www.geonames.org/358048/damietta.html">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -31,8 +31,7 @@
         </div>
         <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Questo albero sempre che suoe frondi ri- spira d'odore di Citro sara il Zarnab delle
-            Pandette.</p>
+          <p> Questo albero sempre che suoe frondi rispira d'odore di Citro sarà il Zarnab delle Pandette</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
@@ -42,11 +41,11 @@
         <div type="editorial-D">
           <p>[Pianta sterile a foglie lanceolate; a parte i foglia (lembo cm 8X1, picciolo cm
             1). Sprengel dalla fig. N. 112, del Zarnab di <persName ref="#Dasilico">Dasilico</persName> deduce che possa essere Salix
-            aegyptiaca]. (2)</p>
+            aegyptiaca]. (<ptr target="#A-061-N1"/>)</p>
         </div>
         <div type="notes">
-          <note xml:id="A-061-N2" n="2"> * Infatti lo CHABRAY (<ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Stirpium icones el sciagraphia, Genevae, 1666</ref>) p. 66,
-            riporta, secondo <persName ref="#Dasilico">Rauwolf</persName>, zarnab» a Salsal syrorum (Salix Safsal Forsk).
+          <note xml:id="A-061-N1" n="1"> * Infatti lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref>, p. 66,
+            riporta, secondo <persName ref="#Dasilico">Rauwolf</persName>, «zarnab» a <hi>Safsaf Syrorum</hi> (<hi>Salix Safsal</hi> Forsk).
             (Ed.).</note>
         </div>
       </div></TEI>

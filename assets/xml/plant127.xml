@@ -12,7 +12,7 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-127">
         <head>N. 127 MIRTO LATIFOLIA</head>
-        <ab>(Myrtus communis L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000248712">[<hi>Myrtus communis L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Mirto gentile latifolia da volgari. Li altri nomi se dirano alla sequente specie.</p>
@@ -39,9 +39,9 @@
             valle a velenati per fonghi et alla peste...</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita. Nel testo l'autore dice : « suoi fiori tra le frondi verso la summita
+          <p>[Pianta fiorita. Nel testo l'autore dice: «suoi fiori tra le frondi verso la summita
             bianchi piccioli di 7 fogline in ruosa di buono odore però nella figura i fiori
-            ascellari tro- vansi a tutte le altezze ed hanno le corolle di cinque lobi].</p>
+            ascellari trovansi a tutte le altezze ed hanno le corolle di cinque lobi].</p>
         </div>
         <div type="notes">
           <note xml:id="A-127-N3" n="3"> Bacche. </note>

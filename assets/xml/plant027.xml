@@ -33,7 +33,7 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Da simplicisti sonno tenuti per l'Evonimo di Theophrasto lib. 3 cap. ultimo. Et
-            l'eccell. <persName ref="#Anguillara">Anguillara</persName> k. 81 tiene anchora lui.</p>
+            l'eccell. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 81 tiene anchora lui.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>

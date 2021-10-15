@@ -32,14 +32,13 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Si tiene da molti esser questa una specie di Clematite. M. <persName ref="#Anguillara">Alovise Anguillara</persName> tiene
+          <p> Si tiene da molti esser questa una specie di Clematite. M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alovise Anguillara</ref> tiene
             che questa sia il Centunculo ma Plinio non dice che el se invilupi come fa questo ma la
-            timologia (<ptr target="#A-025-N2"/>) di Centunculo che vol dir scala fa che cosi si creda.</p>
+            timologia (<ptr target="#A-025-N2"/>) di Centunculo che vol dir scala fa che così si creda.</p>
         </div>
         <div type="editorial-D">
           <p> [Nella diagnosi il Michiel dice che le foglie «somigliano al capir di una cappa da
-            huomo dunde l'eccell. <persName ref="#Anguillara">Anguilara</persName> si a mosso a credere per questo che la sia il <hi>Centunculo</hi>». Alla pag. 173 dei Semplici di Anguillara all'articolo Cenlanculo non è por-
-            tata questa ragione che forse fu detta a voce al Michiel.</p>
+            huomo dunde l'eccell. <persName ref="#Anguillara">Anguilara</persName> si [h]a mosso a credere per questo che la sia il <hi>Centunculo</hi>». Alla pag. 173 dei <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> di Anguillara all'articolo Cenlanculo non è portata questa ragione che forse fu detta a voce al Michiel.</p>
           <p>La figura presente è mediocre e presenta i fiori in grappoletti terminali, però ha
             interesse perché identifica una delle specie di Anguillara che dal solo nome sarebbe
             irreconoscibile perché nessuna delle piante conosciute oggidì sotto i nomi <hi>contunculo</hi>,

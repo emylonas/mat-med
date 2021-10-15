@@ -11,30 +11,30 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-054">
-        <head>N. 54 LICIO PO</head>
+        <head>N. 54 LICIO PRIMO</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Licio primo da Dioscoride Pixacantha.</p>
+          <p> Licio primo da Dioscoride - Pixacantha.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> De doi licij ne parla Diascoride di questo et de lo In- diano.</p>
+          <p> De doi licij ne parla Diascoride: di questo et de lo Indiano.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce in Cappedocia et Licia dice il testo de Dioscoride. Et di questo ne hebbi dalla
-            Megella de Monte Corno, nel contorno di Zara, et apresso a amarano (1) nel bosco di
-            Legnano. (2) et nelle alpi di Liguria come dice il Brasavola.</p>
+          <p> Nasce in <placeName ref="https://www.geonames.org/322954/cappadocia.html">Cappedocia [= Cappadocia]</placeName> et <placeName ref="https://www.geonames.org/8261119/lycie.html">Licia</placeName> dice il testo de Dioscoride. Et di questo ne hebbi dalla
+            Megella [= Majella] de <placeName ref="https://www.geonames.org/3178053/monte-corno.html">Monte Corno</placeName>, nel contorno di <placeName ref="https://www.geonames.org/3186952/zadar.html">Zara</placeName> , et apresso a <placeName ref="https://www.geonames.org/3174017/marano-lagunare.html">Amarano</placeName> (<ptr target="A-054-N1"/>) nel bosco di
+            <placeName ref="https://www.geonames.org/3174731/porto-lignano.html">Legnano</placeName>. (<ptr target="#A-054-N2"/>) et nelle <placeName ref="https://www.geonames.org/3174726/alpi-liguri.html">alpi di Liguria</placeName> come dice il Brasavola.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'Eccell. <persName ref="#Anguillara">Anguillara</persName> k. 62 dice non si conoscere in Italia non ostante che de molti si
+          <p> L'eccell. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 62 dice non si conoscere in Italia non ostante che de molti si
             credeno essere questo. Et questo che son in uso delle speciarie non si conviene con la
             descretione de Diascoride ma falsificato di bacche di ligustro over di mater silva. </p>
         </div>
         <div type="editorial-D">
           <p>[Pianta fruttifera sorgente in mezzo ad un paesaggio in riva al mare. A lato un rametto
-            fruttifero).</p>
+            fruttifero].</p>
         </div>
         <div type="notes">
           <note xml:id="A-054-N1" n="1"> A Marano.</note>

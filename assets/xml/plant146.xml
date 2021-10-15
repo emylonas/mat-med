@@ -19,7 +19,7 @@
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Due spetie ne pone Diascoride, uno con la cortice rubea odo- riffero, l'altro bianco
+          <p> Due spetie ne pone Diascoride, uno con la cortice rubea odoriffero, l'altro bianco
             sanza odore.</p>
         </div>
         <div type="location">
@@ -37,23 +37,23 @@
         </div>
         <div type="opinions">
           <head>OPPINIONE</head>
-          <p> Questa son la oppinione del <persName ref="#Anguillara">Anguillara</persName> narrata da lui a k. 36 per raporto de M.
+          <p> Questa son la oppinione del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> narrata da lui a k. 36 per raporto de M.
             Costantin Rhodioto speziale dignissimo in Candia degno di fede, qual mi mando la mostra
             di esso per il Magnifico sig. Gabriel Valaresso al tempo che Suoa Magnificencia era
             consiglier in Candia (1). Altri pensorno che il Sandalo rosso sia l'Aspalato, ma
-            Serapione lo chia- risse. Altri se inganano tenendo il legittimo Aloe per il deto
+            <persName ref="#Serapione">Serapione</persName> lo chiarisse. Altri se inganano tenendo il legittimo Aloe per il deto
             Aspalato.</p>
         </div>
         <div type="disagreements">
           <head>DISPARERI</head>
-          <p>Di meglio di questo per l'Aspalato io non ho gia veduto abenche de molte mostre si
+          <p>Di meglio di questo per l'Aspalato io non ho già veduto abenche de molte mostre si
             vanno dimostrando.</p>
         </div>
         <div type="editorial-D">
           <p>[L'Anguillara riteneva dapprima che l'aspalato fosse l'incenso, ma rettifico l'opi-
             nione dopochè il Rodiotto (2) qui nominato gli mando la descrizione della pianta pre-
-              <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="102"/> sente che è
-            riportata nei • Semplici &gt; Lo stesso Rodiotto mandò al Michiel un campione che perd
+              <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="102"/>sente che è
+            riportata nei Semplici; Lo stesso Rodiotto mandò al Michiel un campione che perd
             giunse secco, come lo dimostra la figura del presente codice nella quale i fiori son ben
             poco distinti. Essa è la prima conosciuta, precedendo quella del Pona [204]).</p>
         </div>

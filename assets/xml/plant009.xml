@@ -16,7 +16,7 @@
         <div type="name">
           <head>NOMI</head>
           <p> Cedrus da Arabi et Latini - Serbin da Greci - Oxicedro da molti - Reomiher da Hebrei nel
-            Genesis - Ginepro da Diascoride - Sethim dal Esodo cap. 25 et 26 - Alkitran da Serapione il
+            Genesis - Ginepro da Diascoride - Sethim dal Esodo cap. 25 et 26 - Alkitran da <persName ref="#Serapione">Serapione</persName> il
             maggiore <ref type="internal" target="#A-038">[N. 38]</ref>.</p>
         </div>
         <div type="genus">
@@ -56,7 +56,7 @@
             intende di questo <hi>Cedro phenicea</hi>. Et Plinio par che confundano li giuniperi facendone di
             4 spezie et quello Cedralite son depinto dal <persName ref="#Belonio">Belonio</persName> nel suo libro <ref type="bibl" target="http://id.sbn.it/bid/CFIE000031">de Resiniferis</ref>, et
             questo son quello che fu edificato il tempio di Salamone et l'Arca di Noe tenuto da
-            Hebrei. Et l'<persName ref="#Anguillara">Anguillara</persName> 45 dice che li Cedri de Theophrasto Diascoride con errore li
+            Hebrei. Et l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> 45 dice che li Cedri de Theophrasto Diascoride con errore li
             chiamorno Ginepri. Et il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandini</persName> nel Membro 24 (<ptr target="#A-009-N3"/>) tiene che il Cedro maggior de
             Greci sia il Larice de Latini et con molti belli discorsi.</p>
         </div>
@@ -101,7 +101,7 @@
             scritto che il Cedro maggiore (Cedrus Libanotica Lk.) ha frutti di ginepro e di mirto.
             Dietro questa credenza il <persName ref="https://data.cerl.org/thesaurus/cnp01365502">Rinio</persName> a c. 425 fece una figura fittizia di Cedro del Libano
             con galbuli di ginepro.</p>
-          <p>Non comprendiamo poi con qual fondamento lo Chabray asserisca che il <persName ref="#Mattioli">Mattioli</persName> erra
+          <p>Non comprendiamo poi con qual fondamento lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> asserisca che il <persName ref="#Mattioli">Mattioli</persName> erra
             con Dioscoride, ammettendo che il Cedro maggiore sia baccifero].</p>
         </div>
         <div type="notes">

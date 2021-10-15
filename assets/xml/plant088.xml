@@ -14,7 +14,7 @@
         <head>N. 88 ACATIA SECONDA</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Acatia seconda da Diascoride Aspalato da molti Achanto da Theophrasto.</p>
+          <p> Acatia seconda da Diascoride - Aspalato da molti - Achanto da Theophrasto.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -45,7 +45,7 @@
         <div type="opinions">
           <head>OPPINIONE</head>
           <p> Il <persName ref="#Belonio">Belonio</persName>simplicista errante et suffitiente me diede de semi con nome di Acatia
-            seconda di Cappedocia. L'<persName ref="#Anguillara">Anguilara</persName> k. 36 narra de uno altro Aspalato rodioto el qual
+            seconda di Cappedocia. L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 36 narra de uno altro Aspalato rodioto el qual
             tiene che il legno aloe rodio sia il vero aspalato. Et di questa non ne fa mentione
             alcuna, ma molti savij la tengono questa pianta piu presto per Acatia seconda che per
             Aspalato. Mes. <persName>Cechin dal Angelo</persName> spetial singularissimo mi ha dimostro uno legno odorato
@@ -53,10 +53,10 @@
             legnio el qual potrebonsi de legiero dargli l'odore io non scio afirmare.</p>
         </div>
         <div type="editorial-D">
-          <p>(La figura (1) dell'albero sterile è in un cortile a porticato, con pavimento a quadri
-            bianchi e rossi alla veneziana ed in riva al mare).</p>
+          <p>[La figura (<ptr target="#A-088-N1"/>) dell'albero sterile è in un cortile a porticato, con pavimento a quadri
+            bianchi e rossi alla veneziana ed in riva al mare].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-088-N1" n="1"> • Fig. infelice, con le radici rappresentate fuori terra.(Ed.).</note>
+          <note xml:id="A-088-N1" n="1"> * Fig. infelice, con le radici rappresentate fuori terra.(Ed.).</note>
         </div>
       </div></TEI>

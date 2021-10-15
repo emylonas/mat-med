@@ -35,8 +35,8 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'<persName ref="#Anguillara">Anguilara</persName> k. 51 (50) dice non lo conoscer. Et non esser adunque questi et manco
-            quello di il <persName ref="#Fuchs">Fuchsio</persName> et di Hermolao. Et Marzello si crede che l'Erica sia una sp. di
+          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 51 (50) dice non lo conoscer. Et non esser adunque questi et manco
+            quello di il <persName ref="#Fuchs">Fuchsio</persName> et di Hermolao. Et <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marzello [= Marcello Virgilio Adriani]</ref> si crede che l'Erica sia una sp. di
             Ginesta.</p>
         </div>
         <div type="editorial-D">

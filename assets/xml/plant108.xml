@@ -12,11 +12,11 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-108">
         <head>N. 108 FRUTICE INCOGNITO</head>
-        <ab>[I. Vaccinium Vitis Idaea L.] [II. Vaccinium Myrtillus L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000421966">[<hi>I. Vaccinium Vitis Idaea L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000422209">[<hi>II. Vaccinium Myrtillus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Incognito frutice Uva d'Orso dal Anguillara Loto da alcuni spetie questa seconda
-            mostra Arctostaphilo da Greci — Vigna del Orso per l'Apenino Vitis Idea da
+          <p> Incognito frutice - Uva d'Orso dal Anguillara - Loto da alcuni spetie questa seconda
+            mostra Arctostaphilo da Greci — Vigna del Orso per l'Apenino - Vitis Idea da
             Theophrasto.</p>
         </div>
         <div type="genus">
@@ -25,7 +25,7 @@
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p> - L'altra mostra (II) simile ma le suoe foglie piui rotonde et all'in- torno dentate.
+          <p>L'altra mostra (II) simile ma le suoe foglie piui rotonde et all'inorno dentate.
             Suoi fruti neri con semi dentro neri lungheti de imperfetta forma.</p>
         </div>
         <div type="location">
@@ -38,7 +38,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'<persName ref="#Anguillara">Anguilara</persName> k. 90 parla de uva d'orso, potria esser questo. Et l'altra mostra sonno
+          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 90 parla de uva d'orso, potria esser questo. Et l'altra mostra sonno
             molti che la ritira a specie di Loto.</p>
         </div>
         <div type="disagreements">
@@ -47,17 +47,16 @@
             fare perché lui dice havere frondi simili all'Arbuto et queste quasi rotonde.</p>
         </div>
         <div type="editorial-D">
-          <p>[Anche oggidi per la somiglianza delle foglie piccole, coriacee, intere, punteg- giate
-            e persistenti e delle bacche rosse il volgo confonde sotto i nomi di uva d'orso, mir-
-            tillo rosso le due specie Arctostaphylos Uva-Ursi e Vaccinium Vitis-Idaea. Il Michiel
+          <p>[Anche oggidi per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
+            e persistenti e delle bacche rosse il volgo confonde sotto i nomi di uva d'orso, mirtillo rosso le due specie Arctostaphylos Uva-Ursi e Vaccinium Vitis-Idaea. Il Michiel
             però ebbe sospetto trattarsi di due piante differenti perché dopo avere scritto che
             quella qui figurata potrebb'essere l'Uva d'Orso dell'Anguillara aggiunge che essa ha le
             foglie quasi rotonde e non d'arbuto come dice Galeno. Ed avendo più tardi vista la
-            pianta in fiore aggiunse nella diagnosi : « suoi fiori in corimbeti piccolini et
-            bianchezzi ».</p>
+            pianta in fiore aggiunse nella diagnosi: «suoi fiori in corimbeti piccolini et
+            bianchezzi».</p>
           <p>La prima figura è di pianta fiorita e fruttifera con a destra una foglia ed una bacca,
             a sinistra un ramo fiorito della seconda pianta. Il Trago aveva già figurata la specie
             col nome Myrtillus exiguus.</p>
-          <p>La seconda figura è un ramo fiorifero rozzamente disegnato).</p>
+          <p>La seconda figura è un ramo fiorifero rozzamente disegnato].</p>
         </div>
       </div></TEI>

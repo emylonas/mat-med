@@ -12,7 +12,7 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-107">
         <head>N. 107 CUMARA</head>
-        <ab>[Arbutus Unedo L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000543204">[<hi>Arbutus Unedo L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cumara nel Vesentin - Arbuto, Albatro, Corbezolo et Arbor fragaria da Latini - Comaron et
@@ -24,7 +24,7 @@
           <head>GENERA</head>
           <p> Due sonno le spetie di Arbuto, una fertile et l'altra sterile. Et ne sonno poi in
             herba che fanno le fraghe piui gentile che si mangiano con foglie di Trifolio, come
-            narra le Pandette (3).</p>
+            narra le Pandette (<ptr target="#A-107-N1"/>).</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -33,7 +33,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> - L'Ecc. <persName ref="#Anguillara">Anguillara</persName> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
+          <p> - L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
             vel andrachne sia l'Arbuto di Diascoride.</p>
         </div>
         <div type="properties">
@@ -44,16 +44,15 @@
             corsi di sangue.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera con figure di farfalle volanti e di un lupo ai piedi del-
-            l'arboscello, allusivo al nome • ficus lupi » A parte due coppie di frutti accompagnati
-            da foglia. Il disegno delle foglie non compete certo con quello che troviamo nel Rinio a
+          <p>[Pianta fiorita e fruttifera con figure di farfalle volanti e di un lupo ai piedi dell'arboscello, allusivo al nome «ficus lupi» A parte due coppie di frutti accompagnati
+            da foglia. Il disegno delle foglie non compete certo con quello che troviamo nel <persName ref="#Rinio">Rinio</persName> a
             c. 330, ma la figura del Michiel è più completa ed esatta, comprendendo fiori e frutti a
             tutti i gradi di maturità ed aggregati come lo sono in natura.</p>
-          <p>Il nome qui citato del dialetto vicentino è corruzione del xdu.zcos di Teofrasto).</p>
+          <p>Il nome qui citato del dialetto vicentino è corruzione del xdu.zcos di Teofrasto].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-107-N3" n="3"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
-            agli arbuti, ci- tando le Pandette, ma in quest'opera esse sono collocate separate sub
+          <note xml:id="A-107-N1" n="1"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
+            agli arbuti, citando le Pandette, ma in quest'opera esse sono collocate separate sub
             Fragaria.</note>
         </div>
 

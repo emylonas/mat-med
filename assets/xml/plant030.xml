@@ -21,12 +21,12 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti aspri caldi, alla <placeName ref="https://www.geonames.org/11592140/majella.html">Megella</placeName> (<ptr target="#A-030-N2"/>), nella <placeName ref="https://www.geonames.org/3172219/val-di-non.html">Valle Anania</placeName>, in <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName> et in Grecia
+          <p> Ne monti aspri caldi, alla <placeName ref="https://www.geonames.org/11592140/majella.html">Megella [Majella]</placeName> (<ptr target="#A-030-N2"/>), nella <placeName ref="https://www.geonames.org/3172219/val-di-non.html">Valle Anania</placeName>, in <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName> et in Grecia
             nel <placeName ref="https://www.geonames.org/255620/peloponnese.html">Peloponese</placeName>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'Ecc. <persName ref="#Anguillara">Anguillara</persName> k. 296 dice esser il Cneoro di Galeno, Alypiade di Aetio et Chamelea
+          <p>L'Ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 296 dice esser il Cneoro di Galeno, Alypiade di Aetio et Chamelea
             di Dioscoride una istessa cosa. Et li Arabi hanno confusamente descrito la Chamelea et
             Thymelea mescolando insieme la Laureola.</p>
         </div>

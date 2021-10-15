@@ -12,28 +12,28 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-119">
         <head>N. 119 RAMNO DAL FOLICOLO</head>
-        <ab>[Paliurus Spina-Christi Mill.]</ab>
+        <ab> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000471780">[<hi>Paliurus Spina-Christi Mill.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Rhamno da Greci Persephonion, Leucacantha da altri Spinam albam il primo da Romani et
-            da Marzello Atadin da Aphri Tausis et Ausegum da Arabi Maruche da volgari Spin santo da
-            Ro- mani la prima spetie Spin de Christo in Abruzzio Paliuro primo da Theophrasto Spinam
-            ceruleam da Latini Scambrones da Spagnioli.</p>
+          <p> Rhamno da Greci - Persephonion, Leucacantha da altri - Spinam albam il primo da Romani et
+            da <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marzello [= Marcello Virgilio Adriani]</ref> - Atadin da Aphri Tausis et Ausegum da Arabi - Maruche da volgari - Spin santo da
+            Romani - la prima spetie Spin de Christo in Abruzzio - Paliuro primo da Theophrasto - Spinam
+            ceruleam da Latini - Scambrones da Spagnioli.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
           <p> Tre spetie ne pone Diascoride, la prima con frondi lunghete picciole, tenere et
-            grassete. La seconda simil ma piu bianca dell'altro con foglie piu sottile [N. 118). La
+            grassete. La seconda simil ma piu bianca dell'altro con foglie piu sottile [N. 118]. La
             terza piu nera et son questa in oppinione che sia il primo paliuro di Theophrasto.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> — In quantita a Costantinopoli. In Istria in boschi nelle ruine di Muglia (2) vechia
-            in quantita a Isola (3). Et per l'Italia in luoghi humidi et secchi.</p>
+          <p> — In quantita a Costantinopoli. In Istria in boschi nelle ruine di Muglia (<ptr target="#A-119-N1"/>) vechia
+            in quantita a Isola (<ptr target="#A-119-N2"/>). Et per l'Italia in luoghi humidi et secchi.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>M. <persName ref="#Anguillara">Alv. Anguillara</persName> k. 52 dubita non sia stato adiunto in Diascoride la terza spetie. Et
+          <p>M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 52 dubita non sia stato adiunto in Diascoride la terza spetie. Et
             Theophrasto ne parla de doi et dice che li Rhamni stano sempre verdi. Et li paliuri no.
             Et questo Rhamno 3º son il primo paliuro di Theophrasto et di Diascoride, ma il Mattiolo
             li confondono con raggioni suoe queste oppinioni.</p>
@@ -44,13 +44,13 @@
             diritta di lunghezza esagerata e talvolta anche ramosa. Due figure laterali, una di ramo
             forito colle foglie fatte in simil modo, l'altro di ramo fruttifero le cui foglie hanno
             i tre nervi longitudinali, ma sono estipolate. Notiamo pel contrasto la precisione
-            dell'An- guillara : « le qual spine son sempre à due à due ma una è diritta et l'altra à
+            dell'Anguillara: «le qual spine son sempre à due à due ma una è diritta et l'altra à
             modo di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="86"/> uncino e per
-            lo più la diritta è posta sopra l'altra a guisa di arpione ». Anche la figura di
+            lo più la diritta è posta sopra l'altra a guisa di arpione». Anche la figura di
             Mattioli fa bene spiccare i caratteri foliari).</p>
         </div>
         <div type="notes">
-          <note xml:id="A-119-N2" n="2"> Muggia.</note>
-          <note xml:id="A-119-N3" n="3"> Isola d'Istria. </note>
+          <note xml:id="A-119-N1" n="1"> Muggia.</note>
+          <note xml:id="A-119-N2" n="2"> Isola d'Istria. </note>
         </div>
       </div></TEI>

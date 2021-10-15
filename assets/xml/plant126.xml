@@ -12,7 +12,7 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-126">
         <head>N. 126 TITHIMALO DENDROIDE</head>
-        <ab>[Euphorbia dendroides L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000961698">[<hi>Euphorbia dendroides L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Thytimalus dendroides et petreo da Latini - Leptophyllon et Pterophytes da Greci -
@@ -25,12 +25,12 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> Nasse ne mine et tra sassi, ne son a Corphu dunde io ne hebbi, nelle maremme di
-            Nappoli de Reame (3), in Toscana et per la Liguria tra Nizza et Savona, et nel contorno
+            Nappoli de Reame (<ptr target="#A-126-N1"/>), in Toscana et per la Liguria tra Nizza et Savona, et nel contorno
             di Marsiglia.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
-          <p> Quasi sempre mantien suoe frondi. Li fruti di Giugno et Luglio con il seme poi.</p>
+          <p> Quasi sempre mantien suoe frondi. Li fruti di giugno et luglio con il seme poi.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -58,23 +58,23 @@
             testimonio degno di fede, che tuttora la specie vive presso Tolone e che può essere
             scomparsa dal luogo indicato dall'Anguillara perché i «dintomi di allora furono occupati
             da caseggiato in causa del continuo estendersi della città». La figura del Michiel viene
-            opportuna a confermare tali deduzioni e togliere ogni dubbio sulla sinonimia (*). Che la
+            opportuna a confermare tali deduzioni e togliere ogni dubbio sulla sinonimia (<ptr target="#A-126-N2"/>). Che la
             figura del Dodoneo non sia tratta dall'originale può constatarsi dalle parole scritte
-            sotto (93): * «Tithymalus dendroides ex Codice caesareo» e la stessa descrizione è
-            presa dal <persName ref="#Belonio">Belonio</persName> e dà dimensioni esagerate alla pianta (2)].</p>
+            sotto [93]: * «Tithymalus dendroides ex Codice caesareo» e la stessa descrizione è
+            presa dal <persName ref="#Belonio">Belonio</persName> e dà dimensioni esagerate alla pianta (<ptr target="#A-126-N3"/>)].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-126-N3" n="3"> La nostra Napoli era cosi chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
-            Grecia) che formó parte del dominii veneti. Ia località è presa dal Mattioli che vide la
+          <note xml:id="A-126-N1" n="1"> La nostra Napoli era così chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
+            Grecia) che formò parte del dominii veneti. Ia località è presa dal Mattioli che vide la
             pianta nelle maremme, poco dopo oltrepassato il confine tra lo Stato Pontificio ed il
             Regno di Napoli, partendo da Terracina.</note>
-          <note xml:id="A-126-N1" n="1"> Gasp. Bauhin che chiama la specie Tithymalus myrtifolius arboreus vi aggiunge
+          <note xml:id="A-126-N2" n="2"> Gasp. Bauhin che chiama la specie Tithymalus myrtifolius arboreus vi aggiunge
             nella sinonimia: an Tithymalus petraeus Anguillarae?</note>
-          <note xml:id="A-126-N2" n="2"> Si dubitò se la specie presente fosse il titimalo petreo di Anguillara perché
+          <note xml:id="A-126-N3" n="3"> Si dubitò se la specie presente fosse il titimalo petreo di Anguillara perché
             questo autore la dice «alta come un huomo che sia ben grande», dandole una statura cui
             essa può eccezionalmente giungere. Il Dodoneo così ne parla: «Bellonius vero ad
             duorum hominum altitudinem crescere et caudicem habere crassitudine cruris humani
-            memoriae prodidit» .. La pianta è conservata nell'Erbario Aldrovandi, Vol. II, 185.
+            memoriae prodidit». La pianta è conservata nell'Erbario Aldrovandi, Vol. II, 185.
           </note>
         </div>
       </div></TEI>

@@ -18,7 +18,7 @@
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Ne sonno de varie sorte che producono de varij fruti, in al- cuni rotondi in altri
+          <p> Ne sonno de varie sorte che producono de varij fruti, in alcuni rotondi in altri
             lunghi.</p>
         </div>
         <div type="location">
@@ -32,6 +32,6 @@
             <ref type="bibl" target="http://id.sbn.it/bid/LO1E013261"/>secondo k. 98.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera, figura forse copiata (di Psidium pyriferum ?)].</p>
+          <p>[Pianta fiorita e fruttifera, figura forse copiata (di <ref target="http://www.worldfloraonline.org/taxon/wfo-0000284583"><hi>Psidium pyriferum</hi></ref>?)].</p>
         </div>
       </div></TEI>

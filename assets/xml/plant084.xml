@@ -12,14 +12,14 @@
     </fileDesc>
   </teiHeader><div type="plant" xml:id="A-084">
         <head>N. 84 TRAGIO</head>
-        <ab>[Hypericum hircinum L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000727735">[<hi>Hypericum hircinum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Tragio da Diascoride.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Due spetie ne pone Diascoride, questo et uno di herba scrito nel altro libro (1) k.
+          <p> Due spetie ne pone Diascoride, questo et uno di herba scrito nel altro libro (<ptr target="#A-084-N1"/>)  k.
             71.</p>
         </div>
         <div type="location">
@@ -34,9 +34,9 @@
         <div type="editorial-D">
           <p>[Plinio al lib. 13 cap. 21 parla del tragio frutice che fu identificato colla specie
             presente, al lib. 28 cap. 13 parla invece dell'erba tragio che si ritiene l'odierna sp.
-            Pim- pinclla Tragium le cui foglie superiori hanno segmenti lineari.</p>
+            Pimpinella Tragium le cui foglie superiori hanno segmenti lineari.</p>
           <p>La presente figura è di pianta fiorita e precede quella data dal Pona.</p>
-          <p>Pegli altri iperici figurati nel Codice V. Ro. I, 236).</p>
+          <p>Pegli altri iperici figurati nel Codice V. Ro. I, 236].</p>
         </div>
         <div type="notes">
           <note xml:id="A-084-N1" n="1"> Giallo </note>
