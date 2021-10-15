@@ -49,24 +49,26 @@ div#TEI {
 		margin-right: 20px;
 		text-align: right;
 	}
-	.top-flex a {
-	/*	margin-top: 0;
+	/* .top-flex a {
+		margin-top: 0;
 		margin-bottom: 0;
 		position: absolute;
 		top: 50%;
-		transform: translate(0, -50%);*/
-	}
+		transform: translate(0, -50%);
+	} */
 	.top-flex img#img1 {
 		width: 35%;
+		padding-right: 2px;
 	}
 	.top-flex img#img2 {
 		width: 36%;
+		padding-left: 2px;
 	}
 	/* .top-flex a img {
 		  width: 25%;
-		  height: 25%; */
-		  /* height: 230px; */
-	/*	  width: 50%;
+		  height: 25%; 
+		  height: 230px;
+	    width: 50%;
 		float: left;
 		text-align: center;
 		margin: auto;
@@ -78,16 +80,17 @@ div#TEI {
 		bottom: 0;
 		left: 0;
 		right: 0;
-		margin: auto;*/
-	}
-	.top-flex a img#img1 {
-		/* border: 1px solid blue; */
-		padding-left: 2px;
-	}
-	a #img2 {
-		/* border: 1px solid blue; */
+		margin: auto;
+	}*/
+	
+	/* .top-flex a img#img1 {
+		border: 1px solid blue;
 		padding-right: 2px;
-	}
+	} */
+	/* a #img2 {
+		border: 1px solid blue;
+		padding-right: 2px;
+	} */
 	h2.top-name {
 		font-weight: normal;
 		margin: 0;
