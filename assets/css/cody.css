@@ -105,8 +105,14 @@ div#TEI {
 	#main article {
 		width: calc(100%-500px);
 		padding-right: 0;
-
-
+	}
+	.horizline {
+		display: block;
+		margin: auto;
+		border-top: 2px double #00FFFF;
+		width: 1235px;
+		
+		}
 	/* .page.h-entry {
 		width: 100%;
 		padding-right: 0;
@@ -133,10 +139,3 @@ div#TEI {
 		clear: both;
 	}
 	} */
-.horizline {
-	display: block;
-	margin: auto;
-	border-top: 2px double #00FFFF;
-	width: 1235px;
-
-}
