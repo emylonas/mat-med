@@ -37,7 +37,6 @@ div#TEI {
 		justify-content: center;
 		align-items: center;
 		height: 400px;
-		max-width: 100%; 
 		/* border: 1px solid blue; */
 	}
 	
@@ -61,7 +60,7 @@ div#TEI {
 		width: 35%;
 	}
 	.top-flex img#img2 {
-		width: 35%;
+		width: 36%;
 	}
 	/* .top-flex a img {
 		  width: 25%;
@@ -81,13 +80,13 @@ div#TEI {
 		right: 0;
 		margin: auto;*/
 	}
-	.top-flex a #img1 {
+	.top-flex a img#img1 {
 		/* border: 1px solid blue; */
-		padding-left: 5px;
+		padding-left: 2px;
 	}
-	.top-flex a #img2 {
+	a #img2 {
 		/* border: 1px solid blue; */
-		padding-right: 5px;
+		padding-right: 2px;
 	}
 	h2.top-name {
 		font-weight: normal;
