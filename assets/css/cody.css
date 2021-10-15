@@ -106,7 +106,7 @@ div#TEI {
 		width: calc(100%-500px);
 		padding-right: 0;
 	}
-	.horizline {
+	hr.horizline {
 		display: block;
 		margin: auto;
 		border-top: 2px double #00FFFF;
