@@ -128,6 +128,9 @@
         <p><persName xml:id="BemboT">Bembo, Torquato</persName> (1525-1595) Figlio naturale del cardinal Pietro Bembo, possedeva uno dei giardini più belli del padovano</p>
       </person>
       <person>
+        <p><persName xml:id="Cechin">Martinelli, Francesco</persName>Speziale attivo a Venezia all'insegna dell'Angelo, chiamato Cechin (o Cecchin) all'Angelo</p>
+      </person>
+      <person>
         <persName xml:id="Cordo" ref="https://www.treccani.it/enciclopedia/simone-da-genova_%28Dizionario-Biografico%29/">Simone da Cordo</persName>
           <persName>Simon a Cordo</persName>
         <persName>Simone da Genova</persName>
@@ -1201,8 +1204,7 @@
           <p>Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
             trovasi in altri convolvoli.</p>
           <p>Il Michiel ottenne la pianta di semi che accidentalmente si trovavano racchiusi nel
-            succo concreto di scammonea spedito da <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html">Aleppo</placeName> da Francesco Martinelli [Cecchino
-            dall'Angelo] <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
+            succo concreto di scammonea spedito da <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html">Aleppo</placeName> da <persName ref="#Cechin">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-023-N1" n="1"> Avvolgono.</note>
@@ -1816,7 +1818,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti per Italia non ci mancano. Et ne Giardini de Simplici ancora.</p>
+          <p> Ne monti per Italia non ci mancano. Et ne giardini de simplici ancora.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -3064,7 +3066,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Per il piui nasce nelle Campagnie atorno alle lentecchie offendendole et in siepi
+          <p> Per il piui nasce nelle campagnie atorno alle lentecchie offendendole et in siepi
             invogliendosi.</p>
         </div>
         <div type="editorial-D">
@@ -3095,7 +3097,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce ne sieppi et fossi in quantita invogliendosi in essi. Et ponosi nelli vaghi
+          <p> Nasce ne sieppi et fossi in quantità invogliendosi in essi. Et ponosi nelli vaghi
             giardini per inteser porte, muri, finestre et fazade.</p>
         </div>
         <div type="opinions">
@@ -3118,7 +3120,7 @@
         </div>
         <div type="notes">
           <note xml:id="A-071-N1" n="1"> Geisblatt.</note>
-          <note xml:id="A-071-N2" n="2"> e</note>
+          <note xml:id="A-071-N2" n="2"> e.</note>
           <note xml:id="A-071-N3" n="3"> * Si deve evidentemente leggere Spockoder Waldgilgen. (Ed.).</note>
         </div>
       </div>
@@ -3429,7 +3431,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce nella Orientale India in honesta quantita, ne colli, piani, et valle non fanno
+          <p> Nasce nella Orientale India in honesta quantità, ne colli, piani, et valle non fanno
             fruto, ma quelli sonno in alte ripe si, come nelle Maluche (<ptr target="#A-078-N1"/>) che vengono in spessi
             boschi, in cinque di quelle Isole sopra le montagne.</p>
         </div>
@@ -3879,7 +3881,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In Sicilia, Aragusi (<ptr target="#A-086-N2"/>) in quantita et ho inteso esserne anche con il fruto gialdo a
+          <p> In Sicilia, Aragusi (<ptr target="#A-086-N2"/>) in quantità et ho inteso esserne anche con il fruto gialdo a
             Napoli verso Pe di grota (<ptr target="#A-086-N3"/>), et arimano (<ptr target="#A-086-N4"/>), Pesaro, et ne Giardini sonno ormai
             multiplicato et quando prima lo vidi si dimostrava per cosa rarissima.</p>
         </div>
@@ -3929,7 +3931,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Tutti li fosși et boschi ne sonno in quantita.</p>
+          <p> Tutti li fosși et boschi ne sonno in quantità.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -3994,7 +3996,7 @@
             seconda di Cappedocia. L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 36 narra de uno altro Aspalato rodioto el qual
             tiene che il legno aloe rodio sia il vero aspalato. Et di questa non ne fa mentione
             alcuna, ma molti savij la tengono questa pianta piu presto per Acatia seconda che per
-            Aspalato. Mes. <persName>Cechin dal Angelo</persName> spetial singularissimo mi ha dimostro uno legno odorato
+            Aspalato. mes. <persName ref="#Cechin">Cechin dal Angelo</persName> spetial singularissimo mi ha dimostro uno legno odorato
             molto corrispondente per l'Aspalato. Vero è, che non havendo veduto de lui altro ch'il
             legnio el qual potrebonsi de legiero dargli l'odore io non scio afirmare.</p>
         </div>
@@ -5033,7 +5035,7 @@
             fare perché lui dice havere frondi simili all'Arbuto et queste quasi rotonde.</p>
         </div>
         <div type="editorial-D">
-          <p>[Anche oggidi per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
+          <p>[Anche oggidì per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
             e persistenti e delle bacche rosse il volgo confonde sotto i nomi di uva d'orso, mirtillo rosso le due specie Arctostaphylos Uva-Ursi e Vaccinium Vitis-Idaea. Il Michiel
             però ebbe sospetto trattarsi di due piante differenti perché dopo avere scritto che
             quella qui figurata potrebb'essere l'Uva d'Orso dell'Anguillara aggiunge che essa ha le
@@ -5108,7 +5110,7 @@
         <div type="reproduction">
           <head>GENERATIONE</head>
           <p> Pocho germoglia ma de suoi nociuoli bene ci nasce et io fui il primo a farli nascere
-            et in grande quantita che li divisi in molti giardini.</p>
+            et in grande quantità che li divisi in molti giardini.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -5119,7 +5121,7 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p> Se sperie di Sebeste, come al meglio a me apare si acosti gli suoi fruti,
-            considerandoli nel gusto, poleno valere come quegli di Levante inanti a k. III. Et in
+            considerandoli nel gusto, poleno valere come quegli di Levante inanti a k. 111. Et in
             alcuni paesi si fanne visco.</p>
         </div>
         <div type="editorial-D">
@@ -5176,7 +5178,7 @@
       </div>
 
       <div type="plant" xml:id="A-111">
-        <head>N. III SEBESTE DI LEVANTE</head>
+        <head>N. 111 SEBESTE DI LEVANTE</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000620765">[<hi>Cordia Myxa L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5566,8 +5568,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> — In quantita a Costantinopoli. In Istria in boschi nelle ruine di Muglia (<ptr target="#A-119-N1"/>) vechia
-            in quantita a Isola (<ptr target="#A-119-N2"/>). Et per l'Italia in luoghi humidi et secchi.</p>
+          <p> — In quantità a Costantinopoli. In Istria in boschi nelle ruine di Muglia (<ptr target="#A-119-N1"/>) vechia
+            in quantità a Isola (<ptr target="#A-119-N2"/>). Et per l'Italia in luoghi humidi et secchi.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -5956,11 +5958,11 @@
 
       <div type="plant" xml:id="A-128">
         <head>N. 128 MIRTO MINUTO</head>
-        <ab>[Myrtus communis L. var. tarentina L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000248725">[<hi>Myrtus communis L. var. tarentina L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Mirto gentile da volgari Mirtus da latini Myrine, Myrsinos et Myrsine da Greci
-            Phibaleos ab Antiphane Mortina et Mortella da Toscani Dex domestica, Hes da Arabi.</p>
+          <p> Mirto gentile da volgari - Mirtus da latini - Myrine, Myrsinos et Myrsine da Greci
+             - Phibaleos ab Antiphane - Mortina et Mortella da Toscani - Dex domestica, Hes da Arabi.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -5982,24 +5984,24 @@
 
       <div type="plant" xml:id="A-129">
         <head>N. 129 GENSAMIN GIALO</head>
-        <ab>(Jasminum humile L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000813823">[<hi>Jasminum humile L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Gielsemin da volgari Jesemin, Zambach et Sambre da Arabi Lencoja (1) da Greci.</p>
+          <p> Gielsemin da volgari - Jesemin, Zambach et Sambre da Arabi - Lencoja (<ptr target="#A-129-N1"/>) da Greci.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
           <p> Questo dal fior giallo, quello dal fior bianco comun che se inalzano piui deli altri
-            (2), et quello chiamato di Catelognia fa il fior bianco con il roverso nel fredo
-            purpuregnio et magiore (3) ma per esser come simile al volgare non ho fato bisognio di
+            (<ptr target="#A-129-N2"/>), et quello chiamato di Catelognia fa il fior bianco con il roverso nel fredo
+            purpuregnio et magiore (<ptr target="#A-129-N3"/>) ma per esser come simile al volgare non ho fato bisognio di
             pittura. Et molto piui odorato et agradevole il suo fiore.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
           <p> Suoe radice proffunde et ne cappi capigliate con colore di bosseo, suoe frondi
             rascontrate et finisce in una come li bianchi volgari ma alquanto maggiore et
-            constrettive, suoi sarmenti lisci et di manco altezza che li communi et ne son anche con
-            li fusti riquadrati, li fiori in forma delli altri ma gialli sanza odore...</p>
+            constrettive, suoi sarmenti lisci et di manco altezza che li communi <hi>et ne son anche con
+              li fusti riquadrati</hi>, li fiori in forma delli altri ma gialli sanza odore...</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -6018,12 +6020,12 @@
             odoratissimum</hi> ma la figura ed il brano della diagnosi che abbiamo trascritto, in cui si
             parla della piccola statura e della mancanza d'odor dei fiori, bastano a far riconoscere
             la specie.</p>
-          <p>La presente figura precede quella dell'Hortus Eystettensis» (134) (aest. ord. II f.
+          <p>La presente figura precede quella dell'Hortus Eystettensis» [134] (aest. ord. II f.
             2, n. 1). Nel testo il Michiel mostra pure di aver conosciuto la sp. ). grandiflorum che
             più tardi fu figurato nella suddetta opera (f. 13. n. 1)].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-129-N1" n="1"> Mal trascritto da leonótov (viola bianca), nome conveniente alle altre due
+          <note xml:id="A-129-N1" n="1"> Mal trascritto da <foreign xml:lang="grc">λευκὸϊον</foreign> (viola bianca), nome conveniente alle altre due
             specie di gelsomini.</note>
           <note xml:id="A-129-N2" n="2"> I. officinalo.</note>
           <note xml:id="A-129-N3" n="3"> I. grandiflorum. </note>
@@ -6032,7 +6034,7 @@
 
       <div type="plant" xml:id="A-130">
         <head>N. 130 CEINER MELO</head>
-        <ab>[Cycas circinnalis L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000631521">[<hi>Cycas circinnalis L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Ceiner melo da Mesopotamiani et Antiocheni.</p>
@@ -6051,7 +6053,7 @@
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
-          <p> Sempre verdeggia. Et il fruto nel fin dell'Esta.</p>
+          <p> Sempre verdeggia. Et il fruto nel fin dell'esta' [= estate].</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>
@@ -6064,8 +6066,8 @@
         <div type="editorial-D">
           <p>[Pianta maschile con foglie non ancora sezionate ed infiorescenza verde.</p>
           <p>La figura che, come narra l'Autore, fu tratta da uno schizzo è alquanto rozza, però fa
-            riconoscere abbastanza bene la specie e precede quella di Andrea Cleyer (271) di oltre
-            un secolo). -</p>
+            riconoscere abbastanza bene la specie e precede quella di Andrea Cleyer [271] di oltre
+            un secolo].</p>
         </div>
       </div>
 
@@ -6073,17 +6075,17 @@
         <head>N. 131 FASUOL DE INDIA</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Fasuol d'India purpureo da volgari - Dolicos quella sp. di Turcho maculato Smilax
-            hortensis da Lat. Faselen, Vuelsch oder Vuild Bonen da Germ.</p>
+          <p> Fasuol d'India purpureo da volgari - Dolicos quella sp. di Turcho maculato - Smilax
+            hortensis da Lat. - Faselen, Vuelsch oder Vuild Bonen da Germ.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> De le sp. de faioli ne son in grande varieta, questa una, una di Candia con il fasuolo
+          <p> De le sp. de faioli ne son in grande varietà, questa una, una di Candia con il fasuolo
             nero, una da Napoli con il gran bianco, una di Turchia con il gran grande et pentechiato
             macchiato tenuto per il Dolicos. Delli communi ne sonno de bianchezzi et di rossi. Et
             una sp. simili ma piccolini et molto agrate nelle manestre, ma per esser tutti faioli
             et chi ne sa una la sano tutte pero non acasca demostracione se non di questo raro, [V.
-            N. 133).</p>
+            N. 133].</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
@@ -6097,7 +6099,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Venghono dell'India dunde hanno preso il nome Et ne ho havuto de <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> et se ne
+          <p> Venghono dell'India dunde hanno preso il nome. Et ne ho havuto de <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> et se ne
             ritrovano nel pepe tondo.</p>
         </div>
         <div type="seasonality">
@@ -6112,7 +6114,7 @@
           <head>OPPINIONI</head>
           <p>Son di molti che tengono che quella sp. di maculati chiamati <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="93"/> turchi sia lo smilace degli horti descrito
             da Diascoride et gli Dolichi di Theophrasto lib. 8 cap. 3 et Galeno. al primo di
-            alimenti. Et al primo di Paolo Gineta (1).</p>
+            alimenti. Et al primo di Paolo Gineta (<ptr target="#A-131-N1"/>).</p>
         </div>
         <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
@@ -6155,10 +6157,10 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> De molti si credeno che il sequente milax aspero sia la zarzaperiglia overo congenere
+          <p> De molti si credeno che il sequente milax aspero sia la zarzaperiglia <hi>overo congenere
             come il Mattiolo. Et dimostra la zarzaperiglia con foglie simili ma non pungenti, non
-            scio a cui si debba prestar piui fede hover (2) alli <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533 http://id.sbn.it/bid/TO0E019412 http://id.sbn.it/bid/RMLE012360">libri dell'India</ref> over a lui. La
-            dimostra a k. 1271.</p>
+            scio a cui si debba prestar piui fede hover (<ptr target="#A-132-N1"/>) alli <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533 http://id.sbn.it/bid/TO0E019412 http://id.sbn.it/bid/RMLE012360">libri dell'India</ref> over a lui. La
+            dimostra a k. 1271</hi>.</p>
         </div>
         <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
@@ -6167,7 +6169,7 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p> In India si prevaleno di suoe radici per molte infirmita et spetialmente per dolori
-            del mal francese, per il fiato puzzolente, agli ritrati (3) et alli impiagati. Il modo
+            del mal francese, per il fiato puzzolente, agli ritrati (<ptr target="#A-132-N2"/>) et alli impiagati. Il modo
             di doprarle insegnia il primo libro del India k. III.</p>
         </div>
         <div type="editorial-D">
@@ -6176,21 +6178,21 @@
             nel testo. E difatti la prima figura fatta sull'originale è quella del Mattioli].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-132-N2" n="2"> Ovvero.</note>
-          <note xml:id="A-132-N3" n="3"> Rattratti. </note>
+          <note xml:id="A-132-N1" n="1"> Ovvero.</note>
+          <note xml:id="A-132-N2" n="2"> Rattratti. </note>
         </div>
       </div>
 
       <div type="plant" xml:id="A-133">
         <head>N. 133 SMILACE ASPERA</head>
-        <ab>[Smilax aspera L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000740704">[<hi>Smilax aspera L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p>Smilace aspera, Hedera spinosa et rovo canino da volgari Smilax aspera da Latini
-            Epatitis, Lynchanthemon et Cynosbaton da (1) Egineta.<fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="94"/> molti Greci Anicetum, Heliophiton et Diticon da varij
-            Anatolicon et Helide da alquanti Vyste da Egypti Mergina da Ram.i Radia da gli hetrusij
-            (1) Groszstechend et Scharpffvvinde (2) da Germani Volubilis acuta da molti Stracia
-            brache in molti luoghi Smirnas, Dialca da molti.</p>
+          <p>Smilace aspera, Hedera spinosa et rovo canino da volgari - Smilax aspera da Latini
+             - Epatitis, Lynchanthemon et Cynosbaton da <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="94"/> molti Greci - Anicetum, Heliophiton et Diticon da varij
+             - Anatolicon et Helide da alquanti - Vyste da Egypti Mergina da Ramani - Radia da gli hetrusij - 
+            (<ptr target="#A-133-N1"/>) Groszstechend et Scharpffvvinde (<ptr target="#A-133-N2"/>) da Germani - Volubilis acuta da molti - Stracia
+            brache in molti luoghi - Smirnas, Dialca da molti.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -6200,7 +6202,7 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> In asperi et pallustrini luoghi sonno il suo proprio. In Gretia in abundanza et vene
-            (3) prima di Cilicia. Ne sonno in Romagnia per li monti in quantità.</p>
+            (<ptr target="#A-133-N3"/>) prima di Cilicia. Ne sonno in Romagnia per li monti in quantità.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -6220,9 +6222,9 @@
         <head>N. 134 SMILAX LEVIS DI CANDIA</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Smilax levis sp. di Candia da volg. Malocociso de Damocrito Volubile da Catone Smilace
-            lissia dal Matthiolo Dolichi da Galeno Vvindenkraut (1) Glate vvinden (2) Vueisz glocken
-            da Germani Des phaseoles da Galli Jeblech da Arabi Cussus da Greci.</p>
+          <p> Smilax levis sp. di Candia da volg. - Malocociso de Damocrito - Volubile da Catone - Smilace
+            lissia dal Matthiolo - Dolichi da Galeno - Vvindenkraut (<ptr target="#A-134-N1"/>) Glate vvinden (<ptr target="#A-134-N2"/>) Vueisz glocken
+            da Germani - Des phaseoles da Galli - Jeblech da Arabi - Cussus da Greci.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -6235,10 +6237,10 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p>L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 290 dice che si fallano quelli che tengono che il Convolvolo sia la
-            similace lieve perché il fruto suo non son simil al lupino et si perde (3) ogni anno, ne
+            similace lieve perché il fruto suo non son simil al lupino et si perde (<ptr target="#A-134-N3"/>) ogni anno, ne
             non fa l'effetto che narra Diascoride, ne non ha veduto lui piante che si convenga alla
             descretione delli antiqui, ne meno quella spetie di fasuol turchesco maculato, ne anche
-            quello di Napoli bianco, ne quello volgar da Lio (4), ne quello fior di note demostro k.
+            quello di Napoli bianco, ne quello volgar da Lio (<ptr target="#A-134-N4"/>), ne quello fior di note demostro k.
             11. Et k. 92 dice che il Malocociso de Damocrito son il Volubile di Catone et lo smilace
             lissia del Mathiolo.</p>
         </div>
@@ -6250,7 +6252,7 @@
           <p>Il Michiel mandò un campione di questa pianta all'Aldrovandi perché ne facesse parte al
             <persName ref="#Ghini">Ghini</persName>, come risultò dalla poscritta alla lettera 14 Settembre 1553 ove la pianta ( <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="95"/> è chiamata «Similax
             levis produce il seme come un fasuol ma nero. Notisi che nel vol. VII dell'Erbario
-            Aldrovandi, c. 97 e 142 c'è una Smilax levis ex Crela». Nella lettera 14 ottobre 1553
+            Aldrovandi, c. 97 e 142 c'è una «Smilax levis ex Crela». Nella lettera 14 ottobre 1553
             il Michiel scrive all'Aldrovandi: «V. S. mi richiede per le sue un rampollo del Smilax
             levis et così la obedisco di quello io ho perché veramente in queste temperie piui
             frigide per molti governi et carezze ch'io li habbi usato mai mi ha passato questo
@@ -6273,11 +6275,11 @@
 
       <div type="plant" xml:id="A-135">
         <head>N. 135 SPIN CERBIN</head>
-        <ab>[Rhamnus cathartica L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000460239">[<hi>Rhamnus cathartica L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Spin cerbin da volgari Spina cervina da Latini Spino merlo da Italiani Burgam spinam
-            et Neprun (1) da Galli Kreumber et Ferbeer da Germani.</p>
+          <p> Spin cerbin da volgari - Spina cervina da Latini - Spino merlo da Italiani - Burgam spinam
+            et Neprun (<ptr target="#A-135-N1"/>) da Galli - Kreumber et Ferbeer da Germani.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -6289,17 +6291,17 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Il Ruellio et il Gualtieri si cresero (2) esser Rhamno.</p>
+          <p> Il Ruellio et il Gualtieri si cresero (<ptr target="#A-135-N2"/>) esser Rhamno.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
-          <p> De suoi fruti li pittori ne spremeno color giallo et verde. Et pesti con lume (3) de
-            roccha et posto al fuoco con l'acqua tenendo fino allo levar del boglio (4) viene il
+          <p> De suoi fruti li pittori ne spremeno color giallo et verde. Et pesti con lume (<ptr target="#A-135-N3"/>) de
+            roccha et posto al fuoco con l'acqua tenendo fino allo levar del boglio (<ptr target="#A-135-N4"/>) viene il
             giallo. Et legesi nel <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> cap. 127. </p>
         </div>
         <div type="editorial-D">
-          <p>(Pianta fiorita e fruttifera. Ai lati due rametti, uno fiorito, l'altro
-            fruttifero).</p>
+          <p>[Pianta fiorita e fruttifera. Ai lati due rametti, uno fiorito, l'altro
+            fruttifero].</p>
         </div>
         <div type="notes">
           <note xml:id="A-135-N1" n="1"> Nerprun.</note>
@@ -6311,22 +6313,22 @@
 
       <div type="plant" xml:id="A-136">
         <head>N.136 CAROBER SALVATICO</head>
-        <ab>(Cercis Siliquastrum L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213642">[<hi>Cercis Siliquastrum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Charober salvatico da volgari Arbor Giuda da Latini Fanfalugo da molti Acatia prima
-            dal Mateolo Chaharliub arabice Carnub da Greci Xilocaracta, Siliqua, Keratium, Faba
-            siliqua da altri Vaginella, Carumba da Latini Albarella sul Vesentin (5).</p>
+          <p> Charober salvatico da volgari - Arbor Giuda da Latini - Fanfalugo da molti - Acatia prima
+            dal Mateolo - Chaharliub arabice Carnub da Greci - Xilocaracta, Siliqua, Keratium, Faba
+            siliqua da altri - Vaginella, Carumba da Latini Albarella sul Vesentin (<ptr target="#A-136-N1"/>).</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Il salvatico carobo si tengono questo. Et il sativo (6) le suoe silique sonno familiar
+          <p> Il salvatico carobo si tengono questo. Et il sativo (<ptr target="#A-136-N2"/>) le suoe silique sonno familiar
             con foglie dure, tonde, con fior bianco, poi il fruto di Caroba chiamate cornachie
             marine con legno duro et toltoso.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p>Ne monti Padovani in grande quantita. Et in Italia ancora.</p>
+          <p>Ne monti Padovani in grande quantità. Et in Italia ancora.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="96"/>
@@ -6342,15 +6344,15 @@
             altri non ci fa.</p>
         </div>
         <div type="editorial-D">
-          <p>(Pianta con foglie e fiori. A parte due ramoscelli, uno con foglie e fiori, l'altro con
+          <p>[Pianta con foglie e fiori. A parte due ramoscelli, uno con foglie e fiori, l'altro con
             due legumi; però più sopra l'autore avverti essere i fiori precoci e nella diagnosi li
             paragona a quelli della ginestra di ginistra ma purpurei , riconoscendo nella corolla
             una forma prossima alla papilionacea tipica.</p>
           <p>Le figure date dai contemporanei ed anche da botanici posteriori sono od incomplete
             od inesatte. Il Mattioli, come è detto nel testo, fu riprovato da Melchiorre Gui-
-            landino per aver fatto una figura di pianta spinosa (1) dietro un campione ricevuto da
+            landino per aver fatto una figura di pianta spinosa (<ptr target="#A-136-N3"/>) dietro un campione ricevuto da
             Costantinopoli, mentre la pianta era frequente in Italia come apprendiamo dal Michiel ed
-            in Francia ed in Ispagna, come apprendiamo da Pena e Lobelio (162) (2). Un secolo dopo
+            in Francia ed in Ispagna, come apprendiamo da Pena e Lobelio [162] (<ptr target="#A-136-N4"/>). Un secolo dopo
             lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> diede, col nome «Arbor Iudaica» una figura con fiori e frutti, ma senza
             foglie, benché avesse coltivata la pianta a Montbéliard e l'avesse osservata in vari
             giardini.</p>
@@ -6358,20 +6360,19 @@
             figura della pianta, la forma delle foglie e dei fiori, il tempo della fioritura ecc. fu
             il nostro P. A. Michiel.</p>
           <p>Quanto al nome fanfaluga qui usato, osserviamo che un secolo prima indicava una pianta
-            ben diversa (Rhamnus Frangula (219)), poi indicò la specie presente come da altri
-            documenti (62). Più tardi perdette ogni significato specifico e servi ad indicare quei
+            ben diversa (Rhamnus Frangula [219]), poi indicò la specie presente come da altri
+            documenti [62]. Più tardi perdette ogni significato specifico e servi ad indicare quei
             rami leggeri e fragili che servono per far fascine, ora poi ha quasi perduto qualunque
             significato proprio e si usa per lo più in metafora.</p>
           <p>Il nome albarella forse proviene da un equivoco, perché esso si dà a Populus Tremula
-            L. che il Mattioli credette essere il repris di Teofrasto, mentre il repreis è il Sili-
-            quastro qui dipinto). -</p>
+            L. che il Mattioli credette essere il repris di Teofrasto, mentre il repreis è il Siliquastro qui dipinto]. -</p>
         </div>
         <div type="notes">
-          <note xml:id="A-136-N5" n="5"> Nel Vicentino.</note>
-          <note xml:id="A-136-N6" n="6"> Ceratonia Siliqua.</note>
-          <note xml:id="A-136-N1" n="1"> Fece le spine di fantasia, dietro l'idea che la pianta doveva essere l'acacia
+          <note xml:id="A-136-N1" n="1"> Nel Vicentino.</note>
+          <note xml:id="A-136-N2" n="2"> Ceratonia Siliqua.</note>
+          <note xml:id="A-136-N3" n="3"> Fece le spine di fantasia, dietro l'idea che la pianta doveva essere l'acacia
             degli antichi.</note>
-          <note xml:id="A-136-N2" n="2"> Anche questi due autori criticano il Mattioli, osservando che la pianta è
+          <note xml:id="A-136-N4" n="4"> Anche questi due autori criticano il Mattioli, osservando che la pianta è
             frequente in Toscana, patria del botanico. Valeva dunque la pena, dicono loro, di
             farsela venire da Costantinopol ? </note>
         </div>
@@ -6379,23 +6380,23 @@
 
       <div type="plant" xml:id="A-137">
         <head>N. 137 RIBES SP.</head>
-        <ab>(Viburnum Opulus L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000422807">[<hi>Viburnum Opulus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Ribes maggiore da volgari Mauritani da Latini Johansztetublin (3) et beerlin da
-            Germani Subiagro dal Maphei Cafosilia ritrovai scrito con questo nome in Turchia et da
-            Greci Sambucus aquatica dal Trago et dal Mattiolo Chameplatanus da alcuni.</p>
+          <p> Ribes maggiore da volgari - Mauritani da Latini - Johansztetublin (<ptr target="#A-137-N1"/>) et beerlin da
+            Germani - Subiagro dal Maphei - Cafosilia ritrovai scrito con questo nome in Turchia et da
+            Greci - Sambucus aquatica dal Trago et dal Mattiolo - Chameplatanus da alcuni.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
           <p>Ponendo questa per spetie di Ribes ne sonno due altre minor delle qual per esser
-            simile ne ho dimostra se non una [N. 74).</p>
+            simile ne ho dimostra se non una [N. 74].</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="97"/>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Alle rippe di fiumere se ritrovano et massime nel Friulle et nel Sil (1) fiume.</p>
+          <p> Alle rippe di fiumere se ritrovano et massime nel Friulle et nel Sil (<ptr target="#A-137-N2"/>) fiume.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
@@ -6410,21 +6411,21 @@
             nella figura pel colore che ne' secondi è giallognolo e non colse l'altro carattere ben
             più importante degli organi riproduttori che in altri punti del codice sono
             contemplati (Gi. 120, Ro. 194 e 241, Ve. 17). Nella stessa figura è trascurato un
-            carattere frequentissimo, quello delle glandole peziolari).</p>
+            carattere frequentissimo, quello delle glandole peziolari].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-137-N3" n="3"> Mal trascritto da treublin. V. N. 74. Questi nomi appartengono al vero ribes
-            che l'Autore chiama qui ribes minoro.</note>
-          <note xml:id="A-137-N1" n="1"> Sile. </note>
+          <note xml:id="A-137-N1" n="1"> Mal trascritto da <hi>treublin</hi>. V. N. 74. Questi nomi appartengono al vero ribes
+            che l'Autore chiama qui <hi>ribes minoro</hi>.</note>
+          <note xml:id="A-137-N2" n="2"> Sile. </note>
         </div>
       </div>
 
       <div type="plant" xml:id="A-138">
         <head>N. 138 LANTANA</head>
-        <ab>[Viburnum Lantana L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000421166">[<hi>Viburnum Lantana L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Lantana da volgari Fluida da Greci Entiscle nella Valle Amania Kleinere Mälbaum da
+          <p> Lantana da volgari - Fluida da Greci - Entiscle nella Valle Amania - Kleinere Mälbaum da
             Germani.</p>
         </div>
         <div type="genus">
@@ -6448,21 +6449,20 @@
             de Viscum. Et suoi fruti sonno lenitivi.</p>
         </div>
         <div type="editorial-D">
-          <p>(Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero.
+          <p>[Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero.
             Ogni infruttescenza ha bacche in parte rosse, in parte azzurre, come si trovano in
             estate.</p>
           <p>Nel testo è detto: Suoi fruti rotondi simil all'Ebulo quando neri ma piu purpurei
-            (2) dentro a qualli sonno li suoi semi rotondi, sticiati, signiati et duri». Veramente
+            (<ptr target="#A-138-N1"/>) dentro a qualli sonno li suoi semi rotondi, sticiati, signiati et duri». Veramente
             il color purpureo è solo transitorio, però il Michiel ebbe il merito di riconoscere il
             carattere specifico dei semi segnati da solchi.</p>
-          <p>A ragione il Michiel mise in dubbio che questa specie fosse, come riteneva il Ruel-
-            lio, il <foreign xml:lang="grc">ῥούς</foreign> di Teofrasto che invece è Rhus
+          <p>A ragione il Michiel mise in dubbio che questa specie fosse, come riteneva il Ruellio, il <foreign xml:lang="grc">ῥούς</foreign> di Teofrasto che invece è Rhus
             Coriaria.</p>
           <p>Questa è la specie che il Dodoneo chiamò Viburnum Virgilij, non già la sp. Clematis
-            Viticella, come credette il Michiel <ref target="A-006)">(N. 6)</ref>). </p>
+            Viticella, come credette il Michiel <ref target="A-006">[N. 6]</ref>]. </p>
         </div>
         <div type="notes">
-          <note xml:id="A-138-N2" n="2"> Talvolta neri, ma più spesso purpurei.</note>
+          <note xml:id="A-138-N2" n="1"> Talvolta neri, ma più spesso purpurei.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="98"/>
@@ -6470,18 +6470,18 @@
 
       <div type="plant" xml:id="A-139">
         <head>N. 139 BERBERI</head>
-        <ab>[Berberis vulgaris L.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000564027">[<hi>Berberis vulgaris L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Berberi da Latini et volgari. Paisselbeer (1), Saurich (2), Erbsel et Versich da
-            Germani (3) Espine vinete et ou du Berberi da Galli Oxiacanta officinis dal Trago
-            Ammiberberis da Arabi Ravach da Greci.</p>
+          <p> Berberi da Latini et volgari - Paisselbeer (<ptr target="#A-139-N1"/>), Saurich (<ptr target="#A-139-N2"/>), Erbsel et Versich da
+            Germani (<ptr target="#A-139-N3"/>) - Espine vinete et ou du Berberi da Galli - Oxiacanta officinis dal Trago -
+            Ammiberberis da Arabi - Ravach da Greci.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Tre spetie di Berberi si raggiona, quello delli Arabi che son l'acuta spina [N. 152),
-            il secondo questo, il terzo molti si onne l'Uva crespina over uva spina (1), la qual
-            per esser tanto familiar de gli bruodi (5) non ho havuto bisognio di mostrarla.</p>
+          <p> Tre spetie di Berberi si raggiona, quello delli Arabi che son l'acuta spina [N. 152],
+            il secondo questo, il terzo molti si onne l'Uva crespina over uva spina (<ptr target="#A-139-N4"/>), la qual
+            per esser tanto familiar de gli bruodi (<ptr target="#A-139-N5"/>) non ho havuto bisognio di mostrarla.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -6495,26 +6495,25 @@
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
-          <p> Suoi acini del Crespino sonno usati con rosti (6) invece di agresto et sonno amiche
+          <p> Suoi acini del Crespino sonno usati con rosti (<ptr target="#A-139-N6"/>) invece di agresto et sonno amiche
             delle gravide et giova nelle acute febri. Et di suoi acini del berberi si fanno vino
-            mescolato con giulebbo violato buono per spenger la sete per le ditte (7). Et son simil
+            mescolato con giulebbo violato buono per spenger la sete per le ditte (<ptr target="#A-139-N7"/>). Et son simil
             nelle virtu et forma al pero salvatico. leggi Avicenna lib. 2. Pandette 39 de
             Ammiberberis.</p>
         </div>
         <div type="editorial-D">
-          <p>(Pianta fiorita e fruttifera; a parte ramoscello fiorito e ramoscello fruttifero. Er-
-            roneo è il primo none tedesco che appartiene all'uva orsina. Il Michiel invece corregge
+          <p>[Pianta fiorita e fruttifera; a parte ramoscello fiorito e ramoscello fruttifero. Erroneo è il primo none tedesco che appartiene all'uva orsina. Il Michiel invece corregge
             un errore comune ai suoi tempi, in cui cadde anche il <persName ref="#Rinio">Rinio</persName> (c. 340), per cui si rite-
-            neva che il berberi fosse l'aEukrauta dei Greci <ref target="A-152)"><ref target="A-152)">(N. 152)</ref></ref> e perciò male stanno le sue citazioni di autori
-            che presero il medesimo abbaglio, come lo prova il frutto a quello del pero selvatico).
+            neva che il berberi fosse l'<foreign xml:lang="grc">ὀξυάκανθα</foreign> dei Greci <ref target="A-152)">[N. 152]</ref> e perciò male stanno le sue citazioni di autori
+            che presero il medesimo abbaglio, come lo prova il frutto a quello del pero selvatico].
             paragone del</p>
         </div>
         <div type="notes">
           <note xml:id="A-139-N1" n="1"> Preisselsbeere.</note>
           <note xml:id="A-139-N2" n="2"> Säuerlich = acidulo.</note>
-          <note xml:id="A-139-N3" n="3"> * Nomi tedeschi ricavati dal FUCSIUS (De historia stirpium, p. 542).
+          <note xml:id="A-139-N3" n="3"> * Nomi tedeschi ricavati dal FUCSIUS (<hi>De historia stirpium</hi>, p. 542).
             (Ed.).</note>
-          <note xml:id="A-139-N4" n="4"> Ribes Grossularia.</note>
+          <note xml:id="A-139-N4" n="4"> <hi>Ribes Grossularia</hi>.</note>
           <note xml:id="A-139-N5" n="5"> Bruoli.</note>
           <note xml:id="A-139-N6" n="6"> Arrosti.</note>
           <note xml:id="A-139-N7" n="7"> Le dette, cioè le febbri. </note>
@@ -6523,11 +6522,11 @@
 
       <div type="plant" xml:id="A-140">
         <head>N. 140 ERICHA</head>
-        <ab>[I Erica carnea L.) [II Calluna vulgaris Hull] (III Empetrum nigrum L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000671633">[I <hi>Erica carnea L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000580837">[II <hi>Calluna vulgaris Hull</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000667231">[III <hi>Empetrum nigrum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Erice da Greci Erica da Lat. Neid (8) da Germ. Bnere da Galeno Grione da paesani verso
-            Goritia Queiro da Spagnioli - Hey- den da Tedeschi Bruyere da Francesi.</p>
+          <p> Erice da Greci Erica da Lat. - Neid (<ptr target="#A-140-N1"/>) da Germ. - Bnere da Galeno - Grione da paesani verso
+            Goritia - Queiro da Spagnioli - Heyden da Tedeschi - Bruyere da Francesi.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -6535,18 +6534,18 @@
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p>la terzia (9) di Bormia si spande a terra et fa bache come di ginepro una tenere et
+          <p> <hi>...la terzia</hi> (<ptr target="#A-140-N2"/>) di Bormia si spande a terra et fa bache come di ginepro una tenere et
             viscose. <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="99"/>
           </p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
           <p> In Asia et in Gretia sonno il suo proprio, ma Ermolao dice esserne ne monti patavini
-            et vegentini (1) di questo, ne sonno... (2).</p>
+            et vegentini (<ptr target="#A-140-N3"/>) di questo, ne sonno... (<ptr target="#A-140-N4"/>).</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 51 (50) dice non lo conoscer. Et non esser adunque questi et manco
+          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 51 [50] dice non lo conoscer. Et non esser adunque questi et manco
             quello di il <persName ref="#Fuchs">Fuchsio</persName> et di Hermolao. Et <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marzello [= Marcello Virgilio Adriani]</ref> si crede che l'Erica sia una sp. di
             Ginesta.</p>
         </div>
@@ -6556,45 +6555,45 @@
             Michiel precede il Talio che descrisse l'empetro nero col nome Erica baccifera].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-140-N8" n="8"> Heidekraut arba da lande.</note>
-          <note xml:id="A-140-N9" n="9"> Specie,</note>
-          <note xml:id="A-140-N1" n="1"> Vicentinj.</note>
-          <note xml:id="A-140-N2" n="2"> Non continua. </note>
+          <note xml:id="A-140-N1" n="1"> Heidekraut arba da lande.</note>
+          <note xml:id="A-140-N2" n="2"> Specie,</note>
+          <note xml:id="A-140-N3" n="3"> Vicentinj.</note>
+          <note xml:id="A-140-N4" n="4"> Non continua. </note>
         </div>
       </div>
 
       <div type="plant" xml:id="A-141">
-        <head>N. 141 NIL SP.</head>
-        <ab>[I pomoea purpurea Lam.)</ab>
+        <head>N. 141 NIL SPETIE</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001296676">[<hi>Ipomoea purpurea Lam.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Nil spetie da Messer Cechin legi <ref type="internal" target="#A-142">k. 142</ref>.</p>
+          <p> Nil spetie da messer <persName ref="#Cechin">Cechin</persName>, legi <ref type="internal" target="#A-142">k. 142</ref>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Questo uno et il sequente l'altro, et se son endegi (1) son diversi da gli Isati de
+          <p> Questo uno et il sequente l'altro, et se son endegi (<ptr target="#A-141-N1"/>) son diversi da gli Isati de
             Diascoride.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p> Suoa radice di coda sotil. Et di alcun valor. Son pianta che se invoglie (2) et simil
+          <p> Suoa radice di coda sotil. Et di alcun valor. Son pianta che se invoglie (<ptr target="#A-141-N2"/>) et simil
             al fior di note [<ref type="internal" target="#A-011">N. 11</ref>]... Suoi fiori tra le frondi che nel suo venir apareno neri, ma
             più oltre non li ho veduti che sopragiunse el fredo et non si aperse...</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'hebbi di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, la condusse M. Cechin dal Angelo diligentissimo
+          <p> Io l'hebbi di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, la condusse m. Cechin dal Angelo diligentissimo
             simplicista.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
           <p> La seminai a primavera et mi naque. Et suoi fiori qui da noi de ottobrio a tal che non
-            ci (3) tempo poi di finir il resto (4).</p>
+            ci (<ptr target="#A-141-N3"/>) tempo poi di finir il resto (<ptr target="#A-141-N4"/>).</p>
         </div>
         <div type="editorial-D">
           <p>[Pianta con fiori in bottone morti, come appare dal color cinereo e come è già narrato
             nel testo. Questa pianta americana era ormai naturalizzata in Oriente, perché il Michiel
-            ricevette il campione dalla Siria a mezzo del Martinelli. Sull'identificazione del Nil
+            ricevette il campione dalla Siria a mezzo del Martinelli [Francesco Martinelli, speziale all'Angelo]. Sull'identificazione del Nil
             degli Arabi, vedi N. 11].</p>
         </div>
         <div type="notes">
@@ -6609,7 +6608,7 @@
         <head>N. 142 NIL SP.</head>
         <div type="name">
           <head>NOMI</head>
-          <p> - Nil da M. Cechin dal Angelo Endego del Nil Son il glasto sativo così tenuto da
+          <p> Nil da <persName ref="#Cechin">m. Cechin dal Angelo</persName> - Endego del Nil - Son il glasto sativo così tenuto da
             molti.</p>
         </div>
         <div type="genus">
@@ -6621,7 +6620,7 @@
           <p>Suoa radice profunda ramosa rovanezzia, suo tronco fermo sarmentoso de longhi rami che
             se invoglieno rotondi bianchezzi forniti con lunghi intervalli di fronde rotonde grande
             che finiscono apuntite come simil alle minor della Colocassia con il roverso bianchezzio
-            et le costelle et nervi k. 141.<fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="100"/> rilevati, al gusto acetosete che tirano alla zucha. Suoi fiori.... (1) suoi
+            et le costelle et nervi k. 141.<fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="100"/> rilevati, al gusto acetosete che tirano alla zucha. Suoi fiori.... (<ptr target="#A-142-N1"/>) suoi
             semi poi son quali simil a cioli di naranza.</p>
         </div>
         <div type="location">
@@ -6635,7 +6634,7 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> El ditto M. Cechino intelligentissimo simplicista mi diede le ditte doe piante et
-            dissemi che deli (2) in Soria erano tenute tutte due per spetie di Nil.</p>
+            dissemi che deli (<ptr target="#A-142-N2"/>) in Soria erano tenute tutte due per spetie di Nil.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
@@ -6653,7 +6652,7 @@
 
       <div type="plant" xml:id="A-143">
         <head>N. 143 ALIMO</head>
-        <ab>[Atriplex portulacoides L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000556480">[<hi>Atriplex portulacoides L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Alimo da Greci Sandalida da Candioti Molochia da Arabi et Atriplice marino Damasonium
@@ -6665,7 +6664,7 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> Nelle siepi et maremme. Et in Candia et in Cilicia. Et di questo nel nostro Lido in
-            quantita.</p>
+            quantità.</p>
         </div>
         <div type="exposure">
           <head>AMANO</head>
@@ -6673,7 +6672,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'Aldrovandi et altri simplicisti lo ritira all'aAlimo di Diascoride overo spetie di
+          <p> L'Aldrovandi et altri simplicisti lo ritira all'Alimo di Diascoride overo spetie di
             esso ma li Alimi sono da alcuni tenuti per herba et altri per alborscello. Et Creteva
             una altra spetie demostro k. 72.</p>
         </div>
@@ -6689,15 +6688,15 @@
       </div>
 
       <div type="plant" xml:id="A-144">
-        <head>N. I44 ARIA</head>
-        <ab>[Pirus Aria Ehrh.)</ab>
+        <head>N. 144 ARIA</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001016017">[<hi>Pirus Aria Ehrh.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Aria Theophrasti Matallo quasi metalo per suoa durezza nell'Apenino.</p>
+          <p> Aria Theophrasti - Matallo quasi metalo per suoa durezza nell'Apenino.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In luoghi alti et selvosi, ne sonno nella Magiela nell’Abruzzio (3),</p>
+          <p> In luoghi alti et selvosi, ne sonno nella Magiela nell’Abruzzio (<ptr target="#A-144-N1"/>),</p>
         </div>
         <div type="editorial-D">
           <p>[Pianta fiorita e fruttifera; a parte una foglia in grandezza naturale.</p>
@@ -6707,41 +6706,40 @@
             il quale nelle note a margine del testo dei «Semplici» scrive: «Aria inter
             glandiferas est. Vide Theophr. lib. 3 hist. cap. 16». Contuttociò anche i botanici
             posteriori accettarono l'identificazione di Anguillara.</p>
-          <p>Poco dopo il Michiel la specie venne figurata da Pena e Lobelio).</p>
+          <p>Poco dopo il Michiel la specie venne figurata da Pena e Lobelio].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-144-N3" n="3"> Tratto dall'Anguillara.</note>
+          <note xml:id="A-144-N1" n="1"> Tratto dall'Anguillara.</note>
         </div>
       </div>
 
       <div type="plant" xml:id="A-145">
         <head>N. 145 PERO CERVINO</head>
-        <ab>(Cotoneaster integerrima Medic.]</ab>
+        <ab><ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1">[<hi>Cotoneaster integerrima Medic.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Pero cervino da Pugliesi Chamemespilus Valerij Cordi.</p>
+          <p> Pero cervino da Pugliesi - Chamemespilus Valerij Cordi.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Varii sono le sorte di Peri. Et questi con l'arte delle va-rieta de inesti come anche
+          <p> Varii sono le sorte di Peri. Et questi con l'arte delle varietà de inesti come anche
             ne sonno de silvestri. et questa spetie tenuta ancor lei.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Da simplicisti son tenuta per spetie di perastro. Et M. Marchio eccell. giardiniero in
+          <p> Da simplicisti son tenuta per spetie di perastro. Et m. <persName ref="#Guilandino">Marchio</persName> eccell. giardiniero in
             Padova tiene il sia il Chamemespilo di Valerio Cordi.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Gui-
-            landino qui citata è erronea perché il Chamaemespilus del <persName ref="#Cordo">Cordo</persName> è Pirus Chamaemespilus
-            (115). Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152].
+          <p>[Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Guilandino qui citata è erronea perché il Chamaemespilus del <persName ref="#Cordo">Cordo</persName> è Pirus Chamaemespilus
+            [115]. Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152].
             </p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-146">
         <head>N. 146 ASPALATO</head>
-        <ab>(Genista aspalathoides Lam.)</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213311">[<hi>Genista aspalathoides Lam.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Aspalathus, Erysisceptron da Greci Sphagnion, Phasganon da altri Dyaxylon da Syri.</p>
@@ -6769,7 +6767,7 @@
           <p> Questa son la oppinione del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> narrata da lui a k. 36 per raporto de M.
             Costantin Rhodioto speziale dignissimo in Candia degno di fede, qual mi mando la mostra
             di esso per il Magnifico sig. Gabriel Valaresso al tempo che Suoa Magnificencia era
-            consiglier in Candia (1). Altri pensorno che il Sandalo rosso sia l'Aspalato, ma
+            consiglier in Candia (<ptr target="#A-146-N1"/>). Altri pensorno che il Sandalo rosso sia l'Aspalato, ma
             <persName ref="#Serapione">Serapione</persName> lo chiarisse. Altri se inganano tenendo il legittimo Aloe per il deto
             Aspalato.</p>
         </div>
@@ -6780,7 +6778,7 @@
         </div>
         <div type="editorial-D">
           <p>[L'Anguillara riteneva dapprima che l'aspalato fosse l'incenso, ma rettifico l'opi-
-            nione dopochè il Rodiotto (2) qui nominato gli mando la descrizione della pianta pre-
+            nione dopochè il Rodiotto (<ptr target="#A-146-N2"/>) qui nominato gli mando la descrizione della pianta pre-
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="102"/>sente che è
             riportata nei Semplici; Lo stesso Rodiotto mandò al Michiel un campione che perd
             giunse secco, come lo dimostra la figura del presente codice nella quale i fiori son ben
@@ -7003,10 +7001,10 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>M. Cechino dal Angelo virtuosissimo et inteligente mi diede questa mostra et dissemi
+          <p><persName ref="#Cechin">M. Cechino dal Angelo</persName> virtuosissimo et inteligente mi diede questa mostra et dissemi
             come per raporti si tiene che questa sia il Tembul et che la chiamano con questo nome.
             Et apresso ha la fede dal Ecc. M. huomo singularissimo Michiele di Muti et veridico.
-            Conferma a questo l'Ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>
+            Conferma a questo l'ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>
         </div>
         <div type="editorial-D">
           <p>[Nella figura c'è di tratto dal vero solo il disegno di una foglia ingiallita (82 mm

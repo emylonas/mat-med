@@ -36,8 +36,7 @@ div#TEI {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		height: 400px;
-		max-width: 100%; 
+		height: 425px;
 		/* border: 1px solid blue; */
 	}
 	
@@ -50,24 +49,26 @@ div#TEI {
 		margin-right: 20px;
 		text-align: right;
 	}
-	.top-flex a {
-	/*	margin-top: 0;
+	/* .top-flex a {
+		margin-top: 0;
 		margin-bottom: 0;
 		position: absolute;
 		top: 50%;
-		transform: translate(0, -50%);*/
-	}
+		transform: translate(0, -50%);
+	} */
 	.top-flex img#img1 {
-		height: 380px;
+		width: 35%;
+		padding-right: 1px;
 	}
 	.top-flex img#img2 {
-		height: 380px;
+		width: 35%;
+		padding-left: 1px;
 	}
 	/* .top-flex a img {
 		  width: 25%;
-		  height: 25%; */
-		  /* height: 230px; */
-	/*	  width: 50%;
+		  height: 25%; 
+		  height: 230px;
+	    width: 50%;
 		float: left;
 		text-align: center;
 		margin: auto;
@@ -79,16 +80,17 @@ div#TEI {
 		bottom: 0;
 		left: 0;
 		right: 0;
-		margin: auto;*/
-	}
-	.top-flex a #img1 {
-		/* border: 1px solid blue; */
-		padding-left: 5px;
-	}
-	.top-flex a #img2 {
-		/* border: 1px solid blue; */
-		padding-right: 5px;
-	}
+		margin: auto;
+	}*/
+	
+	/* .top-flex a img#img1 {
+		border: 1px solid blue;
+		padding-right: 2px;
+	} */
+	/* a #img2 {
+		border: 1px solid blue;
+		padding-right: 2px;
+	} */
 	h2.top-name {
 		font-weight: normal;
 		margin: 0;
@@ -103,8 +105,88 @@ div#TEI {
 	#main article {
 		width: calc(100%-500px);
 		padding-right: 0;
+	}
+	hr.horizline {
+		display: block;
+		margin: auto;
+		border-top: 1px double #00FFFF;
+		width: 1235px;
+		
+		}
+	/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
 
-
+@media (min-width: 1281px) {
+  
+	/* CSS */
+	
+  }
+  
+  /* 
+	##Device = Laptops, Desktops
+	##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+	
+	/* CSS */
+	
+  }
+  
+  /* 
+	##Device = Tablets, Ipads (portrait)
+	##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+	
+	/* CSS */
+	
+  }
+  
+  /* 
+	##Device = Tablets, Ipads (landscape)
+	##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+	
+	/* CSS */
+	
+  }
+  
+  /* 
+	##Device = Low Resolution Tablets, Mobiles (Landscape)
+	##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+	.top-flex img#img1 {
+		max-width: 100%;
+		height: auto;
+		padding-right: 1px;
+	}
+	.top-flex img#img2 {
+		max-width: 100%;
+		height: auto;
+		padding-left: 1px;
+	}
+	/* CSS */
+	
+  }
+  
+  /* 
+	##Device = Most of the Smartphones Mobiles (Portrait)
+	##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+	
+	/* CSS */
+	
+  }
 	/* .page.h-entry {
 		width: 100%;
 		padding-right: 0;
@@ -131,9 +213,3 @@ div#TEI {
 		clear: both;
 	}
 	} */
-hr.horizline {
-	border-style: double;
-	border-top-width: 1px;
-	border-top-color: #00FFFF;
-	width: 1235px;
-}
