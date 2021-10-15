@@ -36,7 +36,7 @@ div#TEI {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		height: 400px;
+		height: 425px;
 		/* border: 1px solid blue; */
 	}
 	
@@ -57,7 +57,7 @@ div#TEI {
 		transform: translate(0, -50%);
 	} */
 	.top-flex img#img1 {
-		width: 35%;
+		width: 36%;
 		padding-right: 2px;
 	}
 	.top-flex img#img2 {
