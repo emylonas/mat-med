@@ -109,7 +109,7 @@ div#TEI {
 	hr.horizline {
 		display: block;
 		margin: auto;
-		border-top: 2px double #00FFFF;
+		border-top: 1px double #00FFFF;
 		width: 1235px;
 		
 		}
