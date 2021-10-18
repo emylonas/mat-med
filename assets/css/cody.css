@@ -154,6 +154,16 @@ div#TEI {
 	/* CSS */
 	
   }
+
+  @font-face {
+	font-family: "BodoniOrnaments";
+	src: url("https://emylonas.github.io/xml-minimal/assets/fonts/bodoni_ornaments.woff2") format("woff2");
+	font-style: normal;
+	font-weight: normal;
+	}
+div.ornament {
+	font-family: BodoniOrnaments;
+}
 	/* .page.h-entry {
 		width: 100%;
 		padding-right: 0;
