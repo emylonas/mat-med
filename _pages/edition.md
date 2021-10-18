@@ -24,6 +24,7 @@ Thanks to Michiel’s proven expertise as a *de facto* botanist, between 1551 an
 
 The manuscript, now kept at the Marciana Library in Venice, was partially published in a 1940 edition by the botanist Ettore De Toni, who also annotated the text. Here you can enjoy both by flipping through the pages of the herbal and searching for a specific plant. Each plant is accompanied by a short description of a few entries by Michiel (not necessarily all of them present) with comments by De Toni: name, genus, shape, location, exposure, reproduction, seasonality, properties, discussions.
 <br clear="right"/>
+<div class="ornaments">r p r</div>
 
 ## Bibliography
 Pietro Antonio Michiel, *I cinque libri di piante*. Codice Marciano, trascrizione e commento di Ettore De Toni (Venezia, 1940). Further references can be found on the respective pages.
