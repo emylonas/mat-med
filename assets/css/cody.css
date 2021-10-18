@@ -163,6 +163,7 @@ div#TEI {
 	}
 div.ornament {
 	font-family: BodoniOrnaments;
+	text-align: center;
 }
 	/* .page.h-entry {
 		width: 100%;
