@@ -19,9 +19,8 @@
 # GITHUB REMOTE THEME
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-url                      : "https://ccarvel.github.io"
-baseurl                  : "/xml-minimal-cc/"
-
+url                      : "https://emylonas.github.io"
+baseurl                  : "/xml-minimal/"
 
 # THEME-SETTINGS-RECLAIM
 # theme                    : "minimal-mistakes-jekyll"
