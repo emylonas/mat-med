@@ -57,11 +57,11 @@ tei-foreign, tei-hi {
   font-style: italic;
 }
 
-p  tei-persName {
+p  tei-persname {
   color: #873e23;
 }
 
-p tei-placeName {
+p tei-placename {
   color: #D9714A;
 }
 
