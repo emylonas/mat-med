@@ -57,6 +57,14 @@ tei-foreign, tei-hi {
   font-style: italic;
 }
 
+p  tei-persName {
+  color: #873e23;
+}
+
+p tei-placeName {
+  color: #D9714A;
+}
+
 tei-div[type="editorial-D"]::before {
   border-top: solid grey;
   content: "Editorial Notes (DeToni)";
