@@ -3,7 +3,6 @@ layout: single
 permalink: /apothecaries/
 title: "Apothecaries"
 ---
-
 # 16th-17th century Venetian Apothecary Shops
 
 Starting from the natural substances, the last step to obtain a medicine was to process it in a professional laboratory – but remember that private kitchens as well were a sort of home-laboratories for pretty easy remedies.

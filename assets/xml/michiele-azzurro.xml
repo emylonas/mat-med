@@ -170,7 +170,7 @@
           diversi libri aciò siano manco confusi et reduti in manco volume essendo partiti in quatro
           distinte opere, zioè questa di Albori, frutici et invogli (<ptr target="#prN1"/>), la seconda di Herbe
           aculeate et di radici bulbose et rotonde, il terzio di Piante legnose et di piante con
-          radice capillare et sottille, il quarto di Herbe con radice carnose et grosse, dunde
+          radice capillare et sottille, il quarto di Herbe con radice carnose et grosse; dunde
           l'huomo saperà (<ptr target="#prN2"/>) più al facile ritrovare quello che desidera governandosi da questo
           ordine saperà in qual libro son la pianta che ricerca. Et ogni libro harà (<ptr target="#prN3"/>) il suo
           indice et alfabeto con tutte le varietà de sinonomi ho possuto intravenire, acioché tanto
@@ -179,7 +179,7 @@
           et inteligentia che potrà, dando colpa al debil et pocho saper mio, cogliendo qualche
           rosa, se pure ne serano, tra tanti spini.</p>
         <div type="editorial-D">
-          <p>[Qui appare chiaro l'ordine propostosi dall'Autore il quale spartì le piante in quattro
+          <p>[Qui appare chiaro l'ordine propostosi dall'autore, il quale spartì le piante in quattro
             divisioni artificiali: 
             1° Piante legnose e piante volubili contenute nel presente libro
             Azzurro. 
@@ -189,17 +189,17 @@
             terza, egli fece fare i libri più o meno ricchi di pagine secondo il numero probabile di
             piante che dovevano allogarvisi, perciò il maggiore fu il rosso, seguirono in grandezza
             il verde, l'azzurro, il giallo. Contuttociò il libro rosso divenne insufficiente perché
-            l'Autore vi allogava oltre le piante a radice sottile, tutte quelle a radice
+            l'autore vi allogava oltre le piante a radice sottile, tutte quelle a radice
             sconosciuta, da ciò ne 
             <pb n="12"/>
             venne l'aggiunta di un secondo libro rosso che in un punto del codice (<ref target="#R1-177">Ro. I. 177</ref>) è
             chiamato libro nuovo. Di mano in mano che cresceva il numero delle piante, riconobbe
-            l'Autore l'insufficienza di questa primitiva classificazione, quindi la modificò una
+            l'autore l'insufficienza di questa primitiva classificazione, quindi la modificò una
             prima volta nel libro rosso, un'altra nel libro verde come si legge nelle relative
             introduzioni. Però queste due nuove classificazioni furono semplicemente esposte e
-            l'Autore non potè metterle in pratica, perché ciò avrebbe portato uno spostamento nelle
+            l'autore non potè metterle in pratica, perché ciò avrebbe portato uno spostamento nelle
             pagine ormai numerate ed un conseguente cangiamento dei numeri spesso citati al capitolo
-            Genera. Già il <persName ref="#Morelli">Morelli</persName> avvertì che gli indici alfabetici promessi dall'Autore in questo
+            Genera. Già il <persName ref="#Morelli">Morelli</persName> avvertì che gli indici alfabetici promessi dall'autore in questo
             esordio mancano nel Codice. Le pagine bianche che si trovano, non solo in fine ma anche
             nel corpo dei libri tenderebbero a provare che il Michiel non considerava finito il suo
             lavoro e si riservava di far l'indice quando il codice fosse pronto per le stampe, ma
@@ -217,15 +217,14 @@
     <body>
       <div type="plant" xml:id="A-001" >
         <head>N. I CIRUELAS MONTESES</head>
-        <ab>[Not identified]</ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Ciruelas monteses ex fruta de Indiani. <seg type="trans"><foreign xml:lang="eng">wild plums</foreign> 
+          <p> Ciruelas monteses ex fruta de Indiani<seg type="trans"><foreign xml:lang="eng">wild plums</foreign> 
             <foreign xml:lang="ita">prugne selvatiche</foreign></seg></p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Tre sorte di Ciruelas ne sonno, questa monteses, incarnadas et amarilas come vedereti
+          <p> Tre sorte di Ciruelas ne sonno, questa monteses, incarnadas et amarilas, come vedereti
             <note type="editorial"> [<ref type="internal" target="#A-021">NN. 21</ref> e <ref type="internal" target="#A-069">N.
               69</ref>]</note>.</p>
         </div>
@@ -412,7 +411,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'Ecc. M. <persName ref="#Anguillara">Alovise Anguillara</persName> protetore del copioso giardino de simplici della Ill.
+          <p> L'ecc. M. <persName ref="#Anguillara">Alovise Anguillara</persName> protetore del copioso giardino de simplici della Ill.
             Signoria nostra in Padova ne' suoi degni <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> a k. 301 dice non esser la Vite
             silvestre. Et a k. 81 dice esser la Vite alba depinta dal Eccell. <persName ref="#Fuchs">Fuchsio</persName> per Vite nera.
           </p>
@@ -527,8 +526,8 @@
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000609903">[<hi>Clematis Flammula L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Vite biacha (<ptr target="#A-007-N1"/>) da volgari - Clematite dal Ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> - Clematitis aspera
-            dal Ecc. M. <persName ref="#Ghini">Luca Ghini</persName> - Flamula Jovis da volgari - Ciclamino Secondo da il <persName ref="#Gualtiero">Gualtieri</persName> -
+          <p> Vite biacha (<ptr target="#A-007-N1"/>) da volgari - Clematite dal ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> - Clematitis aspera
+            dal ecc. M. <persName ref="#Ghini">Luca Ghini</persName> - Flamula Jovis da volgari - Ciclamino Secondo da il <persName ref="#Gualtiero">Gualtieri</persName> -
             Epigetin da alcuni Phylacrion da Egyptij - Ambuxum da Romani.</p>
         </div>
         <div type="genus">
@@ -547,7 +546,7 @@
           <head>OPPINIONI</head>
           <p> Parmi vengha assa bene con il Ciclamino Secondo et non son oppinion de il <persName ref="#Gualtiero">Gualtieri</persName>
             perché dimostra sia altra pianta. Et M. <persName ref="#Anguillara">Aloise Anguilara</persName> [a] k. 301 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> vole sia
-            la Clematite et l'Ecc. M. <persName ref="#Ghini">Luca Ghini</persName> tiene sia la <hi>Clematitis aspera</hi>. Et de molti
+            la Clematite et l'ecc. M. <persName ref="#Ghini">Luca Ghini</persName> tiene sia la <hi>Clematitis aspera</hi>. Et de molti
             inganatosi pensorno che fusse quella spezie commune de volubili produce la campanella
             bianca.</p>
         </div>
@@ -586,7 +585,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'Ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 46 dice esser de due spezie et la prima
+          <p>L'ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 46 dice esser de due spezie et la prima
             esser la Tuvia Theophrasti et anche altri moderni simplicisti così ci tiene. Altri pure
             de moderni tiene esser la <hi>Miride Egiptia</hi>. Et molti con errore la prendeno per la
             Selagine di Plinio che son herba.</p>
@@ -603,7 +602,7 @@
             amenti e frutti. Per meglio rappresentare le virtù della pianta <hi>J. Sabina</hi> che in realtà
             ha effetti violenti e più volte somministrata con imprudenza o malizia produsse
             l'aborto, l'albero porta sospesi due vasi di vetro, nell'uno dei quali vedesi un feto,
-            nell'altro una figura di donna incappucciata, forse la maga che l'Autore avrebbe condannato ad esser conservata in alcool per subir la pena del taglione. La seconda pianta
+            nell'altro una figura di donna incappucciata, forse la maga che l'autore avrebbe condannato ad esser conservata in alcool per subir la pena del taglione. La seconda pianta
             fu contemporaneamente figurata dal <persName ref="#Mattioli">Mattioli</persName> sotto il nome di <hi>cedro fenicio</hi>. Sia dalla
             presente figura, sia da quanto dice espressamente nel testo l'<persName ref="#Anguillara">Anguillara</persName>, risulta che la
             pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName>Pasqualigo</persName> è la
@@ -689,7 +688,7 @@
             vanno intese così: «dei quattro cedri ve ne sono due di Teofrasto, cioè quelli qui
             dipinti (i ginepri), un terzo della Bibbia ed un quarto nascente ne' monti dell'Atlante, come già spiega l'<persName ref="#Anguillara">Anguillara</persName>».</p>
           <p>All'articolo «Forma» è nominato un «cedro maggiore», il quale è il cedro del Libano
-            figurato dal <persName ref="#Mattioli">Mattioli</persName>, come più sopra dice il nostro Autore. Il Michiel poi ne parla
+            figurato dal <persName ref="#Mattioli">Mattioli</persName>, come più sopra dice il nostro autore. Il Michiel poi ne parla
             oscuramente al <ref type="internal" target="#A-038">N. 38</ref>, limitandosi a citar l'<persName ref="#Anguillara">Anguillara</persName> che più ampiamente ne
             discorre.</p>
           <p>Facendo poi i debiti confronti col testo dell'<persName ref="#Anguillara">Anguillara</persName>, deduciamo che la prima di
@@ -788,7 +787,7 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Non son oppinione che questa sia la Helsine di Diascoride come al suo cap.
-            dimostrarò. L'Ecc. <persName ref="#Ghini">Ghyno</persName> la ritira al Granum Nil de Avicenna overo Habel Nil ma stante
+            dimostrarò. L'ecc. <persName ref="#Ghini">Ghyno</persName> la ritira al Granum Nil de Avicenna overo Habel Nil ma stante
             la scritura delle Pandette altri non voleno ne li corispondeno. Et per quelle parti ho
             vedute son una pianta simile havuta con il nome di Nil ma spinoseta, demostra <ref type="internal" target="#A-141">k. 141</ref>.</p>
         </div>
@@ -822,7 +821,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'Ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 59 dice che il Ligustro non è il Cipro avegna
+          <p> L'ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 59 dice che il Ligustro non è il Cipro avegna
             che il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> del <persName ref="#Barbaro">Barbaro</persName> vuole che egli ci sia. Et più avanti k. 61 dice che il
             Conastrelo è la Tilia. Et anche de molti inganati da Servio gramatico pensandosi che il
             Ligustro sia spezie di Vilucchio. Et altri si inciampano credendosi che il Ligustro sia
@@ -1396,7 +1395,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'Ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 296 dice esser il Cneoro di Galeno, Alypiade di Aetio et Chamelea
+          <p>L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 296 dice esser il Cneoro di Galeno, Alypiade di Aetio et Chamelea
             di Dioscoride una istessa cosa. Et li Arabi hanno confusamente descrito la Chamelea et
             Thymelea mescolando insieme la Laureola.</p>
         </div>
@@ -1435,7 +1434,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'Ecc. <persName ref="#Aldrovandi">Aldrovandi</persName> mi disse esser Chamethymelea zioe (<ptr target="#A-031-N2"/>) humil thymelea.</p>
+          <p> L'ecc. <persName ref="#Aldrovandi">Aldrovandi</persName> mi disse esser Chamethymelea zioe (<ptr target="#A-031-N2"/>) humil thymelea.</p>
         </div>
         <div type="editorial-D">
           <p>[Pianta fiorita. La Thymelaea di quasi tutti i floristi del secolo XVI era D. Gnidium,
@@ -1684,7 +1683,7 @@
             uccelli con penne bianche e rosse chiazzate di nero, forse dietro la credenza esposta da
             Dioscoride che gli uccelli i quali si cibano delle bacche dei tassi italiani diventano
             neri. A parte è dipinto un ramoscello folioso e nella diagnosi, in uniformità a quanto
-            fu scritto nel numero precedente, l'Autore dice che le foglie sono «simil all'Abete ma
+            fu scritto nel numero precedente, l'autore dice che le foglie sono «simil all'Abete ma
             queste apuntite et maggiorete».</p>
           <p>Il Michiel ripete notizie trovate in alcuni autori antichi sul frutto che sarebbe più
             velenoso delle foglie e sull'ombra malefica della pianta. Però, fin da' suoi tempi, si
@@ -2215,7 +2214,7 @@
         </div>
         <div type="editorial-D">
           <p>[Pianta con uccelli che vanno a beccare i fichi. A sinistra una foglia in grandezza
-            naturale. La frase «si grafano i fichi, allude alla caprificazione di cui l'Autore
+            naturale. La frase «si grafano i fichi, allude alla caprificazione di cui l'autore
             ragiona più a lungo nella diagnosi].</p>
         </div>
         <div type="notes">
@@ -2510,7 +2509,7 @@
         <div type="name">
           <head>NOMI</head>
           <p> Anagyros, Acapon et Agnocopon da Greci Egano da Rustici Acoron da alcuni et Giegano da
-            altri rustici di montagnia Aburnum Plinij dali Ecc. Ghyni et Aldrovandi Ebano seconda
+            altri rustici di montagnia Aburnum Plinij dali ecc. Ghyni et Aldrovandi Ebano seconda
             sp. dal Anguilara.</p>
         </div>
         <div type="genus">
@@ -2980,7 +2979,7 @@
         </div>
         <div type="editorial-D">
           <p>[Come si apprende dal testo la figura non fu tratta dall'originale, ma copiata da una
-            pittura mandata dall'America ed ottenuta dall'Autore a mezzo del <persName ref="#daMula">Da Mula</persName>. Abbiamo
+            pittura mandata dall'America ed ottenuta dall'autore a mezzo del <persName ref="#daMula">Da Mula</persName>. Abbiamo
             trascritta per intero la diagnosi perché essa dimostra uno studio non fatto sul vero;
             in caso diverso il Michiel non avrebbe paragonato a fichi e lodati come appetitosi dei
             frutti il cui pericarpo è in realtà secco e non commestibile.</p>
@@ -3210,7 +3209,7 @@
           <head>LUOGHO</head>
           <p> Dalle Indie nuove del Perù et da Calecut ne vengono portati a noi, et io ne ho
             custodito de molti anni fa. Et ne son in Toscana ancora di questa pianta per ralation
-            del Ecc. M. <persName ref="#Ghini">Luca Ghino</persName>. L'Ethiopico son il buono, et il resto e anche questo sonno
+            del ecc. M. <persName ref="#Ghini">Luca Ghino</persName>. L'Ethiopico son il buono, et il resto e anche questo sonno
             tenuti per salvatici. Et di questo ne sonno nel regnio di Beniamin in Soria (<ptr target="#A-073-N3"/>).
             L'optimo si porta d'Armenia; quello di Media son manco buono con il legno venenoso;
             quello di Ponto rosseggia et il suo seme offende nel odorarlo.</p>
@@ -4434,7 +4433,7 @@
             descrittili colle parole: «acini bianchi simil a perle, rotondi viscosi», dichiard di
             non conoscere la generazione della pianta. Più tardi ne ebbe cognizione dagli autori e
             fece l'aggiunta nel capitolo «Virtù». Quest'aggiunta dev'esser posteriore alla
-            classificazione proposta dall'Autore al principio del libro verde dove è ripetuto che il
+            classificazione proposta dall'autore al principio del libro verde dove è ripetuto che il
             vischio non ha radici].</p>
         </div>
         <div type="notes">
@@ -4480,7 +4479,7 @@
             umbra si scoreno pericolo di vita...</p>
         </div>
         <div type="editorial-D">
-          <p>[Benché l'Autore distingua, come due specie, le due varietà a fior bianco e purpureo,
+          <p>[Benché l'autore distingua, come due specie, le due varietà a fior bianco e purpureo,
             per economia di spazio l'artista dipinse un solo arboscello con due rami a fiori
             purpurei ed uno a fiori bianchi sorgente in un prato sul quale giace un frutto staccato.
             Tre figure indicano le virtù di cui sopra è fatta parola. La prima presso il frutto
@@ -5021,7 +5020,7 @@
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p>L'altra mostra (II) simile ma le suoe foglie piui rotonde et all'inorno dentate.
+          <p>L'altra mostra [II] simile ma le suoe foglie piui rotonde et all'inorno dentate.
             Suoi fruti neri con semi dentro neri lungheti de imperfetta forma.</p>
         </div>
         <div type="location">
@@ -5165,7 +5164,7 @@
             sorte comune (266).</p>
           <p>Nella diagnosi il Michiel dice che i frutti sono gialli, ma nella figura vi sono rami a
             frutti gialli e rami a frutti azzurri, i quali ultimi probabilmente furono aggiunti
-            dopo, quando l'Autore riconobbe esistere le due varietà di colore. È notevole il fatto
+            dopo, quando l'autore riconobbe esistere le due varietà di colore. È notevole il fatto
             che in alcuni libri moderni si ponga come carattere specifico ora l'una [26], ora
             l'altra tinta (153) Avendo avuto agio di esaminare lungo tempo la pianta, il Michiel fu
             in grado di perfezionare le sue conoscenze intorno ad essa, ma si limitò a far gli
@@ -5595,7 +5594,7 @@
             dell'Anguillara: «le qual spine son sempre à due à due ma una è diritta et l'altra à
             modo di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="86"/> uncino e per
             lo più la diritta è posta sopra l'altra a guisa di arpione». Anche la figura di
-            Mattioli fa bene spiccare i caratteri foliari).</p>
+            Mattioli fa bene spiccare i caratteri foliari].</p>
         </div>
         <div type="notes">
           <note xml:id="A-119-N1" n="1"> Muggia.</note>
@@ -6073,7 +6072,7 @@
         </div>
         <div type="editorial-D">
           <p>[Pianta maschile con foglie non ancora sezionate ed infiorescenza verde.</p>
-          <p>La figura che, come narra l'Autore, fu tratta da uno schizzo è alquanto rozza, però fa
+          <p>La figura che, come narra l'autore, fu tratta da uno schizzo è alquanto rozza, però fa
             riconoscere abbastanza bene la specie e precede quella di Andrea Cleyer [271] di oltre
             un secolo].</p>
         </div>
@@ -6423,7 +6422,7 @@
         </div>
         <div type="notes">
           <note xml:id="A-137-N1" n="1"> Mal trascritto da <hi>treublin</hi>. V. N. 74. Questi nomi appartengono al vero ribes
-            che l'Autore chiama qui <hi>ribes minoro</hi>.</note>
+            che l'autore chiama qui <hi>ribes minoro</hi>.</note>
           <note xml:id="A-137-N2" n="2"> Sile. </note>
         </div>
       </div>
@@ -6878,7 +6877,7 @@
             viene bene.</p>
         </div>
         <div type="editorial-D">
-          <p>(La figura molto rozza è copiata, come è detto nel testo, da quella del Mattioli, ma è
+          <p>[La figura molto rozza è copiata, come è detto nel testo, da quella del Mattioli, ma è
             copiata male perché i fiori, che il Mattioli fece papilionacei, qui sono campanulati.
             L'opinione del botanico sanese che questa pianta fosse il citiso virgiliano fu seguita
             anche da altri (Gleditsch)].</p>
@@ -6890,7 +6889,7 @@
 
       <div type="plant" xml:id="A-149">
         <head>N. 149 FRANGOLA</head>
-        <ab>(Lonicera Xylosteum L.]</ab>
+        <ab> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000361644">[<hi>Lonicera Xylosteum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Frangola da Boemi.</p>
@@ -6919,11 +6918,11 @@
             come ci narra il Mathiolo a k. 1334.</p>
         </div>
         <div type="editorial-D">
-          <p>(Pianta fruttifera. Benché non si tratti della medesima specie, il Michiel mostro un
+          <p>[Pianta fruttifera. Benché non si tratti della medesima specie, il Michiel mostro un
             certo acume, ravvicinando questa pianta a quella figurata al N. 46 che le è molto
             affine.</p>
           <p>Improprio è il nome frangola appartenente a Rhamnus Frangula, come è improprio quello
-            di halimus sotto il quale, prima del Michiel, la specie fu descritta dal Trago).</p>
+            di halimus sotto il quale, prima del Michiel, la specie fu descritta dal Trago].</p>
         </div>
         <div type="notes">
           <note xml:id="A-149-N1" n="1"> * Il testo dopo e demostro portava inanti»; l'autore ha corretto azioè da
@@ -6935,7 +6934,7 @@
       <div type="plant" xml:id="A-150_151">
         <head>NN 150 e 151</head>
         <div type="editorial-D">
-          <p>[Pagine bianche).</p>
+          <p>[Pagine bianche].</p>
         </div>
       </div>
 
@@ -6951,7 +6950,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'ebbi da Bolognia dal Ecc. M. <persName ref="#Ghini">Luca Ghino</persName>.</p>
+          <p> Io l'ebbi da Bolognia dal ecc. M. <persName ref="#Ghini">Luca Ghino</persName>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -6971,12 +6970,12 @@
             minute dentature,</p>
           <p>Nel testo il Michiel paragona la pianta al perastro che infatti è un congenere <ref target="A-145)"><ref target="A-145)">(N. 145)</ref></ref> e le foglie a quelle
             dell'olivella o putana.</p>
-          <p>Si disse già <ref target="A-087)">(N. 87)</ref> come sia giusta l'identificazione qui
-            data dal Michiel, mentre oggidi, seguendo Linneo, si chiama O.xyacantha il biancospino.
+          <p>Si disse già <ref target="A-087)">[N. 87]</ref> come sia giusta l'identificazione qui
+            data dal Michiel, mentre oggidì, seguendo Linneo, si chiama <hi>Oxyacantha</hi> il biancospino.
             E, siccome il Michiel ricevette la pianta dal Ghini, abbiamo la prova che l'Oxyacantha di quest'autore era C. Pyracantha, come già si riteneva probabile per la
             diagnosi che egli ne dà [303, 305] e dalle sue parole: «Dioscorides describens
             Oxyacantham dicet similis esse Pirastro». Pel Mattioli invece l'Oxyacantha era
-            Crataegus oxyacantha].</p>
+            <hi>Crataegus oxyacantha</hi>].</p>
         </div>
         <div type="notes">
           <note xml:id="A-152-N2" n="2"> · Il testo veramente porta 85, certo per una svista. (Ed.).</note>
@@ -7011,7 +7010,7 @@
           <head>OPPINIONI</head>
           <p><persName ref="#Cechin">M. Cechino dal Angelo</persName> virtuosissimo et inteligente mi diede questa mostra et dissemi
             come per raporti si tiene che questa sia il Tembul et che la chiamano con questo nome.
-            Et apresso ha la fede dal Ecc. M. huomo singularissimo Michiele di Muti et veridico.
+            Et apresso ha la fede dal ecc. M. huomo singularissimo Michiele di Muti et veridico.
             Conferma a questo l'ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>
         </div>
         <div type="editorial-D">
@@ -7085,7 +7084,7 @@
 
       <div type="plant" xml:id="A-155">
         <head>N. 155 LOTO</head>
-        <ab>[Celtis australis L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000593422">[<hi>Celtis australis L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Loto tenuto da molti Bagolaro a Trento Perlaro nel Veronese Celtis da Latini Almez
@@ -7098,8 +7097,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> - In Lombardia ne sonno per le possessioni et alla Zudecha (2) a S. Giacomo. Et era
-            anche a S. Giovane (3) ma son mancato il grande ne son uno bellissimo in Campo sopra il
+          <p>In Lombardia ne sonno per le possessioni et alla Zudecha (<ptr target="#A-155-N1"/>) a S. Giacomo. Et era
+            anche a S. Giovane (<ptr target="#A-155-N2"/>) ma son mancato il grande ne son uno bellissimo in Campo sopra il
             Canal Grande.</p>
         </div>
         <div type="opinions">
@@ -7110,8 +7109,8 @@
             contra et lo confonde.</p>
         </div>
         <div type="disagreements">
-          <head>DISPARERI</head>
-          <p>NELLA PIANTA Questo non disconviene alla pocha discretione che ci ha narrato
+          <head>DISPARERI NELLA PIANTA</head>
+          <p>Questo non disconviene alla pocha discretione che ci ha narrato
             Diascoride d'il Loto.</p>
         </div>
         <div type="editorial-D">
@@ -7126,11 +7125,11 @@
             producendo un suono sordo. </p>
           <p>La minuta esposizione delle località fatta dagli Autori prova che a quei tempi l'albero
             era piuttosto raro nel Veneto, mentre oggidi esso ampiamente coltivato pei suoi rami coi
-            quali si fanno mazze e manichi di fruste. Nel Padovano è chiamato bessolaro).</p>
+            quali si fanno mazze e manichi di fruste. Nel Padovano è chiamato bessolaro].</p>
         </div>
         <div type="notes">
-          <note xml:id="A-155-N2" n="2"> Giudecca.</note>
-          <note xml:id="A-155-N3" n="3"> S. Giovanni.</note>
+          <note xml:id="A-155-N1" n="1"> Giudecca.</note>
+          <note xml:id="A-155-N2" n="2"> S. Giovanni.</note>
         </div>
       </div>
 
@@ -7147,12 +7146,12 @@
         <div type="shape">
           <head>FORMA</head>
           <p> Suoa radice legnosa et profundasi, son albero di mediocre statura et ramoso, suoe
-            frondi di similitudine de zizoler (1). Suoi fiori non li ho veduti. Suoi semi piccoli,
+            frondi di similitudine de zizoler (<ptr target="#A-156-N1"/>) . Suoi fiori non li ho veduti. Suoi semi piccoli,
             rotondi odorifferi, et bianchi, simil di forma a coriandri.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Son albero di Egypto dunde hebbi de semi et mi naque, ne sonno in Canapo (2) nella
+          <p> Son albero di Egypto dunde hebbi de semi et mi naque, ne sonno in Canapo (<ptr target="#A-156-N2"/>) nella
             rippa del Nillo et son il migliore, in Ascalone cita nella Giudea et in Cypri.</p>
         </div>
         <div type="seasonality">
@@ -7217,7 +7216,7 @@
             marcir, ma li fanno neri. Come si legge nel libro secondo delle Indie k. 116.</p>
         </div>
         <div type="editorial-D">
-          <p>(Pianta sterile].</p>
+          <p>[Pianta sterile].</p>
         </div>
       </div>
 
@@ -7267,7 +7266,7 @@
 
       <div type="plant" xml:id="A-159">
         <head>N. 159 PEPE</head>
-        <ab>[I. fittizia] [II. Xylopia aethiopica A. Rich.)</ab>
+        <ab>[I. <hi>fittizia</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000428869">[<hi>II. Xylopia aethiopica A. Rich.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Pepe, legi k. 73.</p>
@@ -7278,16 +7277,16 @@
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p> Suoa radice pocha, suoi sarmenti che se invoglieno (1) come li volubili, ramosi come
+          <p> Suoa radice pocha, suoi sarmenti che se invoglieno (<ptr target="#A-159-N1"/>)  come li volubili, ramosi come
             viticelle, suoe frondi simil tra le mandole et il cedro, suoi pepi in racemi nel summo
-            de rami (I). Et del Hetyopico demostro pur da driedo (2) non vidi altro che uno mazzio
+            de rami [I]. Et del Hetyopico demostro pur da driedo (<ptr target="#A-159-N2"/>) non vidi altro che uno mazzio
             di silique simile a fasuoli de molte contenute da uno ramo, et credensi sia il nero di
-            <persName ref="#Serapione">Serapione</persName> (II).</p>
+            <persName ref="#Serapione">Serapione</persName> [II].</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
           <p>Leggi ut supra, ma questo io lo hebbi dal Ramusio et credo vene per quella istessa via
-            che hebbe anche l'Ecc. Mathioli (II).</p>
+            che hebbe anche l'ecc. Mathioli [II].</p>
         </div>
 
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
@@ -7295,17 +7294,17 @@
         <div type="seasonality">
           <head>TEMPO</head>
           <p> Penso stia sempre verde, suoe frondi, li grappoli de Esta et maturati alle fin di
-            setembre (I).</p>
+            setembre [I].</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Se inganorno li antiqui della forma di la pianta. Come hora la nova navigatione ha
             posto in luce. Et se inganano de molti che si credeno ch'il Zelin di Serrapione sia il
             Carpesio, questa demostra suoe foglie non sonno come di Hedera come da molti della ditta
-            navigatione ho inteso essere ma bene se invoglieno comme questa [1]. Quello poi che
+            navigatione ho inteso essere ma bene se invoglieno comme questa (<ptr target="#A-159-N3"/>). Quello poi che
             produce silique [II] son tenuto per il nero di Serrapione dunde dalla diversita de
             raporti et deti si possono veramente comprendere essere diverse forme di piante che lo
-            produce. Et io ne ho veduto di tre specie, questa commune delle spetiarie (I), una di
+            produce. Et io ne ho veduto di tre specie, questa commune delle spetiarie [I], una di
             rotondo, liscio et maggiore qual l'hebbi dal Ramusio [II] et la terza mi naque da quella
             pianta demostra a k. 73 tenuto per il salvatico.</p>
         </div>
@@ -7318,7 +7317,7 @@
           <p>[La prima figura è una copia di quella del Mattioli il quale però dichiara di non aver
             visto la pianta né verde né secca, ma di avere ricevuto il disegno da un Portoghese
             reduce dalle Indie.</p>
-          <p>La seconda figura rappresenta solo alcuni frutti e, come dice l'Autore, fu tratta da un
+          <p>La seconda figura rappresenta solo alcuni frutti e, come dice l'autore, fu tratta da un
             campione inviatogli dal Ramusio che avrebbe pur mandato il campione donde fu tratta la
             figura del Mattioli.</p>
           <p>Riguardo al pepe (Piper nigrum) il Michiel cortegge l'errore degli antichi i quali
@@ -7338,11 +7337,11 @@
 
       <div type="plant" xml:id="A-160">
         <head>N. 160 GRANA</head>
-        <ab>(Quercus coccifera L.]</ab>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000290191">[<hi>Quercus coccifera L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Grana para tenir da Spagnioli Cocus baphica, Granum infectorium da Greci et Latini
-            Carmen, Kermes da Arabi Scharlach ber (1) da Tedeschi Vermillon da Francesi Chervach da
+            Carmen, Kermes da Arabi Scharlach ber (<ptr target="#A-160-N1"/>) da Tedeschi Vermillon da Francesi Chervach da
             Dalmati.</p>
         </div>
         <div type="genus">
@@ -7362,7 +7361,7 @@
           <head>LUOGHO</head>
           <p>Io di questo arbusto ne hebbi uno ramo secho et insieme <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="109"/> la discretione con queste parole quivi
             scrite dal Cl.mo M. Antonio Barbarigo fu bailo a Costantinopoli. Et disse nascerne verso
-            Andernopoli (2) ne boschi loro. Et questa potria esser quella che narra Plinio nascere
+            Andernopoli (<ptr target="#A-160-N2"/>) ne boschi loro. Et questa potria esser quella che narra Plinio nascere
             in Aphrica et quella di Diascoride che nasce nelle quercie in Cilicia, ne sonno anchora
             in Boemia et Polonia.</p>
         </div>
@@ -7378,13 +7377,13 @@
           <head>OPPINIONI</head>
           <p> Quello che si dimostra nelle spetiarie non si rasembra a quella che narra Diascoride
             se ingana <ref type="bibl" target=" http://id.sbn.it/bid/BVEE001024">li reverendi Padri [196]</ref> intorno alla Grana et il Cremesino, credendo che ci
-            siano differenza insieme. Et... (3).</p>
+            siano differenza insieme. Et... (<ptr target="#A-160-N3"/>).</p>
         </div>
         <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
           <p> Et perché io ho havuto la discrecione diversamente cioe esser albero et non pongente
-            lo posto quivi (4). Et altri con foglie spinose pero lo posto anche al luogo delle
-            piante spinose (5).</p>
+            lo posto quivi (<ptr target="#A-160-N4"/>). Et altri con foglie spinose pero lo posto anche al luogo delle
+            piante spinose (<ptr target="#A-160-N5"/>).</p>
         </div>
         <div type="editorial-D">
           <p>[Pianta con foglie e cogli insetti parassiti (Coccus Ilicis) collocati alle ascelle
@@ -7421,7 +7420,7 @@
 
       <div type="plant" xml:id="A-161">
         <head>N. 161 OTRA MANERA DE MECOACAN</head>
-        <ab>(I pomaea Jalapa Coxe] Otra manera di Mechoacan</ab>
+        <ab><ref target="https://www.ipni.org/n/269109-1">[<hi>Ipomaea Jalapa Coxe</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Scamonea spetie da molti li altri nomi di Scamonea legi a k. 23. </p>
@@ -7430,9 +7429,9 @@
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p> Suoa radice... (1) suoi sotil, pellosi, rami che se invogliono forniti di fallate
+          <p> Suoa radice... (<ptr target="#A-161-N1"/>) suoi sotil, pellosi, rami che se invogliono forniti di fallate
             frondi con lunghi piccioli in forma di Tamaro ma minor, suoi fiori non li ho veduti non
-            li fezze (2), suoi semi simil alla Scamonea piui giallezzi.</p>
+            li fezze (<ptr target="#A-161-N2"/>), suoi semi simil alla Scamonea piui giallezzi.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -7451,10 +7450,10 @@
             e fra le pagine un campione di foglia disseccata.</p>
           <p>Sebbene incompleta, la figura ha il merito d'esser la prima in ordine storico. Quasi
             contemporanea è la descrizione della radice fatta da Monardes [179 bis], segue poi la
-            figura di <ref type="bibl" target="http://id.sbn.it/bid/PUVE000060"> Hernandez [132 ma 148]</ref> (3). Pisone e Marcgravio [196] effigiarono come Mechoacan la
+            figura di <ref type="bibl" target="http://id.sbn.it/bid/PUVE000060"> Hernandez [132 ma 148]</ref> (<ptr target="#A-161-N3"/>). Pisone e Marcgravio [196] effigiarono come Mechoacan la
             specie brasiliana Piptostegia Pisonis, quindi a torto lo Sprengel dà a loro il primato
             dell'iconografia del vero Mechoacan.</p>
-          <p>Da principio l'Autore avea ricevuto dal Guilandino col nome di Mechoacan la passiflora
+          <p>Da principio l'autore avea ricevuto dal Guilandino col nome di Mechoacan la passiflora
               <ref target="A-017)">[N. 17]</ref>, ma poi lo Guilandino riconobbe l'errore].</p>
         </div>
         <div type="notes">
