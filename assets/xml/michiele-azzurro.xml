@@ -145,9 +145,17 @@
           Medico veneziano (m. 1563), possessore di un giardino botanico privato nel sestiere di Canareggio.</p>
       </person>
       <person>
-        <p><persName xml:id="Theofrastus" ref="https://isni.org/isni/000000012276427X">Theophrastus</persName>Filosofo, allievo e successore di Aristotele nella direzione del Peripato. Nato ad Ereso intorno al 371 a.C. e morto ad Atene intorno al 286 a.C.</p>
+        <p><persName xml:id="Theofrastus" ref="https://isni.org/isni/000000012276427X">Theophrastus</persName>
+          Filosofo, allievo e successore di Aristotele nella direzione del Peripato. Nato ad Ereso intorno al 371 a.C. e morto ad Atene intorno al 286 a.C.</p>
       </person>
     </listPerson>
+    
+    <listPlace>
+      <place>
+        <p><placeName xml:id="testplace" ref="http://something"></placeName>
+        text about the place here</p>
+      </place>
+    </listPlace>
   </standOff>
   
   <text>
