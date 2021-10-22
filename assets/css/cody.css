@@ -97,9 +97,16 @@ div#TEI {
   */
   
   @media (min-width: 1025px) and (max-width: 1280px) {
-	
-	/* CSS */
-	
+	.top-flex img#img1 {
+		width: 60%;
+		height: auto;
+		padding-right: 1px;
+	}
+	.top-flex img#img2 {
+		width: 60%;
+		height: auto;
+		padding-left: 1px;
+	}
   }
   
   /* 
@@ -140,7 +147,6 @@ div#TEI {
 		height: auto;
 		padding-left: 1px;
 	}
-	/* CSS */
 	
   }
   
@@ -150,9 +156,16 @@ div#TEI {
   */
   
   @media (min-width: 320px) and (max-width: 480px) {
-	
-	/* CSS */
-	
+	.top-flex img#img1 {
+		width: 60%;
+		height: auto;
+		padding-right: 1px;
+	}
+	.top-flex img#img2 {
+		width: 60%;
+		height: auto;
+		padding-left: 1px;
+	}
   }
 
   @font-face {
