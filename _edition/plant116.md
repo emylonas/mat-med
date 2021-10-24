@@ -1,5 +1,5 @@
 ---
-title: \* N. 116 CUA MUCHEL
+title: "\* N. 116 CUA MUCHEL"
 plant-name: "\* N. 116 CUA MUCHEL"
 plant-number: "116"
 plant-xml: "/assets/xml/plant116.xml"
