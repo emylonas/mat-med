@@ -36,34 +36,34 @@ div#TEI {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		height: 425px;
 		/* border: 1px solid blue; */
 	}
 	
 	.flex-child {
-		flex: 1;
+		flex: 1 0 50%;
+		padding-bottom: 1em
 		/* border: 2px solid yellow; */
 	}
 
 	.flex-child:first-child {
-		margin-right: 20px;
+		padding-right: 1em;
 		text-align: right;
 	}
 
 	.top-flex img#img1 {
 		width: 35%;
-		padding-right: 1px;
+		padding-right: .125em;
 	}
 	.top-flex img#img2 {
 		width: 35%;
-		padding-left: 1px;
+		padding-left: .125em;
 	}
 	h2.top-name {
 		font-weight: normal;
 		margin: 0;
 	}
 	h3.top-name {
-	    font-weight: normal;
+	    font-weight: bold;
 		margin: 0;
 	}
 	/* #main {
@@ -76,9 +76,8 @@ div#TEI {
 	hr.horizline {
 		display: block;
 		margin: auto;
-		border-top: 1px double #00FFFF;
-		width: 1235px;
-		
+		border-top: thick double aqua;
+		width: 80%;
 		}
 	/* 
   ##Device = Desktops
@@ -98,14 +97,14 @@ div#TEI {
   
   @media (min-width: 1025px) and (max-width: 1280px) {
 	.top-flex img#img1 {
-		width: 60%;
+		width: 50%;
 		height: auto;
-		padding-right: 1px;
+		padding-right: .125em;
 	}
 	.top-flex img#img2 {
-		width: 60%;
+		width: 50%;
 		height: auto;
-		padding-left: 1px;
+		padding-left: .125em;
 	}
   }
   
@@ -138,14 +137,14 @@ div#TEI {
   
   @media (min-width: 481px) and (max-width: 767px) {
 	.top-flex img#img1 {
-		width: 60%;
+		width: 45%;
 		height: auto;
-		padding-right: 1px;
+		padding-right: .125em;
 	}
 	.top-flex img#img2 {
-		width: 60%;
+		width: 45%;
 		height: auto;
-		padding-left: 1px;
+		padding-left: .125em;
 	}
 	
   }
@@ -156,15 +155,18 @@ div#TEI {
   */
   
   @media (min-width: 320px) and (max-width: 480px) {
+	h3{
+		font-size:.8em;
+	}
 	.top-flex img#img1 {
-		width: 60%;
+		width: 45%;
 		height: auto;
-		padding-right: 1px;
+		padding-right: .125em;
 	}
 	.top-flex img#img2 {
-		width: 60%;
+		width: 45%;
 		height: auto;
-		padding-left: 1px;
+		padding-left: .125em;
 	}
   }
 
