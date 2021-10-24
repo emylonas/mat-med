@@ -24,7 +24,7 @@ tei-div[type="plant"] > tei-head {
   display: none;
   /* display: block;
   font-weight: bold;
-  font-size: 1.5m;
+  font-size: 1.5em;
   margin-left: -3%;
   margin-top: 2%; */
 }
@@ -34,7 +34,7 @@ tei-div[type="plant"] > tei-head {
  tei-head {
     display: block;
     font-weight: bold;
-    font-size: 1.5m;
+    font-size: 1.5em;
     margin-left: -3%;
     margin-top: 2%;
   }
