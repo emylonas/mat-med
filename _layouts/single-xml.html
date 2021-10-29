@@ -75,14 +75,14 @@ layout: default
              return link;
             },
             "ref": [
-              ["[type=internal]", function(elt) {
-                var linkNum = elt.getAttribute("target").replace(/#A-/,"");
-                var linkPre = '{{ site.baseurl }}edition/plant';
-                var link = document.createElement("a");
-                link.innerHTML = elt.innerHTML;
-                link.href = linkPre.concat(linkNum);
-                return link;
-               }]
+
+              "[type=bibl]", ["[target]", ["<a href=\"$rw@target\">","</a>"]]
+            ],
+            "persName": [
+              ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+            ],
+            "placeName": [
+              ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
             ],
             "pb": ["[DeToni p. $@n]"]
           }

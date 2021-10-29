@@ -16,7 +16,6 @@ tei-TEIHeader {
 
 tei-text {
   font-family: "Garamond", serif;
-  font-size: unset;
 }
 
 /* Styles the plant name, main header. */
@@ -57,11 +56,11 @@ tei-foreign, tei-hi {
   font-style: italic;
 }
 
-p  tei-persname {
+tei-p tei-persname {
   color: #873e23;
 }
 
-p tei-placename {
+tei-p tei-placename {
   color: #D9714A;
 }
 
