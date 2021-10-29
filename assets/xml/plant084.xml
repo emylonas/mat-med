@@ -4,41 +4,41 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-084">
+  </teiHeader><div type="plant" xml:id="A-084" part="N" org="uniform" sample="complete">
         <head>N. 84 TRAGIO</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000727735">[<hi>Hypericum hircinum L.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000727735">[<hi>Hypericum hircinum L.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Tragio da Diascoride.</p>
+          <p part="N"> Tragio da Diascoride.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Due spetie ne pone Diascoride, questo et uno di herba scrito nel altro libro (<ptr target="#A-084-N1"/>)  k.
+          <p part="N"> Due spetie ne pone Diascoride, questo et uno di herba scrito nel altro libro (<ptr target="#A-084-N1"/>)  k.
             71.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Solamente nasce in Candia dice Diascoride et nel Peloponeso.</p>
+          <p part="N"> Solamente nasce in Candia dice Diascoride et nel Peloponeso.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Plinio lo confunde hora tolendo la forma da uno autore hora da uno altro, facendolo
+          <p part="N"> Plinio lo confunde hora tolendo la forma da uno autore hora da uno altro, facendolo
             hora con frondi di Therebinto et hora di Ginepro.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Plinio al lib. 13 cap. 21 parla del tragio frutice che fu identificato colla specie
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Plinio al lib. 13 cap. 21 parla del tragio frutice che fu identificato colla specie
             presente, al lib. 28 cap. 13 parla invece dell'erba tragio che si ritiene l'odierna sp.
             Pimpinella Tragium le cui foglie superiori hanno segmenti lineari.</p>
-          <p>La presente figura è di pianta fiorita e precede quella data dal Pona.</p>
-          <p>Pegli altri iperici figurati nel Codice V. Ro. I, 236].</p>
+          <p part="N">La presente figura è di pianta fiorita e precede quella data dal Pona.</p>
+          <p part="N">Pegli altri iperici figurati nel Codice V. Ro. I, 236].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-084-N1" n="1"> Giallo </note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-084-N1" n="1" anchored="true"> Giallo </note>
         </div>
       </div></TEI>

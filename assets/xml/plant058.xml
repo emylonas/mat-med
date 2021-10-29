@@ -4,65 +4,65 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-058">
+  </teiHeader><div type="plant" xml:id="A-058" part="N" org="uniform" sample="complete">
         <head>N. 58 ANAGIRO, EGANO</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000214693"/>[<hi>Cytisus Laburnum L.</hi>]</ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000214693"/>[<hi>Cytisus Laburnum L.</hi>]</ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Anagyros, Acapon et Agnocopon da Greci Egano da Rustici Acoron da alcuni et Giegano da
-            altri rustici di montagnia Aburnum Plinij dali Ecc. Ghyni et Aldrovandi Ebano seconda
+          <p part="N"> Anagyros, Acapon et Agnocopon da Greci Egano da Rustici Acoron da alcuni et Giegano da
+            altri rustici di montagnia Aburnum Plinij dali ecc. Ghyni et Aldrovandi Ebano seconda
             sp. dal Anguilara.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p>Di Anagiri ne son questo silvestre et l'altro dimandato albero dal faiuolo <ref type="internal" target="#A-059">[N. 59]</ref>. Et
+          <p part="N">Di Anagiri ne son questo silvestre et l'altro dimandato albero dal faiuolo <ref type="internal" target="#A-059">[N. 59]</ref>. Et
             di Ebani due spezie ancora.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="43"/>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In Italia ma non in ogni monte et selve et venghono adoperati per sustentar le viti
+          <p part="N"> In Italia ma non in ogni monte et selve et venghono adoperati per sustentar le viti
             con vagho aspetto a rimiranti al tempo del suo vagho fiore. Et bisognarebbe che si
             rascontrasseno con li grappoli del uva che renderebeno maraviglia.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'ecc. m. <persName ref="#Ghini">Luca Ghini</persName> et ecc. m. <persName ref="#Aldrovandi">Ulisse Aldrovandi</persName> lo thiene per il Aburnum Plinij. Et
+          <p part="N"> L'ecc. m. <persName ref="#Ghini" instant="false" full="yes">Luca Ghini</persName> et ecc. m. <persName ref="#Aldrovandi" instant="false" full="yes">Ulisse Aldrovandi</persName> lo thiene per il Aburnum Plinij. Et
             l'ecc.<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 85 non ha questa oppinione ma la seconda spezie di Hebano per esser
             di medola nera come l'Hebano et non bianca come l'Alburnio.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Le magiche donne di suoi fagiuoli fanno de molte spurcicie et son potente nel vomito.
+          <p part="N"> Le magiche donne di suoi fagiuoli fanno de molte spurcicie et son potente nel vomito.
             La radice in succhio risolve et matura.... </p>
         </div>
-        <div type="editorial-D">
-          <p>[Pianta fiorita sorgente in un paesaggio campestre. A sinistra due grappoli, l'uno
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Pianta fiorita sorgente in un paesaggio campestre. A sinistra due grappoli, l'uno
             fiorito accompagnato da foglia, l'altro con pochi frutti maturi e pedicelli brulli. Così
             lo studioso è in grado di far bene il confronto tra la ricca infiorescenza di questa
             specie e quella povera della seguente e tra le forme dei fiori.</p>
-          <p>L'Anguillara chiamò questa specie ebano secondo pel suo legno. che invecchiando diviene
+          <p part="N">L'Anguillara chiamò questa specie ebano secondo pel suo legno. che invecchiando diviene
             scuro e tenace tanto da sostituire il vero ebano (Diospyrus Ebenum Retz.) nelle
             costruzioni dei mobili, strumenti musicali ecc. Ne sono alterazioni i nomi dgano, gegano
             qui citati dal Michiel, che ulteriormente corrotti in <hi>iègol, gègol, diègol, viègol, égol</hi>
             [278, p. 72-73] sopravvivono ancora nei dialetti parlati nelle montagne del Veneto,
             specialmente nel Bellunese (<ptr target="#A-058-N1"/>).</p>
-          <p>Il nome pliniano laburnum fu alterato in <hi>labornio, lavornio</hi> da cui provennero <hi>abornio,
+          <p part="N">Il nome pliniano laburnum fu alterato in <hi>labornio, lavornio</hi> da cui provennero <hi>abornio,
             avornio</hi> nella credenza che la <hi>l</hi> iniziale fosse un articolo apostrofato (<ptr target="#A-058-N2"/>) perciò il
             Ghini e l'Aldrovandi, latinizzando la parola italiana, scrissero <hi>aburnum</hi>].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-058-N1" n="1"> Il cambiamento della labiale nella &amp; dura trovasi in altre parole del
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-058-N1" n="1" anchored="true"> Il cambiamento della labiale nella &amp; dura trovasi in altre parole del
             dialetto bellunese; es. ogol per oppio (opulus Acer campestre). Quanto alla <hi>l</hi> messa in
             posto della <hi>n</hi>, ricordiamo che i Greci stessi usavano promiscuamente <foreign xml:lang="grc">έβενος</foreign> ed <foreign xml:lang="grc">έβελος</foreign>.</note>
-          <note xml:id="A-058-N2" n="2"> In modo simile <hi>lottone</hi> divenne <hi>ottone</hi> (dial. ven. <hi>latón</hi>), <hi>lusignolo</hi> divenne
+          <note xml:id="A-058-N2" n="2" anchored="true"> In modo simile <hi>lottone</hi> divenne <hi>ottone</hi> (dial. ven. <hi>latón</hi>), <hi>lusignolo</hi> divenne
             <hi>usignuolo</hi> (lat. luscixia).</note>
         </div>
       </div></TEI>

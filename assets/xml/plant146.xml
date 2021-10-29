@@ -4,61 +4,61 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-146">
+  </teiHeader><div type="plant" xml:id="A-146" part="N" org="uniform" sample="complete">
         <head>N. 146 ASPALATO</head>
-        <ab>(Genista aspalathoides Lam.)</ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213311">[<hi>Genista aspalathoides Lam.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Aspalathus, Erysisceptron da Greci Sphagnion, Phasganon da altri Dyaxylon da Syri.</p>
+          <p part="N"> Aspalathus, Erysisceptron da Greci Sphagnion, Phasganon da altri Dyaxylon da Syri.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Due spetie ne pone Diascoride, uno con la cortice rubea odoriffero, l'altro bianco
+          <p part="N"> Due spetie ne pone Diascoride, uno con la cortice rubea odoriffero, l'altro bianco
             sanza odore.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In Istro, Nysiro, Syria et a Rhodi dunde io hebbi una mo stra di questo.</p>
+          <p part="N"> In Istro, Nysiro, Syria et a Rhodi dunde io hebbi una mo stra di questo.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Sempre verdeggia mi fu deto.</p>
+          <p part="N"> Sempre verdeggia mi fu deto.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> De suoi germini si possono trasportare, et credo di semi ancora ma pero non li ho
+          <p part="N"> De suoi germini si possono trasportare, et credo di semi ancora ma pero non li ho
             veduti.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONE</head>
-          <p> Questa son la oppinione del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> narrata da lui a k. 36 per raporto de M.
+          <p part="N"> Questa son la oppinione del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> narrata da lui a k. 36 per raporto de M.
             Costantin Rhodioto speziale dignissimo in Candia degno di fede, qual mi mando la mostra
             di esso per il Magnifico sig. Gabriel Valaresso al tempo che Suoa Magnificencia era
-            consiglier in Candia (1). Altri pensorno che il Sandalo rosso sia l'Aspalato, ma
-            <persName ref="#Serapione">Serapione</persName> lo chiarisse. Altri se inganano tenendo il legittimo Aloe per il deto
+            consiglier in Candia (<ptr target="#A-146-N1"/>). Altri pensorno che il Sandalo rosso sia l'Aspalato, ma
+            <persName ref="#Serapione" instant="false" full="yes">Serapione</persName> lo chiarisse. Altri se inganano tenendo il legittimo Aloe per il deto
             Aspalato.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI</head>
-          <p>Di meglio di questo per l'Aspalato io non ho già veduto abenche de molte mostre si
+          <p part="N">Di meglio di questo per l'Aspalato io non ho già veduto abenche de molte mostre si
             vanno dimostrando.</p>
         </div>
-        <div type="editorial-D">
-          <p>[L'Anguillara riteneva dapprima che l'aspalato fosse l'incenso, ma rettifico l'opi-
-            nione dopochè il Rodiotto (2) qui nominato gli mando la descrizione della pianta pre-
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[L'Anguillara riteneva dapprima che l'aspalato fosse l'incenso, ma rettifico l'opi-
+            nione dopochè il Rodiotto (<ptr target="#A-146-N2"/>) qui nominato gli mando la descrizione della pianta pre-
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="102"/>sente che è
             riportata nei Semplici; Lo stesso Rodiotto mandò al Michiel un campione che perd
             giunse secco, come lo dimostra la figura del presente codice nella quale i fiori son ben
             poco distinti. Essa è la prima conosciuta, precedendo quella del Pona [204]).</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-146-N1" n="1"> Dal 16 Giugno 1550 al 15 Febbraio 1553.</note>
-          <note xml:id="A-146-N2" n="2"> Non Roberto come lo chiama lo Sprengel.</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-146-N1" n="1" anchored="true"> Dal 16 Giugno 1550 al 15 Febbraio 1553.</note>
+          <note xml:id="A-146-N2" n="2" anchored="true"> Non Roberto come lo chiama lo Sprengel.</note>
         </div>
       </div></TEI>

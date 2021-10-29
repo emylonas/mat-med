@@ -4,55 +4,55 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-072">
+  </teiHeader><div type="plant" xml:id="A-072" part="N" org="uniform" sample="complete">
         <head>N. 72 ALIMO DE CRATEUA</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000400715"/>[<hi>Rhododendron hirsutum L.</hi>]</ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000400715"/>[<hi>Rhododendron hirsutum L.</hi>]</ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Alimo da Crateua - Mirto agreste da rustici - Cneoro dal Mathiolo.</p>
+          <p part="N"> Alimo da Crateua - Mirto agreste da rustici - Cneoro dal Mathiolo.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> De mirti ne sonno di 3 spezie sanza questo abenché non si puol dir che questo sia
+          <p part="N"> De mirti ne sonno di 3 spezie sanza questo abenché non si puol dir che questo sia
             spetie di mirto. De Alimi poi questo et quello diverso de Diascoride k. 143 (<ptr target="#A-072-N1"/>), di
             Cneoro Theophrasto ne pone due spetie di nero et di bianco.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Nelle selve et boschi apresso a l'Hedera in Cadore, quel de Diascoride ne luoghi
+          <p part="N"> Nelle selve et boschi apresso a l'Hedera in Cadore, quel de Diascoride ne luoghi
             marini a Samni hoggi chiamata Abruzzio.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Sempre verdeggia et sta virente.</p>
+          <p part="N"> Sempre verdeggia et sta virente.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Quello Alimo de Diascoride l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 57 lo chiarisse et ne ponne due spetie. Il
+          <p part="N"> Quello Alimo de Diascoride l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 57 lo chiarisse et ne ponne due spetie. Il
             Mathiolo pone questa pianta per il Cneoro bianco di Theophrasto et confonde le oppinioni
             con raggioni del Anguilara che vuole che gli Cneuri siano lo volgar Rosmarino et la
             Lavanda ma questo da me demostro non mi pare quello demostra il Mathiolo k. 51 per il
             Cneoro bianco benche il Guilandini me disse esser l'istesso, ma ben questo ne parla lui
             k. 176 al cap. del Alimo.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Pianta sterile. Dal testo si rileva che il campione il quale servi di originale fu
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Pianta sterile. Dal testo si rileva che il campione il quale servi di originale fu
             mandato dal Cadore perché l'abitazione del Sannio si riferisce all'Alimo di Dioscoride
             ed è copiata dall'Anguillara.</p>
-          <p>Il dubbio del Michiel era giusto perché il Cneoro di Mattioli è Daphne Cncorum figur. a
-            N. 31 di questo codice, non già la specie presente, come riteneva il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandino</persName>. Errò
+          <p part="N">Il dubbio del Michiel era giusto perché il Cneoro di Mattioli è Daphne Cncorum figur. a
+            N. 31 di questo codice, non già la specie presente, come riteneva il <persName ref="http://thesaurus.cerl.org/record/cnp01884856" instant="false" full="yes">Guilandino</persName>. Errò
             anche il Michiel ritenendo che essa fosse l'ἅλιμος di Crateva (<ptr target="#A-072-N2"/>), ma ha il merito di averla fatta per primo conoscere colla iconografia. Poco dopo troviamo la figura
             del Lobelio col nome «Balsamum alpinum»].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-072-N1" n="1"> * S'intende n. 143 di questo Libro. (Ed.).</note>
-          <note xml:id="A-072-N2" n="2"> Notiamo che il nome diyos significante marino sconviene al rododendro che è
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-072-N1" n="1" anchored="true"> * S'intende n. 143 di questo Libro. (Ed.).</note>
+          <note xml:id="A-072-N2" n="2" anchored="true"> Notiamo che il nome diyos significante marino sconviene al rododendro che è
             specie montana e difatti lo stesso Michiel dice che l'altro alimo descritto da
             Anguillara vive lungo il mare. Quest'ultimo ſu identificato con Alriplex Halimus.</note>
         </div>

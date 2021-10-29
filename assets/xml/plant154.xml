@@ -4,56 +4,56 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-154">
+  </teiHeader><div type="plant" xml:id="A-154" part="N" org="uniform" sample="complete">
         <head>N. 154 TEMBUL TENUTO</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOME</head>
-          <p> Tembul da Persiani Et li altri nomi 153.</p>
+          <p part="N"> Tembul da Persiani Et li altri nomi 153.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Se questo ci fusse sarebbeno doi specie (1), l'altra da driedo k. 153 -</p>
+          <p part="N"> Se questo ci fusse sarebbeno doi specie (1), l'altra da driedo k. 153 -</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoa radice ramosa et grossa. Son albero grande, suoe foglie piui grande del Lauro,
+          <p part="N"> Suoa radice ramosa et grossa. Son albero grande, suoe foglie piui grande del Lauro,
             con tre nervi sotili per lungho, liscie et di chiaro verde.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Si portano a noi delle suoe foglie de Alessandria.</p>
+          <p part="N"> Si portano a noi delle suoe foglie de Alessandria.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Credo che sempre si stia verde.</p>
+          <p part="N"> Credo che sempre si stia verde.</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p> Sole et paese calido.</p>
+          <p part="N"> Sole et paese calido.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> Penso che fazzi fruti con nuclei che di quelli ci nasca.</p>
+          <p part="N"> Penso che fazzi fruti con nuclei che di quelli ci nasca.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Hermolao, Ruelio, et dal Brasavola son tenuto per il Tembul de li Arabi sanza lasarsi
+          <p part="N"> Hermolao, Ruelio, et dal Brasavola son tenuto per il Tembul de li Arabi sanza lasarsi
             intendere la ragione et il perché. dunde io penso che queste foglie siano de Alberi
             incogniti a noi.</p>
         </div>
-        <div type="editorial-D">
-          <p>(Fu disegnata dapprima una foglia ingiallita (145 mm. X45) mm. e poi un albero col
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">(Fu disegnata dapprima una foglia ingiallita (145 mm. X45) mm. e poi un albero col
             tronco mozzo alto e con rami fogliosi. Ben distinte in tutte le foglie le tre ner-
             vature longitudinali].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-154-N1" n="1"> * Dal confronto dei due fogli 153 e 154, tenendo conto delle differenze di
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-154-N1" n="1" anchored="true"> * Dal confronto dei due fogli 153 e 154, tenendo conto delle differenze di
             scrittura che rivelano aggiunte successive (nella trascrizione, in corsivo) pare che
             il Michiel avesse prima seguito l'Anguillara ritenendo trattarsi di due specie distinte,
             risp. d'India e di Persia, e si sia poi indotto ad attribuire alla 1 anche nomi e

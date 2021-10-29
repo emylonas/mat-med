@@ -4,56 +4,56 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-022">
+  </teiHeader><div type="plant" xml:id="A-022" part="N" org="uniform" sample="complete">
         <head>* N. 22 MOLI ALBERO DE INDIA</head>
-        <ab>[Not identified]</ab>
-        <div type="name">
+        <ab part="N">[Not identified]</ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Moli de India albero grande.</p>
+          <p part="N"> Moli de India albero grande.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Con questo nome moli diversità si sente. Questo, Moli Theophrasto Et moli di
+          <p part="N"> Con questo nome moli diversità si sente. Questo, Moli Theophrasto Et moli di
             Diascoride nel altro <ref target="#G-059">L.º [Gi] k. 59 / et k. 58</ref>.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Son Albero grande come noci, con foglia minuta, et il rimanente simil al finocchio.
+          <p part="N"> Son Albero grande come noci, con foglia minuta, et il rimanente simil al finocchio.
             Et fano fruti piccioli.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In India nella valle et fonte <placeName ref="https://www.geonames.org/3937733/jauja.html">Sausa</placeName> al Tempio <placeName ref="https://www.geonames.org/6672571/huancayo.html">Guaribilca</placeName> et nel Bagnio Angoiaco vi
+          <p part="N"> In India nella valle et fonte <placeName ref="https://www.geonames.org/3937733/jauja.html" instant="false" full="yes">Sausa</placeName> al Tempio <placeName ref="https://www.geonames.org/6672571/huancayo.html" instant="false" full="yes">Guaribilca</placeName> et nel Bagnio Angoiaco vi
             core un fiume che fa una picciola valle oue sonno molti alberi di questo Moly ne piani
             et valle del Perù et nelle selve degli Andi.</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p> Luoghi humidi et acquosi.</p>
+          <p part="N"> Luoghi humidi et acquosi.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p>Son l'istessa così domandata da Indiani.</p>
+          <p part="N">Son l'istessa così domandata da Indiani.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="25"/>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Tengono al Tempio di Guaribiica 4 alberi per sacri l'Indiani cavandone grande utilità
+          <p part="N"> Tengono al Tempio di Guaribiica 4 alberi per sacri l'Indiani cavandone grande utilità
             di questo albero Mollj. La suoa scorza son tanto gioveuole a dolori di gambe et
             gonfiature lavandosi alcune volte con suoa decotione che fa restare sanza dolore. Li
             suoi rami piccioli vagliano a purificare i denti. Di uno picciolo fruto ne cava buona
             bevanda et aceto et mele cativo come piui copiosamente si legge nel <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">primo libro
               del India</ref> k. 162, 163 et 200 et nel <ref type="bibl" target="http://id.sbn.it/bid/LO1E013261">libro secondo</ref> k. 285 [* 77].</p>
         </div>
-        <div type="editorial-D">
-          <p>[Albero a fg. opposte in serie numerose sui rami, sparse di frutti verdi, poco più
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Albero a fg. opposte in serie numerose sui rami, sparse di frutti verdi, poco più
             grandi delle ig. tubercolati (?) umbilicati]. -</p>
         </div>
       </div></TEI>

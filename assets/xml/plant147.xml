@@ -4,53 +4,53 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-147">
+  </teiHeader><div type="plant" xml:id="A-147" part="N" org="uniform" sample="complete">
         <head>N. 147 TAMARINDI</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Tamarindi da Arabi Datili indiani da Latini Palma salvatica da simplicisti
+          <p part="N"> Tamarindi da Arabi Datili indiani da Latini Palma salvatica da simplicisti
             Oxiphenica da Greci.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Le spetie de datili sarebbe differenti a questo modo.</p>
+          <p part="N"> Le spetie de datili sarebbe differenti a questo modo.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Son albero indiano. Suoe radici legnose, suoi tronchi scorziuti, sue frondi simil a
+          <p part="N"> Son albero indiano. Suoe radici legnose, suoi tronchi scorziuti, sue frondi simil a
             salci, suoi fruti dolci acerimi di rubeo colore di molta medola di color crocei che tira
             al nero, suoi noccioli di imperfetta forma giallezzi.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne sonno stati trasportati nella Spagnia et a Narnem dalle Indie.</p>
+          <p part="N"> Ne sonno stati trasportati nella Spagnia et a Narnem dalle Indie.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Per il nome de tamarindo son tenuto per spetie di palma salvatica, ma nella forma non
+          <p part="N"> Per il nome de tamarindo son tenuto per spetie di palma salvatica, ma nella forma non
             son già simili.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Questo albero con foglia di salci puolsi credere ci sia de tamarindi perché nelli
+          <p part="N"> Questo albero con foglia di salci puolsi credere ci sia de tamarindi perché nelli
             fruti son stato ritrovato foglie simili et anche si acorda con le Pandete et con il
             detto ci narra il Mathiolo.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Traviati da quanto dice <persName ref="#Serapione">Serapione</persName>, che il tamarindo ha foglie di salice, e da quanto
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Traviati da quanto dice <persName ref="#Serapione" instant="false" full="yes">Serapione</persName>, che il tamarindo ha foglie di salice, e da quanto
             dice Mesue, che il frutto proviene da specie di palme dell'India (donde il nome arabo
             ta- mar-indi) vari autori fecero una pianta fittizia con foglie semplici lanceolate e
-            frutti ovoidali a guisa datteri. Tale la troviamo nel <persName ref="#Rinio">Rinio</persName> a c. 108, e simile, ma con
+            frutti ovoidali a guisa datteri. Tale la troviamo nel <persName ref="#Rinio" instant="false" full="yes">Rinio</persName> a c. 108, e simile, ma con
             foglie più allungate e pallide per assomigliarle meglio a quelle di Salix alba, è questa
             del Michiel. I frutti sono ovoidi, giallo-dorati con fasce longitudinali brune. Il
             <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref>, il quale copiò la maggior parte delle figure dal Michiel, copiò quella del
             tamarindo dal Rinio, come egli stesso avverte.</p>
-          <p> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta (2)]. -</p>
+          <p part="N"> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta (2)]. -</p>
         </div>
       </div></TEI>

@@ -4,42 +4,42 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-052">
+  </teiHeader><div type="plant" xml:id="A-052" part="N" org="uniform" sample="complete">
         <head>N. 52 MACALEB</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/>[<hi>Prunus Mahaleb L.</hi>]</ab>
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/>[<hi>Prunus Mahaleb L.</hi>]</ab>
   
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Machaleb da' profumieri et <persName ref="#Serapione">Serapione</persName>.</p>
+          <p part="N"> Machaleb da' profumieri et <persName ref="#Serapione" instant="false" full="yes">Serapione</persName>.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Et son tenuto per spezie de Cerasa silvestre.</p>
+          <p part="N"> Et son tenuto per spezie de Cerasa silvestre.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> A <placeName ref="https://www.geonames.org/3182460/monte-baldo.html">Monte Baldo</placeName> sul veronese et in <placeName ref="https://www.geonames.org/3190590/slavonia.html">Schiavonia</placeName>.</p>
+          <p part="N"> A <placeName ref="https://www.geonames.org/3182460/monte-baldo.html" instant="false" full="yes">Monte Baldo</placeName> sul veronese et in <placeName ref="https://www.geonames.org/3190590/slavonia.html" instant="false" full="yes">Schiavonia</placeName>.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> De' suoi semi mi naque.</p>
+          <p part="N"> De' suoi semi mi naque.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Questo son l'istesso nato de semi di Machaleb da profumieri. Et s'inganò Serapione nel
+          <p part="N"> Questo son l'istesso nato de semi di Machaleb da profumieri. Et s'inganò Serapione nel
             credersi che la Phyllirea di Diascoride sia il Machaleb degli Arabi.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera. A parte un ramoscello con foglie.</p>
-          <p>Il Michiel qui corregge un errore di Serapione seguito da altri Arabi e già avvertito
-            da <persName ref="#Cordo">Simone da Cordo</persName> che però non aveva indicato qual fosse il vero Mahaleb.</p>
-          <p>Secondo <persName ref="#Serapione">Serapione</persName> il Mahaleb era Phyllirea variabilis, secondo altri autori Ligustrum
-            vulgare; quest'ultima opinione è riportata dal <persName ref="#Rinio">Rinio</persName> a c. 389 del suo codice].</p>
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Pianta fiorita e fruttifera. A parte un ramoscello con foglie.</p>
+          <p part="N">Il Michiel qui corregge un errore di Serapione seguito da altri Arabi e già avvertito
+            da <persName ref="#Cordo" instant="false" full="yes">Simone da Cordo</persName> che però non aveva indicato qual fosse il vero Mahaleb.</p>
+          <p part="N">Secondo <persName ref="#Serapione" instant="false" full="yes">Serapione</persName> il Mahaleb era Phyllirea variabilis, secondo altri autori Ligustrum
+            vulgare; quest'ultima opinione è riportata dal <persName ref="#Rinio" instant="false" full="yes">Rinio</persName> a c. 389 del suo codice].</p>
         </div>
       </div></TEI>

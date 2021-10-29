@@ -4,23 +4,23 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="preface">
+  </teiHeader><div type="preface" part="N" org="uniform" sample="complete">
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="11"/>
         <head>LIBRO DE ALBORI, FRUTICI ET IN VOGLI</head>
         
-        <p>Considerando io, Piero Antonio Michiel fu de Messer Marco, che l'ordine in tutte le ationi
+        <p part="N">Considerando io, Piero Antonio Michiel fu de Messer Marco, che l'ordine in tutte le ationi
           sonno apreciabile, però al meglio io ho saputo, ho partito le varietà delle piante in
           diversi libri aciò siano manco confusi et reduti in manco volume essendo partiti in quatro
           distinte opere, zioè questa di Albori, frutici et invogli (<ptr target="#prN1"/>), la seconda di Herbe
           aculeate et di radici bulbose et rotonde, il terzio di Piante legnose et di piante con
-          radice capillare et sottille, il quarto di Herbe con radice carnose et grosse, dunde
+          radice capillare et sottille, il quarto di Herbe con radice carnose et grosse; dunde
           l'huomo saperà (<ptr target="#prN2"/>) più al facile ritrovare quello che desidera governandosi da questo
           ordine saperà in qual libro son la pianta che ricerca. Et ogni libro harà (<ptr target="#prN3"/>) il suo
           indice et alfabeto con tutte le varietà de sinonomi ho possuto intravenire, acioché tanto
@@ -28,8 +28,8 @@
           ogni uno per il suo nome intravenire in quello che desidera, et pigliarne quella utilità
           et inteligentia che potrà, dando colpa al debil et pocho saper mio, cogliendo qualche
           rosa, se pure ne serano, tra tanti spini.</p>
-        <div type="editorial-D">
-          <p>[Qui appare chiaro l'ordine propostosi dall'Autore il quale spartì le piante in quattro
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Qui appare chiaro l'ordine propostosi dall'autore, il quale spartì le piante in quattro
             divisioni artificiali: 
             1° Piante legnose e piante volubili contenute nel presente libro
             Azzurro. 
@@ -39,26 +39,26 @@
             terza, egli fece fare i libri più o meno ricchi di pagine secondo il numero probabile di
             piante che dovevano allogarvisi, perciò il maggiore fu il rosso, seguirono in grandezza
             il verde, l'azzurro, il giallo. Contuttociò il libro rosso divenne insufficiente perché
-            l'Autore vi allogava oltre le piante a radice sottile, tutte quelle a radice
+            l'autore vi allogava oltre le piante a radice sottile, tutte quelle a radice
             sconosciuta, da ciò ne 
             <pb n="12"/>
             venne l'aggiunta di un secondo libro rosso che in un punto del codice (<ref target="#R1-177">Ro. I. 177</ref>) è
             chiamato libro nuovo. Di mano in mano che cresceva il numero delle piante, riconobbe
-            l'Autore l'insufficienza di questa primitiva classificazione, quindi la modificò una
+            l'autore l'insufficienza di questa primitiva classificazione, quindi la modificò una
             prima volta nel libro rosso, un'altra nel libro verde come si legge nelle relative
             introduzioni. Però queste due nuove classificazioni furono semplicemente esposte e
-            l'Autore non potè metterle in pratica, perché ciò avrebbe portato uno spostamento nelle
+            l'autore non potè metterle in pratica, perché ciò avrebbe portato uno spostamento nelle
             pagine ormai numerate ed un conseguente cangiamento dei numeri spesso citati al capitolo
-            Genera. Già il <persName ref="#Morelli">Morelli</persName> avvertì che gli indici alfabetici promessi dall'Autore in questo
+            Genera. Già il <persName ref="#Morelli" instant="false" full="yes">Morelli</persName> avvertì che gli indici alfabetici promessi dall'autore in questo
             esordio mancano nel Codice. Le pagine bianche che si trovano, non solo in fine ma anche
             nel corpo dei libri tenderebbero a provare che il Michiel non considerava finito il suo
             lavoro e si riservava di far l'indice quando il codice fosse pronto per le stampe, ma
             che la morte quasi improvvisa ne lo impedì].</p>
         </div>
-        <div type="notes">
-          <note xml:id="prN1" n="1"> Invogli, cioè piante volubili, quindi il primo libro comprende le piante
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="prN1" n="1" anchored="true"> Invogli, cioè piante volubili, quindi il primo libro comprende le piante
             legnose e le rampicanti.</note>
-          <note xml:id="prN2" n="2"> Saprà.</note>
-          <note xml:id="prN3" n="3"> Avrà.</note>
+          <note xml:id="prN2" n="2" anchored="true"> Saprà.</note>
+          <note xml:id="prN3" n="3" anchored="true"> Avrà.</note>
         </div>
       </div></TEI>

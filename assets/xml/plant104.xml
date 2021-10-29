@@ -4,30 +4,30 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-104">
+  </teiHeader><div type="plant" xml:id="A-104" part="N" org="uniform" sample="complete">
         <head>N. 104 TEREBINTO</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000393769">[<hi>Pistacia Terebinthus L.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000393769">[<hi>Pistacia Terebinthus L.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Therebintum et Albotin da Greci - Botin da Arabi - Arbor grani viridis da Latini - Scalegnia
+          <p part="N"> Therebintum et Albotin da Greci - Botin da Arabi - Arbor grani viridis da Latini - Scalegnia
             Trinonte (<ptr target="#A-104-N1"/>) in Abruzzio - Corno Capra in Romagnia (<ptr target="#A-104-N2"/>) - Lentisco sul Padovano.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Vi sonno il maschio che non fa fruto et la femina si che (<ptr target="#A-104-N3"/>) ne sonno de due specie.
+          <p part="N"> Vi sonno il maschio che non fa fruto et la femina si che (<ptr target="#A-104-N3"/>) ne sonno de due specie.
             Una produce il fruto rosso che rasembrano a lentecchie, l'altra il produce verde, et
             nel maturarsi rosso et doppo nero di grandezza di fava et sono uno grande et l'altro
             piccolo et storto.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p>Suoe radice dure et proffunde, son albero mediocre con legno <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="75"/> arendevole et il scorzio raggioso et in
+          <p part="N">Suoe radice dure et proffunde, son albero mediocre con legno <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="75"/> arendevole et il scorzio raggioso et in
             solpharato, suoe frondi a due a due et in fin una nel ordine del sorbo et simil al lauro
             ma piui larghete, con alquanto constrettivo sapore. Suoi fioreti pendenti in
             grappolini rossi come l'olivo. Suoi fruti piccoli et tenaci rotondi et lustri, et
@@ -37,36 +37,36 @@
             grosse et lunghe. Et de piui producono anchora uno rotondo fruto tercio simil a nocelle.
             Et suoe frondi alcuni le mangiano.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In Syria grandi e neri. Nel Monte Ida di Trogia (<ptr target="#A-104-N4"/>). In Macedonia ma picciol. In
+          <p part="N"> In Syria grandi e neri. Nel Monte Ida di Trogia (<ptr target="#A-104-N4"/>). In Macedonia ma picciol. In
             Damasco sonno grandi. Nel Monte di Castel trento. Nel Monte Baldo. Et io ne ho custodito
             uno di Cypri. Ne sonno in Schiavonia, in Toscana et in Abruzzio.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Come altri autori, il Michiel ritenne che le galle fossero frutti e perciò ne distin-
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Come altri autori, il Michiel ritenne che le galle fossero frutti e perciò ne distin-
             gue tre specie, di cui la prima è il vero frutto. </p>
-          <p>La figura rappresenta un prato in mezzo al quale sorge l'intera pianta con foglie e
+          <p part="N">La figura rappresenta un prato in mezzo al quale sorge l'intera pianta con foglie e
             pannocchie portanti drupe miste a galle sferiche gialle (frutto terzo dell'A).</p>
-          <p>È pur dipinto un uomo che sta estraendo dal tronco la resina ed attaccata al fusto c'è
+          <p part="N">È pur dipinto un uomo che sta estraendo dal tronco la resina ed attaccata al fusto c'è
             una lista col motto: «Per compiacere lagrimo, allusivo alle proprietà mediche del-
             l'estratto. A destra un ramo con foglie, pannocchia di frutti e galle (rutto terzo
             sopranominato). A sinistra una foglia colla galla descritta nel testo come vescica a
             noce (<ptr target="#A-104-N5"/>) perché esternamente bruna e solcata longitudinalmente, ben riconoscibile per
             quella prodotta dagl'insetti afidini del genere Pemphigus che l'autore per la
             piccolezza del corpo e la trasparenza delle ale paragond a zanzare.</p>
-          <p>La figura dell'albero è difettosa; migliori son quelle ai lati.</p>
-          <p>Del terebinto trovasi campione nell'Erbario Aldrovandi, Vol. II, 99].</p>
+          <p part="N">La figura dell'albero è difettosa; migliori son quelle ai lati.</p>
+          <p part="N">Del terebinto trovasi campione nell'Erbario Aldrovandi, Vol. II, 99].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-104-N1" n="1"> L'Anguillara scrisse: «Chjamasi il Terebintho in Abruzzio nel Contado di
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-104-N1" n="1" anchored="true"> L'Anguillara scrisse: «Chjamasi il Terebintho in Abruzzio nel Contado di
             Rocca Scalegna Trivente voce alquanto corrotta da Terebintho». Il Michiel credette
             che il villaggio abruzzese si chiamasse puramente Rocca e trascrisse Scalegna Trivento
             come nome della pianta, corrompendo ulteriormente Trivente in Trinonte.</note>
-          <note xml:id="A-104-N2" n="2"> A Roma.</note>
-          <note xml:id="A-104-N3" n="3"> Si, della qual femmina.</note>
-          <note xml:id="A-104-N4" n="4"> Odierno Kaz-dagh.</note>
-          <note xml:id="A-104-N5" n="5"> La galla fu paragonata ad una noco perché non aveva ancora raggiunto il suo
+          <note xml:id="A-104-N2" n="2" anchored="true"> A Roma.</note>
+          <note xml:id="A-104-N3" n="3" anchored="true"> Si, della qual femmina.</note>
+          <note xml:id="A-104-N4" n="4" anchored="true"> Odierno Kaz-dagh.</note>
+          <note xml:id="A-104-N5" n="5" anchored="true"> La galla fu paragonata ad una noco perché non aveva ancora raggiunto il suo
             completo sviluppo. Nel numero seguente, avendo avuto notizia della forma di una galla
             matura, la paragona ad un baccello. Pena e Lobelio [180] figurarono il terebinto colla
             galla (folliculus) donde escono gli insetti (volucellas sive culices). </note>

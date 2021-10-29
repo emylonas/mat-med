@@ -4,53 +4,53 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-153">
+  </teiHeader><div type="plant" xml:id="A-153" part="N" org="uniform" sample="complete">
         <head>N. 153 TEMBUL</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Tembul da Arabi persiani Folio da Portogesi Betel da Indiani Folio da Indiani et
+          <p part="N"> Tembul da Arabi persiani Folio da Portogesi Betel da Indiani Folio da Indiani et
             Persiani.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Ne sonno una sp. in India deta Betel, et una in Persia che son questa.</p>
+          <p part="N"> Ne sonno una sp. in India deta Betel, et una in Persia che son questa.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoa radice pocha et suoi germini se invogliono con de molti capreoli, suoe frondi
+          <p part="N"> Suoa radice pocha et suoi germini se invogliono con de molti capreoli, suoe frondi
             simil all'Alicacabo overo all'Apochinos del Francese puzolente [N. 42]. Et queste
             foglie ho havute seche con agrato odore ma potria esser che lo havessero preso da
             qualche odorata cosa li fussero stata apresso di varie odoriffere droghe pur mi parse
             esser suo odore. Non produce seme né fiore.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In Portogalo et in Arabia, in Persia. Et il Betel nel paese dei Malabari et nasce in
+          <p part="N"> In Portogalo et in Arabia, in Persia. Et il Betel nel paese dei Malabari et nasce in
             luoghi aridi et sechi.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>M. Cechino dal Angelo virtuosissimo et inteligente mi diede questa mostra et dissemi
+          <p part="N"><persName ref="#Cechin" instant="false" full="yes">M. Cechino dal Angelo</persName> virtuosissimo et inteligente mi diede questa mostra et dissemi
             come per raporti si tiene che questa sia il Tembul et che la chiamano con questo nome.
-            Et apresso ha la fede dal Ecc. M. huomo singularissimo Michiele di Muti et veridico.
-            Conferma a questo l'Ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>
+            Et apresso ha la fede dal ecc. M. huomo singularissimo Michiele di Muti et veridico.
+            Conferma a questo l'ecc. <persName ref="#Anguillara" instant="false" full="yes">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Nella figura c'è di tratto dal vero solo il disegno di una foglia ingiallita (82 mm
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Nella figura c'è di tratto dal vero solo il disegno di una foglia ingiallita (82 mm
             60 mm)].</p>
-          <p>Dietro questa e dietro le descrizioni del De Muti e dell'aAnguillara il Michiel fece
+          <p part="N">Dietro questa e dietro le descrizioni del De Muti e dell'aAnguillara il Michiel fece
             anche fare il disegno di una pianta sterile a fusto volubile, con viticci oppostifogli.
-            Le parti che furono aggiunte dopo son tratte dall'<persName ref="#Anguillara">Anguillara</persName> il quale distingueva il
+            Le parti che furono aggiunte dopo son tratte dall'<persName ref="#Anguillara" instant="false" full="yes">Anguillara</persName> il quale distingueva il
             Betel dal Tembul. Nella copia del suo libro esistente alla Marciana vi è una glosa ms.
             del Guilandino in cui è detto che il Tembul degli Arabi e Persiani è la stessa cosa del
             Betel indiano.</p>
-          <p>Del pepe c'è una figura fittizia a N. 159].</p>
+          <p part="N">Del pepe c'è una figura fittizia a N. 159].</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="105"/>

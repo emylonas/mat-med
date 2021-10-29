@@ -4,63 +4,63 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-008">
+  </teiHeader><div type="plant" xml:id="A-008" part="N" org="uniform" sample="complete">
         <head>N. 8 SAVINA</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000354994">[<hi>I. Juniperus Sabina L.</hi>]</ref>. - <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355663">[<hi>II, Juniperus phoenicea L.</hi></ref>]</ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000354994">[<hi>I. Juniperus Sabina L.</hi>]</ref>. - <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355663">[<hi>II, Juniperus phoenicea L.</hi></ref>]</ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p>Savina da volg. - Abhel da Arabici da Germ. - Savinier da Galeno - Arathy, Barython
+          <p part="N">Savina da volg. - Abhel da Arabici da Germ. - Savinier da Galeno - Arathy, Barython
             et Baron Brachi da Greci - Sabina da Romani - Sevembaum (<ptr target="#A-008-N1"/>) da Germ. - Savinier da Galeno - Smirichi Gluchi (<ptr target="#A-008-N2"/>) per la Schiavonia
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="17"/> Thuvia da
             Theophrasto et Tuffia - Sellagine Plinij una altra Herba simile.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Due sonno le sp. di Savine, l'una che rassembrano nella foglia a Cipressi [I] et
+          <p part="N"> Due sonno le sp. di Savine, l'una che rassembrano nella foglia a Cipressi [I] et
             l'altra al Tamarigio [II].</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Quella con foglie di Cipresso ma piui spinose viene de <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName>, l'altra per la
-            <placeName ref="https://www.geonames.org/3190590/slavonia.html">Schiavonia</placeName> ne sono (<ptr target="#A-008-N3"/>).</p>
+          <p part="N"> Quella con foglie di Cipresso ma piui spinose viene de <placeName ref="https://www.geonames.org/3183560/abruzzo.html" instant="false" full="yes">Abruzzio</placeName>, l'altra per la
+            <placeName ref="https://www.geonames.org/3190590/slavonia.html" instant="false" full="yes">Schiavonia</placeName> ne sono (<ptr target="#A-008-N3"/>).</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>L'Ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 46 dice esser de due spezie et la prima
+          <p part="N">L'ecc. M. <persName ref="#Anguillara" instant="false" full="yes">Alovise Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 46 dice esser de due spezie et la prima
             esser la Tuvia Theophrasti et anche altri moderni simplicisti così ci tiene. Altri pure
             de moderni tiene esser la <hi>Miride Egiptia</hi>. Et molti con errore la prendeno per la
             Selagine di Plinio che son herba.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Le magice femine triste ne fanno de varie spurticie (<ptr target="#A-008-N4"/>) con esse. Et fannosi proffumi
+          <p part="N"> Le magice femine triste ne fanno de varie spurticie (<ptr target="#A-008-N4"/>) con esse. Et fannosi proffumi
             di esse che giovano posti al luogho delle donne per far uscire morti fanciuli. Et
             beendone con il vino et melle sana il regio morbo (<ptr target="#A-008-N5"/>). Et son valorosa per escicar et
             provocar li mestrui et fanno urinare el sangue ... </p>
         </div>
-        <div type="editorial-D">
-          <p>[La prima pianta è un albero fruttifero, della seconda v'è solo un rametto con foglie,
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[La prima pianta è un albero fruttifero, della seconda v'è solo un rametto con foglie,
             amenti e frutti. Per meglio rappresentare le virtù della pianta <hi>J. Sabina</hi> che in realtà
             ha effetti violenti e più volte somministrata con imprudenza o malizia produsse
             l'aborto, l'albero porta sospesi due vasi di vetro, nell'uno dei quali vedesi un feto,
-            nell'altro una figura di donna incappucciata, forse la maga che l'Autore avrebbe condannato ad esser conservata in alcool per subir la pena del taglione. La seconda pianta
-            fu contemporaneamente figurata dal <persName ref="#Mattioli">Mattioli</persName> sotto il nome di <hi>cedro fenicio</hi>. Sia dalla
-            presente figura, sia da quanto dice espressamente nel testo l'<persName ref="#Anguillara">Anguillara</persName>, risulta che la
-            pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName>Pasqualigo</persName> è la
+            nell'altro una figura di donna incappucciata, forse la maga che l'autore avrebbe condannato ad esser conservata in alcool per subir la pena del taglione. La seconda pianta
+            fu contemporaneamente figurata dal <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName> sotto il nome di <hi>cedro fenicio</hi>. Sia dalla
+            presente figura, sia da quanto dice espressamente nel testo l'<persName ref="#Anguillara" instant="false" full="yes">Anguillara</persName>, risulta che la
+            pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName instant="false" full="yes">Pasqualigo</persName> è la
             sabina, quindi a torto il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> disse che l'Anguillara vide in quel giardino
             la vera <hi>Thuia</hi>].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-008-N1" n="1"> Sevenbaum.</note>
-          <note xml:id="A-008-N2" n="2"> Smric-gluhi.</note>
-          <note xml:id="A-008-N3" n="3"> Tratto dall'Anguillara.</note>
-          <note xml:id="A-008-N4" n="4"> Sporcizie.</note>
-          <note xml:id="A-008-N5" n="5"> Itterizia.</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-008-N1" n="1" anchored="true"> Sevenbaum.</note>
+          <note xml:id="A-008-N2" n="2" anchored="true"> Smric-gluhi.</note>
+          <note xml:id="A-008-N3" n="3" anchored="true"> Tratto dall'Anguillara.</note>
+          <note xml:id="A-008-N4" n="4" anchored="true"> Sporcizie.</note>
+          <note xml:id="A-008-N5" n="5" anchored="true"> Itterizia.</note>
         </div>
       </div></TEI>

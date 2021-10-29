@@ -4,25 +4,25 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-062">
+  </teiHeader><div type="plant" xml:id="A-062" part="N" org="uniform" sample="complete">
         <head>N. 62 ANDRACNE</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Andrachne da Plinio - Portulaca da Theophrasto.</p>
+          <p part="N"> Andrachne da Plinio - Portulaca da Theophrasto.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Due mostre ci sonno.</p>
+          <p part="N"> Due mostre ci sonno.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p>Suoe radice in se intricate, son frutice, suoe frondi rascontrate sopra rami che
+          <p part="N">Suoe radice in se intricate, son frutice, suoe frondi rascontrate sopra rami che
             finiscono sopra essi in due di rotonda forma principiano et nel fin si oblungano
             apuntate qualle sonno simile al Asclepiade del Francese (<ptr target="#A-062-N1"/>), suoi fiori azuri in racemi
             simil al Gelsamin. L'altra mostra sude frondi minore non tanto aguze, et il legno piui
@@ -30,30 +30,30 @@
             caggiono, et son di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="46"/>
             scorcia come agraciata (<ptr target="#A-062-N2"/>). El Theophrasto agiunge che fa il frutto simil al Arbuto.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Nasce nell'Alpe dunde l'hebbi dal ecc. <persName ref="#Aldrovandi">Aldrovandi</persName>. Et l'altra mostra di Levante et
+          <p part="N"> Nasce nell'Alpe dunde l'hebbi dal ecc. <persName ref="#Aldrovandi" instant="false" full="yes">Aldrovandi</persName>. Et l'altra mostra di Levante et
             non nasce in piano.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Questo albero come deto l'hebbi dal <persName ref="#Aldrovandi">Aldrovandi</persName> sotto questo nome, ma per non esser
+          <p part="N"> Questo albero come deto l'hebbi dal <persName ref="#Aldrovandi" instant="false" full="yes">Aldrovandi</persName> sotto questo nome, ma per non esser
             suoe frondi simil al Arbuto vi son difficultà. L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che
             l'Andrachne Plinio vel Portulaca Theophr. son l'Arbuto di Diascoride. Et vengono tenuto
             communamente che l'Andrachne Plinij et Portulaca Theophrasti son una istessa cosa.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Non ritrovo dotte né virtù alcune di questo albero, ma bene il apare melanconico...
+          <p part="N"> Non ritrovo dotte né virtù alcune di questo albero, ma bene il apare melanconico...
           </p>
         </div>
-        <div type="editorial-D">
-          <p>[La prima pianta ha i fiori quasi indiscernibili ed una foglia a parte. Della seconda
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[La prima pianta ha i fiori quasi indiscernibili ed una foglia a parte. Della seconda
             c'è un ramoscello con foglie e fiori].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-062-N1" n="1"> Bellonio (v. N. 42).</note>
-          <note xml:id="A-062-N2" n="2"> * Questo agraciata significa «agghiacciata» (nella lingua del '500:
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-062-N1" n="1" anchored="true"> Bellonio (v. N. 42).</note>
+          <note xml:id="A-062-N2" n="2" anchored="true"> * Questo agraciata significa «agghiacciata» (nella lingua del '500:
             aggricciato, aggrezzato). Cfr. Plinio XIII, 120: cortice...., qui circumgelatus videri
             possit. (Ed.). </note>
         </div>
