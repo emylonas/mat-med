@@ -16,7 +16,10 @@ tei-TEIHeader {
 
 tei-text {
   font-family: "Garamond", serif;
-  font-size: unset;
+}
+
+tei-div[type="plant"] {
+  font-size: .8em;
 }
 
 /* Styles the plant name, main header. */
@@ -34,7 +37,7 @@ tei-div[type="plant"] > tei-head {
  tei-head {
     display: block;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin-left: -3%;
     margin-top: 2%;
   }
@@ -42,7 +45,7 @@ tei-div[type="plant"] > tei-head {
 tei-div[type="editorial-D"], tei-div[type="editorial-M"], tei-div[type="notes"],
 tei-div[type="bibl"] {
   font-family: "Trebuchet", sans-serif;
-  font-size: smaller;
+  font-size: .7em;
 }
 
 tei-p {
@@ -57,11 +60,11 @@ tei-foreign, tei-hi {
   font-style: italic;
 }
 
-p  tei-persname {
+tei-p tei-persname {
   color: #873e23;
 }
 
-p tei-placename {
+tei-p tei-placename {
   color: #D9714A;
 }
 
@@ -70,7 +73,7 @@ tei-div[type="editorial-D"]::before {
   content: "Editorial Notes (DeToni)";
   display: block;
   font-weight: bold;
-  font-size: 1m;
+  font-size: 1em;
   margin-left: -3%;
   margin-top: 5%;
 }
@@ -79,7 +82,7 @@ tei-div[type="notes"]::before {
   content: "Notes";
   display: block;
   font-weight: bold;
-  font-size: 1m;
+  font-size: 1em;
   margin-left: -3%;
   margin-top: 2%;
   counter-reset: note;
@@ -87,6 +90,7 @@ tei-div[type="notes"]::before {
 
 tei-div[type="notes"] tei-note {
   display: block;
+  font-size: .7em;
 }
 
 

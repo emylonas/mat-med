@@ -20,8 +20,9 @@
         </div>
         <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p part="N"> De due spezie ne fano mentione Diascoride, l'una sonno la provinca (<ptr target="#A-006-N1"/>), l'altra parmi
+          <p> De due spezie ne fano mentione Diascoride, l'una sonno la provinca (<ptr target="#A-006-N1"/>), l'altra parmi
             molto s'acompagnia et corisponda a questa. (<ptr target="#A-006-N2"/>)</p>
+
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
