@@ -75,5 +75,17 @@ layout: single-xml
         </xsl:result-document>--> 
           
         </xsl:template>
+    
+    <xsl:template match="listPerson">
+        <xsl:result-document href="peopleIndex.md">
+            <xsl:text>---
+title: "Index of People"
+layout: single-xml
+---</xsl:text>
+            
+            <xsl:for-each-group
+        </xsl:result-document>
+    </xsl:template>
+
 
 </xsl:stylesheet>
