@@ -4,40 +4,40 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-014">
+  </teiHeader><div type="plant" xml:id="A-014" part="N" org="uniform" sample="complete">
         <head>N. 14 PHILIREA</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-4000029227">[<hi>Phyllirea L.?</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-4000029227">[<hi>Phyllirea L.?</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p>Phylirea da Greci et Tilia - Beynholzlin, Mundholz, Sartrigel Rein meiden, Kerngert et
+          <p part="N">Phylirea da Greci et Tilia - Beynholzlin, Mundholz, Sartrigel Rein meiden, Kerngert et
             Linden da Germani - Dutroesne (<ptr target="#A-014-N1"/>) da Galli.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Sonno queste Phylirea et Phylirea Tilia et Phylirea Putana per oppinione di Romani
+          <p part="N"> Sonno queste Phylirea et Phylirea Tilia et Phylirea Putana per oppinione di Romani
             Et ne sonno anche una altra specie del tutto simili a questa ma produce le foglie
             rascontrate. Et legi k. 13.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Vi nasce in aspri luoghi et ne sonno nelle salse isole una sp.º ancora.</p>
+          <p part="N"> Vi nasce in aspri luoghi et ne sonno nelle salse isole una sp.º ancora.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Molti hanno creduti esser la volgare Tilia la Phylirea trasportati forsi dalla
+          <p part="N"> Molti hanno creduti esser la volgare Tilia la Phylirea trasportati forsi dalla
             conformità del vocabulo che in greca lingua significa phylirea.</p>
         </div>
-        <div type="editorial-D">
-          <p> [In mezzo ad un giardino sopra un terrapieno sorge la pianta fruttifera. A lato un
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N"> [In mezzo ad un giardino sopra un terrapieno sorge la pianta fruttifera. A lato un
             ramo sterile].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-014-N1" n="1"> Du troesne. </note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-014-N1" n="1" anchored="true"> Du troesne. </note>
         </div>
       </div></TEI>

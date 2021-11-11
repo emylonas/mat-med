@@ -4,31 +4,31 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-131">
+  </teiHeader><div type="plant" xml:id="A-131" part="N" org="uniform" sample="complete">
         <head>N. 131 FASUOL DE INDIA</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Fasuol d'India purpureo da volgari - Dolicos quella sp. di Turcho maculato Smilax
-            hortensis da Lat. Faselen, Vuelsch oder Vuild Bonen da Germ.</p>
+          <p part="N"> Fasuol d'India purpureo da volgari - Dolicos quella sp. di Turcho maculato - Smilax
+            hortensis da Lat. - Faselen, Vuelsch oder Vuild Bonen da Germ.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> De le sp. de faioli ne son in grande varieta, questa una, una di Candia con il fasuolo
+          <p part="N"> De le sp. de faioli ne son in grande varietà, questa una, una di Candia con il fasuolo
             nero, una da Napoli con il gran bianco, una di Turchia con il gran grande et pentechiato
             macchiato tenuto per il Dolicos. Delli communi ne sonno de bianchezzi et di rossi. Et
             una sp. simili ma piccolini et molto agrate nelle manestre, ma per esser tutti faioli
             et chi ne sa una la sano tutte pero non acasca demostracione se non di questo raro, [V.
-            N. 133).</p>
+            N. 133].</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoa radice sotillina da qualle viene suoi fusti sotil allati che se invoglieno
+          <p part="N"> Suoa radice sotillina da qualle viene suoi fusti sotil allati che se invoglieno
             forniti di piccole et rascontrate frondi simil a lente ma minore, al gusto molto dolce
             simil alla liquiritia ma piu acuta et la nota si serano con il dreto delle foglie in
             fuora sopra a ramuscoli che ogni ramuscolo par una sol fronde. Suoi fiori non li ho mai
@@ -36,42 +36,42 @@
             et mai piu. Et poi con il fredo sempre si hanno persa. Suoi fagiuoli alli communi ma
             picoli et purpurei et qualche uno di nero lucenti et vaghi.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Venghono dell'India dunde hanno preso il nome Et ne ho havuto de <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> et se ne
+          <p part="N"> Venghono dell'India dunde hanno preso il nome. Et ne ho havuto de <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName> et se ne
             ritrovano nel pepe tondo.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Seminasi ogni anno et tardano a nascer nel resto io non ho veduto.</p>
+          <p part="N"> Seminasi ogni anno et tardano a nascer nel resto io non ho veduto.</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p> Molto sole non meno acqua et grasso terreno.</p>
+          <p part="N"> Molto sole non meno acqua et grasso terreno.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>Son di molti che tengono che quella sp. di maculati chiamati <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="93"/> turchi sia lo smilace degli horti descrito
+          <p part="N">Son di molti che tengono che quella sp. di maculati chiamati <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="93"/> turchi sia lo smilace degli horti descrito
             da Diascoride et gli Dolichi di Theophrasto lib. 8 cap. 3 et Galeno. al primo di
-            alimenti. Et al primo di Paolo Gineta (1).</p>
+            alimenti. Et al primo di Paolo Gineta (<ptr target="#A-131-N1"/>).</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Et che questo non sia sp. di faioli non si debbe negar.</p>
+          <p part="N"> Et che questo non sia sp. di faioli non si debbe negar.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Sonno piuí gustevoli che gli altri et si acompagniano con quelli domestici minuti
+          <p part="N"> Sonno piuí gustevoli che gli altri et si acompagniano con quelli domestici minuti
             qualli al gusto sonno migliori di tutti, ma pero gonfiano et generano ventosita come si
             legge in Diascoride lib. 2. 100.</p>
         </div>
-        <div type="editorial-D">
-          <p>[La figura rappresenta la pianta come potè ottenerla l'autore, cioè sterile. A lato un
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[La figura rappresenta la pianta come potè ottenerla l'autore, cioè sterile. A lato un
             recipiente che contiene alcuni semi rossi.</p>
-          <p>Questo «fasuol purpureo d'India» è una specie di cui Aldrovandi desiderava avere il
+          <p part="N">Questo «fasuol purpureo d'India» è una specie di cui Aldrovandi desiderava avere il
             campione dal Michiel].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-131-N1" n="1"> Egineta. </note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-131-N1" n="1" anchored="true"> Egineta. </note>
         </div>
       </div></TEI>

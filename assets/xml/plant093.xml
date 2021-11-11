@@ -4,36 +4,36 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-093">
+  </teiHeader><div type="plant" xml:id="A-093" part="N" org="uniform" sample="complete">
         <head>N. 93 QUAYAUTL COLORADO</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Quoayautl colorado da Indiani overo Spagnioli.</p>
+          <p part="N"> Quoayautl colorado da Indiani overo Spagnioli.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoe radici bianchezzie, legnose, et proffunde, son Albero grande di beretinazzia
+          <p part="N"> Suoe radici bianchezzie, legnose, et proffunde, son Albero grande di beretinazzia
             scorzia con frondi di persico, suoi fruti grandi piui che susini di colore che il rosso
             gialleggia in forma di mandole con il verde scorzio.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Da l'India come dechiarito inanti nelli altri [N. 1].</p>
+          <p part="N"> Da l'India come dechiarito inanti nelli altri [N. 1].</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> Di calmo (<ptr target="#A-093-N1"/>) et de li suoi nuclei ma non si belli.</p>
+          <p part="N"> Di calmo (<ptr target="#A-093-N1"/>) et de li suoi nuclei ma non si belli.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Pianta fruttifera con insetti volanti e posati].</p>
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Pianta fruttifera con insetti volanti e posati].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-093-N1" n="1"> Innesto. </note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-093-N1" n="1" anchored="true"> Innesto. </note>
         </div>
       </div></TEI>

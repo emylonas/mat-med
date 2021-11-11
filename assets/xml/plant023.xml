@@ -4,89 +4,88 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-023">
+  </teiHeader><div type="plant" xml:id="A-023" part="N" org="uniform" sample="complete">
         <head>N. 23 SCAMONEA</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001298534">[<hi>Convolvolus Scammonia L.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0001298534">[<hi>Convolvolus Scammonia L.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Scamonea da volg. - Scambonia radix da alcuni - Colophonia Dactylion da altri -
+          <p part="N"> Scamonea da volg. - Scambonia radix da alcuni - Colophonia Dactylion da altri -
             Apopleumonos da Magi - Sanilun da Egyptij Diagridion da Greci.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Alcuni tengono che il fiore di note <ref type="internal" target="#A-011">[N. 11]</ref> sia spezie di Scamonea ma per non haver
+          <p part="N"> Alcuni tengono che il fiore di note <ref type="internal" target="#A-011">[N. 11]</ref> sia spezie di Scamonea ma per non haver
             radice corispondente mal si puol haver questa oppinione. Et l'Helsine Cissampello over
             Broeggia è dimandata da Plinio Scamonea picciola. Et otra manera di Mecoacan demostra
             <ref type="internal" target="#A-161">161</ref> son tenuta per spezie di Scamonea. Et anche uno altra pianta con nome di Mechoacan
             son tenuta per spezie di essa; la seminai ma non mi naque.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoa radice gomosa sfilosa gialezzia, grande et grossa. suoi fusti sotilli, rotondi
+          <p part="N"> Suoa radice gomosa sfilosa gialezzia, grande et grossa. suoi fusti sotilli, rotondi
             che se invogliono (<ptr target="#A-023-N1"/>) a quel li sonno acanto, suoe frondi con intervallo dal una al
             altra di forma simil al volgare volubile con 3 punte in sesto di lancia, ma larghe
             abasso, al gusto pocho acetose, suoi fiori bianchi in campanele simil volubilo deto,
             suoi semi di scuro colore lungheto et simil a quello del fiore di note ma roano.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, in <placeName ref="https://www.geonames.org/6697802/crete.html">Candia</placeName> et per <placeName>Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
-            si vegono nelli pitteri in smartello (<ptr target="#A-023-N2"/>) che di <placeName ref="https://www.geonames.org/8410798/cyprus.html">Cipri</placeName> vengono mandati a noi. L'elleta
-            (<ptr target="#A-023-N1"/>) si ricoglie in <placeName ref="https://www.geonames.org/8285551/mysie.html">Misia</placeName> nell'Asia, et in <placeName ref="https://www.geonames.org/260311/kefalonia-island.html">Collophone</placeName> isola nel Jonie dunde vi sonno l'
+          <p part="N"> In <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName>, in <placeName ref="https://www.geonames.org/6697802/crete.html" instant="false" full="yes">Candia</placeName> et per <placeName instant="false" full="yes">Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
+            si vegono nelli pitteri in smartello (<ptr target="#A-023-N2"/>) che di <placeName ref="https://www.geonames.org/8410798/cyprus.html" instant="false" full="yes">Cipri</placeName> vengono mandati a noi. L'elleta
+            (<ptr target="#A-023-N1"/>) si ricoglie in <placeName ref="https://www.geonames.org/8285551/mysie.html" instant="false" full="yes">Misia</placeName> nell'Asia, et in <placeName ref="https://www.geonames.org/260311/kefalonia-island.html" instant="false" full="yes">Collophone</placeName> isola nel Jonie dunde vi sonno l'
             Oraculo di Appoline.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Ogni ano a primavera rimandano suoi lunghi rami. Suoi fiori de giugno con il seme
+          <p part="N"> Ogni ano a primavera rimandano suoi lunghi rami. Suoi fiori de giugno con il seme
             poi.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p>Questa son la istessa descritta da Diascoride ma però non ha li rami così grossi
+          <p part="N">Questa son la istessa descritta da Diascoride ma però non ha li rami così grossi
             come narra lui.</p>
         </div>
-        <div type="editorial-D">
-          <p>[La figura di pianta fiorita è mediocre ma fu tratta dal vero, come lo prova un rametto
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[La figura di pianta fiorita è mediocre ma fu tratta dal vero, come lo prova un rametto
             foglioso disseccato che trovasi conservato fra le pagine del codice. Essa è
-            contemporanea a quella che pubblicò il <persName ref="#Mattioli">Mattioli</persName> pur traendola dal vero e sebbene, <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="26"/> come si disse, non sia
-            molto ben fatta, fa vedere un carattere che non fu avvertito ne dal <persName ref="#Mattioli">Mattioli</persName>, né dal
-            <persName ref="#Rinio">Rinio</persName> che effigiò la pianta alla c. 416 del suo codice, cioè quello dei dentini interni
+            contemporanea a quella che pubblicò il <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName> pur traendola dal vero e sebbene, <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="26"/> come si disse, non sia
+            molto ben fatta, fa vedere un carattere che non fu avvertito ne dal <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName>, né dal
+            <persName ref="#Rinio" instant="false" full="yes">Rinio</persName> che effigiò la pianta alla c. 416 del suo codice, cioè quello dei dentini interni
             alla base del lembo fogliare. Questo carattere da principio era sfuggito allo stesso
             Michiel perché la differenza di gradazione delle tinte verdi prova che il disegno delle
             foglie fu corretto più tardi, aggiungendo i dentini, ed un'altra prova l'abbiamo nella
             diagnosi in cui non se ne fa parola.</p>
-          <p>Non teniamo conto della figura data da <persName ref="#Marini">Andrea Marini</persName> perché essa è copiata da quella di
-            <persName ref="#Mattioli">Mattioli</persName>, come risulta dalle seguenti parole: «Scamoniae imaginem nullus hactenus ex
+          <p part="N">Non teniamo conto della figura data da <persName ref="#Marini" instant="false" full="yes">Andrea Marini</persName> perché essa è copiata da quella di
+            <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName>, come risulta dalle seguenti parole: «Scamoniae imaginem nullus hactenus ex
             herbarijs quod equidem sciam pictam tradidit. Nobis autem hanc Byzantio adlatam dono
             dedit Georgius Liberalis pictor egregius et mihi perfamiliaris, quae Dioscoridis
             historiae omni ex parte consentire videtur, consimilem quoque ostendit Petrus Antonius
             Michaelius patritius Venetus ...».</p>
-          <p>Il Mattioli rispose: «M. <persName ref="#Marini">Andrea Marini</persName> nelle sue <ref type="bibl" target="http://id.sbn.it/bid/PUVE006496"><hi>Annotazioni sopra Mesue</hi></ref> mette questa
-            medesima pianta, dicendo haverla ricevuta da M. <persName ref="#Liberale">Giorgio Liberale</persName> pittore il quale ha
+          <p part="N">Il Mattioli rispose: «M. <persName ref="#Marini" instant="false" full="yes">Andrea Marini</persName> nelle sue <ref type="bibl" target="http://id.sbn.it/bid/PUVE006496"><hi>Annotazioni sopra Mesue</hi></ref> mette questa
+            medesima pianta, dicendo haverla ricevuta da M. <persName ref="#Liberale" instant="false" full="yes">Giorgio Liberale</persName> pittore il quale ha
             dissegnato la maggior parte delle figure di questo nostro volume per non haver forse
             egli saputo che il Liberale l'haveva presa dal nostro giardino...».</p>
-          <p>Da ciò può dedursi che le figure date dal <persName ref="#Mattioli">Mattioli</persName> e dal Michiel sono contemporanee o
+          <p part="N">Da ciò può dedursi che le figure date dal <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName> e dal Michiel sono contemporanee o
             quasi, ma d'altra parte la questione della priorità diventa oziosa (<ptr target="#A-023-N4"/>) ora che sappiamo
             essere stata la scammonea figurata, benché imperfettamente, un secolo prima dei nostri
-            due botanici, da <persName ref="#Rinio">Benedetto Rinio</persName>.</p>
-          <p>Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
+            due botanici, da <persName ref="#Rinio" instant="false" full="yes">Benedetto Rinio</persName>.</p>
+          <p part="N">Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
             trovasi in altri convolvoli.</p>
-          <p>Il Michiel ottenne la pianta di semi che accidentalmente si trovavano racchiusi nel
-            succo concreto di scammonea spedito da <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html">Aleppo</placeName> da Francesco Martinelli [Cecchino
-            dall'Angelo] <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
+          <p part="N">Il Michiel ottenne la pianta di semi che accidentalmente si trovavano racchiusi nel
+            succo concreto di scammonea spedito da <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html" instant="false" full="yes">Aleppo</placeName> da <persName ref="#Cechin" instant="false" full="yes">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-023-N1" n="1"> Avvolgono.</note>
-          <note xml:id="A-023-N2" n="2"> Vasi da fiori di terraglia smaltata.</note>
-          <note xml:id="A-023-N3" n="3"> Eletta,</note>
-          <note xml:id="A-023-N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="#Anguillara">Anguillara</persName> ne fece nascere una
-            pianta da semi avuti di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="https://www.treccani.it/enciclopedia/lorenzo-priuli_%28Dizionario-Biografico%29/">Lorenzo Priuli</persName>
-            a <placeName ref="https://www.geonames.org/6542281/padova.html">Padova</placeName> e <persName>Giulio Moderato</persName> a <placeName ref="https://www.geonames.org/6541863/rimini.html">Rimini</placeName>. </note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-023-N1" n="1" anchored="true"> Avvolgono.</note>
+          <note xml:id="A-023-N2" n="2" anchored="true"> Vasi da fiori di terraglia smaltata.</note>
+          <note xml:id="A-023-N3" n="3" anchored="true"> Eletta,</note>
+          <note xml:id="A-023-N4" n="4" anchored="true"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="#Anguillara" instant="false" full="yes">Anguillara</persName> ne fece nascere una
+            pianta da semi avuti di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="https://www.treccani.it/enciclopedia/lorenzo-priuli_%28Dizionario-Biografico%29/" instant="false" full="yes">Lorenzo Priuli</persName>
+            a <placeName ref="https://www.geonames.org/6542281/padova.html" instant="false" full="yes">Padova</placeName> e <persName instant="false" full="yes">Giulio Moderato</persName> a <placeName ref="https://www.geonames.org/6541863/rimini.html" instant="false" full="yes">Rimini</placeName>. </note>
         </div>
       </div></TEI>

@@ -4,48 +4,48 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-013">
+  </teiHeader><div type="plant" xml:id="A-013" part="N" org="uniform" sample="complete">
         <head>N. 13 PUTANA VEL OLIVELA</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000462513">[<hi>Rhamnus Alaternus L.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000462513">[<hi>Rhamnus Alaternus L.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Olivela, Putana vel Phylirea in Roma - Faulbauim da Germani.</p>
+          <p part="N"> Olivela, Putana vel Phylirea in Roma - Faulbauim da Germani.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> In Romagnia voleno sia sp. di Phylirea. Et la Conestrella, <ref type="internal" target="#A-012">[N. 12]</ref> la terza poi la
+          <p part="N"> In Romagnia voleno sia sp. di Phylirea. Et la Conestrella, <ref type="internal" target="#A-012">[N. 12]</ref> la terza poi la
             sequente et migliore delle qual ne sonno una altra sp. con le foglie rascontrate.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne sonno nei monti et vigne di <placeName ref="https://www.geonames.org/3169071/roma.html">Roma</placeName>.</p>
+          <p part="N"> Ne sonno nei monti et vigne di <placeName ref="https://www.geonames.org/3169071/roma.html" instant="false" full="yes">Roma</placeName>.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Sempre sta verde, suoi fiori de agosto con il fruto poi del qual li tordi se
+          <p part="N"> Sempre sta verde, suoi fiori de agosto con il fruto poi del qual li tordi se
             ingrassano.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName>Agustin Alpago</persName>
+          <p part="N"> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName instant="false" full="yes">Agustin Alpago</persName>
             et a molti non sonno de oppinion.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Non si puol negare che la non sia sp. di Phylirea si per il gusto come per la
+          <p part="N"> Non si puol negare che la non sia sp. di Phylirea si per il gusto come per la
             forma.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Pianta con fiori e frutti a due gradi di maturità, cioè rossi ed oscuri. A parte un
-            rametto con foglie e frutti maturi. Sui rami varie figure di tordi. Il <persName ref="#Bonato">Bonato</persName> la ritenne
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Pianta con fiori e frutti a due gradi di maturità, cioè rossi ed oscuri. A parte un
+            rametto con foglie e frutti maturi. Sui rami varie figure di tordi. Il <persName ref="#Bonato" instant="false" full="yes">Bonato</persName> la ritenne
             Phyllirea latifolia, ma la figura ha le foglie alterne il che è asserito anche nel testo
-            colle parole: «et venghon falate». Notisi che anche il <persName ref="#Cesalpino">Cesalpino</persName> chiamava questa
+            colle parole: «et venghon falate». Notisi che anche il <persName ref="#Cesalpino" instant="false" full="yes">Cesalpino</persName> chiamava questa
             specie Phyllirea. Al <ref type="internal" target="#A-152">N. 152</ref> di questo libro si paragonano le sue foglie a quelle
             dell'agazzino. Una Phyllirea è a <ref type="internal" target="#A-094">N. 94</ref> col nome alaterno].</p>
         </div>

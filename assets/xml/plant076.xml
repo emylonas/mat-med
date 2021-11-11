@@ -4,55 +4,55 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-076">
+  </teiHeader><div type="plant" xml:id="A-076" part="N" org="uniform" sample="complete">
         <head>N. 76 TILIA FEMINA</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000457451">[<hi>Tilia cordata Mill.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000457451">[<hi>Tilia cordata Mill.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Thilia femina dal <persName ref="#Fuchs">Fuchsio</persName> - Phylira da Greci - Tilia da Latini et officini - Linden da
+          <p part="N"> Thilia femina dal <persName ref="#Fuchs" instant="false" full="yes">Fuchsio</persName> - Phylira da Greci - Tilia da Latini et officini - Linden da
             Germani - Tilet da Galli - Tiglia et Teia da volgari.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Theophrasto ne dimostra il maschio et la femina lib. 4 cap. 10 (<ptr target="#A-076-N1"/>). La femina questa
+          <p part="N"> Theophrasto ne dimostra il maschio et la femina lib. 4 cap. 10 (<ptr target="#A-076-N1"/>). La femina questa
             et il maschio la conastrela [N. 12] dice l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 61 ma non già così tiene il
             Mathiolo che uno et l'altro lo dimostra a k. 190.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne monti humidi et aquosi et valle in Cadore.</p>
+          <p part="N"> Ne monti humidi et aquosi et valle in Cadore.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>Leggi di sopra et inganassi quegli che si credono che questa Tilia sia la Phyllirea
+          <p part="N">Leggi di sopra et inganassi quegli che si credono che questa Tilia sia la Phyllirea
             ingannati dal vocabulo greco, imperoche che questa dimandano phyllira (<ptr target="#A-076-N2"/>) et non
             phyllirea (<ptr target="#A-076-N3"/>). Et sonno differente la Tilia dalla Phylirea come narra il Landini ne suoi
             comenti nel membro tercio (<ptr target="#A-076-N4"/>),</p>
         </div>
-        <div type="editorial-D">
-          <p>[Da un tronco segato sorgono due rami con foglie e fiori. A parte un rametto fio-
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Da un tronco segato sorgono due rami con foglie e fiori. A parte un rametto fio-
             rifero. Le figure sono infelici.</p>
-          <p>L'errore di Anguillara fu originato da un altro commesso da Adamo Lonicero il quale
+          <p part="N">L'errore di Anguillara fu originato da un altro commesso da Adamo Lonicero il quale
             riteneva che la pellopta de' Greci fosse il ligustro e questo poi si confondeva colla
             pedopo cioè col tiglio.</p>
-          <p>Il Michiel ricevette la pianta dal Bellunese e registrò il nome dialettale che attual-
+          <p part="N">Il Michiel ricevette la pianta dal Bellunese e registrò il nome dialettale che attual-
             mente ha la forma lei. Forse egli lo alterò in léia per renderlo più simile al latino
             lilia, perché, secondo le regole di quel dialetto, i nomi in aglio, iglio, oglio
             cangiano queste desinenze in ai, ei, oi (esempi: ai = aglio, mei = miglio, strafoi =
             trifoglio)].</p>
 
         </div>
-        <div type="notes">
-          <note xml:id="A-076-N1" n="1"> * E, invece, lib. 3. cap. 10. (Ed.).</note>
-          <note xml:id="A-076-N2" n="2"> Recte φιλύρα.</note>
-          <note xml:id="A-076-N3" n="3"> Recte φιλλυρέα. </note>
-          <note xml:id="A-076-N4" n="4"> * Si riferisce al commento del GUILANDINO («Landini») ai
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-076-N1" n="1" anchored="true"> * E, invece, lib. 3. cap. 10. (Ed.).</note>
+          <note xml:id="A-076-N2" n="2" anchored="true"> Recte φιλύρα.</note>
+          <note xml:id="A-076-N3" n="3" anchored="true"> Recte φιλλυρέα. </note>
+          <note xml:id="A-076-N4" n="4" anchored="true"> * Si riferisce al commento del GUILANDINO («Landini») ai
             capi di Plinio sul Papiro (già citato a k. 9) pp. 36-62. (Ed.).</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>

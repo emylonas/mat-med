@@ -4,61 +4,61 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-004">
+  </teiHeader><div type="plant" xml:id="A-004" part="N" org="uniform" sample="complete">
         <head>N. 4 ALBERO INCOGNITO</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000818704">[<hi>Syringa vulgaris L.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000818704">[<hi>Syringa vulgaris L.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Argavani che inferisse (<ptr target="#A-004-N1"/>) color pavonazio in <placeName ref="https://www.geonames.org/10922502/mediterranean-region.html">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
-            Theophrasti da molti - Glans unguentaria <persName ref="#Mattioli">Matthioli</persName>.</p>
+          <p part="N"> Argavani che inferisse (<ptr target="#A-004-N1"/>) color pavonazio in <placeName ref="https://www.geonames.org/10922502/mediterranean-region.html" instant="false" full="yes">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
+            Theophrasti da molti - Glans unguentaria <persName ref="#Mattioli" instant="false" full="yes">Matthioli</persName>.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Son posto da alcuni per spezie de seringa. Et l'altra <ref type="internal" target="#A-035">k. 35</ref>. Et de glans unguentaria
+          <p part="N"> Son posto da alcuni per spezie de seringa. Et l'altra <ref type="internal" target="#A-035">k. 35</ref>. Et de glans unguentaria
             <ref type="internal" target="#A-099">k. 99</ref>.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoe radice profunde, legnose et palide. Son albero alto più de quatro cubiti, fruticoso; suoe foglie simil al populo nero overo alle asclepiade, al gusto acetosette.
+          <p part="N"> Suoe radice profunde, legnose et palide. Son albero alto più de quatro cubiti, fruticoso; suoe foglie simil al populo nero overo alle asclepiade, al gusto acetosette.
           Suoi fiori piccioli in grandi racemi di colore tra l'azuro et le lacche simil al leucoyo, ma minuti et in racemi simil al ligustro; poi suoi semi folti in deti racemi come stiaciati</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Io l'hebbi dal eccell. sig. <persName ref="#Aldrovandi">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="https://www.geonames.org/3177545/dolomiti.html"/>Alpi.</p>
+          <p part="N"> Io l'hebbi dal eccell. sig. <persName ref="#Aldrovandi" instant="false" full="yes">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="https://www.geonames.org/3177545/dolomiti.html" instant="false" full="yes"/>Alpi.</p>
         </div>
-        <div type="reproduction"><head>GENERATIONE</head>
-          <p> A me mi naque de suoi semi, ma propaginano anche.</p></div>
-        <div type="opinions">
+        <div type="reproduction" part="N" org="uniform" sample="complete"><head>GENERATIONE</head>
+          <p part="N"> A me mi naque de suoi semi, ma propaginano anche.</p></div>
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Son molti che lo ritira alla Potulaca Theophrasti. Et altri per sp. di seringa ma io
-            non giudico. <hi>Glans unguentaria</hi> dal <persName ref="#Mattioli">Mattiolo</persName> che fa rider molti, disse M. <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Marchio</persName>
+          <p part="N"> Son molti che lo ritira alla Potulaca Theophrasti. Et altri per sp. di seringa ma io
+            non giudico. <hi>Glans unguentaria</hi> dal <persName ref="#Mattioli" instant="false" full="yes">Mattiolo</persName> che fa rider molti, disse M. <persName ref="http://thesaurus.cerl.org/record/cnp01884856" instant="false" full="yes">Marchio</persName>
             giardiniero in Padova del Studio.</p>
 
         </div>
 
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="14"/>
-        <div type="editorial-D">
-          <p>[Figura poco buona di pianta fiorita; a parte un ramo fiorito. Fu dipinta, come si
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Figura poco buona di pianta fiorita; a parte un ramo fiorito. Fu dipinta, come si
             deduce dal testo, copiando una pianta nata nel giardino del Michiel ed è la prima
-            effigie che si conosca perché le parole sul <persName ref="#Mattioli">Mattioli</persName> furono aggiunte più tardi. Perciò,
+            effigie che si conosca perché le parole sul <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName> furono aggiunte più tardi. Perciò,
             dietro la testimonianza del nostro autore, possiamo dedurre che il primato della cono-
-            scenza di questa specie spetta all'<persName ref="#Aldrovandi">Aldovrandi</persName>].</p>
-          <p>Il <persName ref="#Mattioli">Mattioli</persName> ne ricevette un disegno da <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> e più tardi un ramo fresco dal
-            <persName ref="#Cortuso">Cortuso</persName> sui quali fece la sua figura ed emise l'opinione che questa specie fosse l'
+            scenza di questa specie spetta all'<persName ref="#Aldrovandi" instant="false" full="yes">Aldovrandi</persName>].</p>
+          <p part="N">Il <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName> ne ricevette un disegno da <placeName ref="https://www.geonames.org/745044/istanbul.html" instant="false" full="yes">Costantinopoli</placeName> e più tardi un ramo fresco dal
+            <persName ref="#Cortuso" instant="false" full="yes">Cortuso</persName> sui quali fece la sua figura ed emise l'opinione che questa specie fosse l'
             <foreign xml:lang="grc">ὀστρύα</foreign> (<ptr target="#A-004-N2"/>) di Teofrasto per la somiglianza al
             frassino e la ghianda unguentaria per l'aspetto dei frutti; donde le critiche di
-            <persName ref="#Guilandino">Melchiorre Guilandino</persName> qui riportate dal Michiel].</p>
+            <persName ref="#Guilandino" instant="false" full="yes">Melchiorre Guilandino</persName> qui riportate dal Michiel].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-004-N1" n="1"> Significa</note>
-          <note xml:id="A-004-N2" n="2"> Forse dallo scambio con <foreign xml:lang="grc">ὀστρεία</foreign> (simile
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-004-N1" n="1" anchored="true"> Significa</note>
+          <note xml:id="A-004-N2" n="2" anchored="true"> Forse dallo scambio con <foreign xml:lang="grc">ὀστρεία</foreign> (simile
             alla porpora) proviene il nome, scritto più sopra, potulaca (portulaca, in fran.
             <hi>pourpier</hi>)]. </note>
         </div>

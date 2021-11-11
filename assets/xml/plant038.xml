@@ -4,42 +4,42 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-038">
+  </teiHeader><div type="plant" xml:id="A-038" part="N" org="uniform" sample="complete">
         <head>N. 38 PEZZO</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000482527">[<hi>Picea excelsa Lk.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000482527">[<hi>Picea excelsa Lk.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Pezzo da volgari.</p>
+          <p part="N"> Pezzo da volgari.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Il pezzo et il pino sonno una medema spezie. Et le spezie che fanno raggia sonno 8
+          <p part="N"> Il pezzo et il pino sonno una medema spezie. Et le spezie che fanno raggia sonno 8
             come narra Theophrasto [N. 9].</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne monti fredi de Italia ne sonno in quantità dunde si fanno tanti legniami et
+          <p part="N"> Ne monti fredi de Italia ne sonno in quantità dunde si fanno tanti legniami et
             tavole.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> È da credere che tutte queste spezie ci nascano de suoi cascati fruti.</p>
+          <p part="N"> È da credere che tutte queste spezie ci nascano de suoi cascati fruti.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 42 di 8 spezie di Alberi resiniferi raggiona.</p>
+          <p part="N"> L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 42 di 8 spezie di Alberi resiniferi raggiona.</p>
         </div>
-        <div type="editorial-D">
-          <p>[L'albero fruttifero sorge in mezzo ad una prateria con figure umane, agarici e
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[L'albero fruttifero sorge in mezzo ad una prateria con figure umane, agarici e
             chiocciole. È mal disegnato, ma invece è buona una figura a parte di ramoscello con una
             bella pigna.</p>
-          <p>Il <persName ref="#Rinio">Rinio</persName> a c. 203 chiama questa specie abete, mentre pel Michiel l'abete è <hi>Abies alba</hi> a
+          <p part="N">Il <persName ref="#Rinio" instant="false" full="yes">Rinio</persName> a c. 203 chiama questa specie abete, mentre pel Michiel l'abete è <hi>Abies alba</hi> a
             <ref type="internal" target="#A-036">N. 36</ref>. Oggidì ambedue le specie chiamansi abeti e nel Veneto l'abete p.d. (albéo) è la
             specie presente, l'altra chiamansi <hi>avedin</hi>, nome notato dal Michiel a [<ref type="internal" target="#A-036">N. 36</ref>].</p>
         </div>

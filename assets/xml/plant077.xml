@@ -4,23 +4,23 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-077">
+  </teiHeader><div type="plant" xml:id="A-077" part="N" org="uniform" sample="complete">
         <head>N. 77 OPULO</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000514593">[<hi>Acer monspessulanum L.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000514593">[<hi>Acer monspessulanum L.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Opulo.</p>
+          <p part="N"> Opulo.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Nel testo non v'è che questo nome; mancano le descrizioni e le citazioni. La figura
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Nel testo non v'è che questo nome; mancano le descrizioni e le citazioni. La figura
             non finita rappresenta un ramo con foglie e frutti.</p>
-          <p>Il nome opulo cangiato ora in oppio, loppio, loppo si dà oggidi a due specie affini, A.
+          <p part="N">Il nome opulo cangiato ora in oppio, loppio, loppo si dà oggidi a due specie affini, A.
             Opulus ed A. campestre].</p>
         </div>
       </div></TEI>

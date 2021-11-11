@@ -1,6 +1,6 @@
 ---
 title: "N. 111 SEBESTE DI LEVANTE"
-plant-name: "N. 111 SEBESTE DI LEVANTE"
+plant-name: "N. 111"
 plant-number: "111"
 plant-xml: "/assets/xml/plant111.xml"
 plant-img1: "/assets/img/plant111_verso.jpg"

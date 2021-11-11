@@ -4,29 +4,29 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-026">
+  </teiHeader><div type="plant" xml:id="A-026" part="N" org="uniform" sample="complete">
         <head>N. 26 OSTRIN VEL OSTREA</head>
-        <ab>[Not identified]</ab>
-        <div type="name">
+        <ab part="N">[Not identified]</ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Ostrin vel Ostrea da Plinio.</p>
+          <p part="N"> Ostrin vel Ostrea da Plinio.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Con nome di ostriago herba son anche nel <ref target="#R2-056">secondo libro rosso k. 56</ref>.</p>
+          <p part="N"> Con nome di ostriago herba son anche nel <ref target="#R2-056">secondo libro rosso k. 56</ref>.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI</head>
-          <p> Questo albero conviene assai bene alla descretione di Plinio di Ostrin.</p>
+          <p part="N"> Questo albero conviene assai bene alla descretione di Plinio di Ostrin.</p>
         </div>
-        <div type="editorial-D">
-          <p> [Pianta sterile con foglie pennate a 5 foglioline dezza naturale - a parte una
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N"> [Pianta sterile con foglie pennate a 5 foglioline dezza naturale - a parte una
             fogliolina in grandezza naturale].</p>
         </div>
       </div></TEI>

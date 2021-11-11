@@ -4,40 +4,40 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-024">
+  </teiHeader><div type="plant" xml:id="A-024" part="N" org="uniform" sample="complete">
         <head>N. 24 VITE NERA, TAMARO</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000568332">[<hi>Tamus communis L.</hi>].</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000568332">[<hi>Tamus communis L.</hi>].</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Tamaro et Vite nera volgari - Brionia nigra et Ampellos melena (<ptr target="#A-024-N1"/>) da Latini - Chironion
+          <p part="N"> Tamaro et Vite nera volgari - Brionia nigra et Ampellos melena (<ptr target="#A-024-N1"/>) da Latini - Chironion
             ampelon, Bucranion, Britanuten da molti - Uvam taminam et Oblamenian da Romani - Betisalcam
             et Pegrinam da alcuni - Priandelan da Daci- Lavothen da Daci - Vuldebron et Lynen da Germani -
             Espece de Couleuree et sementz noirs da Galici - Gynecanthe et Apronia da altri.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Con nome di vite 4 spezie ne dimostro doi di nere <ref type="internal" target="#A-006">[NN. 6</ref>e <ref type="internal" target="#A-024">24]</ref> et doi di bianche <ref type="internal" target="#A-007">[NN. 7</ref>
+          <p part="N"> Con nome di vite 4 spezie ne dimostro doi di nere <ref type="internal" target="#A-006">[NN. 6</ref>e <ref type="internal" target="#A-024">24]</ref> et doi di bianche <ref type="internal" target="#A-007">[NN. 7</ref>
             e <ref type="internal" target="#A-091">91]</ref>.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Appresso a fossi in Italia. Et in <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html">Friule</placeName> ne sonno in quantità.</p>
+          <p part="N"> Appresso a fossi in Italia. Et in <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html" instant="false" full="yes">Friule</placeName> ne sonno in quantità.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p>A primavera suoi germini simili a sparagi che alcuni contadini li mangiano, suoi
+          <p part="N">A primavera suoi germini simili a sparagi che alcuni contadini li mangiano, suoi
             fruti nel mezo del esta[te]. </p>
-          <div type="editorial-D">
-            <p>[Pianta fiorita e fruttifera].</p>
+          <div type="editorial-D" part="N" org="uniform" sample="complete">
+            <p part="N">[Pianta fiorita e fruttifera].</p>
           </div>
-          <div type="notes">
-            <note xml:id="A-024-N1" n="1">
+          <div type="notes" part="N" org="uniform" sample="complete">
+            <note xml:id="A-024-N1" n="1" anchored="true">
               <foreign xml:lang="grc">άμπελος μέλαινα</foreign>.</note>
           </div>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>

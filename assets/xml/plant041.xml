@@ -4,47 +4,47 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-041">
+  </teiHeader><div type="plant" xml:id="A-041" part="N" org="uniform" sample="complete">
         <head>N. 41 VIRCITOSICA</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000633726">[<hi>Cynanchum Vincetoxicum Pers.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000633726">[<hi>Cynanchum Vincetoxicum Pers.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Asclepias da Latini - Vincitosica da volgari – Cission et Cissophilon da Greci -
+          <p part="N"> Asclepias da Latini - Vincitosica da volgari – Cission et Cissophilon da Greci -
             Schvulbenurtz (<ptr target="#A-041-N1"/>) da Germani - Hirundinario dal Trago - Polirizon Plinij.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Due altre spezie di Asclepiade dimostro quivi sequitando.</p>
+          <p part="N"> Due altre spezie di Asclepiade dimostro quivi sequitando.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne monti per Italia non ci mancano. Et ne Giardini de Simplici ancora.</p>
+          <p part="N"> Ne monti per Italia non ci mancano. Et ne giardini de simplici ancora.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>M. <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Marchio</persName>, mastro d’il notabil Giardino della ill.ma Signoria nostra dice che il vulgo
-            la tiene per il <hi>Polyrizon Plinij</hi>. Asclepias vitiose <persName ref="#Fuchs">Fuchsio</persName> refutata a Mattioli in Au[?]
+          <p part="N">M. <persName ref="http://thesaurus.cerl.org/record/cnp01884856" instant="false" full="yes">Marchio</persName>, mastro d’il notabil Giardino della ill.ma Signoria nostra dice che il vulgo
+            la tiene per il <hi>Polyrizon Plinij</hi>. Asclepias vitiose <persName ref="#Fuchs" instant="false" full="yes">Fuchsio</persName> refutata a Mattioli in Au[?]
             (<ptr target="#A-041-N2"/>). Il Trago ha oppinion per il suo libro che la sia l'Asclepiade.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Nella copia del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">libro dei Semplici</ref>  di <persName ref="#Anguillara">Anguillara</persName> esistente alla Biblioteca Marciana di
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Nella copia del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">libro dei Semplici</ref>  di <persName ref="#Anguillara" instant="false" full="yes">Anguillara</persName> esistente alla Biblioteca Marciana di
             Venezia l'articolo «Polirizo di Plinio» a pag. 213 ha sottosegnate a penna le parole di
             niun odore riguardanti le radici ed in margine trovasi la seguente nota manoscritta:
             «Ergo non est polyrrhizos quia Plinius omnium Aristolochiarum odores medicatos esse
             affirmat. Ego polyrthizon interpretor pro vulgari Vincetoxico». La figura del Michiel e
             questa glossa manoscritta ci fanno comprendere che la specie dall'Anguillara ritenuta
             come Polirizo di Plinio è <hi>Cynanchum Vincetoxicum</hi>.</p>
-          <p>Benché le annotazioni al testo dell'Anguillara siano anonime, le parole della glosa si
-            accordano talmente con quanto dice il Michiel sull'opinione di <persName ref="#Guilandino">Melchiorre Guilandino</persName>,
+          <p part="N">Benché le annotazioni al testo dell'Anguillara siano anonime, le parole della glosa si
+            accordano talmente con quanto dice il Michiel sull'opinione di <persName ref="#Guilandino" instant="false" full="yes">Melchiorre Guilandino</persName>,
             che ne risulta evidente la prova essere quest'ultimo l'autore ignoto, come già si espose
             nell'introduzione.</p>
-          <p>La figura presente abbastanza buona è di pianta completa con fiori e frutti a tutti gli
+          <p part="N">La figura presente abbastanza buona è di pianta completa con fiori e frutti a tutti gli
             stati d'accrescimento fino alla deiscenza del follicolo. L'Anguillara fu condotto ad
             identificare il vincetossico col Polirizo di Plinio perché l'autore classico dice (lib.
             27, c. 12) che le foglie somiglianti a quelle del mirto (<ptr target="#A-041-N3"/>) servono contro il veleno dei serpenti.
@@ -52,11 +52,11 @@
             pistolochia ma Plinio le chiama <hi>melanpodion</hi> e <hi>pistolochia</hi>, aggiungendo che alcuni le
             chiamano polyrrhizon (<ptr target="#A-041-N4"/>). Così si spiega l'equivoco del Guilandino il quale credette che
             l'Anguillara volesse identificare il vincetossico colla pistolochia di Plinio.</p>
-          <p>A questo proposito notiamo che il Littré  <ref type="bibl" target="http://id.sbn.it/bid/UBO2441963">[176]</ref> non mise alcun nome linneano di fronte
+          <p part="N">A questo proposito notiamo che il Littré  <ref type="bibl" target="http://id.sbn.it/bid/UBO2441963">[176]</ref> non mise alcun nome linneano di fronte
             alla parola Polirizo di Plinio rigettando, con ragione, la sua identità con Aristolochia
             Pistolochia (<ptr target="#A-041-N5"/>). Il Legré <ref type="bibl" target="https://catalogue.bnf.fr/ark:/12148/cb45513429s">[170]</ref> mette il Polirizo tra le specie di Anguillara <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="35"/> che aspettano una
             identificazione la quale ora si sarebbe ottenuta a merito del nostro codice.</p>
-          <p>In un'opera voluminosa come questa, comprendente oltre un migliaio di piante disposte
+          <p part="N">In un'opera voluminosa come questa, comprendente oltre un migliaio di piante disposte
             con una classificazione artificiale era facile che l'autore dimenticasse di aver
             effigiata una specie, e ne abbiamo una prova nelle figure doppie di cui si parlò nell'introduzione. Il Michiel, scorrendo il testo dell'Anguillara, vi trovò descritto il
             Polirizo di Plinio e, scordandosi di averlo qui figurato (tanto più che il nome, essendo
@@ -64,21 +64,21 @@
             avendone il campione, ne fece una figura fittizia che può vedersi al <ref target="#R1-078">N. 78 del primo
               libro rosso</ref>].</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-041-N1" n="1"> Schwalbenwurz radice di rondine.</note>
-          <note xml:id="A-041-N2" n="2"> * La lettura del Codice qui non è chiara. Quando all'opinione del <persName ref="#Fuchs">Fuchsio</persName>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-041-N1" n="1" anchored="true"> Schwalbenwurz radice di rondine.</note>
+          <note xml:id="A-041-N2" n="2" anchored="true"> * La lettura del Codice qui non è chiara. Quando all'opinione del <persName ref="#Fuchs" instant="false" full="yes">Fuchsio</persName>
             cui il passo allude, dev'essere quella implicita nella sinonimia (<ref type="bibl" target="http://id.sbn.it/bid/BVEE003520">De historia stirpium
               p. 130</ref>): «Aoradoras Graecis Asclepia Latinis, Herbariis Hirundinaria, Officinis
             Vincoloxicum, Germanis Schwalbenwurtz appellatur», dall'autore poche righe dopo
-            giustificata, e che in parte, del resto, è ripetuta qui dal Michiel. Il <persName ref="#Mattioli">Mattioli</persName> <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">(ed.
+            giustificata, e che in parte, del resto, è ripetuta qui dal Michiel. Il <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName> <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">(ed.
               1568, p. 856)</ref> la giudicava errata, in quanto aon si trovano nel Vincetossico quei
-            caratteri dell'Asclepias dei Greci su cui il <persName ref="#Fuchs">Fuchsio</persName> appunto basava l'identificazione.
+            caratteri dell'Asclepias dei Greci su cui il <persName ref="#Fuchs" instant="false" full="yes">Fuchsio</persName> appunto basava l'identificazione.
             (Ed).</note>
-          <note xml:id="A-041-N3" n="3"> Anguillara paragonò la pianta al Rusco, avvertendo però che non punge.
+          <note xml:id="A-041-N3" n="3" anchored="true"> Anguillara paragonò la pianta al Rusco, avvertendo però che non punge.
             Notiamo che il Rusco fra gli altri nomi aveva quello di Oxymyrsins cioè mirto
             pungente.</note>
-          <note xml:id="A-041-N4" n="4"> Nel libro verde di questo codice è chiamato melampodion la sp. <hi>Helleborus
+          <note xml:id="A-041-N4" n="4" anchored="true"> Nel libro verde di questo codice è chiamato melampodion la sp. <hi>Helleborus
             niger L.</hi> (<ref target="#V-176">Ve. 176</ref>) e polirision la sp. <hi>Veratrum nigrum L.</hi> (<ref target="#V-178">Ve. 178</ref>).</note>
-          <note xml:id="A-041-N5" n="5"> Sulla Pistolochia v. <ref target="#G-076">Gi., 76</ref>.</note>
+          <note xml:id="A-041-N5" n="5" anchored="true"> Sulla Pistolochia v. <ref target="#G-076">Gi., 76</ref>.</note>
         </div>
       </div></TEI>

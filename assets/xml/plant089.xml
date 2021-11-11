@@ -4,44 +4,44 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-089">
+  </teiHeader><div type="plant" xml:id="A-089" part="N" org="uniform" sample="complete">
         <head>N. 89 ACATIA</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213263">[<hi>Calycotome spinosa Lk.</hi>]</ref></ab>
-        <div type="name">
+        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213263">[<hi>Calycotome spinosa Lk.</hi>]</ref></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p>Acatia prima da Diascoride - Alcarthi da Arabi - Acantho da Theophrasto - Sethim da molti - 
+          <p part="N">Acatia prima da Diascoride - Alcarthi da Arabi - Acantho da Theophrasto - Sethim da molti - 
             safrim da Arabi - Santh et Alcharad il suo fruto da deti - Samaga la gomma - Il succo spremuto
             dalla silaqua Albassari da deti Arabi. <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="64"/>
           </p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Due sp. ne pone Diascoride una de Egipto et son maggiore, L'altra di Capedocia scrita
+          <p part="N"> Due sp. ne pone Diascoride una de Egipto et son maggiore, L'altra di Capedocia scrita
             inanti.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Nasce in Egipto, et io di Candia ne ho avuto et mantenuto. Et in Corsica.</p>
+          <p part="N"> Nasce in Egipto, et io di Candia ne ho avuto et mantenuto. Et in Corsica.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Per ogni staggion verde si dimostra, suoi fiori nel mezzo dell'esta' [= estate] et le silique
+          <p part="N"> Per ogni staggion verde si dimostra, suoi fiori nel mezzo dell'esta' [= estate] et le silique
             poi.</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p> Luogho calido, solsticio et sabionezzio.</p>
+          <p part="N"> Luogho calido, solsticio et sabionezzio.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguilara</ref> k. 63 dice non havere veduto se non il seme della Acatia prima. Et della
+          <p part="N"> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguilara</ref> k. 63 dice non havere veduto se non il seme della Acatia prima. Et della
             seconda non è l'Aspalato secondo ma tiene sia una pianta simil alla Genestra con spine
             sotili, foglia di ruta, fiori di corniola et silique di ginestra Et è frutice che ne
             sonno in Corsica et credo sia questo demostro. Et le due Acatie di Diascoride sonno
@@ -52,12 +52,12 @@
             con questo nome. Et il suo fruto safrim, santh et alcharad. Et la gomma samaga, et il
             sugo spremuto dalle silique Albassari che par la vera Acatia de Midici.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Leggi da driedo k. 115.</p>
+          <p part="N"> Leggi da driedo k. 115.</p>
         </div>
-        <div type="editorial-D">
-          <p>[Pianta fiorita. Il Michiel la chiama Acacia prima, mentre il Mattioli la chiama Acacia
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Pianta fiorita. Il Michiel la chiama Acacia prima, mentre il Mattioli la chiama Acacia
             seconda]. -</p>
         </div>
       </div></TEI>
