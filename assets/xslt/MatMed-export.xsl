@@ -10,20 +10,21 @@
                 corresponding md file </xd:p>
         </xd:desc>
     </xd:doc>
-
+    
     <xsl:output method="xml" indent="no" exclude-result-prefixes="xs xd t"/>
 
-
+    <!-- ****************** Processing the Preface ****************** -->
+    
     <xsl:template match="t:div[@type='preface']">
         
-        <!-- ************* xml document for the preface ************* -->
+<!-- ************* xml document for the preface ************* -->
         <xsl:result-document href="plant000.xml">
             <TEI xmlns="http://www.tei-c.org/ns/1.0">
                 <xsl:copy-of select="/t:TEI/t:teiHeader"/> <xsl:copy-of select="self::t:div"/>
             </TEI>
         </xsl:result-document>
         
-        <!-- ************* create md document for the preface ************* -->       
+    <!-- ************* create md document for the preface ************* -->       
         <xsl:result-document method="text" href="../../_edition/plant000.md">
                 <xsl:text>---
 title: "</xsl:text><xsl:value-of select="t:head"/><xsl:text>"
@@ -37,20 +38,22 @@ layout: single-xml
         
     </xsl:template>
     
-
+    <!-- ****************** Processing each Plant ****************** -->
+    
     <xsl:template match="t:div[@type='plant']">
         <xsl:variable name="xml-file" select="concat('plant',substring-after(@xml:id, '-'),'.xml')"/>
         <xsl:variable name="md-file" select="concat('../../_edition/plant',substring-after(@xml:id, '-'),'.md')"/>
-        <!-- *************  create xml document for each plant. tos change the location for the split up xml files, change
-           the path in the href below.*************  -->
+
+        <!-- *************  create xml document for each plant. To change the location for the split up xml files, change
+           the path in the $xml-file variable above.*************  -->
         <xsl:result-document href="{$xml-file}">
             <TEI xmlns="http://www.tei-c.org/ns/1.0">
                 <xsl:copy-of select="/t:TEI/t:teiHeader"/> <xsl:copy-of select="self::t:div"/>
             </TEI>
         </xsl:result-document>
 
-    <!-- ************* create md document for each plant to change the location for the split up xml files, change
-           the path in the href below. ************* -->
+    <!-- ************* create md document for each plant. To change the location for the split up xml files, change
+           the path in the $md-file variable above. ************* -->
         <xsl:result-document method="text" href="{$md-file}">
             <xsl:variable name="plant-title" select="t:head"/>
             <xsl:variable name="plant-num" select="substring-after(@xml:id, '-')"/>
@@ -76,14 +79,28 @@ layout: single-xml
           
         </xsl:template>
     
-    <xsl:template match="listPerson">
-        <xsl:result-document href="peopleIndex.md">
+    <!-- ************* create people index as an .md file. mostly using HTML -->
+    <xsl:template match="t:text">
+        <xsl:result-document href="peopleIndex.md" >
             <xsl:text>---
 title: "Index of People"
 layout: single-xml
 ---</xsl:text>
             
-            <xsl:for-each-group
+           <xsl:for-each-group select="descendant::t:persName" group-by="@ref">
+               <xsl:sort select="current-grouping-key()"/>
+               <xsl:text>
+## </xsl:text><xsl:value-of select="current-grouping-key()"/>
+               information about person here
+               <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
+                   <xsl:text>
+ - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant']/@xml:id"/><xsl:text>](link here) </xsl:text> 
+                   <xsl:if test="count(current-group()) > 1">
+                       <xsl:value-of select="concat('[',count(current-group()),']')"/>
+                   </xsl:if>
+               </xsl:for-each-group>
+               
+           </xsl:for-each-group>
         </xsl:result-document>
     </xsl:template>
 
