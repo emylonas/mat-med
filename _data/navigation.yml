@@ -8,6 +8,8 @@ main:
     url: /edition/
   - title: "Apothecaries"
     url: /apothecaries/
+  - title: "Indices"
+    url: /indices/
   - title: "About"
     url: /about/
   # - title: "Edition"
@@ -26,7 +28,7 @@ edition:
       - title: Libro Azzurro
         url:  /edition/index/
       - title: Introduction
-        url:  /edition/plant000/      
+        url:  /edition/plant000/
       - title: 1 CIRUELAS MONTESES
         url:  /edition/plant001/
       - title: 2 INCOGNITA
