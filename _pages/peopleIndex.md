@@ -249,7 +249,7 @@ layout: single-xml
                information about person here
                
  - [N. 55 LICIO SECONDO INDIANO]({{ site.baseurl }}edition/plant055/) 
-## [Veglia, Dionisio]()
+## []()
                information about person here
                
  - [N. 50 SECO MORO FRATESCO]({{ site.baseurl }}edition/plant050/) 
