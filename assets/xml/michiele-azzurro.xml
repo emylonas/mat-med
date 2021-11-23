@@ -287,7 +287,7 @@
       
       <div type="plant" xml:id="A-002">
         <head>N. 2 INCOGNITA</head>
-        <ab>[<hi>Sambucus racemosa L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000439333">WFO</ref></ab>
+        <ab>[<hi>Sambucus racemosa L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000439333">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30056767-2">Kew</ref></ab>
         <div type="editorial-D">
           <p>[Il verso della pagina è bianco. Nel recto una figura incompletamente dipinta di ramo
             fruttifero. Il disegno completo colla nomenclatura è a <ref type="internal" target="#A-066">N. 66</ref>. Notiamo che il <persName ref="#Ghini">Ghini</persName>
@@ -297,10 +297,11 @@
         </div>
       </div>
       
-      
+    
       <div type="plant" xml:id="A-003">
         <head>N. 3 LAURO SILVESTRE</head>
-        <ab>[<hi>Viburnum Tinus L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000422887">WFO</ref></ab>
+
+        <ab>[<hi>Viburnum Tinus L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000422887">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:326271-2">Kew</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Lauro silvestre da volgari - Gara Gar Daphnos - Tinus Plinij - Gara et Gar da Arabi (<ptr target="#A-003-N1"/>) -
@@ -345,7 +346,7 @@
 
       <div type="plant" xml:id="A-004">
         <head>N. 4 ALBERO INCOGNITO</head>
-        <ab>[<hi>Syringa vulgaris L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000818704">WFO</ref></ab>
+        <ab>[<hi>Syringa vulgaris L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000818704">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:289009-2">Kew</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Argavani che inferisse (<ptr target="#A-004-N1"/>) color pavonazio in <placeName ref="https://www.geonames.org/10922502/mediterranean-region.html">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
@@ -399,7 +400,8 @@
 
       <div type="plant" xml:id="A-005">
         <head>N. 5 ATRAGENE</head>
-        <ab>[<hi>Clematis Vitalba L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000610926">WFO</ref></ab>
+
+        <ab>[<hi>Clematis Vitalba L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000610926">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:319145-2">Kew</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Atragena Theophrasti - Vitison da volgari.</p>
