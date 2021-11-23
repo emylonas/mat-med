@@ -64,6 +64,7 @@ layout: single-xml
 
             <xsl:text>---
 title: "</xsl:text><xsl:value-of select="$plant-title"/><xsl:text>"
+permalink: "/plant</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>/"
 plant-name: "</xsl:text><xsl:value-of select="$plant-name"/><xsl:text>"
 plant-number: "</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>"
 plant-xml: "/assets/xml/plant</xsl:text><xsl:value-of
@@ -81,20 +82,21 @@ layout: single-xml
     
     <!-- ************* create people index as an .md file. mostly using HTML -->
     <xsl:template match="t:text">
-        <xsl:result-document href="peopleIndex.md" >
+        <xsl:result-document href="../../_pages/peopleIndex.md" omit-xml-declaration="yes" >
             <xsl:text>---
 title: "Index of People"
+permalink: "/index-people/"
 layout: single-xml
 ---</xsl:text>
             
            <xsl:for-each-group select="descendant::t:persName" group-by="@ref">
                <xsl:sort select="current-grouping-key()"/>
                <xsl:text>
-## </xsl:text><xsl:value-of select="current-grouping-key()"/>
+## [</xsl:text><xsl:value-of select="id(substring-after(current-grouping-key(),'#'))"/>](<xsl:value-of select="id(substring-after(current-grouping-key(),'#'))/@ref"/>)
                information about person here
                <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
                    <xsl:text>
- - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant']/@xml:id"/><xsl:text>](link here) </xsl:text> 
+ - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant']/t:head"/><xsl:text>]({{ site.baseurl }}edition/plant</xsl:text><xsl:value-of select="substring-after(ancestor::t:div[@type='plant']/@xml:id, '-')"/><xsl:text>/) </xsl:text> 
                    <xsl:if test="count(current-group()) > 1">
                        <xsl:value-of select="concat('[',count(current-group()),']')"/>
                    </xsl:if>
@@ -102,6 +104,33 @@ layout: single-xml
                
            </xsl:for-each-group>
         </xsl:result-document>
+        
+        <!-- ************* create places index as an .md file. mostly using HTML -->
+ 
+            <xsl:result-document href="../../_pages/placesIndex.md" omit-xml-declaration="yes" >
+                <xsl:text>---
+title: "Index of Places"
+permalink: "/index-places/"
+layout: single-xml
+---</xsl:text>
+                
+                <xsl:for-each-group select="descendant::t:placeName" group-by="@ref">
+                    <xsl:sort select="current-grouping-key()"/>
+                    <xsl:text>
+## </xsl:text><xsl:value-of select="id(substring-after(current-grouping-key(),'#'))"/>
+                    information about place here
+                    <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
+                        <xsl:text>
+ - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant']/t:head"/><xsl:text>]({{ site.baseurl }}edition/plant</xsl:text><xsl:value-of select="substring-after(ancestor::t:div[@type='plant']/@xml:id, '-')"/><xsl:text>/) </xsl:text> 
+                        <xsl:if test="count(current-group()) > 1">
+                            <xsl:value-of select="concat('[',count(current-group()),']')"/>
+                        </xsl:if>
+                    </xsl:for-each-group>
+                    
+                </xsl:for-each-group>
+            </xsl:result-document>
+            
+        
     </xsl:template>
 
 
