@@ -21,6 +21,23 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+#apothecaries sidebar
+apothecaries:
+  - title: Apothecaries
+    children:
+      - title: 16th Cetury
+        url:  /edition/index/
+      - title: 16th Cetury Inventories
+        url:  /edition/plant000/
+      - title: 17th Cetury
+        url:  /edition/plant001/
+      - title: 17th Cetury Inventories
+        url:  /edition/plant002/
+      - title: 18th Cetury
+        url:  /edition/plant003/
+      - title: 18th Cetury Inventories
+        url:  /edition/plant004/
+
 #plants sidebar
 edition:
   - title: Edition
