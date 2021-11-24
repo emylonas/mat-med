@@ -1,4 +1,4 @@
 ---
-Title: Apothecaries
+Title: Apothecary Shops
 layout: single
 ---
