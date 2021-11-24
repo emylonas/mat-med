@@ -4,16 +4,16 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-029" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-029">
         <head>N. 29</head>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Una buona figura rappresentante lo strobilo maturo del cipresso, un'altra di strobilo
-            immaturo. Manca il testo].</p>
+        <div type="editorial-D">
+          <p>Una buona figura rappresentante lo strobilo maturo del cipresso, un'altra di strobilo
+            immaturo. Manca il testo.</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

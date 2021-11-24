@@ -43,12 +43,14 @@ layout: single-xml
     <xsl:template match="t:div[@type='plant']">
         <xsl:variable name="xml-file" select="concat('plant',substring-after(@xml:id, '-'),'.xml')"/>
         <xsl:variable name="md-file" select="concat('../../_edition/plant',substring-after(@xml:id, '-'),'.md')"/>
-
+plant
         <!-- *************  create xml document for each plant. To change the location for the split up xml files, change
            the path in the $xml-file variable above.*************  -->
-        <xsl:result-document href="{$xml-file}">
+        <xsl:value-of select="$xml-file"/>
+        <xsl:result-document href="{concat('plant',substring-after(@xml:id, '-'),'.xml')}">
             <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                <xsl:copy-of select="/t:TEI/t:teiHeader"/> <xsl:copy-of select="self::t:div"/>
+                <xsl:copy-of select="/t:TEI/t:teiHeader"/> 
+                <text><body><xsl:copy-of select="self::t:div"/></body></text>
             </TEI>
         </xsl:result-document>
 
@@ -64,7 +66,7 @@ layout: single-xml
 
             <xsl:text>---
 title: "</xsl:text><xsl:value-of select="$plant-title"/><xsl:text>"
-permalink: "/plant</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>/"
+permalink: "/edition/plant</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>/"
 plant-name: "</xsl:text><xsl:value-of select="$plant-name"/><xsl:text>"
 plant-number: "</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>"
 plant-xml: "/assets/xml/plant</xsl:text><xsl:value-of
@@ -86,7 +88,7 @@ layout: single-xml
             <xsl:text>---
 title: "Index of People"
 permalink: "/index-people/"
-layout: single-xml
+layout: single
 ---</xsl:text>
             
            <xsl:for-each-group select="descendant::t:persName" group-by="@ref">
@@ -106,19 +108,18 @@ layout: single-xml
         </xsl:result-document>
         
         <!-- ************* create places index as an .md file. mostly using HTML -->
- 
+
             <xsl:result-document href="../../_pages/placesIndex.md" omit-xml-declaration="yes" >
                 <xsl:text>---
 title: "Index of Places"
 permalink: "/index-places/"
-layout: single-xml
+layout: single
 ---</xsl:text>
                 
-                <xsl:for-each-group select="descendant::t:placeName" group-by="@ref">
+                <xsl:for-each-group select="descendant::t:placeName" group-by=".">
                     <xsl:sort select="current-grouping-key()"/>
                     <xsl:text>
-## </xsl:text><xsl:value-of select="id(substring-after(current-grouping-key(),'#'))"/>
-                    information about place here
+## </xsl:text><xsl:value-of select="current-grouping-key()"/>
                     <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
                         <xsl:text>
  - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant']/t:head"/><xsl:text>]({{ site.baseurl }}edition/plant</xsl:text><xsl:value-of select="substring-after(ancestor::t:div[@type='plant']/@xml:id, '-')"/><xsl:text>/) </xsl:text> 
@@ -130,7 +131,7 @@ layout: single-xml
                 </xsl:for-each-group>
             </xsl:result-document>
             
-        
+        <xsl:apply-templates/>
     </xsl:template>
 
 

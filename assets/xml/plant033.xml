@@ -4,55 +4,55 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-033" part="N" org="uniform" sample="complete">
-        <head>N. 33 LAUREOLA</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637701">[<hi>Daphne Laureola L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-033">
+        <head>N. 33 Laureola</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637701">[<hi>Daphne Laureola L.</hi>]</ref></ab>
+        <div type="name">
           <head>Nomi</head>
-          <p part="N"> Laureola et Lauraginem da Romani et vuolgari - Chamae-daphne et Daphnitem da Greci –
+          <p> Laureola et Lauraginem da Romani et vuolgari - Chamae-daphne et Daphnitem da Greci –
             Allessandrina, Hydragogon et Lactaginem da alcuni - Vusbin et Laureole da Galli - Zeilant
             et Zaidelphast da Germani - Eupetalon, Peplion et Daphnoides da altri Greci - Pelasgo,
             Eutalon et Cephalon Alesandrion da varij - Olivela et Oriola in Italia.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Dui capitoli si fano Diascoride, l'uno de Daphnoide et l'altro di Chamedaphne, et molti
+          <p> Dui capitoli si fano Diascoride, l'uno de Daphnoide et l'altro di Chamedaphne, et molti
             tengono uno esser il maschio, l'altro la femina, ma per esser simili io non darò se non
             una pittura.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti de Italia in luoghi silvestri.</p>
+          <p> Ne monti de Italia in luoghi silvestri.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 291 parlando del Chamedaphne dice non esser ancora ben risolto. Alcuni
+          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 291 parlando del Chamedaphne dice non esser ancora ben risolto. Alcuni
             vogliono che la Daphnoide et il Chamedaphne siano tutti Laureola ma maschio et femina
             ma è da avertire che il fruto del Chamedaphne dice Diascoride esser rosso et non nero
             come quello della Laureola, dunde sarebbe meglio a dire che ci fusse il <hi>piper montan</hi> per
             farlo rosso [<ref type="internal" target="#A-032"/>].</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Buona figura di pianta fiorita; a parte un ramo fruttifero. Anche il Michiel volle
+        <div type="editorial-D">
+          <p>Buona figura di pianta fiorita; a parte un ramo fruttifero. Anche il Michiel volle
             occuparsi della questione riguardante la Chamaedaphne di Dioscoride. Questo nome lo
             troviamo anche al <ref target="#R1-019">N. 19 del primo libro rosso</ref> applicato alla sp. Vinca minor, ma solo
             come opinione altrui. Secondo altri autori (<ptr target="#A-033-N1"/>) la <foreign xml:lang="grc">χαμαιδάφνη</foreign> degli antichi era <hi>Ruscus Hypoglossum</hi>
             che fa le bacche rosse, ma questa opinione non era nota al Michiel, il quale
             perciò arrischia la supposizione che la camedafne sia <hi>Daphne Mezercum</hi>. I nomi <hi>laclago</hi>,
             <hi>peplion</hi> tradiscono la confusione che facevasi tra la specie presente ed una euforbia (<hi>E.
-              amygdaloides</hi>)] (<ptr target="#A-033-N2"/>).</p>
+              amygdaloides</hi>) (<ptr target="#A-033-N2"/>).</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-033-N1" n="1" anchored="true"> <persName ref="#Rinio" instant="false" full="yes">Rinio</persName>, c. 357.</note>
-          <note xml:id="A-033-N2" n="2" anchored="true"> Le due piante si somigliano nella statura e nella forma e tinta del fogliame;
+        <div type="notes">
+          <note xml:id="A-033-N1" n="1"> <persName ref="#Rinio">Rinio</persName>, c. 357.</note>
+          <note xml:id="A-033-N2" n="2"> Le due piante si somigliano nella statura e nella forma e tinta del fogliame;
             solo alla fioritura appaiono chiari, anche a distanza, i caratteri distintivi. Anche nel
             Rinio (c. 35a) la laureola ha, fra gli altri, il nome Peplon e, per riscontro, in altro
             codice <ref type="bibl" target="http://id.sbn.it/bid/PUV0792629">[20]</ref> la sopranominata euforbia è chiamata <hi>mesercon</hi>.</note>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

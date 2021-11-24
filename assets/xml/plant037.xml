@@ -4,58 +4,58 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-037" part="N" org="uniform" sample="complete">
-        <head>N. 37 TASO</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000408637">[<hi>Taxus baccata L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-037">
+        <head>N. 37 Taso</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000408637">[<hi>Taxus baccata L.</hi>]</ref></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Nasso da volgari - Tasso da Romani - Smilace et Thymion da alcuni.</p>
+          <p> Nasso da volgari - Tasso da Romani - Smilace et Thymion da alcuni.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N">Varie sonno le spezie de alberi con foglie consimile come demostro inanti [<ref type="internal" target="#A-036"/>NN. 36,
+          <p>Varie sonno le spezie de alberi con foglie consimile come demostro inanti [<ref type="internal" target="#A-036"/>NN. 36,
             38].</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="32"/>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne' <placeName ref="https://www.geonames.org/3027940/massif-central.html" instant="false" full="yes">monti di Francia</placeName>, <placeName ref="https://www.geonames.org/3182982/appennines.html" instant="false" full="yes">Italia</placeName> et <placeName ref="https://www.geonames.org/264644/nomos-arkadias.html" instant="false" full="yes">Arcadia</placeName> qualli sonno piui venenosi.</p>
+          <p> Ne' <placeName ref="https://www.geonames.org/3027940/massif-central.html">monti di Francia</placeName>, <placeName ref="https://www.geonames.org/3182982/appennines.html">Italia</placeName> et <placeName ref="https://www.geonames.org/264644/nomos-arkadias.html">Arcadia</placeName> qualli sonno piui venenosi.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> Son da credere che de suoi cascati fruti ci nascano perché non ce alcuno che li
+          <p> Son da credere che de suoi cascati fruti ci nascano perché non ce alcuno che li
             piantano.</p> 
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p part="N">Questo son il smilace medesimo descrito da Diascoride.</p>
+          <p>Questo son il smilace medesimo descrito da Diascoride.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Son venen alle bestie mangiandolo. Et il suo frutto son peggiore et guardasi
+          <p> Son venen alle bestie mangiandolo. Et il suo frutto son peggiore et guardasi
             ciascheduno. Et in Arcadia sonno tanto peggiore che cui mangiasse soto suoa ombra overo
             si adormentassero se ne morirebbero. Et tutti li rimedij che si fanno per la cicuta
             sonno giovevoli per questo ancora ...</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Albero fruttifero in mezzo ad un piazzale con palazzino di villeggiatura. Sui rami due
+        <div type="editorial-D">
+          <p>Albero fruttifero in mezzo ad un piazzale con palazzino di villeggiatura. Sui rami due
             uccelli con penne bianche e rosse chiazzate di nero, forse dietro la credenza esposta da
             Dioscoride che gli uccelli i quali si cibano delle bacche dei tassi italiani diventano
             neri. A parte è dipinto un ramoscello folioso e nella diagnosi, in uniformità a quanto
             fu scritto nel numero precedente, l'autore dice che le foglie sono «simil all'Abete ma
             queste apuntite et maggiorete».</p>
-          <p part="N">Il Michiel ripete notizie trovate in alcuni autori antichi sul frutto che sarebbe più
+          <p>Il Michiel ripete notizie trovate in alcuni autori antichi sul frutto che sarebbe più
             velenoso delle foglie e sull'ombra malefica della pianta. Però, fin da' suoi tempi, si
             cominciava a dubitare della verità di tali asserzioni et il Mattioli stesso, in mezzo a
             tante favole, dice: «Sono alcuni huomini che se lo mangiano senza nocumento alcuno».
             Oggidi è assodato che solo la scorza e le foglie sono velenose, ma non per tutte le
-            bestie, solo pegli equini, come asseri Teofrasto].</p>
+            bestie, solo pegli equini, come asseri Teofrasto.</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

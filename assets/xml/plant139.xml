@@ -4,60 +4,60 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-139" part="N" org="uniform" sample="complete">
-        <head>N. 139 BERBERI</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000564027">[<hi>Berberis vulgaris L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-139">
+        <head>N. 139 Berberi</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000564027">[<hi>Berberis vulgaris L.</hi>]</ref></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Berberi da Latini et volgari - Paisselbeer (<ptr target="#A-139-N1"/>), Saurich (<ptr target="#A-139-N2"/>), Erbsel et Versich da
+          <p> Berberi da Latini et volgari - Paisselbeer (<ptr target="#A-139-N1"/>), Saurich (<ptr target="#A-139-N2"/>), Erbsel et Versich da
             Germani (<ptr target="#A-139-N3"/>) - Espine vinete et ou du Berberi da Galli - Oxiacanta officinis dal Trago -
             Ammiberberis da Arabi - Ravach da Greci.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Tre spetie di Berberi si raggiona, quello delli Arabi che son l'acuta spina [N. 152],
+          <p> Tre spetie di Berberi si raggiona, quello delli Arabi che son l'acuta spina [N. 152],
             il secondo questo, il terzo molti si onne l'Uva crespina over uva spina (<ptr target="#A-139-N4"/>), la qual
             per esser tanto familiar de gli bruodi (<ptr target="#A-139-N5"/>) non ho havuto bisognio di mostrarla.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In molti monti, selve et luoghi campestri di Lombardia.</p>
+          <p> In molti monti, selve et luoghi campestri di Lombardia.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Molti dimostrano questa pianta per l'Oxiacantha et non scio con che raggioni essendo
+          <p> Molti dimostrano questa pianta per l'Oxiacantha et non scio con che raggioni essendo
             questo in ogni parte differente. Et questo con l'uva crespina non sonno stati in
             cognizione de molti antiqui.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Suoi acini del Crespino sonno usati con rosti (<ptr target="#A-139-N6"/>) invece di agresto et sonno amiche
+          <p> Suoi acini del Crespino sonno usati con rosti (<ptr target="#A-139-N6"/>) invece di agresto et sonno amiche
             delle gravide et giova nelle acute febri. Et di suoi acini del berberi si fanno vino
             mescolato con giulebbo violato buono per spenger la sete per le ditte (<ptr target="#A-139-N7"/>). Et son simil
             nelle virtu et forma al pero salvatico. leggi Avicenna lib. 2. Pandette 39 de
             Ammiberberis.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fiorita e fruttifera; a parte ramoscello fiorito e ramoscello fruttifero. Erroneo è il primo none tedesco che appartiene all'uva orsina. Il Michiel invece corregge
-            un errore comune ai suoi tempi, in cui cadde anche il <persName ref="#Rinio" instant="false" full="yes">Rinio</persName> (c. 340), per cui si rite-
+        <div type="editorial-D">
+          <p>Pianta fiorita e fruttifera; a parte ramoscello fiorito e ramoscello fruttifero. Erroneo è il primo none tedesco che appartiene all'uva orsina. Il Michiel invece corregge
+            un errore comune ai suoi tempi, in cui cadde anche il <persName ref="#Rinio">Rinio</persName> (c. 340), per cui si rite-
             neva che il berberi fosse l'<foreign xml:lang="grc">ὀξυάκανθα</foreign> dei Greci <ref target="A-152)">[N. 152]</ref> e perciò male stanno le sue citazioni di autori
-            che presero il medesimo abbaglio, come lo prova il frutto a quello del pero selvatico].
+            che presero il medesimo abbaglio, come lo prova il frutto a quello del pero selvatico.
             paragone del</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-139-N1" n="1" anchored="true"> Preisselsbeere.</note>
-          <note xml:id="A-139-N2" n="2" anchored="true"> Säuerlich = acidulo.</note>
-          <note xml:id="A-139-N3" n="3" anchored="true"> * Nomi tedeschi ricavati dal FUCSIUS (<hi>De historia stirpium</hi>, p. 542).
+        <div type="notes">
+          <note xml:id="A-139-N1" n="1"> Preisselsbeere.</note>
+          <note xml:id="A-139-N2" n="2"> Säuerlich = acidulo.</note>
+          <note xml:id="A-139-N3" n="3"> * Nomi tedeschi ricavati dal FUCSIUS (<hi>De historia stirpium</hi>, p. 542).
             (Ed.).</note>
-          <note xml:id="A-139-N4" n="4" anchored="true"> <hi>Ribes Grossularia</hi>.</note>
-          <note xml:id="A-139-N5" n="5" anchored="true"> Bruoli.</note>
-          <note xml:id="A-139-N6" n="6" anchored="true"> Arrosti.</note>
-          <note xml:id="A-139-N7" n="7" anchored="true"> Le dette, cioè le febbri. </note>
+          <note xml:id="A-139-N4" n="4"> <hi>Ribes Grossularia</hi>.</note>
+          <note xml:id="A-139-N5" n="5"> Bruoli.</note>
+          <note xml:id="A-139-N6" n="6"> Arrosti.</note>
+          <note xml:id="A-139-N7" n="7"> Le dette, cioè le febbri. </note>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

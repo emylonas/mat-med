@@ -4,63 +4,63 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-042" part="N" org="uniform" sample="complete">
-        <head>N. 42 ASCLEPIAS</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0001102183">[<hi>Marsdenia erecta (L.) R.Br.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-042">
+        <head>N. 42 Asclepias</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001102183">[<hi>Marsdenia erecta (L.) R.Br.</hi>]</ref></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Asclepiade dal francese, <persName ref="#Belonio" instant="false" full="yes">Bellonio</persName> simplicista copioso et erante.</p>
+          <p> Asclepiade dal francese, <persName ref="#Belonio">Bellonio</persName> simplicista copioso et erante.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Tre asclepiade dimostro qui sequitando, una inanti vincetosica [<ref type="internal" target="#A-041">N. 41</ref>] et una di
+          <p> Tre asclepiade dimostro qui sequitando, una inanti vincetosica [<ref type="internal" target="#A-041">N. 41</ref>] et una di
             Francia doppo [<ref type="internal" target="#A-043">N. 43</ref>].</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nel <placeName ref="https://www.geonames.org/351820/jabal-musa.html" instant="false" full="yes">Monte Sinai</placeName> mi disse el deto <persName ref="#Belonio" instant="false" full="yes">Belonio</persName> el qual mi diede de semi et mi naque in
+          <p> Nel <placeName ref="https://www.geonames.org/351820/jabal-musa.html">Monte Sinai</placeName> mi disse el deto <persName ref="#Belonio">Belonio</persName> el qual mi diede de semi et mi naque in
             quantità dunde la dispensai per de molti giardini de simplici che ancora si vedeno.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Ogni anno suoi sarmenti si rivesteno di novele frondi a prima vera, et con il fredo si
+          <p> Ogni anno suoi sarmenti si rivesteno di novele frondi a prima vera, et con il fredo si
             perdeno, suoi fiori de giugno con il seme poi.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Luogho umido et raggionevol sole.</p>
+          <p> Luogho umido et raggionevol sole.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> A basso rimanda. Et anche de suoi semi benissimo ci nasce.</p>
+          <p> A basso rimanda. Et anche de suoi semi benissimo ci nasce.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">Molti simplicisti vuoleno che questa sia spezie di Apochinos, ma per fare li sarmenti
-            lunghi l'<persName ref="#Aldrovandi" instant="false" full="yes">Aldrovandi</persName> dignissimo simplicista tiene che vengano meglio quivi et de altri
+          <p>Molti simplicisti vuoleno che questa sia spezie di Apochinos, ma per fare li sarmenti
+            lunghi l'<persName ref="#Aldrovandi">Aldrovandi</persName> dignissimo simplicista tiene che vengano meglio quivi et de altri
             ancora tieneno questa oppinione. M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Aloise Anguillara</ref> k. 274 dice che se li suoi
-            sarmenti fussero piccoli et che amazassero i cani che potria essere. M. <persName ref="#Guilandino" instant="false" full="yes">Marchiò</persName> 
+            sarmenti fussero piccoli et che amazassero i cani che potria essere. M. <persName ref="#Guilandino">Marchiò</persName> 
             Giardiniero della Ill.ma Signoria dice che l'Asclepias Mathioli son il Polyrizon Plinij
             <hi>ma non è così</hi>: Et anchora de molti sciochi voleno che quella volgar Hedera terestre sia
             l'Asclepiade. Et <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marzello fiorentino [= Marcello Virgilio Adriani]</ref> dice far il fiore di Rosa.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fiorita. Nella diagnosi l'autore fa osservare le differenze tra questa specie e
+        <div type="editorial-D">
+          <p>Pianta fiorita. Nella diagnosi l'autore fa osservare le differenze tra questa specie e
             la precedente: «Et son simil tutta la pianta alla Vincetossica deta se non che questa
             suoa radice profunda et quella in superficie, suoe frondi di questa più larghe, suoi
             sarmenti di questa ci vivono et quelle ci muore l'inverno».</p>
-          <p part="N">L'Anguillara nel suo Parere sull'Apocino citato al numero seguente dice di aver
+          <p>L'Anguillara nel suo Parere sull'Apocino citato al numero seguente dice di aver
             ricevuto questa pianta nel 1549 dalla Grecia insieme a quella che segue.</p>
-          <p part="N">Confrontando quanto dice il Michiel con quanto è detto negli scritti di <persName ref="#Ghini" instant="false" full="yes">Ghini</persName>,
-            <persName ref="#Aldrovandi" instant="false" full="yes">Aldrovandi</persName> e <persName ref="#Mattioli" instant="false" full="yes">Mattioli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CAG0081035">[303</ref>, <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">305</ref>, <ref type="bibl" target="http://id.sbn.it/bid/RMLE0070830412287">191]</ref> si comprende che <persName ref="#Belonio" instant="false" full="yes">Pietro Belon</persName> diede al Michiel i
+          <p>Confrontando quanto dice il Michiel con quanto è detto negli scritti di <persName ref="#Ghini">Ghini</persName>,
+            <persName ref="#Aldrovandi">Aldrovandi</persName> e <persName ref="#Mattioli">Mattioli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CAG0081035">[303</ref>, <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">305</ref>, <ref type="bibl" target="http://id.sbn.it/bid/RMLE0070830412287">191]</ref> si comprende che <persName ref="#Belonio">Pietro Belon</persName> diede al Michiel i
             semi della pianta col nome di asclepiade, semi i quali germogliarono nel giardino del
-            patrizio veneto. Nel 1547 <persName ref="#Ghini" instant="false" full="yes">Luca Ghini</persName> ricevette due follicoli, come lo mostrano le parole
+            patrizio veneto. Nel 1547 <persName ref="#Ghini">Luca Ghini</persName> ricevette due follicoli, come lo mostrano le parole
             nel placito <hi>de Apocyno</hi>: «Ante quatuor annos dono mihi dedit Nobilis quidam binas
             siliquas ex Syria allatas quarum una inscriptionem habebat hanc Periploca repens,
             alteri inscriptum erat Periploca non repens». La prima è la pianta figurata dal Michiel
@@ -68,6 +68,6 @@
             piante non sappiamo: non può essere né il Michiel né il Belon perché la nomenclatura e
             l'abitazione delle piante non corrispondono ed anche perché il Belon tornò dall'Oriente
             nel 1549 cioè due anni dopo che il Ghini ricevette i campioni, non può esser nemmeno
-            l'Anguillara che ebbe le piante due anni dopo dalla Grecia].</p>
+            l'Anguillara che ebbe le piante due anni dopo dalla Grecia.</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

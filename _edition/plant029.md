@@ -1,5 +1,6 @@
 ---
 title: "N. 29"
+permalink: "/edition/plant029/"
 plant-name: "N. 29"
 plant-number: "029"
 plant-xml: "/assets/xml/plant029.xml"

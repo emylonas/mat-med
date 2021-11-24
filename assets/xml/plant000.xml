@@ -4,18 +4,18 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="preface" part="N" org="uniform" sample="complete">
+  </teiHeader><div type="preface">
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="11"/>
         <head>LIBRO DE ALBORI, FRUTICI ET IN VOGLI</head>
         
-        <p part="N">Considerando io, Piero Antonio Michiel fu de Messer Marco, che l'ordine in tutte le ationi
+        <p>Considerando io, Piero Antonio Michiel fu de Messer Marco, che l'ordine in tutte le ationi
           sonno apreciabile, però al meglio io ho saputo, ho partito le varietà delle piante in
           diversi libri aciò siano manco confusi et reduti in manco volume essendo partiti in quatro
           distinte opere, zioè questa di Albori, frutici et invogli (<ptr target="#prN1"/>), la seconda di Herbe
@@ -28,8 +28,8 @@
           ogni uno per il suo nome intravenire in quello che desidera, et pigliarne quella utilità
           et inteligentia che potrà, dando colpa al debil et pocho saper mio, cogliendo qualche
           rosa, se pure ne serano, tra tanti spini.</p>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Qui appare chiaro l'ordine propostosi dall'autore, il quale spartì le piante in quattro
+        <div type="editorial-D">
+          <p>Qui appare chiaro l'ordine propostosi dall'autore, il quale spartì le piante in quattro
             divisioni artificiali: 
             1° Piante legnose e piante volubili contenute nel presente libro
             Azzurro. 
@@ -49,16 +49,16 @@
             introduzioni. Però queste due nuove classificazioni furono semplicemente esposte e
             l'autore non potè metterle in pratica, perché ciò avrebbe portato uno spostamento nelle
             pagine ormai numerate ed un conseguente cangiamento dei numeri spesso citati al capitolo
-            Genera. Già il <persName ref="#Morelli" instant="false" full="yes">Morelli</persName> avvertì che gli indici alfabetici promessi dall'autore in questo
+            Genera. Già il <persName ref="#Morelli">Morelli</persName> avvertì che gli indici alfabetici promessi dall'autore in questo
             esordio mancano nel Codice. Le pagine bianche che si trovano, non solo in fine ma anche
             nel corpo dei libri tenderebbero a provare che il Michiel non considerava finito il suo
             lavoro e si riservava di far l'indice quando il codice fosse pronto per le stampe, ma
-            che la morte quasi improvvisa ne lo impedì].</p>
+            che la morte quasi improvvisa ne lo impedì.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="prN1" n="1" anchored="true"> Invogli, cioè piante volubili, quindi il primo libro comprende le piante
+        <div type="notes">
+          <note xml:id="prN1" n="1"> Invogli, cioè piante volubili, quindi il primo libro comprende le piante
             legnose e le rampicanti.</note>
-          <note xml:id="prN2" n="2" anchored="true"> Saprà.</note>
-          <note xml:id="prN3" n="3" anchored="true"> Avrà.</note>
+          <note xml:id="prN2" n="2"> Saprà.</note>
+          <note xml:id="prN3" n="3"> Avrà.</note>
         </div>
       </div></TEI>

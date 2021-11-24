@@ -4,47 +4,47 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-044" part="N" org="uniform" sample="complete">
-        <head>N. 44 CAPORE ES FRUTA</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-044">
+        <head>N. 44 Capore es Fruta</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Capore es fruta da Indiani over Spagnioli.</p>
+          <p> Capore es fruta da Indiani over Spagnioli.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N">Sua radice grosse et legniose scure da qualle ci viene il suo albero grande, grosso di
+          <p>Sua radice grosse et legniose scure da qualle ci viene il suo albero grande, grosso di
             scuro colore et di ritorti rame, suoe frondi strete lunghe simil a pruni et suoi fruti
             anche quelli venghono carnosi et a 3 insieme ma il primo sempre maggiore. Et
             invecchiati suoi tronchi gli nascono dentro de Gigli come ne salici.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="37"/>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nell'India trasportati in Spagnia. Come nell'altri fu deto [<ref type="internal" target="#A-001">N. I</ref>].</p>
+          <p> Nell'India trasportati in Spagnia. Come nell'altri fu deto [<ref type="internal" target="#A-001">N. I</ref>].</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> Credo che verebbe bene di calmo (<ptr target="#A-044-N1"/>) et di suoi nuclei anche ma minori frutti
+          <p> Credo che verebbe bene di calmo (<ptr target="#A-044-N1"/>) et di suoi nuclei anche ma minori frutti
             producono.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Si credeno communamente esser gustevol sp. di brombini (<ptr target="#A-044-N2"/>).</p>
+          <p> Si credeno communamente esser gustevol sp. di brombini (<ptr target="#A-044-N2"/>).</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Albero fruttifero portante uccelli ed una lucerta. Da uno dei rami pende un cespuglio
+        <div type="editorial-D">
+          <p>Albero fruttifero portante uccelli ed una lucerta. Da uno dei rami pende un cespuglio
             di <hi>Cattleya citrina Lindb.</hi> È a questa orchidea epifita che allude l'autore nelle ultime
-            parole della diagnosi].</p>
+            parole della diagnosi.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-044-N1" n="1" anchored="true"> Innesto.</note>
-          <note xml:id="A-044-N2" n="2" anchored="true"> Prugnole.</note>
+        <div type="notes">
+          <note xml:id="A-044-N1" n="1"> Innesto.</note>
+          <note xml:id="A-044-N2" n="2"> Prugnole.</note>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

@@ -10,10 +10,9 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-17_18_19_20">
+  </teiHeader><text><body><div type="plant" xml:id="A-17_18_19_20">
         <head>NN 18, 19, 20</head>
         <div type="editorial-D">
-          <p>[Pagine bianche]</p>
-
+          <p>Pagine bianche</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

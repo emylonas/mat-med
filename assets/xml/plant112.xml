@@ -4,33 +4,33 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-112" part="N" org="uniform" sample="complete">
-        <head>N. II2 GUAICO</head>
-        <div type="editorial-S" part="N" org="uniform" sample="complete">
-          <ab part="N"> <ref target="http://www.worldfloraonline.org/taxon/wfo-4000016293">[<hi>Guaiacum L.</hi>]</ref></ab>
+  </teiHeader><text><body><div type="plant" xml:id="A-112">
+        <head>N. II2 Guaico</head>
+        <div type="editorial-S">
+          <ab> <ref target="http://www.worldfloraonline.org/taxon/wfo-4000016293">[<hi>Guaiacum L.</hi>]</ref></ab>
         </div>
-          <div type="name" part="N" org="uniform" sample="complete">
+          <div type="name">
           <head>NOMI</head>
-          <p part="N"> Guaico da Indiani - Legno santo, legno dal mal francese da volg. - Guaiacan et china dali
+          <p> Guaico da Indiani - Legno santo, legno dal mal francese da volg. - Guaiacan et china dali
             medemi Indiani - Arbor Indica occidentalis da Latini - Frantzosen Holtz, Blatrerholtz da
             Germani.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Credesi che questo et il Guaiacan et China siano uno istesso, apar nel primo (<ptr target="#A-112-N1"/>)
+          <p> Credesi che questo et il Guaiacan et China siano uno istesso, apar nel primo (<ptr target="#A-112-N1"/>)
             dell'India k. 40 Arbor Indica occidentalis. Et il Manardo ne fa di 3 sp. et nel legno si
             conosce aperto, ma pero non scio se sia diversi alberi overo uno solo piui chiaro et
             piui venato scuro di tronco et legno.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa radice proffunda. Son albero grande come frassine di grossezza di huomo con
+          <p> Suoa radice proffunda. Son albero grande come frassine di grossezza di huomo con
             nerregnia cortezzia et dentro giallezzio venado. Suoe frondi ferme et brevi simil al
             piantagine. Et il magn. M. Giovan Batista Duodo ritrovo una foglia che son ritrata, la
             vide nelli invogli delle canelle che si fa giudicio possi esser di questo Albero si per
@@ -38,31 +38,31 @@
             nervo nel suo mezzo ma più larghe con gusto alquanto astringente. Li fiori sonno gialli,
             da qualli ci viene suoi fruti grossi come noce e.... (<ptr target="#A-112-N2"/>).</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nelle Indie ritrovati da Spagnioli di Colocuti (<ptr target="#A-112-N3"/>) dalla Tabrobana. Et anche in
+          <p> Nelle Indie ritrovati da Spagnioli di Colocuti (<ptr target="#A-112-N3"/>) dalla Tabrobana. Et anche in
             Ethiopia.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> De suoi semi et ne seminai ma non mi naque.</p>
+          <p> De suoi semi et ne seminai ma non mi naque.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">Il Gualtieri dimostra havere oppinione che sia sp. di Ebano et altri ancora.</p>
+          <p>Il Gualtieri dimostra havere oppinione che sia sp. di Ebano et altri ancora.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Come ben si comprende dal testo la foglia disegnata a parte è di una pianta differente
+        <div type="editorial-D">
+          <p>Come ben si comprende dal testo la foglia disegnata a parte è di una pianta differente
             dalla intiera e malamente il Michiel la giudico della stessa specie dopo aver detto e
             confermato nel disegno che le foglie dell'albero son di piantaggine. </p>
-          <p part="N"><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="82"/> L'intera pianta
+          <p><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="82"/> L'intera pianta
             fiorita e fruttifera ha qualche idea del Guaiaco di Giammaica ma dev'esser fittizia
-            (<ptr target="#A-112-N4"/>)].</p>
+            (<ptr target="#A-112-N4"/>).</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-112-N1" n="1" anchored="true"> * Questa citazione del primo libro [77] è certo una svista; doveva essere «libro II, k. 40»·(Ed.).</note>
-          <note xml:id="A-112-N2" n="2" anchored="true"> Non prosegue.</note>
-          <note xml:id="A-112-N3" n="3" anchored="true"> Calicut.</note>
-          <note xml:id="A-112-N4" n="4" anchored="true"> * Ha fiori solitari, gialli. (Ed.). </note>
+        <div type="notes">
+          <note xml:id="A-112-N1" n="1"> * Questa citazione del primo libro [77] è certo una svista; doveva essere «libro II, k. 40»·(Ed.).</note>
+          <note xml:id="A-112-N2" n="2"> Non prosegue.</note>
+          <note xml:id="A-112-N3" n="3"> Calicut.</note>
+          <note xml:id="A-112-N4" n="4"> * Ha fiori solitari, gialli. (Ed.). </note>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

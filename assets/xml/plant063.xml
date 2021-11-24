@@ -4,60 +4,60 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-063" part="N" org="uniform" sample="complete">
-        <head>N. 63 SCOTANUS</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-063">
+        <head>N. 63 Scotanus</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Scotanus da Latini et Plinio - Cotino da Greci - Albero dal penacchio da volgari - Rosa per
+          <p> Scotanus da Latini et Plinio - Cotino da Greci - Albero dal penacchio da volgari - Rosa per
             Italia (<ptr target="#A-063-N1"/>) - Schiapuci da conza corami alla Zudeca - Dulb da Arabi et baccam - Suffire,
             Platanus arbor da Greci (<ptr target="#A-063-N2"/>).</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nelle rippe del <placeName ref="http://www.geonames.org/3175397/istria.html" instant="false" full="yes">Istria</placeName> tra sassi ne sonno in quantità, et per monti di Lombardia si
+          <p> Nelle rippe del <placeName ref="http://www.geonames.org/3175397/istria.html">Istria</placeName> tra sassi ne sonno in quantità, et per monti di Lombardia si
             trova.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 85 tiene per il scatano di Plinio. Et li tentori usano li bastoni de
+          <p> <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 85 tiene per il scatano di Plinio. Et li tentori usano li bastoni de
             suoe radice per far purpura Plinio 16.19. Io credo che le <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298"> Pandette [di Matteo Silvatico]</ref> cap. 226 de Dulb
             confunda il scotano che si conzia li corami con il platano sequente.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p part="N"> Avegna che questo sia tenuto per il Cotino di Plinio non di meno Plinio non li narra
+          <p> Avegna che questo sia tenuto per il Cotino di Plinio non di meno Plinio non li narra
             la suoa forma. Et non dice se non che di lui se ne trae colore come di purpura.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">De suoe foglie et ramuscoli si purgano li corami. Et leggesi come di sopra apar.
-            <persName ref="#Serapione" instant="false" full="yes">Serapione</persName> lib. agg. cap. Dulb. </p>
+          <p>De suoe foglie et ramuscoli si purgano li corami. Et leggesi come di sopra apar.
+            <persName ref="#Serapione">Serapione</persName> lib. agg. cap. Dulb. </p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Anche il <persName ref="#Rinio" instant="false" full="yes">Rinio</persName> a c. 438, pur non citando le Pandette di Matteo Silvatico confuse lo
+        <div type="editorial-D">
+          <p>Anche il <persName ref="#Rinio">Rinio</persName> a c. 438, pur non citando le Pandette di Matteo Silvatico confuse lo
             scotano col platano e per soprappiù figurò una pianta che non è né Rhus, né
             Platanus.</p>
-          <p part="N">La presente figura è di albero fruttifero sorgente in un paesaggio di collina; a parte
+          <p>La presente figura è di albero fruttifero sorgente in un paesaggio di collina; a parte
             un ramoscello fruttifero. Il Michiel non conobbe i fiori e mise in dubbio se tali <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="47"/> fossero i lunghi
             peduncoli sterili e pelosi, come si apprende dalle sue frasi: «nel summo de rami viene
             diremo fiori che si restano poi una folta panocchia et chioma». ... «di Maggio suoi
-            fiori over penacchi»].</p>
+            fiori over penacchi».</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-063-N1" n="1" anchored="true">* Il nome rosa che nei trattati mercantili del 'soo si legge per lo più nella
+        <div type="notes">
+          <note xml:id="A-063-N1" n="1">* Il nome rosa che nei trattati mercantili del 'soo si legge per lo più nella
             forma «roza» o «rozza» · designava una materia colorante, pure rossa, ricavata dalla
             Rubia tinctorum. (Ed.).</note>
-          <note xml:id="A-063-N2" n="2" anchored="true"> * Questa corrispondenza con l'arabo e il greco (dulb, baccam, suffire,
+          <note xml:id="A-063-N2" n="2"> * Questa corrispondenza con l'arabo e il greco (dulb, baccam, suffire,
             platanus) che darebbe suffire come nome greco è trascritta dal <title ref="https://data.cerl.org/istc/is00511500">Pandectarium medicinas
               (Lione, 1478)</title> di Matteo Silvatico; invece, in quella più estesa data da <ref type="bibl" target="http://id.sbn.it/bid/RMLE007015">Serapione
                 (interprete N. Mutono, Venezia, 1552, p. 55)</ref>. Suffeire è uno dei nomi arabi.
             (Ed.).</note>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

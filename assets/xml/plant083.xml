@@ -4,62 +4,62 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-083" part="N" org="uniform" sample="complete">
-        <head>N. 83 AGNO CASTO</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000332916">[<hi>Vitex Agnus-Castus L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-083">
+        <head>N. 83 Agno Casto</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000332916">[<hi>Vitex Agnus-Castus L.</hi>]</ref></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Agno casto da volgari - Salice marino et Alesandrina, Arbor Abraz et Agnus castus da
+          <p> Agno casto da volgari - Salice marino et Alesandrina, Arbor Abraz et Agnus castus da
             Latini - Amarichest et Pentasilen da Arabi - Alygos vel Lygos da Greci - Vitice, Agnon et
             Aginon da alcuni - Amothomienon et Tradactilon da altri - Seranon da Magi - Sum da Egiptiis
            - Ideos da alcuni - Salicem amerinum da Romani - Piper agreste et Lecristicon da molti -
             Amerino in Calabria.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Ne son di bianco fiore et di celeste.</p>
+          <p> Ne son di bianco fiore et di celeste.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In Italia, ne selve, ne rippe salse et aspri loci ne venghono et nelle rippe della
+          <p> In Italia, ne selve, ne rippe salse et aspri loci ne venghono et nelle rippe della
             Marca d'il bianco. Et li proffesori di religion et castità ne doverebbeno tener ne suoi
             giardini et di suoe frondi farsi casti letti et ripossi.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Il Pandete dice esser sempre verde et qui da noi in contrario si vede che tarda piui
+          <p> Il Pandete dice esser sempre verde et qui da noi in contrario si vede che tarda piui
             de gli altri arbori. Et anche il Mathiolo dice esser el primo arbore che fiorisce, et io
             ritrovo fiorire tardi nell'esta' [=estate]. Et lungamente durano.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Avegnaché sia pianta de rippe salse non di meno ne giardini bene ci venghono.</p>
+          <p> Avegnaché sia pianta de rippe salse non di meno ne giardini bene ci venghono.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Le caste donne che custodivano ne sacrificij di Cerere facevano di frondi li suoi
+          <p>Le caste donne che custodivano ne sacrificij di Cerere facevano di frondi li suoi
             letti per esse appropriate a castità. Et questo sia deto per virginali petti aciò con
             questa piui facilmente si preservino percioché diminuisce il desiderio del coito...</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Albero fiorito e fruttifero, a sinistra del quale ci sono un ramoscello fiorito e
+        <div type="editorial-D">
+          <p>Albero fiorito e fruttifero, a sinistra del quale ci sono un ramoscello fiorito e
             fruttifero abbastanza ben delineato ed una figura di donna inginocchiata con sopra la
-            parola castità. La figura della pianta è più completa di quella del <persName ref="#Rinio" instant="false" full="yes">Rinio</persName> c. 221,
+            parola castità. La figura della pianta è più completa di quella del <persName ref="#Rinio">Rinio</persName> c. 221,
             presentandoci oltre i frutti, anche i fiori.</p>
-          <p part="N">Parlando nel testo dell'agnocasto a hori bianchi, il Michiel lo considera come una
+          <p>Parlando nel testo dell'agnocasto a hori bianchi, il Michiel lo considera come una
             specie separata, seguendo in ciò il Dioscoride.</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="61"/>
-          <p part="N">Le giuste osservazioni che fa il Michiel sullo spuntar delle foglie e dei fiori,
+          <p>Le giuste osservazioni che fa il Michiel sullo spuntar delle foglie e dei fiori,
             contraddicendo il Silvatico ed il Mattioli, provano che egli aveva tenuto la pianta
             nel suo giardino. Invece egli servilmente ripetè quanto dicevano gli antichi e
             credevano i contemporanei sulle virtù dell'agnocasto, mentre l'esperienza dimostrò
-            essere il suo frutto uno stimolante].</p>
+            essere il suo frutto uno stimolante.</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

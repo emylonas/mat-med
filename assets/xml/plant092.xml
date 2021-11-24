@@ -4,35 +4,35 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-092" part="N" org="uniform" sample="complete">
-        <head>N. 92 CAPOLI OTERECAS ES FRUTA</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-092">
+        <head>N. 92 Capoli Oterecas es Fruta</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Capoli otercas da Indiani overo da Spagnioli.</p>
+          <p> Capoli otercas da Indiani overo da Spagnioli.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N">Suoa radice legnosa, proffunda et nera come li tronchi, son Albero grande: suoe frondi
+          <p>Suoa radice legnosa, proffunda et nera come li tronchi, son Albero grande: suoe frondi
             di marasche ma strette, suoi fruti in grappoli rossigni et pavonazzi come uva.</p>
 
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="66"/>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> De l'India come deto de li altri [N. 1].</p>
+          <p> De l'India come deto de li altri [N. 1].</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> De suoi fruti ci nasce ma penso che bene verebbe per inesto.</p>
+          <p> De suoi fruti ci nasce ma penso che bene verebbe per inesto.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Albero fruttifero con quadrupedi, uccelli ed insetti].</p>
+        <div type="editorial-D">
+          <p>Albero fruttifero con quadrupedi, uccelli ed insetti.</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

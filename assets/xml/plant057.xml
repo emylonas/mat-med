@@ -4,43 +4,43 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-057" part="N" org="uniform" sample="complete">
-        <head>N. 57 HEBANO</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-057">
+        <head>N. 57 Hebano</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Hebano da volg. latini Abnus, Ebus, Ebibirius da Arabi.</p>
+          <p> Hebano da volg. latini Abnus, Ebus, Ebibirius da Arabi.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Dui sonno li generi del Ebano uno laudato et vagho, l'altro vile et vitiato, il raro
+          <p> Dui sonno li generi del Ebano uno laudato et vagho, l'altro vile et vitiato, il raro
             son molto prestante, di l'altro ne son molto. Et son comendato nel colore del
             legnio.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Narra <persName ref="#Theofrastus" instant="false" full="yes">Theophrasto</persName> che sono molti che dicono esser simil al Terebintho ne' foglia, rami
+          <p> Narra <persName ref="#Theofrastus">Theophrasto</persName> che sono molti che dicono esser simil al Terebintho ne' foglia, rami
             et nel resto ancora, ma il fruto son simil allo mandole in forma et gusto ma non in
             grandezza et son albero fruticoso a modo di Cytiso <hi>et duro di legnio l'Absi e di legnio
             nero et morde la lingua et di buon odore. Et il Indo son con lineamenti bianchi et di
             color sub-ruffo</hi>.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne sonno in India. Et io hebbi questo ritrato da uno portogese di Hetyopia.</p>
+          <p> Ne sonno in India. Et io hebbi questo ritrato da uno portogese di Hetyopia.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONE</head>
-          <p part="N"> Mi fu [con]fermato dal deto portogese esser forma del Hebano ma che io l'affermi non ne
+          <p> Mi fu [con]fermato dal deto portogese esser forma del Hebano ma che io l'affermi non ne
             scio altro.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta a foglie piccole, ovali allungate; frutti rotondi, verdi, ascellari,
-            solitari].</p>
+        <div type="editorial-D">
+          <p>Pianta a foglie piccole, ovali allungate; frutti rotondi, verdi, ascellari,
+            solitari.</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

@@ -4,39 +4,39 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-115" part="N" org="uniform" sample="complete">
-        <head>N. 115 STAFILODENDRO</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000493112">[<hi>Staphylea pinnata L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-115">
+        <head>N. 115 Stafilodendro</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000493112">[<hi>Staphylea pinnata L.</hi>]</ref></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Staphilodendron da Plinio Avelana indica da volgari Ornello in Romagnia Bim per
+          <p> Staphilodendron da Plinio Avelana indica da volgari Ornello in Romagnia Bim per
             nusdelin (<ptr target="#A-115-N1"/>) et Pinpernusz da Germani Lagrime di Giopo (<ptr target="#A-115-N2"/>) in Abruzzio Pistachier
             salvatico in molti luoghi Arbor vitis dal Anguilara Nux vesicaria dal Trago.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Volendolo poner per spetie di pistacchio serano dui (<ptr target="#A-115-N3"/>).</p>
+          <p> Volendolo poner per spetie di pistacchio serano dui (<ptr target="#A-115-N3"/>).</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne sonno in coppia oltra le Alpi et in Italia ne monti.</p>
+          <p> Ne sonno in coppia oltra le Alpi et in Italia ne monti.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Il suo fruto son nocivo al stomacho caggionando tumorosita et vomito come li
+          <p>Il suo fruto son nocivo al stomacho caggionando tumorosita et vomito come li
             montagniari si acorgono.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Albero fiorito e fruttifero portante in cima un nido di cicogne. A parte una buona
+        <div type="editorial-D">
+          <p>Albero fiorito e fruttifero portante in cima un nido di cicogne. A parte una buona
             figura di foglia accompagnata da infiorescenza ed un'altra bellissima di due frutti, uno
             de' quali lacerato per far vedere i semi.</p>
-          <p part="N">Questa figura ci fa conoscere che la specie chiamata dall'<persName ref="#Anguillara" instant="false" full="yes">Anguillara</persName> arbor ritis
+          <p>Questa figura ci fa conoscere che la specie chiamata dall'<persName ref="#Anguillara">Anguillara</persName> arbor ritis
             (traduzione un po' libera di <foreign xml:lang="grc">σταφυλόδενδρον</foreign> = albero
             dai grappoli) e che egli disse aver veduto nel giardino del nob. Filippo Pasqualigo a
             Padova non è già il pistacchio selvatico, ma la stafilea. Altri credettero che le «
@@ -45,15 +45,15 @@
             rimpianto botanico [276, 277] il quale lasciò scritto che «Anguillara descrisse il
             Pistacchio selvatico e la Coix Lacrima viste <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="84"/> nel giardino del Pasqualigo», distinguendo due piante dove
-            in fatto ce n'era una sola, che è quella qui dipinta].</p>
+            in fatto ce n'era una sola, che è quella qui dipinta.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-115-N1" n="1" anchored="true"> Bimpernüsslein.</note>
-          <note xml:id="A-115-N2" n="2" anchored="true"> Giobbe.</note>
-          <note xml:id="A-115-N3" n="3" anchored="true"> Saranno due.</note>
-          <note xml:id="A-115-N4" n="4" anchored="true"> lo causa dei semi duri e lucenti che servono per fabbricar rosari donde il
+        <div type="notes">
+          <note xml:id="A-115-N1" n="1"> Bimpernüsslein.</note>
+          <note xml:id="A-115-N2" n="2"> Giobbe.</note>
+          <note xml:id="A-115-N3" n="3"> Saranno due.</note>
+          <note xml:id="A-115-N4" n="4"> lo causa dei semi duri e lucenti che servono per fabbricar rosari donde il
             nome bellunese: pianta da corona». Anche i frutti bianchi, duri e lucidi della pianta
             graminca chiamata oggidi Lagrime di Giobbe (Cois Lacryma) servono al medesimo
             uso.</note>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

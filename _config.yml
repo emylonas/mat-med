@@ -13,7 +13,7 @@
 #LOCAL
 #theme                    : "minimal-mistakes-jekyll"
 #minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-url                      : ""
+#url                      : ""
 #baseurl                  : "/"
 
 # GITHUB REMOTE THEME

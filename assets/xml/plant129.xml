@@ -4,58 +4,58 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-129" part="N" org="uniform" sample="complete">
-        <head>N. 129 GENSAMIN GIALO</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000813823">[<hi>Jasminum humile L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-129">
+        <head>N. 129 Gensamin Gialo</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000813823">[<hi>Jasminum humile L.</hi>]</ref></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Gielsemin da volgari - Jesemin, Zambach et Sambre da Arabi - Lencoja (<ptr target="#A-129-N1"/>) da Greci.</p>
+          <p> Gielsemin da volgari - Jesemin, Zambach et Sambre da Arabi - Lencoja (<ptr target="#A-129-N1"/>) da Greci.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Questo dal fior giallo, quello dal fior bianco comun che se inalzano piui deli altri
+          <p> Questo dal fior giallo, quello dal fior bianco comun che se inalzano piui deli altri
             (<ptr target="#A-129-N2"/>), et quello chiamato di Catelognia fa il fior bianco con il roverso nel fredo
             purpuregnio et magiore (<ptr target="#A-129-N3"/>) ma per esser come simile al volgare non ho fato bisognio di
             pittura. Et molto piui odorato et agradevole il suo fiore.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoe radice proffunde et ne cappi capigliate con colore di bosseo, suoe frondi
+          <p> Suoe radice proffunde et ne cappi capigliate con colore di bosseo, suoe frondi
             rascontrate et finisce in una come li bianchi volgari ma alquanto maggiore et
             constrettive, suoi sarmenti lisci et di manco altezza che li communi <hi>et ne son anche con
               li fusti riquadrati</hi>, li fiori in forma delli altri ma gialli sanza odore...</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Suoe origine venero di Babilonia. Et di quelli dal fiore grande ne sonno in
+          <p> Suoe origine venero di Babilonia. Et di quelli dal fiore grande ne sonno in
             Chatelognia. Et ne adorni giardini sonno custoditi.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Sonno alcuni che la vitte nera dal fior pavonazio [N. 6] vogliono sia spetie di
+          <p> Sonno alcuni che la vitte nera dal fior pavonazio [N. 6] vogliono sia spetie di
             Gelsamin et massime da Bressani. Molti si presero errore pensando che l'unguento
             jasmino di Diascoride fussero composto di questi fiori et non di viole bianche, et
             questo per il suono del vocabulo.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fiorita e fruttifera; a lato un ramoscello fiorito. Il Bonato classificò <hi>J.
+        <div type="editorial-D">
+          <p>Pianta fiorita e fruttifera; a lato un ramoscello fiorito. Il Bonato classificò <hi>J.
             odoratissimum</hi> ma la figura ed il brano della diagnosi che abbiamo trascritto, in cui si
             parla della piccola statura e della mancanza d'odor dei fiori, bastano a far riconoscere
             la specie.</p>
-          <p part="N">La presente figura precede quella dell'Hortus Eystettensis» [134] (aest. ord. II f.
+          <p>La presente figura precede quella dell'Hortus Eystettensis» [134] (aest. ord. II f.
             2, n. 1). Nel testo il Michiel mostra pure di aver conosciuto la sp. ). grandiflorum che
-            più tardi fu figurato nella suddetta opera (f. 13. n. 1)].</p>
+            più tardi fu figurato nella suddetta opera (f. 13. n. 1).</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-129-N1" n="1" anchored="true"> Mal trascritto da <foreign xml:lang="grc">λευκὸϊον</foreign> (viola bianca), nome conveniente alle altre due
+        <div type="notes">
+          <note xml:id="A-129-N1" n="1"> Mal trascritto da <foreign xml:lang="grc">λευκὸϊον</foreign> (viola bianca), nome conveniente alle altre due
             specie di gelsomini.</note>
-          <note xml:id="A-129-N2" n="2" anchored="true"> I. officinalo.</note>
-          <note xml:id="A-129-N3" n="3" anchored="true"> I. grandiflorum. </note>
+          <note xml:id="A-129-N2" n="2"> I. officinalo.</note>
+          <note xml:id="A-129-N3" n="3"> I. grandiflorum. </note>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

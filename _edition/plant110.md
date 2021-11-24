@@ -1,5 +1,6 @@
 ---
 title: "N. IIO SEBESTE SP."
+permalink: "/edition/plant110/"
 plant-name: "N. IIO SEBESTE SP."
 plant-number: "110"
 plant-xml: "/assets/xml/plant110.xml"

@@ -4,56 +4,56 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-138" part="N" org="uniform" sample="complete">
-        <head>N. 138 LANTANA</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000421166">[<hi>Viburnum Lantana L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-138">
+        <head>N. 138 Lantana</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000421166">[<hi>Viburnum Lantana L.</hi>]</ref></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Lantana da volgari - Fluida da Greci - Entiscle nella Valle Amania - Kleinere Mälbaum da
+          <p> Lantana da volgari - Fluida da Greci - Entiscle nella Valle Amania - Kleinere Mälbaum da
             Germani.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Varie sonno le piante che di esse si fanno vischio.</p>
+          <p> Varie sonno le piante che di esse si fanno vischio.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In molti luoghi in Italia ne monti et coline.</p>
+          <p> In molti luoghi in Italia ne monti et coline.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Sonno de molti che la tengono per la Fluida Theophrasto, ma questa ha midola. Et in
+          <p> Sonno de molti che la tengono per la Fluida Theophrasto, ma questa ha midola. Et in
             cio ne fu il Ruelio che si penso che la fusse il Rhus sotto il nome de Fluida di
             Theophrasto che son questa.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">De suoe radici son doprate per far del Vischio (V. N. 48). Et ne parla Theophrasto nel
+          <p>De suoe radici son doprate per far del Vischio (V. N. 48). Et ne parla Theophrasto nel
             18 cap. lib. 3 della Historia delle piante. Il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> del Barbaro al cap. 530 in fine
             de Viscum. Et suoi fruti sonno lenitivi.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero.
+        <div type="editorial-D">
+          <p>Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero.
             Ogni infruttescenza ha bacche in parte rosse, in parte azzurre, come si trovano in
             estate.</p>
-          <p part="N">Nel testo è detto: Suoi fruti rotondi simil all'Ebulo quando neri ma piu purpurei
+          <p>Nel testo è detto: Suoi fruti rotondi simil all'Ebulo quando neri ma piu purpurei
             (<ptr target="#A-138-N1"/>) dentro a qualli sonno li suoi semi rotondi, sticiati, signiati et duri». Veramente
             il color purpureo è solo transitorio, però il Michiel ebbe il merito di riconoscere il
             carattere specifico dei semi segnati da solchi.</p>
-          <p part="N">A ragione il Michiel mise in dubbio che questa specie fosse, come riteneva il Ruellio, il <foreign xml:lang="grc">ῥούς</foreign> di Teofrasto che invece è Rhus
+          <p>A ragione il Michiel mise in dubbio che questa specie fosse, come riteneva il Ruellio, il <foreign xml:lang="grc">ῥούς</foreign> di Teofrasto che invece è Rhus
             Coriaria.</p>
-          <p part="N">Questa è la specie che il Dodoneo chiamò Viburnum Virgilij, non già la sp. Clematis
-            Viticella, come credette il Michiel <ref target="A-006">[N. 6]</ref>]. </p>
+          <p>Questa è la specie che il Dodoneo chiamò Viburnum Virgilij, non già la sp. Clematis
+            Viticella, come credette il Michiel <ref target="A-006">[N. 6]</ref>. </p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-138-N2" n="1" anchored="true"> Talvolta neri, ma più spesso purpurei.</note>
+        <div type="notes">
+          <note xml:id="A-138-N2" n="1"> Talvolta neri, ma più spesso purpurei.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="98"/>
-      </div></TEI>
+      </div></body></text></TEI>

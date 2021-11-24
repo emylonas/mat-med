@@ -4,29 +4,29 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-026" part="N" org="uniform" sample="complete">
-        <head>N. 26 OSTRIN VEL OSTREA</head>
-        <ab part="N">[Not identified]</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-026">
+        <head>N. 26 Ostrin vel Ostrea</head>
+        <ab>[Not identified]</ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Ostrin vel Ostrea da Plinio.</p>
+          <p> Ostrin vel Ostrea da Plinio.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Con nome di ostriago herba son anche nel <ref target="#R2-056">secondo libro rosso k. 56</ref>.</p>
+          <p> Con nome di ostriago herba son anche nel <ref target="#R2-056">secondo libro rosso k. 56</ref>.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI</head>
-          <p part="N"> Questo albero conviene assai bene alla descretione di Plinio di Ostrin.</p>
+          <p> Questo albero conviene assai bene alla descretione di Plinio di Ostrin.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N"> [Pianta sterile con foglie pennate a 5 foglioline dezza naturale - a parte una
-            fogliolina in grandezza naturale].</p>
+        <div type="editorial-D">
+          <p> [Pianta sterile con foglie pennate a 5 foglioline dezza naturale - a parte una
+            fogliolina in grandezza naturale.</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

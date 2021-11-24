@@ -4,52 +4,55 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-003" part="N" org="uniform" sample="complete">
-        <head>N. 3 LAURO SILVESTRE</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000422887">[<hi>Viburnum Tinus L.</hi>]</ref>]</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-003">
+        <head>N. 3 Lauro Silvestre</head>
+
+
+        <ab>[<hi>Viburnum Tinus L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000422887">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:326271-2">Kew</ref></ab>
+
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Lauro silvestre da volgari - Gara Gar Daphnos - Tinus Plinij - Gara et Gar da Arabi (<ptr target="#A-003-N1"/>) -
+          <p> Lauro silvestre da volgari - Gara Gar Daphnos - Tinus Plinij - Gara et Gar da Arabi (<ptr target="#A-003-N1"/>) -
             Daphnos da Greci - Artigene a Roma - Molesso da Lanzanesi. (<ptr target="#A-003-N2"/>)</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Ne sonno de due spezie de lauri domestici et noti, una fa le foglie maggior
+          <p> Ne sonno de due spezie de lauri domestici et noti, una fa le foglie maggior
             dell'altro, ma nel resto simili, et questo de silvestre.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne luoghi asperi et frigidi monti, et in <placeName ref="https://www.geonames.org/3175397/istria.html" instant="false" full="yes">Istria</placeName> ne sonno.</p>
+          <p> Ne luoghi asperi et frigidi monti, et in <placeName ref="https://www.geonames.org/3175397/istria.html">Istria</placeName> ne sonno.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> In humidi et non molto solsticij luoghi molto vaghi si dimostrano, et per far
+          <p> In humidi et non molto solsticij luoghi molto vaghi si dimostrano, et per far
             spaliere suoi rami se aprendeno chome deli altri ancora, et si avertisca che produce de
             molti minuti vermi che mangiano le foglie et rodeno le giovane cimete con detrimento del
             albero.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Sul pendio di un monte sorge l'intera pianta fiorita e fruttifera, mentre a parte son
+        <div type="editorial-D">
+          <p>Sul pendio di un monte sorge l'intera pianta fiorita e fruttifera, mentre a parte son
             figurate due foglie mostranti le due pagine. La figura della pianta è abbastanza buona,
             brutta e sproporzionata è invece quella del monte, come infelici son le figure di
             alberi, case, uomini.</p>
-          <p part="N">Il nome abruzzese <hi>molesso</hi> fu tratto dall'<persName ref="#Anguillara" instant="false" full="yes">Anguillara</persName> che a p. 80 dei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> 
+          <p>Il nome abruzzese <hi>molesso</hi> fu tratto dall'<persName ref="#Anguillara">Anguillara</persName> che a p. 80 dei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> 
             parlò di questa specie sotto i nomi <hi>Tinus</hi> e <foreign xml:lang="grc">Δάφνη
               ἀγρία</foreign>.</p>
-          <p part="N">Nella lista delle piante coltivate a <placeName ref="https://www.geonames.org/3170647/pisa.html" instant="false" full="yes">Pisa</placeName> dal <persName ref="#Ghini" instant="false" full="yes">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
-            vocata; alij sui generis arborem esse putant»].</p>
+          <p>Nella lista delle piante coltivate a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> dal <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
+            vocata; alij sui generis arborem esse putant».</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-003-N1" n="1" anchored="true"> Nomi del vero lauro (<hi>Laurus nobilis L.</hi>).</note>
-          <note xml:id="A-003-N2" n="2" anchored="true"> Di <placeName ref="https://www.geonames.org/8957658/lanciano.html" instant="false" full="yes">Lanciano</placeName>, prov. di <placeName ref="https://www.geonames.org/3178796/chieti.html" instant="false" full="yes">Chieti</placeName>.</note>
+        <div type="notes">
+          <note xml:id="A-003-N1" n="1"> Nomi del vero lauro (<hi>Laurus nobilis L.</hi>).</note>
+          <note xml:id="A-003-N2" n="2"> Di <placeName ref="https://www.geonames.org/8957658/lanciano.html">Lanciano</placeName>, prov. di <placeName ref="https://www.geonames.org/3178796/chieti.html">Chieti</placeName>.</note>
           
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="14"/>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

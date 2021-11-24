@@ -4,34 +4,34 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-113" part="N" org="uniform" sample="complete">
-        <head>N. 113 GUAIABO</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-113">
+        <head>N. 113 Guaiabo</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Guaiabo da Indiani Et Guaive, Guaiave.</p>
+          <p> Guaiabo da Indiani Et Guaive, Guaiave.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Ne sonno de varie sorte che producono de varij fruti, in alcuni rotondi in altri
+          <p> Ne sonno de varie sorte che producono de varij fruti, in alcuni rotondi in altri
             lunghi.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In India nel Darien.</p>
+          <p> In India nel Darien.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Suo legno son sano. Et li fruti verdi ristringono come le sorbe, dunde poleno
+          <p> Suo legno son sano. Et li fruti verdi ristringono come le sorbe, dunde poleno
             adoperarli in vece di sorbe. Et leggesi nel <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">primo libro del India 48 et 142</ref>. Et nel
             <ref type="bibl" target="http://id.sbn.it/bid/LO1E013261"/>secondo k. 98.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fiorita e fruttifera, figura forse copiata (di <ref target="http://www.worldfloraonline.org/taxon/wfo-0000284583"><hi>Psidium pyriferum</hi></ref>?)].</p>
+        <div type="editorial-D">
+          <p>Pianta fiorita e fruttifera, figura forse copiata (di <ref target="http://www.worldfloraonline.org/taxon/wfo-0000284583"><hi>Psidium pyriferum</hi></ref>?).</p>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

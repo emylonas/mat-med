@@ -70,7 +70,7 @@ tei-p tei-placename {
 
 tei-div[type="editorial-D"]::before {
   border-top: solid grey;
-  content: "Editorial Notes (DeToni)";
+  content: "E. De Toni Commentary";
   display: block;
   font-weight: bold;
   font-size: 1em;

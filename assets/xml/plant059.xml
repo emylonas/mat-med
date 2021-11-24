@@ -4,60 +4,60 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-059" part="N" org="uniform" sample="complete">
-        <head>N. 59 ANAGIRO</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000211883"/>[<hi>Anagyris foetida L.</hi>]</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-059">
+        <head>N. 59 Anagiro</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000211883"/>[<hi>Anagyris foetida L.</hi>]</ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N">Anagyro da Greci et tutti li altri nomi notati indriedo al Egano <ref type="internal" target="#A-058">[N. 58]</ref> — Albero del
+          <p>Anagyro da Greci et tutti li altri nomi notati indriedo al Egano <ref type="internal" target="#A-058">[N. 58]</ref> — Albero del
             fajuol da molti — Faba inversa da altri — Faba lupina da herbari dove si ritrova in
-            <placeName ref="https://www.geonames.org/3169778/puglia.html" instant="false" full="yes">Puglia</placeName>.</p>
+            <placeName ref="https://www.geonames.org/3169778/puglia.html">Puglia</placeName>.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Sonno tenute per spezie insieme di anigiros questo et l’Egano silvestre.</p>
+          <p> Sonno tenute per spezie insieme di anigiros questo et l’Egano silvestre.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nasce in Puglia sanza cultura a Crepina et a Torte di Regnana (<ptr target="#A-059-N1"/>) et in Candia ne
+          <p> Nasce in Puglia sanza cultura a Crepina et a Torte di Regnana (<ptr target="#A-059-N1"/>) et in Candia ne
             sonno molti.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> A primavera rimanda 'suoe frondi, li fiori de maggio et suoe silique poi.</p>
+          <p> A primavera rimanda 'suoe frondi, li fiori de maggio et suoe silique poi.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> Rimanda abasso che si possono transportare et de suoi semi benissimo che de moltissimi
+          <p> Rimanda abasso che si possono transportare et de suoi semi benissimo che de moltissimi
             mi sonno nati ma con difficultà ci vivono de qui a noi.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="44"/>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> L'Anagiro il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">Mattiolo lo depinge a k. 981</ref>  con li graspi come l'Egano, non li fa, ma al
+          <p> L'Anagiro il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">Mattiolo lo depinge a k. 981</ref>  con li graspi come l'Egano, non li fa, ma al
             modo che sonno quivi depinti forsi non li hanno veduti dico li suoi fiori.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p part="N"> Questo albero viene tenuto per l'Anagiro di Diascoride ma nelle (<ptr target="#A-059-N2"/>) frondi ne il fiore
+          <p> Questo albero viene tenuto per l'Anagiro di Diascoride ma nelle (<ptr target="#A-059-N2"/>) frondi ne il fiore
             si acordano al suo detto, o che lui non ha dato someglia (<ptr target="#A-059-N3"/>) propria o che questo non
             son il suo Anagyro.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> De suoi fagioli le pace (<ptr target="#A-059-N4"/>) femine ne fanno de grande incantamenti et herbarie et ne
+          <p> De suoi fagioli le pace (<ptr target="#A-059-N4"/>) femine ne fanno de grande incantamenti et herbarie et ne
             sonno stati venduti fino a uno scudo uno de suoi grani, nel resto legi da driedo k. 58.
           </p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fiorita; a sinistra una bella figura di infiorescenza accompagnata da foglie
+        <div type="editorial-D">
+          <p>Pianta fiorita; a sinistra una bella figura di infiorescenza accompagnata da foglie
             fatte allo scopo di correggere l'errore del Mattjoli quale figurò la pianta con lungo
             grappolo somigliante a quello dell'avornio. Notevoli per esattezza la forma e la tinta
             del vessillo e della carena. Non sono figurati i frutti, ma nella diagnosi è detto «
@@ -65,24 +65,24 @@
             fatta parola dell'odore della pianta, caso strano, perché il Michiel era accuratissimo
             nel registrare gli odori ed i sapori perché, come egli si esprime, son caratteri che il
             pittore non poteva ritrarte.</p>
-          <p part="N">Contuttociò la figura dimostra la piena conoscenza della pianta può dirsi la prima
+          <p>Contuttociò la figura dimostra la piena conoscenza della pianta può dirsi la prima
             fatta con esattezza (<ptr target="#A-059-N5"/>), essendo contemporanea e forse anteriore a quella del Mattioli
-            che è in parte fantastica, tanto che il <persName ref="#Gesner" instant="false" full="yes">Gesner</persName> confrontando la figura mattioliana con
+            che è in parte fantastica, tanto che il <persName ref="#Gesner">Gesner</persName> confrontando la figura mattioliana con
             un campione proveniente da Montmajour presso Arles ritenne che la vera anagiride fosse
             ignota al botanico sanese <ref type="bibl" target="http://id.sbn.it/bid/PUVE006389">[134]</ref>. Dopo il Michiel il Clusio diede una figura abbastanza
             buona e credette di aver effigiato per primo la pianta, supponendo anch'egli che la
             Anagyris di Mattioli fosse un'altra specie.</p>
-          <p part="N">Nel testo l'autore ci fa sapere di aver ottenuto la pianta nel suo giardino per via di
+          <p>Nel testo l'autore ci fa sapere di aver ottenuto la pianta nel suo giardino per via di
             semi, ma con difficoltà e lo si scorge dal tempo della fioritura la quale normalmente
-            si verifica nei primi mesi dell'anno].</p>
+            si verifica nei primi mesi dell'anno.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <div type="notes" part="N" org="uniform" sample="complete">
-            <note xml:id="A-059-N1" n="1" anchored="true"> Località tratte dall'<persName ref="#Anguillara/" instant="false" full="yes">Anguillara</persName>.</note>
-          </div><note xml:id="A-059-N2" n="2" anchored="true"> Né le.</note>
-          <note xml:id="A-059-N3" n="4" anchored="true"> Diagnosi.</note>
-          <note xml:id="A-059-N4" n="4" anchored="true"> Pazze.</note>
-          <note xml:id="A-059-N5" n="5" anchored="true"> Imperfettamente è figurata in codici medievali (49, 97) come l'<foreign xml:lang="grc">Ἀνάγυρις</foreign> di
+        <div type="notes">
+          <div type="notes">
+            <note xml:id="A-059-N1" n="1"> Località tratte dall'<persName ref="#Anguillara/">Anguillara</persName>.</note>
+          </div><note xml:id="A-059-N2" n="2"> Né le.</note>
+          <note xml:id="A-059-N3" n="4"> Diagnosi.</note>
+          <note xml:id="A-059-N4" n="4"> Pazze.</note>
+          <note xml:id="A-059-N5" n="5"> Imperfettamente è figurata in codici medievali (49, 97) come l'<foreign xml:lang="grc">Ἀνάγυρις</foreign> di
             Dioscoride. Trovasi nell'Erbario Aldrovandi Vol. I, fol. 6.</note>
         </div>
-      </div></TEI>
+      </div></body></text></TEI>

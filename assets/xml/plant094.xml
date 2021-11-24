@@ -4,58 +4,58 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-094" part="N" org="uniform" sample="complete">
-        <head>N. 94 ALLATERNO</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000818074">[Phyllirea [ma Phillyrea] variabilis Timb. var. media L.]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+  </teiHeader><text><body><div type="plant" xml:id="A-094">
+        <head>N. 94 Allaterno</head>
+        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000818074">[Phyllirea [ma Phillyrea] variabilis Timb. var. media L.]</ref></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Alaterno da Plinio - Allaterna chiamano ancora li vilani da Lanzan a Santo Vito (<ptr target="#A-094-N1"/>)
+          <p> Alaterno da Plinio - Allaterna chiamano ancora li vilani da Lanzan a Santo Vito (<ptr target="#A-094-N1"/>)
             driedo le marine et boschi - Amorellum Pandette - Olivastro Silvestre da molti - Linterna da
             Pugliesi - Comorica da Schiavoni.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nella Istria si fanno legnie et in altri boschi in Italia. Et de molto belli in boschi
+          <p> Nella Istria si fanno legnie et in altri boschi in Italia. Et de molto belli in boschi
             da Pisa a Livorno.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Questo albero alcuna staggion non li nuoce et sempre verdeggia, li fiori di
+          <p> Questo albero alcuna staggion non li nuoce et sempre verdeggia, li fiori di
             primavera con il fruto poi.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Bosco humido et opacho.</p>
+          <p> Bosco humido et opacho.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">Molti già si credetero essere il lecio di Plinio 16.27 ma questo non puol esser per
+          <p>Molti già si credetero essere il lecio di Plinio 16.27 ma questo non puol esser per
             non far giande. L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguilara</ref> dice esser l'Alaterna Plinii et non dice altro se non che
             suoe foglie sonno tra l'Ischio et Olivo. Alcuni non sonno fuori di oppinione che sia
             l'Ancorellum Pandette k. 19.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[In un prato di monte con boschi in distanza sorge la pianta fruttifera con vicino un
+        <div type="editorial-D">
+          <p>In un prato di monte con boschi in distanza sorge la pianta fruttifera con vicino un
             uomo il quale ne spacca i rami colla bipenne. Presso alla pianta un cane accovacciato ed
             una catasta di legna ormai segata. Due figure a parte di ramo fiorito e di ramo fruttifero. Anche nell'Erb. Aldrovandi vol. II, N. 365 questa pianta è chiamata Alatema
             Plinij.</p>
-          <p part="N">Ed è degno di nota che il vero alatemo è al N. 13 di questo codice col nome Philitea.
+          <p>Ed è degno di nota che il vero alatemo è al N. 13 di questo codice col nome Philitea.
             E come al N. 13 si nota che le foglie sono «falate» cioè alterne, qui si nota che sono
             «rascontrate» cioè opposte.</p>
-          <p part="N">Questa pianta è l'alaterna (alterna nell'indice alfabetico) di Anguillara, pag.
-            85].</p>
+          <p>Questa pianta è l'alaterna (alterna nell'indice alfabetico) di Anguillara, pag.
+            85.</p>
 
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-094-N1" n="1" anchored="true"> Da Lanciano a S. Vito di Chieti,</note>
+        <div type="notes">
+          <note xml:id="A-094-N1" n="1"> Da Lanciano a S. Vito di Chieti,</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="67"/>
 
-      </div></TEI>
+      </div></body></text></TEI>

@@ -179,7 +179,7 @@
           et inteligentia che potrà, dando colpa al debil et pocho saper mio, cogliendo qualche
           rosa, se pure ne serano, tra tanti spini.</p>
         <div type="editorial-D">
-          <p>[Qui appare chiaro l'ordine propostosi dall'autore, il quale spartì le piante in quattro
+          <p>Qui appare chiaro l'ordine propostosi dall'autore, il quale spartì le piante in quattro
             divisioni artificiali: 
             1° Piante legnose e piante volubili contenute nel presente libro
             Azzurro. 
@@ -203,7 +203,7 @@
             esordio mancano nel Codice. Le pagine bianche che si trovano, non solo in fine ma anche
             nel corpo dei libri tenderebbero a provare che il Michiel non considerava finito il suo
             lavoro e si riservava di far l'indice quando il codice fosse pronto per le stampe, ma
-            che la morte quasi improvvisa ne lo impedì].</p>
+            che la morte quasi improvvisa ne lo impedì.</p>
         </div>
         <div type="notes">
           <note xml:id="prN1" n="1"> Invogli, cioè piante volubili, quindi il primo libro comprende le piante
@@ -216,7 +216,7 @@
     
     <body>
       <div type="plant" xml:id="A-001" >
-        <head>N. I CIRUELAS MONTESES</head>
+        <head>N. I Ciruelas Monteses</head>
         <div type="name">
           <head>NOMI</head>
           <p> Ciruelas monteses ex fruta de Indiani<seg type="trans"><foreign xml:lang="eng">wild plums</foreign> 
@@ -254,7 +254,7 @@
           <p>Suoi fruti sonno gustevoli et si mangiano.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera intorno alla quale vedonsi volare vari insetti].</p>
+          <p>Pianta fruttifera intorno alla quale vedonsi volare vari insetti.</p>
         </div>
         
         <div type="notes">
@@ -282,22 +282,22 @@
       </div>
       
       <div type="plant" xml:id="A-002">
-        <head>N. 2 INCOGNITA</head>
+        <head>N. 2 Incognita</head>
 
         <ab>[<hi>Sambucus racemosa L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000439333">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30056767-2">Kew</ref></ab>
 
         <div type="editorial-D">
-          <p>[Il verso della pagina è bianco. Nel recto una figura incompletamente dipinta di ramo
+          <p>Il verso della pagina è bianco. Nel recto una figura incompletamente dipinta di ramo
             fruttifero. Il disegno completo colla nomenclatura è a <ref type="internal" target="#A-066">N. 66</ref>. Notiamo che il <persName ref="#Ghini">Ghini</persName>
             a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> coltivava un <hi rendition="italic">Frutex incognitus</hi>
             di cui dà la descrizione <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">[305]</ref> 
-            che pare sia questa specie].</p>
+            che pare sia questa specie.</p>
         </div>
       </div>
       
     
       <div type="plant" xml:id="A-003">
-        <head>N. 3 LAURO SILVESTRE</head>
+        <head>N. 3 Lauro Silvestre</head>
 
 
         <ab>[<hi>Viburnum Tinus L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000422887">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:326271-2">Kew</ref></ab>
@@ -324,7 +324,7 @@
             albero.</p>
         </div>
         <div type="editorial-D">
-          <p>[Sul pendio di un monte sorge l'intera pianta fiorita e fruttifera, mentre a parte son
+          <p>Sul pendio di un monte sorge l'intera pianta fiorita e fruttifera, mentre a parte son
             figurate due foglie mostranti le due pagine. La figura della pianta è abbastanza buona,
             brutta e sproporzionata è invece quella del monte, come infelici son le figure di
             alberi, case, uomini.</p>
@@ -332,7 +332,7 @@
             parlò di questa specie sotto i nomi <hi>Tinus</hi> e <foreign xml:lang="grc">Δάφνη
               ἀγρία</foreign>.</p>
           <p>Nella lista delle piante coltivate a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> dal <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
-            vocata; alij sui generis arborem esse putant»].</p>
+            vocata; alij sui generis arborem esse putant».</p>
         </div>
         <div type="notes">
           <note xml:id="A-003-N1" n="1"> Nomi del vero lauro (<hi>Laurus nobilis L.</hi>).</note>
@@ -345,7 +345,7 @@
       
 
       <div type="plant" xml:id="A-004">
-        <head>N. 4 ALBERO INCOGNITO</head>
+        <head>N. 4 Albero Incognito</head>
         <ab>[<hi>Syringa vulgaris L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000818704">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:289009-2">Kew</ref></ab>
 
         <div type="name">
@@ -365,7 +365,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'hebbi dal eccell. sig. <persName ref="#Aldrovandi">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="https://www.geonames.org/3177545/dolomiti.html"/>Alpi.</p>
+          <p> Io l'hebbi dal eccell. sig. <persName ref="#Aldrovandi">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="https://www.geonames.org/3177545/dolomiti.html">Alpi</placeName>.</p>
         </div>
         <div type="reproduction"><head>GENERATIONE</head>
           <p> A me mi naque de suoi semi, ma propaginano anche.</p></div>
@@ -380,16 +380,16 @@
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="14"/>
         <div type="editorial-D">
-          <p>[Figura poco buona di pianta fiorita; a parte un ramo fiorito. Fu dipinta, come si
+          <p>Figura poco buona di pianta fiorita; a parte un ramo fiorito. Fu dipinta, come si
             deduce dal testo, copiando una pianta nata nel giardino del Michiel ed è la prima
             effigie che si conosca perché le parole sul <persName ref="#Mattioli">Mattioli</persName> furono aggiunte più tardi. Perciò,
             dietro la testimonianza del nostro autore, possiamo dedurre che il primato della cono-
-            scenza di questa specie spetta all'<persName ref="#Aldrovandi">Aldovrandi</persName>].</p>
+            scenza di questa specie spetta all'<persName ref="#Aldrovandi">Aldovrandi</persName>.</p>
           <p>Il <persName ref="#Mattioli">Mattioli</persName> ne ricevette un disegno da <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> e più tardi un ramo fresco dal
             <persName ref="#Cortuso">Cortuso</persName> sui quali fece la sua figura ed emise l'opinione che questa specie fosse l'
             <foreign xml:lang="grc">ὀστρύα</foreign> (<ptr target="#A-004-N2"/>) di Teofrasto per la somiglianza al
             frassino e la ghianda unguentaria per l'aspetto dei frutti; donde le critiche di
-            <persName ref="#Guilandino">Melchiorre Guilandino</persName> qui riportate dal Michiel].</p>
+            <persName ref="#Guilandino">Melchiorre Guilandino</persName> qui riportate dal Michiel.</p>
         </div>
         <div type="notes">
           <note xml:id="A-004-N1" n="1"> Significa</note>
@@ -400,7 +400,7 @@
       </div>
 
       <div type="plant" xml:id="A-005">
-        <head>N. 5 ATRAGENE</head>
+        <head>N. 5 Atragene</head>
 
 
         <ab>[<hi>Clematis Vitalba L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000610926">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:319145-2">Kew</ref></ab>
@@ -425,7 +425,7 @@
           </p>
         </div>
         <div type="editorial-D">
-          <p>[Figura di pianta sterile arrampicata attorno ad una tettoia sostenuta da due
+          <p>Figura di pianta sterile arrampicata attorno ad una tettoia sostenuta da due
             colonne.</p>
           <p> Trattandosi di pianta comune già figurata da altri e di un disegno e dipinto mediocre,
             si sarebbe potuto omettere la trascrizione di questa pagina se essa non ci fornisse
@@ -462,7 +462,7 @@
             carattere dei frutti in racemi, quindi nega, non afferma, l'identità e d'altronde a pag.
             81 identifica giustamente la vitalba colla vitis nigra del <persName ref="#Fuchs">Fuchs</persName>. Il <persName ref="#Guilandino">Guilandino</persName> credette
             che l'<persName ref="#Anguillara">Anguillara</persName> identificasse l'atragene colla vite selvatica (<foreign xml:lang="grc">ἄμπελος αγρία</foreign>) di
-            Dioscoride (<ptr target="#A-005-N4"/>)].</p>
+            Dioscoride (<ptr target="#A-005-N4"/>).</p>
           <p>Il nome vernacolo <hi>vidisòn</hi> è tuttora vivo nel Veneto <ref type="bibl" target="http://id.sbn.it/bid/VIA0075631">[297]</ref></p>
         </div>
         <div type="notes">
@@ -492,7 +492,7 @@
       </div>
 
       <div type="plant" xml:id="A-006">
-        <head>N. 6 VITE NERA VULGARE</head>
+        <head>N. 6 Vite Nera Vulgare</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000610944">[<hi>Clematis Viticella L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -519,7 +519,7 @@
           <p> [Figura abbastanza buona di pianta fiorita. Dioscoride descrisse col nome di <foreign xml:lang="grc">κληματίς</foreign> la pervinca e con quelo di <foreign xml:lang="grc">κληματίτις</foreign> 1a specie presente che il <persName ref="#Mattioli">Mattioli</persName> chiamò <hi>Clematis secunda</hi>. Il
             Viburno di <persName ref="#Virgilio">Virgilio</persName> (<ptr target="#A-006-N3"/>) secondo <persName ref="#Dodoneo">Dodoneo</persName> era <hi>Viburnum Lantana</hi> qui figurato a <ref type="internal" target="#A-138">N. 138.</ref>. La
             falsa credenza del Michiel si basava o su informazioni avute o sopra una mala
-            determinazione della figura pubblicata nel <hi>Cruydtboek</hi>].</p>
+            determinazione della figura pubblicata nel <hi>Cruydtboek</hi>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-006-N1" n="1"> Vinca minor.</note>
@@ -530,7 +530,7 @@
       </div>
 
       <div type="plant" xml:id="A-007">
-        <head>N. 7 VITE BIANCA VULGARE</head>
+        <head>N. 7 Vite Bianca Vulgare</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000609903">[<hi>Clematis Flammula L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -559,10 +559,10 @@
             bianca.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta con fiori alcuni verdi, altri ingialliti; però il Michiel conobbe la pianta
+          <p>Pianta con fiori alcuni verdi, altri ingialliti; però il Michiel conobbe la pianta
             fresca come lo prova la diagnosi che egli dà: «fa molti fiori bianchi piccioli
             odorati». A parte dipinto un ramo fruttifero, il che rende questa figura più completa di
-            quella lasciata dal <persName ref="https://data.cerl.org/thesaurus/cnp01365502">Rinio</persName> al <ref type="internal" target="#A-091">N. 91</ref>, però quest'ultima è artisticamente superiore].</p>
+            quella lasciata dal <persName ref="https://data.cerl.org/thesaurus/cnp01365502">Rinio</persName> al <ref type="internal" target="#A-091">N. 91</ref>, però quest'ultima è artisticamente superiore.</p>
         </div>
         <div type="notes">
           <note xml:id="A-007-N1" n="1"> Bianca</note>
@@ -572,7 +572,7 @@
       </div>
 
       <div type="plant" xml:id="A-008">
-        <head>N. 8 SAVINA</head>
+        <head>N. 8 Savina</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000354994">[<hi>I. Juniperus Sabina L.</hi>]</ref>. - <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355663">[<hi>II, Juniperus phoenicea L.</hi></ref>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -606,7 +606,7 @@
             provocar li mestrui et fanno urinare el sangue ... </p>
         </div>
         <div type="editorial-D">
-          <p>[La prima pianta è un albero fruttifero, della seconda v'è solo un rametto con foglie,
+          <p>La prima pianta è un albero fruttifero, della seconda v'è solo un rametto con foglie,
             amenti e frutti. Per meglio rappresentare le virtù della pianta <hi>J. Sabina</hi> che in realtà
             ha effetti violenti e più volte somministrata con imprudenza o malizia produsse
             l'aborto, l'albero porta sospesi due vasi di vetro, nell'uno dei quali vedesi un feto,
@@ -615,7 +615,7 @@
             presente figura, sia da quanto dice espressamente nel testo l'<persName ref="#Anguillara">Anguillara</persName>, risulta che la
             pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName>Pasqualigo</persName> è la
             sabina, quindi a torto il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> disse che l'Anguillara vide in quel giardino
-            la vera <hi>Thuia</hi>].</p>
+            la vera <hi>Thuia</hi>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-008-N1" n="1"> Sevenbaum.</note>
@@ -627,7 +627,7 @@
       </div>
 
       <div type="plant" xml:id="A-009">
-        <head>N. 9 CEDRO</head>
+        <head>N. 9 Cedro</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000355658">[<hi>I. Juniperus Oxycedrus L.</hi>]</ref> - <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355640">[<hi>II. J. macrocarpa S. et S.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -685,10 +685,10 @@
             Diascoride... </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile in mezzo, rametto fruttifero a sinistra e frutto isolato a destra. In
+          <p>Pianta sterile in mezzo, rametto fruttifero a sinistra e frutto isolato a destra. In
             alto due figure rappresentanti statue nella nicchia, la prima colla scritta «Statua»
             sembra quella di Apollo sopra nominata, la seconda colla scritta «Eterna» è di donna con
-            un calice in una mano ed un mazzo di fiori nell'altra, forse la Fede].</p>
+            un calice in una mano ed un mazzo di fiori nell'altra, forse la Fede.</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="19"/>
           <p>Il rametto fruttifero ed il frutto isolato sono della seconda specie, la pianta sterile
@@ -718,7 +718,7 @@
             Dietro questa credenza il <persName ref="https://data.cerl.org/thesaurus/cnp01365502">Rinio</persName> a c. 425 fece una figura fittizia di Cedro del Libano
             con galbuli di ginepro.</p>
           <p>Non comprendiamo poi con qual fondamento lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> asserisca che il <persName ref="#Mattioli">Mattioli</persName> erra
-            con Dioscoride, ammettendo che il Cedro maggiore sia baccifero].</p>
+            con Dioscoride, ammettendo che il Cedro maggiore sia baccifero.</p>
         </div>
         <div type="notes">
           <note xml:id="A-009-N1" n="1"> Imperocché.</note>
@@ -737,7 +737,7 @@
       </div>
 
       <div type="plant" xml:id="A-010">
-        <head>N. IO RUS</head>
+        <head>N. IO Rus</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000402784">[<hi>Rhus Coriaria L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -757,8 +757,8 @@
             diseccano nel tercio. Et li <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="20"/> suoi fruti son usati ne medicamenti. Et il suo austero succhio il qualla
             fanno li effeti della Acatia. </p>
           <div type="editorial-D">
-            <p>[Figura poco buona di albero fruttifero. Migliore è un ramoscello pur fruttifero in
-              grandezza naturale].</p>
+            <p>Figura poco buona di albero fruttifero. Migliore è un ramoscello pur fruttifero in
+              grandezza naturale.</p>
           </div>
         </div>
         <div type="notes">
@@ -767,7 +767,7 @@
       </div>
 
       <div type="plant" xml:id="A-011">
-        <head>N. II SMILACE LISIA</head>
+        <head>N. II Smilace Lisia</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000747944">[<hi>Ipomoea hederacea Jacq.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -783,7 +783,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Ispagnia</placeName>, in <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"/> in quantità, et nelli giardini et finestre la esta[te] ne sonno in
+          <p> In <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Ispagnia</placeName>, in <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germania</placeName> in quantità, et nelli giardini et finestre la esta[te] ne sonno in
             quantità per la <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName>, dove [ha] preso il nome di Cissampelos.</p>
         </div>
         <div type="seasonality">
@@ -800,10 +800,10 @@
             vedute son una pianta simile havuta con il nome di Nil ma spinoseta, demostra <ref type="internal" target="#A-141">k. 141</ref>.</p>
         </div>
         <div type="editorial-D">
-          <p>[Figura abbastanza buona di pianta fiorita e fruttifera. Il Michiel ed il <persName ref="#Gesner">Gesner</persName> (<ref type="bibl" target="http://id.sbn.it/bid/PUVE006389"><hi>De
+          <p>Figura abbastanza buona di pianta fiorita e fruttifera. Il Michiel ed il <persName ref="#Gesner">Gesner</persName> (<ref type="bibl" target="http://id.sbn.it/bid/PUVE006389"><hi>De
             hortis Germaniae</hi>, f. 255a)</ref> furono i primi ad effigiare questa specie. Linneo, accettando l'identificazione del <persName ref="#Ghini">Ghini</persName>, lo chiamò Convolvulus Nil benché il Nil degli Arabi
             sia Indigofera tinctoria od altra pianta producente indaco, secondo i vari autori. Il
-            fior di notte odierno è <hi>Mirabilis Jalapa</hi>]. (<ptr target="#A-011-N5"/>)</p>
+            fior di notte odierno è <hi>Mirabilis Jalapa</hi>. (<ptr target="#A-011-N5"/>)</p>
         </div>
         <div type="notes">
           <note xml:id="A-011-N1" n="1"> Mittelwindc.</note>
@@ -818,7 +818,7 @@
       </div>
 
       <div type="plant" xml:id="A-012">
-        <head>N. 12 LIGUSTRO</head>
+        <head>N. 12 Ligustro</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-000081598">[<hi>Ligustrum vulgare L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -836,7 +836,7 @@
             il Caprifolio over Pisciachanta de Diascoride et non il Periclimeno <ref type="internal" target="#A-071">[N. 71]</ref>.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta e rametto fruttiferi. A ragione l'<persName ref="#Anguillara">Anguillara</persName> sostenne che il Ligustro non dovea
+          <p>Pianta e rametto fruttiferi. A ragione l'<persName ref="#Anguillara">Anguillara</persName> sostenne che il Ligustro non dovea
             confondersi col <foreign xml:lang="grc">κὺπρος</foreign> dei Greci che è <hi>Lawsonia inermis</hi> chiamata dagli Arabi <hi>Henne</hi>,
             <hi>Al-henne</hi>, <hi>Al-hanna</hi> donde venne il nostro <hi>alcanna</hi>. Contuttociò non solo <persName ref="#Barbaro">Ermolao Barbaro</persName>
             ma altri contemporanei come <persName ref="#Mattioli">Mattioli</persName>, <persName ref="https://www.treccani.it/enciclopedia/castore-durante_(Dizionario-Biografico)">Durante</persName> e lo stesso P.A. Michiel confondevano le
@@ -844,12 +844,12 @@
             che poi furono riconosciute diverse da due esploratori, il <persName ref="https://data.cerl.org/thesaurus/cnp01320254">Belonio</persName> ed il <persName ref="#Dasilico">Dasilico</persName>. Il
             nome Conastrel o Conostrel è tuttora usato nel Veneto per indicare la presente specie ed
             anche un'altra che per aspetto e stazione le somiglia, il sanguine (<hi>Cornus
-              sanguinea</hi>)].</p>
+              sanguinea</hi>).</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-013">
-        <head>N. 13 PUTANA VEL OLIVELA</head>
+        <head>N. 13 Putana vel Olivela</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000462513">[<hi>Rhamnus Alaternus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -880,19 +880,19 @@
             forma.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta con fiori e frutti a due gradi di maturità, cioè rossi ed oscuri. A parte un
+          <p>Pianta con fiori e frutti a due gradi di maturità, cioè rossi ed oscuri. A parte un
             rametto con foglie e frutti maturi. Sui rami varie figure di tordi. Il <persName ref="#Bonato">Bonato</persName> la ritenne
             Phyllirea latifolia, ma la figura ha le foglie alterne il che è asserito anche nel testo
             colle parole: «et venghon falate». Notisi che anche il <persName ref="#Cesalpino">Cesalpino</persName> chiamava questa
             specie Phyllirea. Al <ref type="internal" target="#A-152">N. 152</ref> di questo libro si paragonano le sue foglie a quelle
-            dell'agazzino. Una Phyllirea è a <ref type="internal" target="#A-094">N. 94</ref> col nome alaterno].</p>
+            dell'agazzino. Una Phyllirea è a <ref type="internal" target="#A-094">N. 94</ref> col nome alaterno.</p>
         </div>
       </div>
       <fw type="running-head" place="top">LIBRO AZZURRO</fw>
       <pb n="22"/>
 
       <div type="plant" xml:id="A-014">
-        <head>N. 14 PHILIREA</head>
+        <head>N. 14 Philirea</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-4000029227">[<hi>Phyllirea L.?</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -916,7 +916,7 @@
         </div>
         <div type="editorial-D">
           <p> [In mezzo ad un giardino sopra un terrapieno sorge la pianta fruttifera. A lato un
-            ramo sterile].</p>
+            ramo sterile.</p>
         </div>
         <div type="notes">
           <note xml:id="A-014-N1" n="1"> Du troesne. </note>
@@ -924,7 +924,7 @@
       </div>
 
       <div type="plant" xml:id="A-015">
-        <head>N. 15 CHIEREGINI</head>
+        <head>N. 15 Chieregini</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000587875">[<hi>Cardiospermum Halicacabum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -966,11 +966,11 @@
             manifestandolo con questo esquisito segnio la natura.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera, figura abbastanza buona. Qui si fa strada la teoria delle
+          <p>Pianta fiorita e fruttifera, figura abbastanza buona. Qui si fa strada la teoria delle
             signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="http://thesaurus.cerl.org/record/cnp01881034">G.B. Porta</persName> ove accanto
             alle figure espresse dalle piante ci sono quelle degli organi umani contro le cui
             malattie doveva semplice usarsi. Riguardo alla presente specie troviamo la medesima
-            credenza nel <persName ref="#Mattioli">Mattioli</persName>].</p>
+            credenza nel <persName ref="#Mattioli">Mattioli</persName>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-015-N1" n="1"> Physalis Alkekengi.</note>
@@ -979,7 +979,7 @@
       </div>
 
       <div type="plant" xml:id="A-016">
-        <head>N. 16 ELO CAPOLI</head>
+        <head>N. 16 Elo Capoli</head>
         <ab>[Not identified]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -1002,14 +1002,14 @@
           <p> L'hebbi depinto de Spagnia retrati nell'India come deto inanti <ref type="internal" target="#A-001">[N. 1]</ref>.</p>
         </div>
         <div type="editorial-D">
-          <p>[Figura di albero con fiori verdastri e frutti di colori vari dal verde, al giallo ed
+          <p>Figura di albero con fiori verdastri e frutti di colori vari dal verde, al giallo ed
             all'azzurro secondo i grappoli. Sull'albero vari uccelli, farfalle e bruchi; notevole
-            fra gli altri un pappagallo azzurro].</p>
+            fra gli altri un pappagallo azzurro.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-017">
-        <head>N. 17 CEDRIOLO</head>
+        <head>N. 17 Cedriolo</head>
         <ab>[<ref target="http://www.worldfloraonline.org/taxon/wfo-0000479867">Passiflora coerulea L.</ref>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -1040,7 +1040,7 @@
             che era spezie di Cedriolo over Cocomero.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile; a parte una foglia in grandezza naturale. La passiflora trovasi la
+          <p>Pianta sterile; a parte una foglia in grandezza naturale. La passiflora trovasi la
             prima volta ricordata dal poeta <persName ref="https://isni.org/isni/0000000118158998">Martino del Barco</persName> che la vide nel <placeName ref="https://www.geonames.org/3437598/republic-of-paraguay.html">Paraguay</placeName>. Da questo
             codice apprendiamo che essa fu importata in <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Ispagna</placeName> donde il <persName ref="#Guilandino">Guilandino</persName> ottenne un
             campione che spedì al Michiel dopo averne levato i frutti per poter seminar la pianta
@@ -1058,7 +1058,7 @@
             quella provincia che è continentale è il risultato di un errore scusabile, date le
             cognizioni geografiche di quei tempi. Le prime terre scoperte in America (Lucaie,
             Antille) erano isole e coloro i quali non si occupavano particolarmente di geografia
-            spesso credevano isole anche altre terre in realtà continentali]. (<ptr target="#A-017-N4"/>)</p>
+            spesso credevano isole anche altre terre in realtà continentali. (<ptr target="#A-017-N4"/>)</p>
         </div>
         <div type="notes">
           <note xml:id="A-017-N1" n="1"> * La parola «Mecoacan» è cancellata. (Ed.).</note>
@@ -1073,12 +1073,12 @@
       <div type="plant" xml:id="A-17_18_19_20">
         <head>NN 18, 19, 20</head>
         <div type="editorial-D">
-          <p>[Pagine bianche]</p>
+          <p>Pagine bianche</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-021">
-        <head>N. 21 CIRUELAS INCARNADAS ES FRUTA</head>
+        <head>N. 21 Ciruelas Incarnadas es Fruta</head>
         <ab>[Not identified]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -1096,7 +1096,7 @@
           <p> De la <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spagnia</placeName> depinti in <placeName ref="https://www.geonames.org/6255150/south-america.html">India</placeName> et trasportati li, et io li cavai da quelli.</p>
         </div>
         <div type="editorial-D">
-          <p>[Albero fruttifero con farfalle]. </p>
+          <p>Albero fruttifero con farfalle. </p>
         </div>
         <div type="notes">
           <note xml:id="A-021-N1" n="1"> Gelsomino.</note>
@@ -1104,7 +1104,7 @@
       </div>
 
       <div type="plant" xml:id="A-022">
-        <head>* N. 22 MOLI ALBERO DE INDIA</head>
+        <head>* N. 22 Moli Albero de India</head>
         <ab>[Not identified]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -1146,13 +1146,13 @@
               del India</ref> k. 162, 163 et 200 et nel <ref type="bibl" target="http://id.sbn.it/bid/LO1E013261">libro secondo</ref> k. 285 [* 77].</p>
         </div>
         <div type="editorial-D">
-          <p>[Albero a fg. opposte in serie numerose sui rami, sparse di frutti verdi, poco più
-            grandi delle ig. tubercolati (?) umbilicati]. -</p>
+          <p>Albero a fg. opposte in serie numerose sui rami, sparse di frutti verdi, poco più
+            grandi delle ig. tubercolati (?) umbilicati. -</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-023">
-        <head>N. 23 SCAMONEA</head>
+        <head>N. 23 Scamonea</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001298534">[<hi>Convolvolus Scammonia L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1193,7 +1193,7 @@
             come narra lui.</p>
         </div>
         <div type="editorial-D">
-          <p>[La figura di pianta fiorita è mediocre ma fu tratta dal vero, come lo prova un rametto
+          <p>La figura di pianta fiorita è mediocre ma fu tratta dal vero, come lo prova un rametto
             foglioso disseccato che trovasi conservato fra le pagine del codice. Essa è
             contemporanea a quella che pubblicò il <persName ref="#Mattioli">Mattioli</persName> pur traendola dal vero e sebbene, <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="26"/> come si disse, non sia
             molto ben fatta, fa vedere un carattere che non fu avvertito ne dal <persName ref="#Mattioli">Mattioli</persName>, né dal
@@ -1232,7 +1232,7 @@
       </div>
 
       <div type="plant" xml:id="A-024">
-        <head>N. 24 VITE NERA, TAMARO</head>
+        <head>N. 24 Vite Nera, Tamaro</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000568332">[<hi>Tamus communis L.</hi>].</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1255,7 +1255,7 @@
           <p>A primavera suoi germini simili a sparagi che alcuni contadini li mangiano, suoi
             fruti nel mezo del esta[te]. </p>
           <div type="editorial-D">
-            <p>[Pianta fiorita e fruttifera].</p>
+            <p>Pianta fiorita e fruttifera.</p>
           </div>
           <div type="notes">
             <note xml:id="A-024-N1" n="1">
@@ -1267,7 +1267,7 @@
       </div>
 
       <div type="plant" xml:id="A-025">
-        <head>N. 25 CENTUNCULO</head>
+        <head>N. 25 Centunculo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000489602">[<hi>Polygonum Convolvulus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1299,7 +1299,7 @@
             interesse perché identifica una delle specie di Anguillara che dal solo nome sarebbe
             irreconoscibile perché nessuna delle piante conosciute oggidì sotto i nomi <hi>contunculo</hi>,
             <hi>centonchio</hi> è <hi>Polygonum Convolvulus</hi>, anzi esse appartengono tutte ad altre famiglie
-            (<ptr target="#A-025-N3"/>)].</p>
+            (<ptr target="#A-025-N3"/>).</p>
         </div>
         <div type="notes">
           <note xml:id="A-025-N1" n="1"> Lib. 24 C. 13.</note>
@@ -1310,7 +1310,7 @@
       </div>
 
       <div type="plant" xml:id="A-026">
-        <head>N. 26 OSTRIN VEL OSTREA</head>
+        <head>N. 26 Ostrin vel Ostrea</head>
         <ab>[Not identified]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -1326,12 +1326,12 @@
         </div>
         <div type="editorial-D">
           <p> [Pianta sterile con foglie pennate a 5 foglioline dezza naturale - a parte una
-            fogliolina in grandezza naturale].</p>
+            fogliolina in grandezza naturale.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-027">
-        <head>N. 27 FUSARIA, STONBER</head>
+        <head>N. 27 Fusaria, Stonber</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000681728">[<hi>Euonymus Europaeus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1361,8 +1361,8 @@
             dolorati li risanano et cavano il dolore. Et la sua polvere ocide li pedocchi. ... </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera; a parte un ramo fiorito. La pianta sorge in un piano erboso con
-            case e figure di donne ed uccelli].</p>
+          <p>Pianta fruttifera; a parte un ramo fiorito. La pianta sorge in un piano erboso con
+            case e figure di donne ed uccelli.</p>
         </div>
         <div type="notes">
           <note xml:id="A-027-N1" n="1"> Forse Slounboer, cioè bacca producente stupore, pegli effetti venefici.
@@ -1372,23 +1372,23 @@
       </div>
 
       <div type="plant" xml:id="A-028">
-        <head>N. 28 GIANDE</head>
+        <head>N. 28 Giande</head>
         <div type="editorial-D">
-          <p>[Tre buone figure rappresentanti ghiande di quercia prive di cupola. Manca il
-            testo].</p>
+          <p>Tre buone figure rappresentanti ghiande di quercia prive di cupola. Manca il
+            testo.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-029">
         <head>N. 29</head>
         <div type="editorial-D">
-          <p>[Una buona figura rappresentante lo strobilo maturo del cipresso, un'altra di strobilo
-            immaturo. Manca il testo].</p>
+          <p>Una buona figura rappresentante lo strobilo maturo del cipresso, un'altra di strobilo
+            immaturo. Manca il testo.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-030">
-        <head>N. 30 CHAMELEA</head>
+        <head>N. 30 Chamelea</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637792">[<hi>Daphne oleaefolia Lk.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1408,11 +1408,11 @@
             Thymelea mescolando insieme la Laureola.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera. Le località notate furono tratte parte dal Mattioli,
+          <p>Pianta fiorita e fruttifera. Le località notate furono tratte parte dal Mattioli,
             parte dall'Anguillara. E siccome la Chamaelea del <persName ref="#Mattioli">Mattioli</persName> è altra specie di Daphne (<ptr target="#A-030-N3"/>),
             ne deduciamo che la specie presente è la Chamaelea dell'Anguillara trovata dall'illustre botanico al Monte Maiella. Altre specie del genere Daphne furono figurate dal
             Michiel nei tre numeri seguenti, al <ref target="#R1-377">N. 377 del primo libro rosso</ref> ed al <ref target="#V-187">N. 187 del libro
-              verde</ref>].</p>
+              verde</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-030-N1" n="1"> Alipiade.</note>
@@ -1425,7 +1425,7 @@
       </div>
 
       <div type="plant" xml:id="A-031">
-        <head>N. 31 CHAME TIMELEA SPE.</head>
+        <head>N. 31 Chame Timelea spe.</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637544">[<hi>Daphne Cneorum L.</hi>]</ref></ab>
         <div type="name">
           <head>Nomi</head>
@@ -1445,12 +1445,12 @@
           <p> L'ecc. <persName ref="#Aldrovandi">Aldrovandi</persName> mi disse esser Chamethymelea zioe (<ptr target="#A-031-N2"/>) humil thymelea.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita. La Thymelaea di quasi tutti i floristi del secolo XVI era D. Gnidium,
+          <p>Pianta fiorita. La Thymelaea di quasi tutti i floristi del secolo XVI era D. Gnidium,
             perciò la specie presente ad essa affine ma di statura minore fu dall'Aldrovandi
             battezzata col nome sopracitato. Contemporaneamente la figura e descrisse il <persName ref="#Mattioli">Mattioli</persName>
             col nome di Cneoro del Mattioli mentre il suo Cneoro di Teofrasto è <hi>Saponaria
               ocimoides</hi>. A torto dunque il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandino</persName> credette che il Cneoro di Mattioli fosse la
-            specie qui figurata al <ref type="internal" target="#A-072">N. 72</ref>].</p>
+            specie qui figurata al <ref type="internal" target="#A-072">N. 72</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-031-N1" n="1"> Eubei cioè abitanti l'isola Eubea o Negroponte in Grecia.</note>
@@ -1459,7 +1459,7 @@
       </div>
 
       <div type="plant" xml:id="A-032">
-        <head>N. 32 PIPER MONTAN</head>
+        <head>N. 32 Piper Montan</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637755">[<hi>Daphne Mezereum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1487,7 +1487,7 @@
             come fa questo piper montan ma bene si conviene alla Chamedaphne.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera con ciuffi di foglie in cima e drupe sotto le foglie,
+          <p>Pianta fiorita e fruttifera con ciuffi di foglie in cima e drupe sotto le foglie,
             quindi più alte dei numerosi fiori. Ben si vede che lo scopo dell'artista era di
             figurare le varie parti della pianta senza riguardo all'ordine del loro svolgimento. Una
             figura simile, ma meno completa trovasi al <ref target="#V-006">N. 6 del libro verde</ref>. Come si esprime nel
@@ -1495,7 +1495,7 @@
             insegnare a ben distinguerle, dimostrando esser la presente il <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="30"/> vero mezereo degli Arabi e le altre delle
             specie affini. A queste egli giustamente avvicina la pianta al <ref target="#V-187">N. 187 del libro verde</ref>.
             Una sesta specie da lui non riconosciuta congenere perché ebbe il campione in cattivo
-            stato trovasi al <ref target="#R1-377">N. 377 del primo libro rosso</ref> ].</p>
+            stato trovasi al <ref target="#R1-377">N. 377 del primo libro rosso</ref> .</p>
         </div>
         <div type="notes">
           <note xml:id="A-032-N1" n="1">
@@ -1504,7 +1504,7 @@
       </div>
 
       <div type="plant" xml:id="A-033">
-        <head>N. 33 LAUREOLA</head>
+        <head>N. 33 Laureola</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000637701">[<hi>Daphne Laureola L.</hi>]</ref></ab>
         <div type="name">
           <head>Nomi</head>
@@ -1532,14 +1532,14 @@
             farlo rosso [<ref type="internal" target="#A-032"/>].</p>
         </div>
         <div type="editorial-D">
-          <p>[Buona figura di pianta fiorita; a parte un ramo fruttifero. Anche il Michiel volle
+          <p>Buona figura di pianta fiorita; a parte un ramo fruttifero. Anche il Michiel volle
             occuparsi della questione riguardante la Chamaedaphne di Dioscoride. Questo nome lo
             troviamo anche al <ref target="#R1-019">N. 19 del primo libro rosso</ref> applicato alla sp. Vinca minor, ma solo
             come opinione altrui. Secondo altri autori (<ptr target="#A-033-N1"/>) la <foreign xml:lang="grc">χαμαιδάφνη</foreign> degli antichi era <hi>Ruscus Hypoglossum</hi>
             che fa le bacche rosse, ma questa opinione non era nota al Michiel, il quale
             perciò arrischia la supposizione che la camedafne sia <hi>Daphne Mezercum</hi>. I nomi <hi>laclago</hi>,
             <hi>peplion</hi> tradiscono la confusione che facevasi tra la specie presente ed una euforbia (<hi>E.
-              amygdaloides</hi>)] (<ptr target="#A-033-N2"/>).</p>
+              amygdaloides</hi>) (<ptr target="#A-033-N2"/>).</p>
         </div>
         <div type="notes">
           <note xml:id="A-033-N1" n="1"> <persName ref="#Rinio">Rinio</persName>, c. 357.</note>
@@ -1551,7 +1551,7 @@
       </div>
 
       <div type="plant" xml:id="A-034">
-        <head>N. 34 CHAMECERASO</head>
+        <head>N. 34 Chameceraso</head>
         <div type="name">
           <head>NOMI</head>
           <p> Chameceraso da volg.</p>
@@ -1570,7 +1570,7 @@
             lasciato.</p>
         </div>
         <div type="editorial-D">
-          <p>[Fiori bianchi, frutti rossi e calice supero].</p>
+          <p>Fiori bianchi, frutti rossi e calice supero.</p>
           <div type="notes">
             <note xml:id="A-034-N1" n="1"> In bianco.</note>
           </div>
@@ -1580,7 +1580,7 @@
       </div>
 
       <div type="plant" xml:id="A-035">
-        <head>N. 35 ROSA SENIS</head>
+        <head>N. 35 Rosa Senis</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000465348">[<hi>Philadelphus coronarius L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1606,15 +1606,15 @@
             molti. Et son tenuta per la terza spezie.</p>
         </div>
         <div type="editorial-D">
-          <p>[Figura mediocre di pianta fiorita; a parte una bella figura di ramoscello fiorito.</p>
+          <p>Figura mediocre di pianta fiorita; a parte una bella figura di ramoscello fiorito.</p>
           <p>Il Michiel, come narra, coltivò nel suo giardino questa pianta e fu il primo ad
             effigiarla. Più tardi viene la figura data dal <persName ref="#Clusius">Clusio</persName> (<ref type="bibl" target="http://id.sbn.it/bid/UFIE002981">Hist. I. 55</ref>) sotto il nome <hi>Frutex
-              coronarius</hi>].</p>
+              coronarius</hi>.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-036">
-        <head>N. 36 ABETE</head>
+        <head>N. 36 Abete</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000510976">[<hi>Abies alba Mill.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1641,19 +1641,19 @@
             42 et 43.</p>
         </div>
         <div type="editorial-D">
-          <p>[La figura dell'albero sorge nel centro di un labirinto circondato da siepe con uccelli
+          <p>La figura dell'albero sorge nel centro di un labirinto circondato da siepe con uccelli
             posati e volanti. Essa è poco esatta sia per la tinta della scorza, sia per quella delle
             foglie, sia per la tinta e posizione degli strobili. Migliore è la figura di un ramo
             foglioso che fu aggiunto dopo. Abbastanza buona la diagnosi in cui notiamo il carattere delle foglie «rascontrate strete et lunghete simil al nasso ma queste nelle cime
             pareno che si vogliono aprire», alludendosi all'apice bifido del lembo, mentre nel nasso
             figurato e descritto al numero seguente parla dell'unica punta.</p>
           <p>L'aggettivo <hi>rascontrate</hi> che generalmente per Michiel significa <hi>opposte</hi> ha qui ed
-            altrove (<ref target="#R1-149">Ro. I, 149</ref>) il significato di <hi>distiche</hi>].</p>
+            altrove (<ref target="#R1-149">Ro. I, 149</ref>) il significato di <hi>distiche</hi>.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-037">
-        <head>N. 37 TASO</head>
+        <head>N. 37 Taso</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000408637">[<hi>Taxus baccata L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1687,7 +1687,7 @@
             sonno giovevoli per questo ancora ...</p>
         </div>
         <div type="editorial-D">
-          <p>[Albero fruttifero in mezzo ad un piazzale con palazzino di villeggiatura. Sui rami due
+          <p>Albero fruttifero in mezzo ad un piazzale con palazzino di villeggiatura. Sui rami due
             uccelli con penne bianche e rosse chiazzate di nero, forse dietro la credenza esposta da
             Dioscoride che gli uccelli i quali si cibano delle bacche dei tassi italiani diventano
             neri. A parte è dipinto un ramoscello folioso e nella diagnosi, in uniformità a quanto
@@ -1698,12 +1698,12 @@
             cominciava a dubitare della verità di tali asserzioni et il Mattioli stesso, in mezzo a
             tante favole, dice: «Sono alcuni huomini che se lo mangiano senza nocumento alcuno».
             Oggidi è assodato che solo la scorza e le foglie sono velenose, ma non per tutte le
-            bestie, solo pegli equini, come asseri Teofrasto].</p>
+            bestie, solo pegli equini, come asseri Teofrasto.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-038">
-        <head>N. 38 PEZZO</head>
+        <head>N. 38 Pezzo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000482527">[<hi>Picea excelsa Lk.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1728,19 +1728,19 @@
           <p> L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 42 di 8 spezie di Alberi resiniferi raggiona.</p>
         </div>
         <div type="editorial-D">
-          <p>[L'albero fruttifero sorge in mezzo ad una prateria con figure umane, agarici e
+          <p>L'albero fruttifero sorge in mezzo ad una prateria con figure umane, agarici e
             chiocciole. È mal disegnato, ma invece è buona una figura a parte di ramoscello con una
             bella pigna.</p>
           <p>Il <persName ref="#Rinio">Rinio</persName> a c. 203 chiama questa specie abete, mentre pel Michiel l'abete è <hi>Abies alba</hi> a
             <ref type="internal" target="#A-036">N. 36</ref>. Oggidì ambedue le specie chiamansi abeti e nel Veneto l'abete p.d. (albéo) è la
-            specie presente, l'altra chiamansi <hi>avedin</hi>, nome notato dal Michiel a [<ref type="internal" target="#A-036">N. 36</ref>].</p>
+            specie presente, l'altra chiamansi <hi>avedin</hi>, nome notato dal Michiel a [<ref type="internal" target="#A-036">N. 36</ref>.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="33"/>
       </div>
 
       <div type="plant" xml:id="A-039">
-        <head>N. 39. ALBERO SIMIL AL CIPRESO</head>
+        <head>N. 39. Albero Simil al Cipreso</head>
         <div type="name">
           <head>NOMI</head>
           <p> Albero simil al Cipresso da Plinio et dagli Helemei<ptr target="#A-039-N1"/>.</p>
@@ -1765,7 +1765,7 @@
             cap. 17].</p>
         </div>
         <div type="editorial-D">
-          <p>[La descrizione è copiata da Plinio; la pianta pare fittizia].</p>
+          <p>La descrizione è copiata da Plinio; la pianta pare fittizia.</p>
         </div>
         <div type="notes">
           <note xml:id="A-039-N1" n="1"> Elymei.</note>
@@ -1775,7 +1775,7 @@
       </div>
 
       <div type="plant" xml:id="A-040">
-        <head>N. 40 FRUTES CITRIO SIMIL</head>
+        <head>N. 40 Frutes Citrio Simil</head>
         <div type="name">
           <head>NOMI</head>
           <p>Frutex citrio similis da simplicisti.</p>
@@ -1810,7 +1810,7 @@
             caldo. </p>
         </div>
         <div type="editorial-D">
-          <p> [Pianta sterile; a parte una foglia in grandezza naturale e due assi del frutto].</p>
+          <p> [Pianta sterile; a parte una foglia in grandezza naturale e due assi del frutto.</p>
         </div>
         <div type="notes">
           <note xml:id="A-040-N1" n="1">Pietro Belon.</note>
@@ -1820,7 +1820,7 @@
       </div>
 
       <div type="plant" xml:id="A-041">
-        <head>N. 41 VIRCITOSICA</head>
+        <head>N. 41 Vircitosica</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000633726">[<hi>Cynanchum Vincetoxicum Pers.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1842,7 +1842,7 @@
             (<ptr target="#A-041-N2"/>). Il Trago ha oppinion per il suo libro che la sia l'Asclepiade.</p>
         </div>
         <div type="editorial-D">
-          <p>[Nella copia del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">libro dei Semplici</ref>  di <persName ref="#Anguillara">Anguillara</persName> esistente alla Biblioteca Marciana di
+          <p>Nella copia del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">libro dei Semplici</ref>  di <persName ref="#Anguillara">Anguillara</persName> esistente alla Biblioteca Marciana di
             Venezia l'articolo «Polirizo di Plinio» a pag. 213 ha sottosegnate a penna le parole di
             niun odore riguardanti le radici ed in margine trovasi la seguente nota manoscritta:
             «Ergo non est polyrrhizos quia Plinius omnium Aristolochiarum odores medicatos esse
@@ -1871,7 +1871,7 @@
             Polirizo di Plinio e, scordandosi di averlo qui figurato (tanto più che il nome, essendo
             l'ultimo scritto, sfuggiva ad una rapida ricerca), volle darne il disegno, ma, non
             avendone il campione, ne fece una figura fittizia che può vedersi al <ref target="#R1-078">N. 78 del primo
-              libro rosso</ref>].</p>
+              libro rosso</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-041-N1" n="1"> Schwalbenwurz radice di rondine.</note>
@@ -1893,7 +1893,7 @@
       </div>
 
       <div type="plant" xml:id="A-042">
-        <head>N. 42 ASCLEPIAS</head>
+        <head>N. 42 Asclepias</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001102183">[<hi>Marsdenia erecta (L.) R.Br.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1933,7 +1933,7 @@
             l'Asclepiade. Et <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marzello fiorentino [= Marcello Virgilio Adriani]</ref> dice far il fiore di Rosa.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita. Nella diagnosi l'autore fa osservare le differenze tra questa specie e
+          <p>Pianta fiorita. Nella diagnosi l'autore fa osservare le differenze tra questa specie e
             la precedente: «Et son simil tutta la pianta alla Vincetossica deta se non che questa
             suoa radice profunda et quella in superficie, suoe frondi di questa più larghe, suoi
             sarmenti di questa ci vivono et quelle ci muore l'inverno».</p>
@@ -1950,12 +1950,12 @@
             piante non sappiamo: non può essere né il Michiel né il Belon perché la nomenclatura e
             l'abitazione delle piante non corrispondono ed anche perché il Belon tornò dall'Oriente
             nel 1549 cioè due anni dopo che il Ghini ricevette i campioni, non può esser nemmeno
-            l'Anguillara che ebbe le piante due anni dopo dalla Grecia].</p>
+            l'Anguillara che ebbe le piante due anni dopo dalla Grecia.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-043">
-        <head>N. 43 ASCLEPIAS DE FRANCIA</head>
+        <head>N. 43 Asclepias de Francia</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000633390">[<hi>Cynanchum nigrum Pers.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -1986,7 +1986,7 @@
             mandano latte et questo per esser giallezzio et piui efficazzie il suo succhio.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita. Nel testo il Michiel paragona le foglie a quelle della «persicaria
+          <p>Pianta fiorita. Nel testo il Michiel paragona le foglie a quelle della «persicaria
             aquatica ma più lunghe». Quando egli ricevette il campione, i fiori erano ormai
             sbiaditi e con quella tinta gialliccia son rappresentati nella pittura; perciò l'autore
             nella diagnosi avverte che sono «di colore purpurescente scuro et grandi come quelli
@@ -1995,7 +1995,7 @@
             furono mandate nel 1549 di Grecia due piante che producono silique, le quali ambedue si
             aviluppano su per gli alberi con lunghi rami. Una fa le foglie simili all'Hedera (<ptr target="#A-043-N2"/>) e
             l'altra simili all'Oleandro (<ptr target="#A-043-N2"/>) et questa (<ptr target="#A-043-N3"/>) fa un succo bianco e quella (<ptr target="#A-043-N4"/>) gialligno». Ambe le piante gli furono inviate col nome di Periplocada, col qual nome si intendeva
-            qualunque pianta volubile].</p>
+            qualunque pianta volubile.</p>
         </div>
         <div type="notes">
           <note xml:id="A-043-N1" n="1"> È quella figurata dal Michiel al numero precedente.</note>
@@ -2006,7 +2006,7 @@
       </div>
 
       <div type="plant" xml:id="A-044">
-        <head>N. 44 CAPORE ES FRUTA</head>
+        <head>N. 44 Capore es Fruta</head>
         <div type="name">
           <head>NOMI</head>
           <p> Capore es fruta da Indiani over Spagnioli.</p>
@@ -2034,9 +2034,9 @@
           <p> Si credeno communamente esser gustevol sp. di brombini (<ptr target="#A-044-N2"/>).</p>
         </div>
         <div type="editorial-D">
-          <p>[Albero fruttifero portante uccelli ed una lucerta. Da uno dei rami pende un cespuglio
+          <p>Albero fruttifero portante uccelli ed una lucerta. Da uno dei rami pende un cespuglio
             di <hi>Cattleya citrina Lindb.</hi> È a questa orchidea epifita che allude l'autore nelle ultime
-            parole della diagnosi].</p>
+            parole della diagnosi.</p>
         </div>
         <div type="notes">
           <note xml:id="A-044-N1" n="1"> Innesto.</note>
@@ -2045,7 +2045,7 @@
       </div>
 
       <div type="plant" xml:id="A-045">
-        <head>N. 45 CHICO CAPOLT</head>
+        <head>N. 45 Chico Capolt</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000294988">[<hi>Achras Sapota L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -2067,13 +2067,13 @@
           <p> De in serto (<ptr target="#A-045-N3"/>) è da credere che meglio ci venga che di nuclei seminati.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera con vari insetti volanti all'intorno. La figura fu copiata dal
+          <p>Pianta fruttifera con vari insetti volanti all'intorno. La figura fu copiata dal
             <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref> che la credette il Mirabolano indo degli antichi. La figura del Marini è
             invertita rispetto alla presente in conseguenza della riproduzione fatta per la stampa.
             Oltracciò fu cangiato il colorito, essendovi verde il fusto che il Michiel fa paonazzo
             ed atri i frutti che il Michiel fece ranciati. Il Marini portò queste variazioni per
             uniformarsi alla descrizione dei Mirabolani indi.</p>
-          <p>Per maggiori spiegazioni v. <ref type="internal" target="#A-067">N. 67</ref>].</p>
+          <p>Per maggiori spiegazioni v. <ref type="internal" target="#A-067">N. 67</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-045-N1" n="1"> * La lettura del codice è incerta: potrebbe essere anche zapolt. Si tratta
@@ -2085,7 +2085,7 @@
       </div>
 
       <div type="plant" xml:id="A-046">
-        <head>N. 46 FRUTICE INCOGNITO</head>
+        <head>N. 46 Frutice Incognito</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000359767">[<hi>Lonicera alpigena L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -2114,13 +2114,13 @@
           <p>Più tardi il Michiel trovò una pianta congenere non fiorita, ma fruttifera che da lui
             fu figurata al <ref type="internal" target="#A-149">N. 149</ref> col nome «frangola» ed espresse il dubbio che si trattasse della
             medesima specie, andando poco lontano dal vero.</p>
-          <p>La specie presente ſu descritta dal <persName ref="#Gesner">Gesner</persName> <ref type="bibl" target="http://id.sbn.it/bid/PUVE006389">[131]</ref> col nome <hi>Chamaecerasus</hi>].</p>
+          <p>La specie presente ſu descritta dal <persName ref="#Gesner">Gesner</persName> <ref type="bibl" target="http://id.sbn.it/bid/PUVE006389">[131]</ref> col nome <hi>Chamaecerasus</hi>.</p>
         </div>
 
       </div>
 
       <div type="plant" xml:id="A-047">
-        <head>N. 47 ALBERO DA L'UVA</head>
+        <head>N. 47 Albero da l'Uva</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001008273">[<hi>Prunus Padus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -2137,15 +2137,15 @@
             io ne avevo nel mio et ne ho posto in Padova in quello del clar. cav. <persName ref="#MocenigoAlv-I">Mozenigo</persName>.</p>
         </div>
         <div type="editorial-D">
-          <p>[Intera pianta fiorita; a sinistra ramoscello con foglie e racemo pendente di fiori ed
+          <p>Intera pianta fiorita; a sinistra ramoscello con foglie e racemo pendente di fiori ed
             a destra ramoscello con foglie e racemo di frutti. La pianta coltivata dal Michiel
             portava frutti rosso-verdastri, come si scorge nella figura e si apprende dalla
-            diagnosi].</p>
+            diagnosi.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-048">
-        <head>N. 48 AGRIFOLIO</head>
+        <head>N. 48 Agrifolio</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000729203">[<hi>Ilex Aquifolium L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -2181,8 +2181,8 @@
             a ciascuno da per se dargli le doti suoe secondo li Autori ....</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera. A destra un rametto con foglie e fiori, a sinistra un altro con
-            foglie e drupe]. commune</p>
+          <p>Pianta fruttifera. A destra un rametto con foglie e fiori, a sinistra un altro con
+            foglie e drupe. commune</p>
         </div>
         <div type="notes">
           <note xml:id="A-048-N1" n="1"> Ed azzurro N. 155.</note>
@@ -2192,7 +2192,7 @@
       </div>
 
       <div type="plant" xml:id="A-049">
-        <head>N. 49 FICUS EGIPTIA</head>
+        <head>N. 49 Ficus Egiptia</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000690537">[<hi>Ficus Sycomorus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -2221,9 +2221,9 @@
             li fruti sopra e rami et non nel tronco come fa l'Egyptio.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta con uccelli che vanno a beccare i fichi. A sinistra una foglia in grandezza
+          <p>Pianta con uccelli che vanno a beccare i fichi. A sinistra una foglia in grandezza
             naturale. La frase «si grafano i fichi, allude alla caprificazione di cui l'autore
-            ragiona più a lungo nella diagnosi].</p>
+            ragiona più a lungo nella diagnosi.</p>
         </div>
         <div type="notes">
           <note xml:id="A-049-N1" n="1"> Acer campestre.</note>
@@ -2231,7 +2231,7 @@
       </div>
 
       <div type="plant" xml:id="A-050">
-        <head>N. 50 SECO MORO FRATESCO</head>
+        <head>N. 50 Seco Moro Fratesco</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000450150">[<hi>Melia Azedarach L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -2261,7 +2261,7 @@
             se ne fanno corone de pater nostri ... .</p>
         </div>
         <div type="editorial-D">
-          <p>[Intero albero con frutti immaturi, portante animali fantastici tra' quali un uccello a
+          <p>Intero albero con frutti immaturi, portante animali fantastici tra' quali un uccello a
             due teste e due piccoli mammiferi con lungo giugno di tapiro, canini di cignale, dita
             unguicolate, coda di castoro. A destra una buona figura di ramoscello con foglie e fiori
             ed a sinistra un ramo fruttifero.</p>
@@ -2273,7 +2273,7 @@
           <p>A proposito di quanto dice il Michiel sulla diffusione di quest'albero nei giardini dei
             semplici, notiamo che al tempo del <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287 ">[305]</ref> esso c'era all'Orto botanico di Pisa col
             nome Lotus arbor vulgo Sicomorus e che, mezzo secolo dopo la morte del Michiel, il P.
-            <persName ref="#Veglia">Dionisio Veglia</persName> lo segnalava come una delle piante più cospicue di quell'Orto <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>].</p>
+            <persName ref="#Veglia">Dionisio Veglia</persName> lo segnalava come una delle piante più cospicue di quell'Orto <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-050-N1" n="1"> Gelsomini.</note>
@@ -2281,7 +2281,7 @@
       </div>
 
       <div type="plant" xml:id="A-051">
-        <head>N. 51 CUCIOPHORON</head>
+        <head>N. 51 Cuciophoron</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2300,14 +2300,14 @@
           <p> Dalla remota reggione dalla <placeName ref="https://www.geonames.org/350981/nubia.html">Nubia</placeName>.</p>
         </div>
         <div type="editorial-D">
-          <p>[È figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
+          <p>È figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
             lasciato lo spazio in mezzo per dipingere la pianta, ma non poté mai farne la
-            conoscenza].</p>
+            conoscenza.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-052">
-        <head>N. 52 MACALEB</head>
+        <head>N. 52 Macaleb</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/>[<hi>Prunus Mahaleb L.</hi>]</ab>
   
         <div type="name">
@@ -2332,16 +2332,16 @@
             credersi che la Phyllirea di Diascoride sia il Machaleb degli Arabi.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera. A parte un ramoscello con foglie.</p>
+          <p>Pianta fiorita e fruttifera. A parte un ramoscello con foglie.</p>
           <p>Il Michiel qui corregge un errore di Serapione seguito da altri Arabi e già avvertito
             da <persName ref="#Cordo">Simone da Cordo</persName> che però non aveva indicato qual fosse il vero Mahaleb.</p>
           <p>Secondo <persName ref="#Serapione">Serapione</persName> il Mahaleb era Phyllirea variabilis, secondo altri autori Ligustrum
-            vulgare; quest'ultima opinione è riportata dal <persName ref="#Rinio">Rinio</persName> a c. 389 del suo codice].</p>
+            vulgare; quest'ultima opinione è riportata dal <persName ref="#Rinio">Rinio</persName> a c. 389 del suo codice.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-053">
-        <head>N. 53 CRATEGON</head>
+        <head>N. 53 Crategon</head>
         <div type="name">
           <head>NOMI</head>
           <p> Crategon da <persName ref="#Theofrastus">Theophrasto</persName> - Sambucus aquaticus motomorum, Piè de Occha dal vulgo - Aquifolio
@@ -2365,13 +2365,13 @@
             molti non pare k. 80. </p>
         </div>
         <div type="editorial-D">
-          <p>[Foglie intere, ovali-lanceolate, disposte a palma; frutti ascellari, isolati, bruni,
-            piccoli].</p>
+          <p>Foglie intere, ovali-lanceolate, disposte a palma; frutti ascellari, isolati, bruni,
+            piccoli.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-054">
-        <head>N. 54 LICIO PRIMO</head>
+        <head>N. 54 Licio Primo</head>
         <div type="name">
           <head>NOMI</head>
           <p> Licio primo da Dioscoride - Pixacantha.</p>
@@ -2393,8 +2393,8 @@
             descretione de Diascoride ma falsificato di bacche di ligustro over di mater silva. </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera sorgente in mezzo ad un paesaggio in riva al mare. A lato un rametto
-            fruttifero].</p>
+          <p>Pianta fruttifera sorgente in mezzo ad un paesaggio in riva al mare. A lato un rametto
+            fruttifero.</p>
         </div>
         <div type="notes">
           <note xml:id="A-054-N1" n="1"> A Marano.</note>
@@ -2403,7 +2403,7 @@
       </div>
 
       <div type="plant" xml:id="A-055">
-        <head>N. 55 LICIO SECONDO INDIANO</head>
+        <head>N. 55 Licio Secondo Indiano</head>
         <div type="name">
           <head>NOMI</head>
           <p> Licio secondo indiano da Diascoride Lonchite da altri Aspalato da molti li nomi
@@ -2430,7 +2430,7 @@
             l'Aspalato.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita in paesaggio montuoso. A sinistra un rametto con foglie e frutti]
+          <p>Pianta fiorita in paesaggio montuoso. A sinistra un rametto con foglie e frutti
             (<ptr target="#A-055-N1"/>).</p>
         </div>
         <div type="notes">
@@ -2441,7 +2441,7 @@
       </div>
 
       <div type="plant" xml:id="A-056">
-        <head>N. 56 SUBER TH.</head>
+        <head>N. 56 Suber Th.</head>
         <ab><ref target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/>[<hi>Quercus Suber L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2469,15 +2469,15 @@
             Gaza così denominato. </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta cogli amenti maschili. A parte una foglia.</p>
+          <p>Pianta cogli amenti maschili. A parte una foglia.</p>
           <p>Il Michiel non vide gli amenti femmine e perciò suppose che le ghiande si formassero
             dai «minuti grappolini cioè dagli amenti maschili pero con riserva, perché questi non
-            fruttificarono, ma, com'era loro destino, morirono].</p>
+            fruttificarono, ma, com'era loro destino, morirono.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-057">
-        <head>N. 57 HEBANO</head>
+        <head>N. 57 Hebano</head>
         <div type="name">
           <head>NOMI</head>
           <p> Hebano da volg. latini Abnus, Ebus, Ebibirius da Arabi.</p>
@@ -2506,13 +2506,13 @@
             scio altro.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta a foglie piccole, ovali allungate; frutti rotondi, verdi, ascellari,
-            solitari].</p>
+          <p>Pianta a foglie piccole, ovali allungate; frutti rotondi, verdi, ascellari,
+            solitari.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-058">
-        <head>N. 58 ANAGIRO, EGANO</head>
+        <head>N. 58 Anagiro, Egano</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000214693"/>[<hi>Cytisus Laburnum L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2545,7 +2545,7 @@
             La radice in succhio risolve et matura.... </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita sorgente in un paesaggio campestre. A sinistra due grappoli, l'uno
+          <p>Pianta fiorita sorgente in un paesaggio campestre. A sinistra due grappoli, l'uno
             fiorito accompagnato da foglia, l'altro con pochi frutti maturi e pedicelli brulli. Così
             lo studioso è in grado di far bene il confronto tra la ricca infiorescenza di questa
             specie e quella povera della seguente e tra le forme dei fiori.</p>
@@ -2557,7 +2557,7 @@
             specialmente nel Bellunese (<ptr target="#A-058-N1"/>).</p>
           <p>Il nome pliniano laburnum fu alterato in <hi>labornio, lavornio</hi> da cui provennero <hi>abornio,
             avornio</hi> nella credenza che la <hi>l</hi> iniziale fosse un articolo apostrofato (<ptr target="#A-058-N2"/>) perciò il
-            Ghini e l'Aldrovandi, latinizzando la parola italiana, scrissero <hi>aburnum</hi>].</p>
+            Ghini e l'Aldrovandi, latinizzando la parola italiana, scrissero <hi>aburnum</hi>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-058-N1" n="1"> Il cambiamento della labiale nella &amp; dura trovasi in altre parole del
@@ -2569,7 +2569,7 @@
       </div>
 
       <div type="plant" xml:id="A-059">
-        <head>N. 59 ANAGIRO</head>
+        <head>N. 59 Anagiro</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000211883"/>[<hi>Anagyris foetida L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2615,7 +2615,7 @@
           </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita; a sinistra una bella figura di infiorescenza accompagnata da foglie
+          <p>Pianta fiorita; a sinistra una bella figura di infiorescenza accompagnata da foglie
             fatte allo scopo di correggere l'errore del Mattjoli quale figurò la pianta con lungo
             grappolo somigliante a quello dell'avornio. Notevoli per esattezza la forma e la tinta
             del vessillo e della carena. Non sono figurati i frutti, ma nella diagnosi è detto «
@@ -2632,7 +2632,7 @@
             Anagyris di Mattioli fosse un'altra specie.</p>
           <p>Nel testo l'autore ci fa sapere di aver ottenuto la pianta nel suo giardino per via di
             semi, ma con difficoltà e lo si scorge dal tempo della fioritura la quale normalmente
-            si verifica nei primi mesi dell'anno].</p>
+            si verifica nei primi mesi dell'anno.</p>
         </div>
         <div type="notes">
           <div type="notes">
@@ -2646,7 +2646,7 @@
       </div>
 
       <div type="plant" xml:id="A-060">
-        <head>N. 60 PRUNUS THEO.</head>
+        <head>N. 60 Prunus Theo.</head>
         <div type="name">
           <head>NOMI</head>
           <p> Cocigia Plinij - Prunus Theophrasti (<ptr target="#A-060-N1"/>).</p>
@@ -2672,9 +2672,9 @@
             Cocigia di Plinio. </p>
         </div>
         <div type="editorial-D">
-          <p>[Non conoscendosi il frutto la pianta fu dipinta sterile. Mal trascritto pure in
+          <p>Non conoscendosi il frutto la pianta fu dipinta sterile. Mal trascritto pure in
             «coccigria» troviamo il nome usato da vari floristi del sec. XVI (Aldrovandi, III, 80,
-            Anguillara, Dodoneo, Pena e Lobelio. p. 412, Dalechamps, p. 193. Constantin, Tabernemontano, G. Bauhin, Hist. plant., 1650, p. 494) per indicare Rhus Cotinus che qui è a <ref type="internal" target="#A-063">N. 63</ref>].</p>
+            Anguillara, Dodoneo, Pena e Lobelio. p. 412, Dalechamps, p. 193. Constantin, Tabernemontano, G. Bauhin, Hist. plant., 1650, p. 494) per indicare Rhus Cotinus che qui è a <ref type="internal" target="#A-063">N. 63</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-060-N1" n="1"> * L'identità - supposta nei «Nomi» e giustificata nelle «Oppinioni» - di
@@ -2686,7 +2686,7 @@
       </div>
 
       <div type="plant" xml:id="A-061">
-        <head>N. 61 ZARNAB</head>
+        <head>N. 61 Zarnab</head>
         <div type="name">
           <head>NOMI</head>
           <p> Zarnab da <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298">le Pandette [di Matteo Silvatico]</ref>.</p>
@@ -2714,9 +2714,9 @@
             Pandette a k. 183.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile a foglie lanceolate; a parte i foglia (lembo cm 8X1, picciolo cm
+          <p>Pianta sterile a foglie lanceolate; a parte i foglia (lembo cm 8X1, picciolo cm
             1). Sprengel dalla fig. N. 112, del Zarnab di <persName ref="#Dasilico">Dasilico</persName> deduce che possa essere Salix
-            aegyptiaca]. (<ptr target="#A-061-N1"/>)</p>
+            aegyptiaca. (<ptr target="#A-061-N1"/>)</p>
         </div>
         <div type="notes">
           <note xml:id="A-061-N1" n="1"> * Infatti lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref>, p. 66,
@@ -2726,7 +2726,7 @@
       </div>
 
       <div type="plant" xml:id="A-062">
-        <head>N. 62 ANDRACNE</head>
+        <head>N. 62 Andracne</head>
         <div type="name">
           <head>NOMI</head>
           <p> Andrachne da Plinio - Portulaca da Theophrasto.</p>
@@ -2763,8 +2763,8 @@
           </p>
         </div>
         <div type="editorial-D">
-          <p>[La prima pianta ha i fiori quasi indiscernibili ed una foglia a parte. Della seconda
-            c'è un ramoscello con foglie e fiori].</p>
+          <p>La prima pianta ha i fiori quasi indiscernibili ed una foglia a parte. Della seconda
+            c'è un ramoscello con foglie e fiori.</p>
         </div>
         <div type="notes">
           <note xml:id="A-062-N1" n="1"> Bellonio (v. N. 42).</note>
@@ -2775,7 +2775,7 @@
       </div>
 
       <div type="plant" xml:id="A-063">
-        <head>N. 63 SCOTANUS</head>
+        <head>N. 63 Scotanus</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2805,14 +2805,14 @@
             <persName ref="#Serapione">Serapione</persName> lib. agg. cap. Dulb. </p>
         </div>
         <div type="editorial-D">
-          <p>[Anche il <persName ref="#Rinio">Rinio</persName> a c. 438, pur non citando le Pandette di Matteo Silvatico confuse lo
+          <p>Anche il <persName ref="#Rinio">Rinio</persName> a c. 438, pur non citando le Pandette di Matteo Silvatico confuse lo
             scotano col platano e per soprappiù figurò una pianta che non è né Rhus, né
             Platanus.</p>
           <p>La presente figura è di albero fruttifero sorgente in un paesaggio di collina; a parte
             un ramoscello fruttifero. Il Michiel non conobbe i fiori e mise in dubbio se tali <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="47"/> fossero i lunghi
             peduncoli sterili e pelosi, come si apprende dalle sue frasi: «nel summo de rami viene
             diremo fiori che si restano poi una folta panocchia et chioma». ... «di Maggio suoi
-            fiori over penacchi»].</p>
+            fiori over penacchi».</p>
         </div>
         <div type="notes">
           <note xml:id="A-063-N1" n="1">* Il nome rosa che nei trattati mercantili del 'soo si legge per lo più nella
@@ -2827,7 +2827,7 @@
       </div>
 
       <div type="plant" xml:id="A-064">
-        <head>N. 64 PLATANO</head>
+        <head>N. 64 Platano</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000487086"/>[<hi>Platanus orientalis L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2877,7 +2877,7 @@
             Hispanos, Siculos et Constantinopolitanos reperitur. Sic speciosas habent Florentiae
             pomoeria: Romae, Bononiae, Patavij et Neapolitanae urbis horti».</p>
           <p>Le prime notizie sul platano furono date da Marco Polo sotto i nomi di albero del sole
-            o albero secco]. </p>
+            o albero secco. </p>
         </div>
         <div type="notes">
           <note xml:id="A-064-N1" n="1"> Ionio.</note>
@@ -2892,7 +2892,7 @@
       </div>
 
       <div type="plant" xml:id="A-065">
-        <head>N. 65 SORBO TERMINALE</head>
+        <head>N. 65 Sorbo Terminale</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001016033"/>[<hi>Pirus torminalis Ehrh.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2916,8 +2916,8 @@
             Platano. </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero
-            in grandezza naturale].</p>
+          <p>Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero
+            in grandezza naturale.</p>
         </div>
         <div type="notes">
           <note xml:id="A-065-N1" n="1">Nomi del sorbo comune.</note>
@@ -2925,7 +2925,7 @@
       </div>
 
       <div type="plant" xml:id="A-066">
-        <head>N. 66 SAMBUCO SP.E</head>
+        <head>N. 66 Sambuco Sp.e</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/>[<hi>Sambucus racemosa L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2952,8 +2952,8 @@
             versus finem. </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita in mezzo ad un prato. Sul fusto si arrampica un gatto, mentre un altro
-            è a terra con un topo in bocca. A parte due rami, uno fiorito, l'altro fruttifero].</p>
+          <p>Pianta fiorita in mezzo ad un prato. Sul fusto si arrampica un gatto, mentre un altro
+            è a terra con un topo in bocca. A parte due rami, uno fiorito, l'altro fruttifero.</p>
         </div>
         <div type="notes">
           <note xml:id="A-066-N1" n="1"> S. nigra.</note>
@@ -2965,7 +2965,7 @@
       </div>
 
       <div type="plant" xml:id="A-067">
-        <head>N. 67 CACAO BLANCO</head>
+        <head>N. 67 Cacao Blanco</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000458440"/>[<hi>Theobroma Cacao L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -2986,7 +2986,7 @@
           <p> Sonno de molti che lo tiene per spezie di mirabolano pruno.</p>
         </div>
         <div type="editorial-D">
-          <p>[Come si apprende dal testo la figura non fu tratta dall'originale, ma copiata da una
+          <p>Come si apprende dal testo la figura non fu tratta dall'originale, ma copiata da una
             pittura mandata dall'America ed ottenuta dall'autore a mezzo del <persName ref="#daMula">Da Mula</persName>. Abbiamo
             trascritta per intero la diagnosi perché essa dimostra uno studio non fatto sul vero;
             in caso diverso il Michiel non avrebbe paragonato a fichi e lodati come appetitosi dei
@@ -3002,7 +3002,7 @@
             Dei et amicorum beneficio studiosis ostendam quas e locupletissimo P. Antonij
             Michaelij patritij Veneti (quem honoris causa nomino) herbario poenu accepimus, delatas
             tamen audivi ex Peru et Hispaniola insula ad Carolum Quintum imperatorem ad vivam
-            effigiem expressas»].</p>
+            effigiem expressas».</p>
         </div>
         <div type="notes">
           <note xml:id="A-067-N1" n="1"> Ciliegio.</note>
@@ -3014,7 +3014,7 @@
       </div>
 
       <div type="plant" xml:id="A-068">
-        <head>N. 68 QUAHUXILOTS</head>
+        <head>N. 68 Quahuxilots</head>
         <div type="name">
           <head>NOMI</head>
           <p> Quahuxilots es fruta come pepero e comese corido (<ptr target="#A-068-N1"/>) o asado da Indiani overo da
@@ -3032,9 +3032,9 @@
           <p>Del India come deto nelli altri [N. 1]. </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera con intorno insetti volanti. Nel Recchi è descritta (non
+          <p>Pianta fiorita e fruttifera con intorno insetti volanti. Nel Recchi è descritta (non
             figurata – I, p. 90) col nome Quauhxilotl seu Arbor Cucumeris moschati: solo i fiori son
-            detti «candicanti» (<ptr target="#A-068-N2"/>)].</p>
+            detti «candicanti» (<ptr target="#A-068-N2"/>).</p>
         </div>
         <div type="notes">
           <note xml:id="A-068-N1" n="1"> Corido dev'essere trascrizione errata di cocido». (Ed.).</note>
@@ -3047,7 +3047,7 @@
       </div>
 
       <div type="plant" xml:id="A-069">
-        <head>N. 69 CIRUELAS AMARILLAS COMUNES ES FRUTA</head>
+        <head>N. 69 Ciruelas Amarillas Comunes es Fruta</head>
         <div type="name">
           <head>NOMI</head>
           <p>Ciruelas amarilas communes es fruta da Indiani overo Spagnioli.</p>
@@ -3067,12 +3067,12 @@
           <p> Della India come deto ne li altri [N. 1]. </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera con insetti volanti].</p>
+          <p>Pianta fruttifera con insetti volanti.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-070">
-        <head>N. 70 APARINE</head>
+        <head>N. 70 Aparine</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000968296"/>[<hi>Galium Aparine L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -3085,7 +3085,7 @@
             invogliendosi.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera].</p>
+          <p>Pianta fruttifera.</p>
         </div>
         <div type="notes">
           <note xml:id="A-070-N1" n="1"> . Questo Elarii è senza dubbio error di ponna per «Herbarii»: infatti
@@ -3099,7 +3099,7 @@
       </div>
 
       <div type="plant" xml:id="A-071">
-        <head>N. 71 MADRE SILVA</head>
+        <head>N. 71 Madre Silva</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000359853"/>[<hi>Lonicera Caprifolium</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -3121,7 +3121,7 @@
             radice a k. 252. </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera con ai lati due rametti, uno fiorito, l'altro fruttifero.
+          <p>Pianta fiorita e fruttifera con ai lati due rametti, uno fiorito, l'altro fruttifero.
             L'Anguillara cito le parole prav praxtlar maxpay, dietro le quali argomento che il peri-
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="51"/> climeno fosse la
             madresilva, mentre oggidi si distinguono le due specie L. Periclymenum e L.
@@ -3131,7 +3131,7 @@
             abraciano il fusto che pareno una sol fronda rotonda» e dei rami: «quegli rami che
             producono fiore finiscono il ramo da fiore et non da foglie», riconoscendo così la
             connazione delle foglie superiori e la distinzione dei rami fertili dagli sterili non
-            figurati nella tavola].</p>
+            figurati nella tavola.</p>
         </div>
         <div type="notes">
           <note xml:id="A-071-N1" n="1"> Geisblatt.</note>
@@ -3141,7 +3141,7 @@
       </div>
 
       <div type="plant" xml:id="A-072">
-        <head>N. 72 ALIMO DE CRATEUA</head>
+        <head>N. 72 Alimo de Crateua</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000400715"/>[<hi>Rhododendron hirsutum L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -3172,13 +3172,13 @@
             k. 176 al cap. del Alimo.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile. Dal testo si rileva che il campione il quale servi di originale fu
+          <p>Pianta sterile. Dal testo si rileva che il campione il quale servi di originale fu
             mandato dal Cadore perché l'abitazione del Sannio si riferisce all'Alimo di Dioscoride
             ed è copiata dall'Anguillara.</p>
           <p>Il dubbio del Michiel era giusto perché il Cneoro di Mattioli è Daphne Cncorum figur. a
             N. 31 di questo codice, non già la specie presente, come riteneva il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandino</persName>. Errò
             anche il Michiel ritenendo che essa fosse l'ἅλιμος di Crateva (<ptr target="#A-072-N2"/>), ma ha il merito di averla fatta per primo conoscere colla iconografia. Poco dopo troviamo la figura
-            del Lobelio col nome «Balsamum alpinum»].</p>
+            del Lobelio col nome «Balsamum alpinum».</p>
         </div>
         <div type="notes">
           <note xml:id="A-072-N1" n="1"> * S'intende n. 143 di questo Libro. (Ed.).</note>
@@ -3189,7 +3189,7 @@
       </div>
 
       <div type="plant" xml:id="A-073">
-        <head>N. 73 PEPE TONDO</head>
+        <head>N. 73 Pepe Tondo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000405161">[<hi>Ribes nigrum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3241,7 +3241,7 @@
             inganano.</p>
         </div>
         <div type="editorial-D">
-          <p>[L'Anguillara classificò questa pianta per Amomo o Pepe selvatico e scrisse che la si
+          <p>L'Anguillara classificò questa pianta per Amomo o Pepe selvatico e scrisse che la si
             può vedere: «nel vaghissimo giardino del clarissimo Messer Pier'Antonio Michiele
             gentilhuomo dottissimo di questa facolta de' Semplici et in Padova nel copioso giar-
             dino del clarissimo Messer Lorenzo Priuli alla Saracinesca». Malgrado l'obiezione qui
@@ -3260,7 +3260,7 @@
             una pianta non ancora determinata. Per alcuni autori [246] era Cyperus esculentus, il
             che fu negato dal Dodoneo [107], per altri, come il nostro, Ribes nigrum. Il nome gradatamente si corruppe in El-zelin, Al-zelin, Azzelin, Assaline e sotto quest'ultima
             forma è tuttora vivo nel dialetto veneto, ma indica una pianta ben diversa e nemmeno
-            aromatica, la canna palustre].</p>
+            aromatica, la canna palustre.</p>
         </div>
         <div type="notes">
           <note xml:id="A-073-N1" n="1"> Si avvicina a quello.</note>
@@ -3274,7 +3274,7 @@
       </div>
 
       <div type="plant" xml:id="A-074">
-        <head>N. 74 RIBES MENOR</head>
+        <head>N. 74 Ribes Menor</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000405218">[<hi>Ribes rubrum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3305,8 +3305,8 @@
             inganasi a partito perché l'Uva de orso fa foglie di Arbuto.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita; a parte un rametto fruttifero. Questa specie è chiamata al N. 137
-            ribes minore perché il maggiore, secondo il Michiel, era Viburnum Opulus].</p>
+          <p>Pianta fiorita; a parte un rametto fruttifero. Questa specie è chiamata al N. 137
+            ribes minore perché il maggiore, secondo il Michiel, era Viburnum Opulus.</p>
         </div>
         <div type="notes">
           <note xml:id="A-074-N1" n="1"> Johannistreub, Jobannisbeerlein.</note>
@@ -3316,7 +3316,7 @@
       </div>
 
       <div type="plant" xml:id="A-075">
-        <head>N. 75 CORNIOLO</head>
+        <head>N. 75 Corniolo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000924760">[<hi>Cornus mas L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3350,17 +3350,17 @@
             Et de suoi fruti fannosi aqua per restringere e' flussi...</p>
         </div>
         <div type="editorial-D">
-          <p>[L'autore nella diagnosi aggiunge altre differenze tra il maschio e la femmina: «la
+          <p>L'autore nella diagnosi aggiunge altre differenze tra il maschio e la femmina: «la
             femina produce le suoe cocole acerbe doppo l'autunno le quali alcuno animale le gusta.
             Et il suo legnio son inutile et fongoso della femina, ma il maschio son forte et duro».</p>
           <p>In una prateria sorge l'albero con foglie, fiori e frutti ed a sinistra v'è un ramo pur
             con foglie, fiori e frutti, mentre ben si sa che i fiori sono precoci. Un uomo scende da
-            una scala a piuoli appoggiata all'albero con una cesta carica di frutta].</p>
+            una scala a piuoli appoggiata all'albero con una cesta carica di frutta.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-076">
-        <head>N. 76 TILIA FEMINA</head>
+        <head>N. 76 Tilia Femina</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000457451">[<hi>Tilia cordata Mill.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3385,7 +3385,7 @@
             comenti nel membro tercio (<ptr target="#A-076-N4"/>),</p>
         </div>
         <div type="editorial-D">
-          <p>[Da un tronco segato sorgono due rami con foglie e fiori. A parte un rametto fio-
+          <p>Da un tronco segato sorgono due rami con foglie e fiori. A parte un rametto fio-
             rifero. Le figure sono infelici.</p>
           <p>L'errore di Anguillara fu originato da un altro commesso da Adamo Lonicero il quale
             riteneva che la pellopta de' Greci fosse il ligustro e questo poi si confondeva colla
@@ -3394,7 +3394,7 @@
             mente ha la forma lei. Forse egli lo alterò in léia per renderlo più simile al latino
             lilia, perché, secondo le regole di quel dialetto, i nomi in aglio, iglio, oglio
             cangiano queste desinenze in ai, ei, oi (esempi: ai = aglio, mei = miglio, strafoi =
-            trifoglio)].</p>
+            trifoglio).</p>
 
         </div>
         <div type="notes">
@@ -3409,22 +3409,22 @@
       </div>
 
       <div type="plant" xml:id="A-077">
-        <head>N. 77 OPULO</head>
+        <head>N. 77 Opulo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000514593">[<hi>Acer monspessulanum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Opulo.</p>
         </div>
         <div type="editorial-D">
-          <p>[Nel testo non v'è che questo nome; mancano le descrizioni e le citazioni. La figura
+          <p>Nel testo non v'è che questo nome; mancano le descrizioni e le citazioni. La figura
             non finita rappresenta un ramo con foglie e frutti.</p>
           <p>Il nome opulo cangiato ora in oppio, loppio, loppo si dà oggidi a due specie affini, A.
-            Opulus ed A. campestre].</p>
+            Opulus ed A. campestre.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-078">
-        <head>N. 78 GAROFALI</head>
+        <head>N. 78 Garofali</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000956730">[<hi>Eugenia caryophyllata Thunbg.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3472,7 +3472,7 @@
             alla descretione delle Isole Molucche a k. 99</p>
         </div>
         <div type="editorial-D">
-          <p>[In una prateria di collina sorge l'albero con due liocorni ai lati; a parte una foglia
+          <p>In una prateria di collina sorge l'albero con due liocorni ai lati; a parte una foglia
             in grandezza naturale.</p>
           <p>Dal testo ben si comprende che l'autore non vide l'intera pianta né tentò coltivarla,
             ma fece la figura dietro visione di un ramo che gli fu portato dall'Oriente. E difatti
@@ -3485,7 +3485,7 @@
             disegnati forse per alludere agli usi che facevansi della pianta come antidoto, perche
             a quei tempi il dente del narvalo si usava in medicina a scopo simile.</p>
           <p>Le cinque isole citate dal Porcacchi sono Tarenate (Ternate), Tidore, Mutir (Motir),
-            Macchian (Makian) e Bacchian (Bacian) che trovansi a W. di Halmahera o Gilolo].</p>
+            Macchian (Makian) e Bacchian (Bacian) che trovansi a W. di Halmahera o Gilolo.</p>
         </div>
         <div type="notes">
           <note xml:id="A-078-N1" n="1"> Molucche.</note>
@@ -3494,7 +3494,7 @@
       </div>
 
       <div type="plant" xml:id="A-079">
-        <head>N. 79 CANELA</head>
+        <head>N. 79 Canela</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000605543">[*<hi>Cinnamomum zeylanicum Nees</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3542,11 +3542,11 @@
             sperie di Canela.</p>
         </div>
         <div type="editorial-D">
-          <p>[La differenza fra le varie piante chiamate cassia e casia è meglio spiegata al N.
-            102].</p>
+          <p>La differenza fra le varie piante chiamate cassia e casia è meglio spiegata al N.
+            102.</p>
           <p>La figura del presente foglio rappresenta un albero fruttifero situato alla base di una
             collina; a lato è dipinta una foglia. Il disegno, fatto come il precedente, colla guida
-            di un ramo, ha pure la sua parte di fittizio].</p>
+            di un ramo, ha pure la sua parte di fittizio.</p>
         </div>
         <div type="notes">
           <note xml:id="A-079-N1" n="1">
@@ -3560,7 +3560,7 @@
       </div>
 
       <div type="plant" xml:id="A-080">
-        <head>N. 80 MAMAI ALBERO DE INDIA</head>
+        <head>N. 80 Mamai Albero de India</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000375040">[<hi>Mammea americana L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3588,12 +3588,12 @@
             persichi deti. </p>
         </div>
         <div type="editorial-D">
-          <p>[Albero fruttifero. La pianta era stata descritta col nome Mamey da <ref type="bibl" target="http://id.sbn.it/bid/RMLE012034">Gonzalo Ferdinando Oviedo de Valdes (1525 [ma 1535])</ref>]. -</p>
+          <p>Albero fruttifero. La pianta era stata descritta col nome Mamey da <ref type="bibl" target="http://id.sbn.it/bid/RMLE012034">Gonzalo Ferdinando Oviedo de Valdes (1525 [ma 1535])</ref>. -</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-081">
-        <head>N. 81 NOCE MOSCATA</head>
+        <head>N. 81 Noce Moscata</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000447317">[*<hi>Myristica fragrans Houtt.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3656,7 +3656,7 @@
             112-101. Nelli <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Isolani de Thomaso Porcacchi</ref> alla Malucche a k. 99.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fittizia con foglie spinose di agrifoglio come è annunziato nel testo e coi
+          <p>Pianta fittizia con foglie spinose di agrifoglio come è annunziato nel testo e coi
             semi privi di arillo e pendenti dall'albero a guisa di frutti. A parte un seme in gran-
             dezza naturale mal disegnato e dipinto, come lo sono quelli pendenti. Dal testo risulta
             che il Michiel in seguito ebbe notizie più esatte sulle foglie e sul frutto della
@@ -3693,7 +3693,7 @@
           <p>La frase del Michiel sull'isola di Zebu «in mezo al camin del mondo andando per la via
             delle Isole» cioè per la via del Pacifico seminato di arcipelaghi (come fecero la prima
             volta i navigli di Magellano partiti da Sanlucar di Barrameda in Ispagna) si connette
-            alla divisione dei due emisferi di cui il commento al N. 99 del libro giallo]. </p>
+            alla divisione dei due emisferi di cui il commento al N. 99 del libro giallo. </p>
         </div>
         <div type="notes">
           <note xml:id="A-081-N1" n="1"> Elce.</note>
@@ -3708,7 +3708,7 @@
       </div>
 
       <div type="plant" xml:id="A-082">
-        <head>N. 82 NOCE DE INDIA</head>
+        <head>N. 82 Noce de India</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000903570">[<hi>Cocos nucifera L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3752,7 +3752,7 @@
             un'isola pericolosa alle navi perché attirava a sè tutti i chiodi e gli altri pezzi di
             ferro, facendole andare a picco. Questa credenza era stata resa popolare da i Viaggi di
             Sindbad il Marinaio nelle Mille ed una notti e ad essa allude il Michiel, dicendo che si
-            usavano chiodi formati col legno della palma del cocco].</p>
+            usavano chiodi formati col legno della palma del cocco.</p>
         </div>
         <div type="notes">
           <note xml:id="A-082-N1" n="1"> Pane.</note>
@@ -3761,7 +3761,7 @@
       </div>
 
       <div type="plant" xml:id="A-083">
-        <head>N. 83 AGNO CASTO</head>
+        <head>N. 83 Agno Casto</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000332916">[<hi>Vitex Agnus-Castus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3798,7 +3798,7 @@
             questa piui facilmente si preservino percioché diminuisce il desiderio del coito...</p>
         </div>
         <div type="editorial-D">
-          <p>[Albero fiorito e fruttifero, a sinistra del quale ci sono un ramoscello fiorito e
+          <p>Albero fiorito e fruttifero, a sinistra del quale ci sono un ramoscello fiorito e
             fruttifero abbastanza ben delineato ed una figura di donna inginocchiata con sopra la
             parola castità. La figura della pianta è più completa di quella del <persName ref="#Rinio">Rinio</persName> c. 221,
             presentandoci oltre i frutti, anche i fiori.</p>
@@ -3810,12 +3810,12 @@
             contraddicendo il Silvatico ed il Mattioli, provano che egli aveva tenuto la pianta
             nel suo giardino. Invece egli servilmente ripetè quanto dicevano gli antichi e
             credevano i contemporanei sulle virtù dell'agnocasto, mentre l'esperienza dimostrò
-            essere il suo frutto uno stimolante].</p>
+            essere il suo frutto uno stimolante.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-084">
-        <head>N. 84 TRAGIO</head>
+        <head>N. 84 Tragio</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000727735">[<hi>Hypericum hircinum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3836,11 +3836,11 @@
             hora con frondi di Therebinto et hora di Ginepro.</p>
         </div>
         <div type="editorial-D">
-          <p>[Plinio al lib. 13 cap. 21 parla del tragio frutice che fu identificato colla specie
+          <p>Plinio al lib. 13 cap. 21 parla del tragio frutice che fu identificato colla specie
             presente, al lib. 28 cap. 13 parla invece dell'erba tragio che si ritiene l'odierna sp.
             Pimpinella Tragium le cui foglie superiori hanno segmenti lineari.</p>
           <p>La presente figura è di pianta fiorita e precede quella data dal Pona.</p>
-          <p>Pegli altri iperici figurati nel Codice V. Ro. I, 236].</p>
+          <p>Pegli altri iperici figurati nel Codice V. Ro. I, 236.</p>
         </div>
         <div type="notes">
           <note xml:id="A-084-N1" n="1"> Giallo </note>
@@ -3849,7 +3849,7 @@
 
 
       <div type="plant" xml:id="A-085">
-        <head>N. 85 PERSEA</head>
+        <head>N. 85 Persea</head>
         <div type="name">
           <head>NOMI</head>
           <p> Persea da Theophrasto.</p>
@@ -3870,7 +3870,7 @@
             penso non sia di questo albero ma d'il Italico Persico comun et volgar...</p>
         </div>
         <div type="editorial-D">
-          <p>[Ceppo il quale porta alcuni rami con foglie. A parte un rametto con tre foglie (<ptr target="#A-085-N1"/>)].</p>
+          <p>Ceppo il quale porta alcuni rami con foglie. A parte un rametto con tre foglie (<ptr target="#A-085-N1"/>).</p>
         </div>
         <div type="notes">
           <note xml:id="A-085-N1" n="1"> Fg, ovali-lanceolate + cordato alla base.(Ed.). </note>
@@ -3878,7 +3878,7 @@
       </div>
 
       <div type="plant" xml:id="A-086">
-        <head>N. 86 AZAROLO</head>
+        <head>N. 86 Azarolo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000988173">[<hi>Crataegus Azarolus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3911,7 +3911,7 @@
             diede.</p>
         </div>
         <div type="editorial-D">
-          <p>[Sopra una verde spianata un albero fiorito e fruttifero. A sinistra un ramo fiorito, a
+          <p>Sopra una verde spianata un albero fiorito e fruttifero. A sinistra un ramo fiorito, a
             destra uno fruttifero. Due figurine umane sul prato, una delle quali sostiene il ramo
             fruttifero, il che porta sproporzione perché il ramo è in grandezza naturale.</p>
           <p>Dalla testimonianza del Michiel ricaviamo che quest'albero fu introdotto in Italia solo
@@ -3920,7 +3920,7 @@
             mata <foreign xml:lang="grc">άχυρδος</foreign> da Omero, <foreign xml:lang="grc">αμαμηλίς</foreign> da Ippocrate, <foreign xml:lang="grc">κράταιγος</foreign> da
             Teofrasto. Quanto al Setanio (non Setonio) il Michiel segue l'opinione di coloro che,
             come Mattioli, lo identificavano col nespolo comune, mentre, a quanto pare, il
-            déontidos ontávalos di Teofrasto è Mespilus Cotoneaster qui figurato al N. 145]. -</p>
+            déontidos ontávalos di Teofrasto è Mespilus Cotoneaster qui figurato al N. 145. -</p>
         </div>
         <div type="notes">
           <note xml:id="A-086-N1" n="1"> Mespilus germanica.</note>
@@ -3934,7 +3934,7 @@
       </div>
 
       <div type="plant" xml:id="A-087">
-        <head>N. 87 SPIN BIANCO</head>
+        <head>N. 87 Spin Bianco</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000985328">[<hi>Crataegus oxyacantha L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -3956,7 +3956,7 @@
             simplicisti degni.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta con foglie, fiori e frutti, supponendosene, per comodo iconografico, la con-
+          <p>Pianta con foglie, fiori e frutti, supponendosene, per comodo iconografico, la con-
             temporaneità, il che pur trovasi in uno dei rami figurati a parte. L'altro ramo ha solo
             spine e frutti maturi.</p>
           <p>Al tempo del Michiel i pareri sull'identificazione della sp. otvárania di Teofrasto e
@@ -3968,13 +3968,13 @@
             Dioscoride, concluse giustamente per la seconda specie <ref target="A-152">[N.
               152]</ref> e così fecero altri botanici, ma Linneo stette per la terza opinione ed
             il falso nome da lui dato al biancospino è causa di frequenti errori nelle indagini di
-            botanica storica].</p>
+            botanica storica.</p>
         </div>
 
       </div>
 
       <div type="plant" xml:id="A-088">
-        <head>N. 88 ACATIA SECONDA</head>
+        <head>N. 88 Acatia Seconda</head>
         <div type="name">
           <head>NOMI</head>
           <p> Acatia seconda da Diascoride - Aspalato da molti - Achanto da Theophrasto.</p>
@@ -4016,8 +4016,8 @@
             legnio el qual potrebonsi de legiero dargli l'odore io non scio afirmare.</p>
         </div>
         <div type="editorial-D">
-          <p>[La figura (<ptr target="#A-088-N1"/>) dell'albero sterile è in un cortile a porticato, con pavimento a quadri
-            bianchi e rossi alla veneziana ed in riva al mare].</p>
+          <p>La figura (<ptr target="#A-088-N1"/>) dell'albero sterile è in un cortile a porticato, con pavimento a quadri
+            bianchi e rossi alla veneziana ed in riva al mare.</p>
         </div>
         <div type="notes">
           <note xml:id="A-088-N1" n="1"> * Fig. infelice, con le radici rappresentate fuori terra.(Ed.).</note>
@@ -4025,7 +4025,7 @@
       </div>
 
       <div type="plant" xml:id="A-089">
-        <head>N. 89 ACATIA</head>
+        <head>N. 89 Acatia</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213263">[<hi>Calycotome spinosa Lk.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4071,13 +4071,13 @@
           <p> Leggi da driedo k. 115.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita. Il Michiel la chiama Acacia prima, mentre il Mattioli la chiama Acacia
-            seconda]. -</p>
+          <p>Pianta fiorita. Il Michiel la chiama Acacia prima, mentre il Mattioli la chiama Acacia
+            seconda. -</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-090">
-        <head>N. 90 CHARANCE</head>
+        <head>N. 90 Charance</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000376910">[<hi>Momordica Balsamina L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4106,17 +4106,17 @@
             ingravidare. Et il Mathiolo ne raggiona de molte virtu al cap. 184 (<ptr target="#A-090-N4"/>) de Vite nera.</p>
         </div>
         <div type="editorial-D">
-          <p>[Buona figura di pianta avvolgentesi intorno ad uno stelo. A sinistra un rametto con
+          <p>Buona figura di pianta avvolgentesi intorno ad uno stelo. A sinistra un rametto con
             foglia, fiore e frutto verde, a destra un rametto con foglie e frutto maturo.</p>
           <p>La più antica figura che si conosca di questa specie è quella alla c. 140 del Cod.
             <persName ref="#Rinio">Rinio</persName>, la quale supera in bellezza questa del Michiel. A quei tempi, cioè nella prima
             metà del sec. XV, si usava solo il nome caranza, ora applicato ad una congenere, e
-            quelli di Balsamina e Momordica cominciarono ad usarsi verso la fine [19].</p>
+            quelli di Balsamina e Momordica cominciarono ad usarsi verso la fine [19.</p>
           <p>Il Geranio primo di Dioscoride è G. tuberosum come risulta dalla diagnosi: <foreign xml:lang="grc">γεράνιον φύλλῳ ἀνεμόνης ῥίζᾳ ὑποστρογγύλῃ γλυγέιᾳ</foreign> (geranio a
             foglie d'anemone, a radice gonfia, dolce) e quello che si chiamava nel sec. XVI Geranio
             Momordica (G. rotundifolium) era secondo il Mattioli, il <foreign xml:lang="grc">γεράνιον ἕτερον</foreign> o Geranio secondo di Dioscoride, benché la diagnosi possa
             servire ad altre specie, come G. molle, Erodium malacoides.</p>
-          <p>La specie presente è la Balsamina 1 o Caranzi di Anguillara, p. 243].</p>
+          <p>La specie presente è la Balsamina 1 o Caranzi di Anguillara, p. 243.</p>
         </div>
         <div type="notes">
           <note xml:id="A-090-N1" n="1"> Ciod.</note>
@@ -4127,7 +4127,7 @@
       </div>
 
       <div type="plant" xml:id="A-091">
-        <head>N. 91 BRIONIA</head>
+        <head>N. 91 Brionia</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000572974">[<hi>Bryonia dioica Jacq. ...</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4150,9 +4150,9 @@
             monti in Lombardia.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera. La figura è mediocre, ma assai belli sono il disegno ed
+          <p>Pianta fiorita e fruttifera. La figura è mediocre, ma assai belli sono il disegno ed
             il colorito della radice che era la parte usata in medicina, sia col suo nome legittimo,
-            sia modellata in forma umana col nome di radice di mandragora].</p>
+            sia modellata in forma umana col nome di radice di mandragora.</p>
         </div>
         <div type="notes">
           <note xml:id="A-091-N1" n="1"> Stickwutz, Wilder Zitwan (Fucus, De Hist. stirpium, p. 95 – Ed.).</note>
@@ -4161,7 +4161,7 @@
       </div>
 
       <div type="plant" xml:id="A-092">
-        <head>N. 92 CAPOLI OTERECAS ES FRUTA</head>
+        <head>N. 92 Capoli Oterecas es Fruta</head>
         <div type="name">
           <head>NOMI</head>
           <p> Capoli otercas da Indiani overo da Spagnioli.</p>
@@ -4183,12 +4183,12 @@
           <p> De suoi fruti ci nasce ma penso che bene verebbe per inesto.</p>
         </div>
         <div type="editorial-D">
-          <p>[Albero fruttifero con quadrupedi, uccelli ed insetti].</p>
+          <p>Albero fruttifero con quadrupedi, uccelli ed insetti.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-093">
-        <head>N. 93 QUAYAUTL COLORADO</head>
+        <head>N. 93 Quayautl colorado</head>
         <div type="name">
           <head>NOMI</head>
           <p> Quoayautl colorado da Indiani overo Spagnioli.</p>
@@ -4208,7 +4208,7 @@
           <p> Di calmo (<ptr target="#A-093-N1"/>) et de li suoi nuclei ma non si belli.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera con insetti volanti e posati].</p>
+          <p>Pianta fruttifera con insetti volanti e posati.</p>
         </div>
         <div type="notes">
           <note xml:id="A-093-N1" n="1"> Innesto. </note>
@@ -4216,7 +4216,7 @@
       </div>
 
       <div type="plant" xml:id="A-094">
-        <head>N. 94 ALLATERNO</head>
+        <head>N. 94 Allaterno</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000818074">[Phyllirea [ma Phillyrea] variabilis Timb. var. media L.]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4246,7 +4246,7 @@
             l'Ancorellum Pandette k. 19.</p>
         </div>
         <div type="editorial-D">
-          <p>[In un prato di monte con boschi in distanza sorge la pianta fruttifera con vicino un
+          <p>In un prato di monte con boschi in distanza sorge la pianta fruttifera con vicino un
             uomo il quale ne spacca i rami colla bipenne. Presso alla pianta un cane accovacciato ed
             una catasta di legna ormai segata. Due figure a parte di ramo fiorito e di ramo fruttifero. Anche nell'Erb. Aldrovandi vol. II, N. 365 questa pianta è chiamata Alatema
             Plinij.</p>
@@ -4254,7 +4254,7 @@
             E come al N. 13 si nota che le foglie sono «falate» cioè alterne, qui si nota che sono
             «rascontrate» cioè opposte.</p>
           <p>Questa pianta è l'alaterna (alterna nell'indice alfabetico) di Anguillara, pag.
-            85].</p>
+            85.</p>
 
         </div>
         <div type="notes">
@@ -4266,7 +4266,7 @@
       </div>
 
       <div type="plant" xml:id="A-095">
-        <head>N. 95 STORACE</head>
+        <head>N. 95 Storace</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000492654">[<hi>Styrax officinale L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4302,7 +4302,7 @@
             falsifica ancora. Lo storace scalda, molifica et digerisce...</p>
         </div>
         <div type="editorial-D">
-          <p>[L'<persName ref="#Anguillara">Anguillara</persName> nel <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">secondo Parere sopra i Semplici</ref> dedicato al nostro Michiel, così
+          <p>L'<persName ref="#Anguillara">Anguillara</persName> nel <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">secondo Parere sopra i Semplici</ref> dedicato al nostro Michiel, così
             scrive dello storace: «si può vedere nel giardino di Vostra Magnificentia et del mio
             carissimo amico M. Antonio Filetti a Santa Lucia et ancora nell'horto delli venerandi
             frati di S. Francesco della Vigna. Trovasi ancora partendo da Tivoli nella strada che va
@@ -4316,7 +4316,7 @@
           <p>L'individuo che servi d'originale alla presente figura aveva numerosi fiori con numero
             anomalo di petali, il che non apparisce dal disegno, non essendovene alcuno <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="68"/> che si presenti di
             fronte, ma risulta dalla diagnosi dell'autore: «fiori candidi odorati per el piui di 7
-            foglie»]. </p>
+            foglie». </p>
         </div>
         <div type="notes">
           <note xml:id="A-095-N1" n="1"> Gebel-Akrah degli Arabi.</note>
@@ -4334,7 +4334,7 @@
       </div>
 
       <div type="plant" xml:id="A-096">
-        <head>N. 96 BALSAMO</head>
+        <head>N. 96 Balsamo</head>
         <div type="name">
           <head>NOMI</head>
           <p> Balsamo volgarmente - Opobalsamo il suo liquore, Carpobalsamo il suo seme, Xilobalsamo
@@ -4380,7 +4380,7 @@
             p. (<ptr target="#A-096-N1"/>) libro delle Indie 47.</p>
         </div>
         <div type="editorial-D">
-          <p>(Pianta fruttifera a foglie piccole ovali, frutti a grappoli pendenti (<ptr target="#A-096-N2"/>)].</p>
+          <p>(Pianta fruttifera a foglie piccole ovali, frutti a grappoli pendenti (<ptr target="#A-096-N2"/>).</p>
         </div>
         <div type="notes">
           <note xml:id="A-096-N1" n="1"> * Questa citazione del primo libro è certo una svista; doveva essere [77] «libro II, k. 47». (Ed.).</note>
@@ -4394,7 +4394,7 @@
       </div>
 
       <div type="plant" xml:id="A-097">
-        <head>N. 97 VISCO</head>
+        <head>N. 97 Visco</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000424722">[<hi>Viscum album L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4437,12 +4437,12 @@
             simpl.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera sopra un ramo d'albero staccato. Pur avendo figurato i frutti e
+          <p>Pianta fruttifera sopra un ramo d'albero staccato. Pur avendo figurato i frutti e
             descrittili colle parole: «acini bianchi simil a perle, rotondi viscosi», dichiard di
             non conoscere la generazione della pianta. Più tardi ne ebbe cognizione dagli autori e
             fece l'aggiunta nel capitolo «Virtù». Quest'aggiunta dev'esser posteriore alla
             classificazione proposta dall'autore al principio del libro verde dove è ripetuto che il
-            vischio non ha radici].</p>
+            vischio non ha radici.</p>
         </div>
         <div type="notes">
           <note xml:id="A-097-N1" n="1"> Loranthus curopaeus.'</note>
@@ -4452,7 +4452,7 @@
       </div>
 
       <div type="plant" xml:id="A-098">
-        <head>N. 98 OLEANDRO</head>
+        <head>N. 98 Oleandro</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000251577">[<hi>Nerium Oleander L.</hi>]</ref>.</ab>
         <div type="name">
           <head>NOMI</head>
@@ -4487,7 +4487,7 @@
             umbra si scoreno pericolo di vita...</p>
         </div>
         <div type="editorial-D">
-          <p>[Benché l'autore distingua, come due specie, le due varietà a fior bianco e purpureo,
+          <p>Benché l'autore distingua, come due specie, le due varietà a fior bianco e purpureo,
             per economia di spazio l'artista dipinse un solo arboscello con due rami a fiori
             purpurei ed uno a fiori bianchi sorgente in un prato sul quale giace un frutto staccato.
             Tre figure indicano le virtù di cui sopra è fatta parola. La prima presso il frutto
@@ -4519,7 +4519,7 @@
             una peggiore e per giunta senza fiori, benché dicesse di aver veduto la pianta coltivata
             a Padova, Venezia e Mompellieri.</p>
           <p>La figura presente ha foglie ora alterne, ora verticillate e fiori in cima tricotoma
-            conforme a realtà].</p>
+            conforme a realtà.</p>
         </div>
         <div type="notes">
           <note xml:id="A-098-N1" n="1"> Empito.</note>
@@ -4536,7 +4536,7 @@
       </div>
 
       <div type="plant" xml:id="A-099">
-        <head>N. 99 BEN DA PERFUMIERI</head>
+        <head>N. 99 Ben da Perfumieri</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000448146">[<hi>Moringa alata *an aptius M. pterigosperma Gaertner?</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4565,7 +4565,7 @@
           <p>De suoi rotondi nuclei mi son nato ma con il fredo il persi.</p>
         </div>
         <div type="editorial-D">
-          <p>[La pianta sorge sul pendio di un monte abitato ed è sterile, non avendone il Michiel
+          <p>La pianta sorge sul pendio di un monte abitato ed è sterile, non avendone il Michiel
             potuto ottenere i frutti (<ptr target="#A-099-N3"/>). Perciò egli, non avendo potuto conoscere l'opera dell'Acosta [2] la quale fu pubblicata due anni dopo la sua morte, credette, come generalmente si riteneva, che fossero frutti i semi. Era uso di sgusciare i semi od almeno
             troncar loro le ale quando si spedivano in Europa per economia di spazio, perciò il Michiel li chiama rotondi. Il <persName ref="#Rinio">Rinio</persName> invece conobbe i semi della congenere M. aptera e li
             figurò come frutti sopra un albero fittizio a c. 375. Invece la presente figura, pur
@@ -4610,7 +4610,7 @@
 </div>-->
 
       <div type="plant" xml:id="A-100">
-        <head>N. 100 BETULA</head>
+        <head>N. 100 Betula</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000330385">[<hi>Betula alba L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4630,12 +4630,12 @@
           <p> Luogho salvatico et silvestre umbroso et incognito.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fertile, amenti allungati gialli. A parte una foglia]. -</p>
+          <p>Pianta fertile, amenti allungati gialli. A parte una foglia. -</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-101">
-        <head>N. 101 BARBA IOVIS</head>
+        <head>N. 101 Barba Iovis</head>
         <ab><placeName ref="http://www.worldfloraonline.org/taxon/wfo-0000212106">[<hi>Anthyllis Barba-Jovis L.</hi>]</placeName></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4695,7 +4695,7 @@
       </div>
 
       <div type="plant" xml:id="A-102">
-        <head>N. 102 CASIA SOLUTIVA</head>
+        <head>N. 102 Casia Solutiva</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000163802">[<hi>Cassia Fistula L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4737,7 +4737,7 @@
             lubrico. Et leggesi copioso nel Mathiolo al cap. del Cinamomo.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera con insetti volanti. A parte una foglia ed un frammento di
+          <p>Pianta fruttifera con insetti volanti. A parte una foglia ed un frammento di
             frutto.</p>
           <p><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="74"/> Al N. 79 l'autore
             parla della nasalz dei Greci differente dalla cassia attuale che è qui descritta ed in
@@ -4746,7 +4746,7 @@
             xvéopov. Per le lunghe questioni sull'identificazione del cneoro può vedersi il
             Mattioli (<ptr target="#A-102-N6"/>),</p>
           <p>La presente specie fu chiamata dai Greci bizantini <foreign xml:lang="grc">γλυκοκάλαμος</foreign> (canna dolce) come trovasi in Nicola Mirepsico (201 p. 49
-            (Ed.)] e più tardi usurpo il nome di cassia per la somiglianza dei suoi legumi
+            (Ed.) e più tardi usurpo il nome di cassia per la somiglianza dei suoi legumi
             cilindrici e legnosi colla scorza rotolata dell'antica <foreign xml:lang="grc">κασσία</foreign> (Cinnamomum Cassia) ora chiamata cassia lignea. Questo errore
             insinuato dagli Arabi fu però riconosciuto da vari semplicisti, p. e. dal <persName ref="#Rinio">Rinio</persName> che però
             a c. 322 dà una figura fittizia della Cassia fistula ed a c. 437 pur parlando della
@@ -4767,7 +4767,7 @@
       </div>
 
       <div type="plant" xml:id="A-103">
-        <head>N. 103 MIRIDE ARBORE</head>
+        <head>N. 103 Miride Arbore</head>
         <div type="name">
           <head>NOMI</head>
           <p> Miride arborea da Theophrasto.</p>
@@ -4786,12 +4786,12 @@
             Myrrham nascesse de uno istesso arbore.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile].</p>
+          <p>Pianta sterile.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-104">
-        <head>N. 104 TEREBINTO</head>
+        <head>N. 104 Terebinto</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000393769">[<hi>Pistacia Terebinthus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4824,7 +4824,7 @@
             uno di Cypri. Ne sonno in Schiavonia, in Toscana et in Abruzzio.</p>
         </div>
         <div type="editorial-D">
-          <p>[Come altri autori, il Michiel ritenne che le galle fossero frutti e perciò ne distin-
+          <p>Come altri autori, il Michiel ritenne che le galle fossero frutti e perciò ne distin-
             gue tre specie, di cui la prima è il vero frutto. </p>
           <p>La figura rappresenta un prato in mezzo al quale sorge l'intera pianta con foglie e
             pannocchie portanti drupe miste a galle sferiche gialle (frutto terzo dell'A).</p>
@@ -4836,7 +4836,7 @@
             quella prodotta dagl'insetti afidini del genere Pemphigus che l'autore per la
             piccolezza del corpo e la trasparenza delle ale paragond a zanzare.</p>
           <p>La figura dell'albero è difettosa; migliori son quelle ai lati.</p>
-          <p>Del terebinto trovasi campione nell'Erbario Aldrovandi, Vol. II, 99].</p>
+          <p>Del terebinto trovasi campione nell'Erbario Aldrovandi, Vol. II, 99.</p>
         </div>
         <div type="notes">
           <note xml:id="A-104-N1" n="1"> L'Anguillara scrisse: «Chjamasi il Terebintho in Abruzzio nel Contado di
@@ -4854,7 +4854,7 @@
       </div>
 
       <div type="plant" xml:id="A-105">
-        <head>N. 105 LENTISCO</head>
+        <head>N. 105 Lentisco</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000394118">[<hi>Pistacia Lentiscus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4894,7 +4894,7 @@
             Candia.</p>
         </div>
         <div type="editorial-D">
-          <p>[In una prateria sorge un albero fiorito con insetti. A parte un ramo fiorito e due
+          <p>In una prateria sorge un albero fiorito con insetti. A parte un ramo fiorito e due
             figure umane che stanno stuzzicandosi i denti ad una tavola dove è scritto: «de sua
             ombra godiamo et il dente netiamo».</p>
           <p>La figura dell'intero albero è brutta e poco esatta, migliore è quella del ramo;
@@ -4906,7 +4906,7 @@
             notizia della forma di queste galle mature, le credette diverse da quelle già figurate
             e, per errore di informazione, credette crescessero sul lentisco, mentre son proprie del
             terebinto e chiamansi volgarmente carrube di Giuda. Fa sorpresa il veder l'errore
-            ripetuto in libri molto recenti (161)].</p>
+            ripetuto in libri molto recenti (161).</p>
           <p>Pena e Lobelio (180) parlano dell'industria degli stecchini (dentiscalpia) di cui si
             parla e che era esercitata a Genova dai galeotti).</p>
         </div>
@@ -4918,7 +4918,7 @@
       </div>
 
       <div type="plant" xml:id="A-106">
-        <head>N. 106 PALIURO DI AGATOCLE</head>
+        <head>N. 106 Paliuro di Agatocle</head>
         <ab>[Zizyphus ...]</ab>
         <div type="name">
           <head>NOMI</head>
@@ -4952,8 +4952,8 @@
             al cap. del Pruno. Galeno al ij de faculti.</p>
         </div>
         <div type="editorial-D">
-          <p>[Secondo lo Sprengel il xovapos di Ateneo Naucratide è Zizyphus Jujuba, specie indiana,
-            diversa da 2. vulgaris e da 2. Lotus (<ptr target="#A-106-N3"/>)].</p>
+          <p>Secondo lo Sprengel il xovapos di Ateneo Naucratide è Zizyphus Jujuba, specie indiana,
+            diversa da 2. vulgaris e da 2. Lotus (<ptr target="#A-106-N3"/>).</p>
         </div>
         <div type="notes">
           <note xml:id="A-106-N1" n="1"> Zisyphus vulgaris.</note>
@@ -4964,7 +4964,7 @@
       </div>
 
       <div type="plant" xml:id="A-107">
-        <head>N. 107 CUMARA</head>
+        <head>N. 107 Cumara</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000543204">[<hi>Arbutus Unedo L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -4997,11 +4997,11 @@
             corsi di sangue.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera con figure di farfalle volanti e di un lupo ai piedi dell'arboscello, allusivo al nome «ficus lupi» A parte due coppie di frutti accompagnati
+          <p>Pianta fiorita e fruttifera con figure di farfalle volanti e di un lupo ai piedi dell'arboscello, allusivo al nome «ficus lupi» A parte due coppie di frutti accompagnati
             da foglia. Il disegno delle foglie non compete certo con quello che troviamo nel <persName ref="#Rinio">Rinio</persName> a
             c. 330, ma la figura del Michiel è più completa ed esatta, comprendendo fiori e frutti a
             tutti i gradi di maturità ed aggregati come lo sono in natura.</p>
-          <p>Il nome qui citato del dialetto vicentino è corruzione del xdu.zcos di Teofrasto].</p>
+          <p>Il nome qui citato del dialetto vicentino è corruzione del xdu.zcos di Teofrasto.</p>
         </div>
         <div type="notes">
           <note xml:id="A-107-N1" n="1"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
@@ -5014,7 +5014,7 @@
       </div>
 
       <div type="plant" xml:id="A-108">
-        <head>N. 108 FRUTICE INCOGNITO</head>
+        <head>N. 108 Frutice Incognito</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000421966">[<hi>I. Vaccinium Vitis Idaea L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000422209">[<hi>II. Vaccinium Myrtillus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5050,7 +5050,7 @@
             fare perché lui dice havere frondi simili all'Arbuto et queste quasi rotonde.</p>
         </div>
         <div type="editorial-D">
-          <p>[Anche oggidì per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
+          <p>Anche oggidì per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
             e persistenti e delle bacche rosse il volgo confonde sotto i nomi di uva d'orso, mirtillo rosso le due specie Arctostaphylos Uva-Ursi e Vaccinium Vitis-Idaea. Il Michiel
             però ebbe sospetto trattarsi di due piante differenti perché dopo avere scritto che
             quella qui figurata potrebb'essere l'Uva d'Orso dell'Anguillara aggiunge che essa ha le
@@ -5060,12 +5060,12 @@
           <p>La prima figura è di pianta fiorita e fruttifera con a destra una foglia ed una bacca,
             a sinistra un ramo fiorito della seconda pianta. Il Trago aveva già figurata la specie
             col nome Myrtillus exiguus.</p>
-          <p>La seconda figura è un ramo fiorifero rozzamente disegnato].</p>
+          <p>La seconda figura è un ramo fiorifero rozzamente disegnato.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-109">
-        <head>N. 109 CROTON NICANDRO</head>
+        <head>N. 109 Croton Nicandro</head>
         <div type="name">
           <head>NOMI</head>
           <p> Croton da Nicandro.</p>
@@ -5088,8 +5088,8 @@
             in vece di quel del Pino.</p>
         </div>
         <div type="editorial-D">
-          <p>[Fusto nodoso, a foglie lineari verticillate, fiori rossi, frutti rossi. Pare fittizia,
-            dietro la descrizione dell'Anguillara (1)].</p>
+          <p>Fusto nodoso, a foglie lineari verticillate, fiori rossi, frutti rossi. Pare fittizia,
+            dietro la descrizione dell'Anguillara (1).</p>
         </div>
         <div type="notes">
           <note xml:id="A-109-N1" n="1"> * L'interesse che può avere questa pianta - se, come pare, esaminata o
@@ -5140,7 +5140,7 @@
             alcuni paesi si fanne visco.</p>
         </div>
         <div type="editorial-D">
-          <p>[Buona figura di pianta fruttifera. Di qua e di là del tronco due figure di foglie in
+          <p>Buona figura di pianta fruttifera. Di qua e di là del tronco due figure di foglie in
             grandezza naturale, mostranti le due diverse pagine, l'una glabra, l'altra tomentosa.
             Seminascosta dalla prima foglia una infiorescenza meno bene ritratta. Sull'albero son
             disegnati cinque animali, tre quadrupedi e due uccelli per dimostrare la bontà dei
@@ -5154,7 +5154,7 @@
             quasi indigena nel Veronese, nel Mantovano, presso Belluno (<ptr target="#A-110-N3"/>).</p>
           <p>Contemporaneo al Michiel il Mattioli riceveva campioni da Costantinopoli sotto il nome
             di «Dattero di Trebisonda , e dava pur una figura della pianta. Nel 1635 l'albero era
-            notato fra le piante cospicue dell'orto botanico di Pisa [262].</p>
+            notato fra le piante cospicue dell'orto botanico di Pisa [262.</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="80"/>
           <p>Un secolo dopo il Michiel lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> ne diede una figura poco esatta per la forma dei
@@ -5193,7 +5193,7 @@
       </div>
 
       <div type="plant" xml:id="A-111">
-        <head>N. 111 SEBESTE DI LEVANTE</head>
+        <head>N. 111 Sebeste di Levante</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000620765">[<hi>Cordia Myxa L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5216,7 +5216,7 @@
             cima e' rami come in panocchia et me lo disse il Falopia.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera sorgente in un prato con figure di uomini nudi e di animali. A parte
+          <p>Pianta fruttifera sorgente in un prato con figure di uomini nudi e di animali. A parte
             un ramo con foglie e frutti. Benché il Falloppio avesse giustamente descritta
             l'infruttescenza, il Michiel la figurd come grappolo semplice; contuttociò la figura è
             migliore dal lato scientifico di quella del <persName ref="#Rinio">Rinio</persName> (c. 414) nella quale solo i frutti
@@ -5237,7 +5237,7 @@
             1561, tenendo presente altresì che il Marini pubblicò l'opera sua nel 1562 e facendo gli
             opportuni confronti delle asserzioni dei tre autori, possiamo trarre le conseguenze:
             1° Il primato della conoscenza della specie spetta al Falloppio; 2° Il primato
-            dell'iconografia spetta al Michiel].</p>
+            dell'iconografia spetta al Michiel.</p>
         </div>
         <div type="notes">
           <note xml:id="A-111-N1" n="1"> Canis.</note>
@@ -5246,7 +5246,7 @@
       </div>
 
       <div type="plant" xml:id="A-112">
-        <head>N. II2 GUAICO</head>
+        <head>N. II2 Guaico</head>
         <div type="editorial-S">
           <ab> <ref target="http://www.worldfloraonline.org/taxon/wfo-4000016293">[<hi>Guaiacum L.</hi>]</ref></ab>
         </div>
@@ -5287,12 +5287,12 @@
           <p>Il Gualtieri dimostra havere oppinione che sia sp. di Ebano et altri ancora.</p>
         </div>
         <div type="editorial-D">
-          <p>[Come ben si comprende dal testo la foglia disegnata a parte è di una pianta differente
+          <p>Come ben si comprende dal testo la foglia disegnata a parte è di una pianta differente
             dalla intiera e malamente il Michiel la giudico della stessa specie dopo aver detto e
             confermato nel disegno che le foglie dell'albero son di piantaggine. </p>
           <p><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="82"/> L'intera pianta
             fiorita e fruttifera ha qualche idea del Guaiaco di Giammaica ma dev'esser fittizia
-            (<ptr target="#A-112-N4"/>)].</p>
+            (<ptr target="#A-112-N4"/>).</p>
         </div>
         <div type="notes">
           <note xml:id="A-112-N1" n="1"> * Questa citazione del primo libro [77] è certo una svista; doveva essere «libro II, k. 40»·(Ed.).</note>
@@ -5303,7 +5303,7 @@
       </div>
 
       <div type="plant" xml:id="A-113">
-        <head>N. 113 GUAIABO</head>
+        <head>N. 113 Guaiabo</head>
         <div type="name">
           <head>NOMI</head>
           <p> Guaiabo da Indiani Et Guaive, Guaiave.</p>
@@ -5324,12 +5324,12 @@
             <ref type="bibl" target="http://id.sbn.it/bid/LO1E013261"/>secondo k. 98.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera, figura forse copiata (di <ref target="http://www.worldfloraonline.org/taxon/wfo-0000284583"><hi>Psidium pyriferum</hi></ref>?)].</p>
+          <p>Pianta fiorita e fruttifera, figura forse copiata (di <ref target="http://www.worldfloraonline.org/taxon/wfo-0000284583"><hi>Psidium pyriferum</hi></ref>?).</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-114">
-        <head>N. 114 PISTACHIER</head>
+        <head>N. 114 Pistachier</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000393766">[<hi>Pistacia vera L.</hi>♀]</ref></ab>
         <div type="names">
           <head>Nomi</head>
@@ -5352,7 +5352,7 @@
           <p>De suoi fruti nati qui mi son nasciuto.</p>
         </div>
         <div type="editorial-D">
-          <p>[Figura di albero fiorito e fruttifero con scoiattoli che si arrampicano e ne man-
+          <p>Figura di albero fiorito e fruttifero con scoiattoli che si arrampicano e ne man-
             giano i semi. A parte due rami, uno con foglie e fiori, l'altro con foglie e frutti. In
             complesso le figure sono inferiori per bellezza a quelle del <persName ref="#Rinio">Rinio</persName> (c. 176), ma più
             esatte nell'infiorescenza. I frutti della figura del Rinio appartengono alla varietà
@@ -5380,7 +5380,7 @@
             ancora meno conosciuto, tanto che un secolo dopo Michiel, lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray [63]</ref>, pur dandone
             la figura a pag. 19, dubita se sia il vero pistacchio ed a pag. 597 dà l'effigie
             dell'olmo colle parole: «Quos autem hic pingimus ramos Lutetiae Pistaciae nomine accepimus». E più curioso è il fatto che a pag. 59 vi è la descrizione dell'Ulmus con una
-            figura inesatta che par fittizia!].</p>
+            figura inesatta che par fittizia!.</p>
         </div>
         <div type="notes">
           <note xml:id="A-114-N1" n="1"> Siriaco.</note>
@@ -5393,7 +5393,7 @@
       </div>
 
       <div type="plant" xml:id="A-115">
-        <head>N. 115 STAFILODENDRO</head>
+        <head>N. 115 Stafilodendro</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000493112">[<hi>Staphylea pinnata L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5415,7 +5415,7 @@
             montagniari si acorgono.</p>
         </div>
         <div type="editorial-D">
-          <p>[Albero fiorito e fruttifero portante in cima un nido di cicogne. A parte una buona
+          <p>Albero fiorito e fruttifero portante in cima un nido di cicogne. A parte una buona
             figura di foglia accompagnata da infiorescenza ed un'altra bellissima di due frutti, uno
             de' quali lacerato per far vedere i semi.</p>
           <p>Questa figura ci fa conoscere che la specie chiamata dall'<persName ref="#Anguillara">Anguillara</persName> arbor ritis
@@ -5427,7 +5427,7 @@
             rimpianto botanico [276, 277] il quale lasciò scritto che «Anguillara descrisse il
             Pistacchio selvatico e la Coix Lacrima viste <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="84"/> nel giardino del Pasqualigo», distinguendo due piante dove
-            in fatto ce n'era una sola, che è quella qui dipinta].</p>
+            in fatto ce n'era una sola, che è quella qui dipinta.</p>
         </div>
         <div type="notes">
           <note xml:id="A-115-N1" n="1"> Bimpernüsslein.</note>
@@ -5441,7 +5441,7 @@
       </div>
 
       <div type="plant" xml:id="A-116">
-        <head>* N. II6 CUA MUCHEL</head>
+        <head>* N. II6 Cua Muchel</head>
         <div type="name">
           <head>NOMI</head>
           <p> Cua muchel colorado es fruta da Spagnioli overo Indiani.</p>
@@ -5480,13 +5480,13 @@
           <p> De Anagiros leggi k. 58.</p>
         </div>
         <div type="editorial-D">
-          <p>[Figura della stessa fattura dei n. 1, 21, 69; albero a foglie abbinate, lanceolate,
-            penninervie; legumi verdi, subarticolati lunghi il doppio delle foglie. Ed.]. </p>
+          <p>Figura della stessa fattura dei n. 1, 21, 69; albero a foglie abbinate, lanceolate,
+            penninervie; legumi verdi, subarticolati lunghi il doppio delle foglie. (Ed.). </p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-117">
-        <head>N. 117 RAMNO PRIMO B.O</head>
+        <head>N. 117 Ramno Primo b.o</head>
         <div type="name">
           <head>NOMI</head>
           <p> Rhamno bianco primo da volg. Maruch da Arabi Spino santo in Romagnia Spino de Christo
@@ -5515,10 +5515,10 @@
             Rhamno quello che egli del paliuro.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera sorgente in un paesaggio montano con pastore e greggie. È il Rhamno
+          <p>Pianta fruttifera sorgente in un paesaggio montano con pastore e greggie. È il Rhamno
             primo dell'<persName ref="#Anguillara">Anguillara</persName>. <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marcello fiorentino [= Marcello Virgilio Adriani]</ref> lo chiamò salutare et spina bianca nella
             credenza da lui esposta nel libro De re medicinali: Spina alba qua Christus incoronatus
-            fuit»] (<ptr target="#A-117-N2"/>). </p>
+            fuit» (<ptr target="#A-117-N2"/>). </p>
         </div>
         <div type="notes">
           <note xml:id="A-117-N1" n="1"> Maiella.</note>
@@ -5530,7 +5530,7 @@
       </div>
 
       <div type="plant" xml:id="A-118">
-        <head>N. 118 RAMNO BIANCO</head>
+        <head>N. 118 Ramno Bianco</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000723743">[<hi>Hippophaë rhamnoides L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5554,11 +5554,11 @@
           <p> Humido, umbroso, et grasso terreno.</p>
         </div>
         <div type="editorial-D">
-          <p>[II Michiel ne ricevette un campione fruttifero e perciò nella diagnosi non parla dei
+          <p>II Michiel ne ricevette un campione fruttifero e perciò nella diagnosi non parla dei
             fiori che non vide e pone una stazione che non è quella preferita dalla specie amante i
             terreni ghiaiosi ed esposti.</p>
           <p>Dalle parole aggiunte ben si comprende essere questo il «Rhamno secondo dell'<persName ref="#Anguillara">Anguillara</persName> il quale lo trovò sui muri vecchi fuori della porta di Zara ed in altri luo
-            ghi della Dalmazia ove si usava per far siepi].</p>
+            ghi della Dalmazia ove si usava per far siepi.</p>
         </div>
         <div type="notes">
           <note xml:id="A-118-N1" n="1"> Quest'ultima abitazione tolta dall'Anguillara, </note>
@@ -5566,7 +5566,7 @@
       </div>
 
       <div type="plant" xml:id="A-119">
-        <head>N. 119 RAMNO DAL FOLICOLO</head>
+        <head>N. 119 Ramno dal Folicolo</head>
         <ab> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000471780">[<hi>Paliurus Spina-Christi Mill.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5594,7 +5594,7 @@
             li confondono con raggioni suoe queste oppinioni.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera disegnata con molta negligenza, trovandovisi foglie
+          <p>Pianta fiorita e fruttifera disegnata con molta negligenza, trovandovisi foglie
             penninervie con una unica nervatura longitudinale e portanti alla base una sola spina
             diritta di lunghezza esagerata e talvolta anche ramosa. Due figure laterali, una di ramo
             forito colle foglie fatte in simil modo, l'altro di ramo fruttifero le cui foglie hanno
@@ -5602,7 +5602,7 @@
             dell'Anguillara: «le qual spine son sempre à due à due ma una è diritta et l'altra à
             modo di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="86"/> uncino e per
             lo più la diritta è posta sopra l'altra a guisa di arpione». Anche la figura di
-            Mattioli fa bene spiccare i caratteri foliari].</p>
+            Mattioli fa bene spiccare i caratteri foliari.</p>
         </div>
         <div type="notes">
           <note xml:id="A-119-N1" n="1"> Muggia.</note>
@@ -5611,7 +5611,7 @@
       </div>
 
       <div type="plant" xml:id="A-120">
-        <head>N. 120 COLUTEA</head>
+        <head>N. 120 Colutea</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213683">[<hi>Colutea arborescens L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5630,7 +5630,7 @@
             foglie simili.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera. A parte un ramo con foglia, fiore e frutti sotto il quale
+          <p>Pianta fiorita e fruttifera. A parte un ramo con foglia, fiore e frutti sotto il quale
             sta scritta una frase interrotta perché le parole inferiori furono tagliate via, quando
             si raffilarono i fogli per legarli in volume). -</p>
         </div>
@@ -5640,7 +5640,7 @@
       </div>
 
       <div type="plant" xml:id="A-121">
-        <head>N. 121 GENESTA</head>
+        <head>N. 121 Genesta</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213405">[I. <hi>Spartium Junceum L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000213761">[II. <hi>Genista radiata Scop.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5689,7 +5689,7 @@
             alli indemoniati.</p>
         </div>
         <div type="editorial-D">
-          <p>[Della prima specie vi son tre figure, la media di pianta intera fiorita, una late-
+          <p>Della prima specie vi son tre figure, la media di pianta intera fiorita, una late-
             rale di grappolo fiorito, un'altra laterale di ramo fruttifero. Della seconda specie v'è
             in alto a sinistra una figura poco ben disegnata di pianta con foglie, rami ed un solo
             legume in cima; però essa precede la effigie molto migliore che diede il Colonna nella
@@ -5700,7 +5700,7 @@
             la credenza che la prima ginestra uccida le altre piante stando loro vicina.</p>
           <p>Un'altra ginestra trovasi al Ve., 135.</p>
           <p>La sp. G. radiata è conservata nell'Erbario Aldrovandi al Vol. II, N. 328 coi nomi
-            Genista alpina, Scopa amerina].</p>
+            Genista alpina, Scopa amerina.</p>
         </div>
         <div type="notes">
           <note xml:id="A-121-N1" n="1"> Ted. Garnginst ginestra da reti.</note>
@@ -5717,7 +5717,7 @@
       </div>
 
       <div type="plant" xml:id="A-122">
-        <head>N. 122 GENESTELA PHRIGIA</head>
+        <head>N. 122 Genestela Phrigia</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-4000010595">[<hi>Cytisus ...</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5744,14 +5744,14 @@
             1223.</p>
         </div>
         <div type="editorial-D">
-          <p>[La prima pianta è fiorita e fruttifera con foglie tutte sessili, lanceolato-lineari, e
+          <p>La prima pianta è fiorita e fruttifera con foglie tutte sessili, lanceolato-lineari, e
             fiori gialli in brevi grappoli, legumi corti; a parte un ramo fruttifero. E, come dice
             l'autore, quella che l'Anguillara chiamò Viburnio (vavorna in Calabria forse corruzione
             di laburnum, avornio). Da quanto dice il Michiel pare che l'Anguillara dopo la pubbli-
             cazione del suo libretto abbia cambiato idea identificando la specie col citiso di
             Galeno che nelle pag. 83-85 è ritenuto la specie qui figurata al Ro. I, 116.</p>
           <p>La seconda ha fiori «quasi di ben bianco, ma purpurezzi»; le foglie sono
-            trifoliate.]</p>
+            trifoliate.</p>
         </div>
         <div type="notes">
           <note xml:id="A-122-N1" n="1"> Scio nelle Sporadi.</note>
@@ -5760,7 +5760,7 @@
       </div>
 
       <div type="plant" xml:id="A-123">
-        <head>N. 123 GENESTELA</head>
+        <head>N. 123 Genestela</head>
         <div type="name">
           <head>NOMI</head>
           <p>Genestrella da Latini - Genistela da volgari — Stechende Ginst da Germani et Erdt
@@ -5781,13 +5781,13 @@
             giugno, poi suoi baccelli.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita a foglie imparipennate (9 foglioline); a parte un ramoscello con tre
-            fiori].</p>
+          <p>Pianta fiorita a foglie imparipennate (9 foglioline); a parte un ramoscello con tre
+            fiori.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-124">
-        <head>N. 124 SOLANO AQUATICO</head>
+        <head>N. 124 Solano Aquatico</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001027661">[<hi>Solanum Dulcamara L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5811,14 +5811,14 @@
             Mattiolo la pone per vite salvatica a k. 1345.</p>
         </div>
         <div type="editorial-D">
-          <p>[Avviluppata ad un tronco è la pianta fruttifera con foglie tutte intere, però l'au-
+          <p>Avviluppata ad un tronco è la pianta fruttifera con foglie tutte intere, però l'au-
             tore nel testo dice: «ne sonno di intercise et altre no». A parte un ramoscello
             fiorito.</p>
           <p>Il Michiel mise questa specie nel presente libro perché rampicante, ma avvertì esservi
             altri Solanum a fusto eretto che egli si proponeva descrivere nei libri seguenti, come
             infatti egli fece nel primo libro rosso NN. 63, 69 e nel libro verde NN. 63, 64, 207. Il
             nome S. rubrum che erroneamente, secondo il Michiel, si dava a questa specie pel colore delle bacche, spetta invece alla var. villosum di S. nigrum che ha pure le bacche
-            rosse].</p>
+            rosse.</p>
 
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
@@ -5826,7 +5826,7 @@
       </div>
 
       <div type="plant" xml:id="A-125">
-        <head>N. 125 JARUMA ALBERO DE INDIA</head>
+        <head>N. 125 Jaruma Albero de India</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000592293">[<hi>Cecropia palmata Willd.</hi>]</ref>.</ab>
         <div type="name">
           <head>NOMI</head>
@@ -5851,9 +5851,9 @@
               51</ref>. Et suoi fruti sonno di buono gusto et pettorali.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera; figura poco buona che dev'esser stata copiata da un disegno. (<ptr target="#A-125-N2"/>)
+          <p>Pianta fruttifera; figura poco buona che dev'esser stata copiata da un disegno. (<ptr target="#A-125-N2"/>)
             Però notiamo che è la prima conosciuta in ordine storico, precedendo di un secolo quella
-            di Pisone e Marcgravio [196] N. 147].</p>
+            di Pisone e Marcgravio [196] N. 147.</p>
         </div>
         <div type="notes">
           <note xml:id="A-125-N1" n="1"> Il <persName ref="#Bonato">Bonato</persName> trascrisse erroneamente <hi>Saruma</hi>.</note>
@@ -5865,7 +5865,7 @@
       </div>
 
       <div type="plant" xml:id="A-126">
-        <head>N. 126 TITHIMALO DENDROIDE</head>
+        <head>N. 126 Tithimalo Dendroide</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000961698">[<hi>Euphorbia dendroides L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5897,7 +5897,7 @@
             esser volgare non lo figurai et legesi nel dito libro.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fertile; a parte un rametto fiorito e fruttifero. Le località di Toscana, Liguria e Marsiglia son prese dall'<persName ref="#Anguillara">Anguillara</persName> che vi rinvenne la pianta. Ma siccome oggidi
+          <p>Pianta fertile; a parte un rametto fiorito e fruttifero. Le località di Toscana, Liguria e Marsiglia son prese dall'<persName ref="#Anguillara">Anguillara</persName> che vi rinvenne la pianta. Ma siccome oggidi
             
             (1) Il <persName ref="#Bonato">Bonato</persName> trascrisse erroneamente Saruma. 
             (2) * È, inoltre, in contraddizione con
@@ -5915,7 +5915,7 @@
             opportuna a confermare tali deduzioni e togliere ogni dubbio sulla sinonimia (<ptr target="#A-126-N2"/>). Che la
             figura del Dodoneo non sia tratta dall'originale può constatarsi dalle parole scritte
             sotto [93]: * «Tithymalus dendroides ex Codice caesareo» e la stessa descrizione è
-            presa dal <persName ref="#Belonio">Belonio</persName> e dà dimensioni esagerate alla pianta (<ptr target="#A-126-N3"/>)].</p>
+            presa dal <persName ref="#Belonio">Belonio</persName> e dà dimensioni esagerate alla pianta (<ptr target="#A-126-N3"/>).</p>
         </div>
         <div type="notes">
           <note xml:id="A-126-N1" n="1"> La nostra Napoli era così chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
@@ -5934,7 +5934,7 @@
       </div>
 
       <div type="plant" xml:id="A-127">
-        <head>N. 127 MIRTO LATIFOLIA</head>
+        <head>N. 127 Mirto Latifolia</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000248712">[<hi>Myrtus communis L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5962,9 +5962,9 @@
             valle a velenati per fonghi et alla peste...</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita. Nel testo l'autore dice: «suoi fiori tra le frondi verso la summita
+          <p>Pianta fiorita. Nel testo l'autore dice: «suoi fiori tra le frondi verso la summita
             bianchi piccioli di 7 fogline in ruosa di buono odore però nella figura i fiori
-            ascellari trovansi a tutte le altezze ed hanno le corolle di cinque lobi].</p>
+            ascellari trovansi a tutte le altezze ed hanno le corolle di cinque lobi.</p>
         </div>
         <div type="notes">
           <note xml:id="A-127-N3" n="3"> Bacche. </note>
@@ -5972,7 +5972,7 @@
       </div>
 
       <div type="plant" xml:id="A-128">
-        <head>N. 128 MIRTO MINUTO</head>
+        <head>N. 128 Mirto Minuto</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000248725">[<hi>Myrtus communis L. var. tarentina L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -5990,15 +5990,15 @@
             da dote mani composte in belle et vaghe forme.</p>
         </div>
         <div type="editorial-D">
-          <p>[In coerenza con quanto è scritto nel testo la figura rappresenta un elegante vaso sul
+          <p>In coerenza con quanto è scritto nel testo la figura rappresenta un elegante vaso sul
             quale sorge una pianta sterile tagliata a modo che il contorno rappresenti un falco
             colle ale spiegate. Per completar la figura sono aggiunti due modelli di zampe che
-            posano sopra uno stecco fissato traversalmente sull'orlo del vaso].</p>
+            posano sopra uno stecco fissato traversalmente sull'orlo del vaso.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-129">
-        <head>N. 129 GENSAMIN GIALO</head>
+        <head>N. 129 Gensamin Gialo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000813823">[<hi>Jasminum humile L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6031,13 +6031,13 @@
             questo per il suono del vocabulo.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera; a lato un ramoscello fiorito. Il Bonato classificò <hi>J.
+          <p>Pianta fiorita e fruttifera; a lato un ramoscello fiorito. Il Bonato classificò <hi>J.
             odoratissimum</hi> ma la figura ed il brano della diagnosi che abbiamo trascritto, in cui si
             parla della piccola statura e della mancanza d'odor dei fiori, bastano a far riconoscere
             la specie.</p>
           <p>La presente figura precede quella dell'Hortus Eystettensis» [134] (aest. ord. II f.
             2, n. 1). Nel testo il Michiel mostra pure di aver conosciuto la sp. ). grandiflorum che
-            più tardi fu figurato nella suddetta opera (f. 13. n. 1)].</p>
+            più tardi fu figurato nella suddetta opera (f. 13. n. 1).</p>
         </div>
         <div type="notes">
           <note xml:id="A-129-N1" n="1"> Mal trascritto da <foreign xml:lang="grc">λευκὸϊον</foreign> (viola bianca), nome conveniente alle altre due
@@ -6048,7 +6048,7 @@
       </div>
 
       <div type="plant" xml:id="A-130">
-        <head>N. 130 CEINER MELO</head>
+        <head>N. 130 Ceiner Melo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000631521">[<hi>Cycas circinnalis L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6079,15 +6079,15 @@
           <p> De suoi fruti si mangiano gustevolmente sanza offendere.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta maschile con foglie non ancora sezionate ed infiorescenza verde.</p>
+          <p>Pianta maschile con foglie non ancora sezionate ed infiorescenza verde.</p>
           <p>La figura che, come narra l'autore, fu tratta da uno schizzo è alquanto rozza, però fa
             riconoscere abbastanza bene la specie e precede quella di Andrea Cleyer [271] di oltre
-            un secolo].</p>
+            un secolo.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-131">
-        <head>N. 131 FASUOL DE INDIA</head>
+        <head>N. 131 Fasuol de India</head>
         <div type="name">
           <head>NOMI</head>
           <p> Fasuol d'India purpureo da volgari - Dolicos quella sp. di Turcho maculato - Smilax
@@ -6142,10 +6142,10 @@
             legge in Diascoride lib. 2. 100.</p>
         </div>
         <div type="editorial-D">
-          <p>[La figura rappresenta la pianta come potè ottenerla l'autore, cioè sterile. A lato un
+          <p>La figura rappresenta la pianta come potè ottenerla l'autore, cioè sterile. A lato un
             recipiente che contiene alcuni semi rossi.</p>
           <p>Questo «fasuol purpureo d'India» è una specie di cui Aldrovandi desiderava avere il
-            campione dal Michiel].</p>
+            campione dal Michiel.</p>
         </div>
         <div type="notes">
           <note xml:id="A-131-N1" n="1"> Egineta. </note>
@@ -6153,7 +6153,7 @@
       </div>
 
       <div type="plant" xml:id="A-132">
-        <head>N. 132 ZARZAPARILLA</head>
+        <head>N. 132 Zarzaparilla</head>
         <div type="name">
           <head>NOMI</head>
           <p> Zarza parilla da Indiani - Salsa pariglia da volgari.</p>
@@ -6188,9 +6188,9 @@
             di doprarle insegnia il primo libro del India k. III.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fittizia con foglie di veccia e sterile. Pero, dopo aver data la figura,
+          <p>Pianta fittizia con foglie di veccia e sterile. Pero, dopo aver data la figura,
             l'autore ebbe dei dubbi sulla sua legittimità, come lo provano le parole da lui aggiunte
-            nel testo. E difatti la prima figura fatta sull'originale è quella del Mattioli].</p>
+            nel testo. E difatti la prima figura fatta sull'originale è quella del Mattioli.</p>
         </div>
         <div type="notes">
           <note xml:id="A-132-N1" n="1"> Ovvero.</note>
@@ -6199,7 +6199,7 @@
       </div>
 
       <div type="plant" xml:id="A-133">
-        <head>N. 133 SMILACE ASPERA</head>
+        <head>N. 133 Smilace Aspera</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000740704">[<hi>Smilax aspera L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6224,7 +6224,7 @@
           <p> De molti con errore si credeno che questa sia la zarzaparilla [v. N. 132].</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera].</p>
+          <p>Pianta fiorita e fruttifera.</p>
         </div>
         <div type="notes">
           <note xml:id="A-133-N1" n="1"> Etruschi,</note>
@@ -6234,7 +6234,7 @@
       </div>
 
       <div type="plant" xml:id="A-134">
-        <head>N. 134 SMILAX LEVIS DI CANDIA</head>
+        <head>N. 134 Smilax Levis di Candia</head>
         <div type="name">
           <head>NOMI</head>
           <p> Smilax levis sp. di Candia da volg. - Malocociso de Damocrito - Volubile da Catone - Smilace
@@ -6260,7 +6260,7 @@
             lissia del Mathiolo.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile.</p>
+          <p>Pianta sterile.</p>
           <p>Però nella diagnosi c'è la descrizione degli organi riproduttivi: «suoi fiori tra le
             frondi pendenti come in grappolini da quelli ci restavano suoe silique con suoi fagiuoli
             dentro neri con il segno bianco».</p>
@@ -6277,7 +6277,7 @@
             a punto mi ha fatto il fen greco moderno (Ro. 199). Et V. S. sapia che la produce suoi
             fiori in grappoli tra le frondi sopra el fruto et son simili a quelli di genista et di
             colore anchora et le silique mai le ho possuto havere che li fiori dimostrano et poi ci
-            cascano et per esser tutti oramai cascati non ne mandò»]</p>
+            cascano et per esser tutti oramai cascati non ne mandò»</p>
         </div>
         <div type="notes">
           <note xml:id="A-134-N1" n="1"> Windenkraut.</note>
@@ -6289,7 +6289,7 @@
 
 
       <div type="plant" xml:id="A-135">
-        <head>N. 135 SPIN CERBIN</head>
+        <head>N. 135 Spin Cerbin</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000460239">[<hi>Rhamnus cathartica L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6315,8 +6315,8 @@
             giallo. Et legesi nel <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> cap. 127. </p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera. Ai lati due rametti, uno fiorito, l'altro
-            fruttifero].</p>
+          <p>Pianta fiorita e fruttifera. Ai lati due rametti, uno fiorito, l'altro
+            fruttifero.</p>
         </div>
         <div type="notes">
           <note xml:id="A-135-N1" n="1"> Nerprun.</note>
@@ -6327,7 +6327,7 @@
       </div>
 
       <div type="plant" xml:id="A-136">
-        <head>N.136 CAROBER SALVATICO</head>
+        <head>N.136 Carober Salvatico</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213642">[<hi>Cercis Siliquastrum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6359,7 +6359,7 @@
             altri non ci fa.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta con foglie e fiori. A parte due ramoscelli, uno con foglie e fiori, l'altro con
+          <p>Pianta con foglie e fiori. A parte due ramoscelli, uno con foglie e fiori, l'altro con
             due legumi; però più sopra l'autore avverti essere i fiori precoci e nella diagnosi li
             paragona a quelli della ginestra di ginistra ma purpurei , riconoscendo nella corolla
             una forma prossima alla papilionacea tipica.</p>
@@ -6380,7 +6380,7 @@
             rami leggeri e fragili che servono per far fascine, ora poi ha quasi perduto qualunque
             significato proprio e si usa per lo più in metafora.</p>
           <p>Il nome albarella forse proviene da un equivoco, perché esso si dà a Populus Tremula
-            L. che il Mattioli credette essere il repris di Teofrasto, mentre il repreis è il Siliquastro qui dipinto]. -</p>
+            L. che il Mattioli credette essere il repris di Teofrasto, mentre il repreis è il Siliquastro qui dipinto. -</p>
         </div>
         <div type="notes">
           <note xml:id="A-136-N1" n="1"> Nel Vicentino.</note>
@@ -6394,7 +6394,7 @@
       </div>
 
       <div type="plant" xml:id="A-137">
-        <head>N. 137 RIBES SP.</head>
+        <head>N. 137 Ribes Sp.</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000422807">[<hi>Viburnum Opulus L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6420,13 +6420,13 @@
             anno.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile; a parte due rami, uno con foglie ed infiorescenza, l'altro colle bacche. Nell'infiorescenza, solo i fiori periferici sono aperti e perciò l'autore si limitò
+          <p>Pianta sterile; a parte due rami, uno con foglie ed infiorescenza, l'altro colle bacche. Nell'infiorescenza, solo i fiori periferici sono aperti e perciò l'autore si limitò
             a distinguerli dai centrali colle seguenti parole nel testo: «suoi fiori in umbelle
             bianchi simil al sambuco ma la prima mano intorno sonno maggiori, odorifferi, vaghi, e
             nella figura pel colore che ne' secondi è giallognolo e non colse l'altro carattere ben
             più importante degli organi riproduttori che in altri punti del codice sono
             contemplati (Gi. 120, Ro. 194 e 241, Ve. 17). Nella stessa figura è trascurato un
-            carattere frequentissimo, quello delle glandole peziolari].</p>
+            carattere frequentissimo, quello delle glandole peziolari.</p>
         </div>
         <div type="notes">
           <note xml:id="A-137-N1" n="1"> Mal trascritto da <hi>treublin</hi>. V. N. 74. Questi nomi appartengono al vero ribes
@@ -6436,7 +6436,7 @@
       </div>
 
       <div type="plant" xml:id="A-138">
-        <head>N. 138 LANTANA</head>
+        <head>N. 138 Lantana</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000421166">[<hi>Viburnum Lantana L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6464,7 +6464,7 @@
             de Viscum. Et suoi fruti sonno lenitivi.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero.
+          <p>Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero.
             Ogni infruttescenza ha bacche in parte rosse, in parte azzurre, come si trovano in
             estate.</p>
           <p>Nel testo è detto: Suoi fruti rotondi simil all'Ebulo quando neri ma piu purpurei
@@ -6474,7 +6474,7 @@
           <p>A ragione il Michiel mise in dubbio che questa specie fosse, come riteneva il Ruellio, il <foreign xml:lang="grc">ῥούς</foreign> di Teofrasto che invece è Rhus
             Coriaria.</p>
           <p>Questa è la specie che il Dodoneo chiamò Viburnum Virgilij, non già la sp. Clematis
-            Viticella, come credette il Michiel <ref target="A-006">[N. 6]</ref>]. </p>
+            Viticella, come credette il Michiel <ref target="A-006">[N. 6]</ref>. </p>
         </div>
         <div type="notes">
           <note xml:id="A-138-N2" n="1"> Talvolta neri, ma più spesso purpurei.</note>
@@ -6484,7 +6484,7 @@
       </div>
 
       <div type="plant" xml:id="A-139">
-        <head>N. 139 BERBERI</head>
+        <head>N. 139 Berberi</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000564027">[<hi>Berberis vulgaris L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6517,10 +6517,10 @@
             Ammiberberis.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera; a parte ramoscello fiorito e ramoscello fruttifero. Erroneo è il primo none tedesco che appartiene all'uva orsina. Il Michiel invece corregge
+          <p>Pianta fiorita e fruttifera; a parte ramoscello fiorito e ramoscello fruttifero. Erroneo è il primo none tedesco che appartiene all'uva orsina. Il Michiel invece corregge
             un errore comune ai suoi tempi, in cui cadde anche il <persName ref="#Rinio">Rinio</persName> (c. 340), per cui si rite-
             neva che il berberi fosse l'<foreign xml:lang="grc">ὀξυάκανθα</foreign> dei Greci <ref target="A-152)">[N. 152]</ref> e perciò male stanno le sue citazioni di autori
-            che presero il medesimo abbaglio, come lo prova il frutto a quello del pero selvatico].
+            che presero il medesimo abbaglio, come lo prova il frutto a quello del pero selvatico.
             paragone del</p>
         </div>
         <div type="notes">
@@ -6536,7 +6536,7 @@
       </div>
 
       <div type="plant" xml:id="A-140">
-        <head>N. 140 ERICHA</head>
+        <head>N. 140 Ericha</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000671633">[I <hi>Erica carnea L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000580837">[II <hi>Calluna vulgaris Hull</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000667231">[III <hi>Empetrum nigrum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6565,9 +6565,9 @@
             Ginesta.</p>
         </div>
         <div type="editorial-D">
-          <p>[La prima figura occupa la maggior parte della facciata ed è di pianta fiorita. La
+          <p>La prima figura occupa la maggior parte della facciata ed è di pianta fiorita. La
             seconda è di ramoscello fiorito, le terza di ramoscello fruttifero. Per quest'ultima il
-            Michiel precede il Talio che descrisse l'empetro nero col nome Erica baccifera].</p>
+            Michiel precede il Talio che descrisse l'empetro nero col nome Erica baccifera.</p>
         </div>
         <div type="notes">
           <note xml:id="A-140-N1" n="1"> Heidekraut arba da lande.</note>
@@ -6578,7 +6578,7 @@
       </div>
 
       <div type="plant" xml:id="A-141">
-        <head>N. 141 NIL SPETIE</head>
+        <head>N. 141 Nil Spetie</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001296676">[<hi>Ipomoea purpurea Lam.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6606,10 +6606,10 @@
             ci (<ptr target="#A-141-N3"/>) tempo poi di finir il resto (<ptr target="#A-141-N4"/>).</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta con fiori in bottone morti, come appare dal color cinereo e come è già narrato
+          <p>Pianta con fiori in bottone morti, come appare dal color cinereo e come è già narrato
             nel testo. Questa pianta americana era ormai naturalizzata in Oriente, perché il Michiel
             ricevette il campione dalla Siria a mezzo del Martinelli [Francesco Martinelli, speziale all'Angelo]. Sull'identificazione del Nil
-            degli Arabi, vedi N. 11].</p>
+            degli Arabi, vedi N. 11.</p>
         </div>
         <div type="notes">
           <note xml:id="A-141-N1" n="1"> Indachi.</note>
@@ -6620,7 +6620,7 @@
       </div>
 
       <div type="plant" xml:id="A-142">
-        <head>N. 142 NIL SP.</head>
+        <head>N. 142 Nil Sp.</head>
         <div type="name">
           <head>NOMI</head>
           <p> Nil da <persName ref="#Cechin">m. Cechin dal Angelo</persName> - Endego del Nil - Son il glasto sativo così tenuto da
@@ -6656,8 +6656,8 @@
           <p> L'Endego de qui leggi nel primo libro rosso k. 224, 225.</p>
         </div>
         <div type="editorial-D">
-          <p>[Dal testo si comprende che la pianta crebbe nel giardino del Michiel ma non giunse a
-            fiorire e la figura lo conferma rappresentandoci una pianta sterile].</p>
+          <p>Dal testo si comprende che la pianta crebbe nel giardino del Michiel ma non giunse a
+            fiorire e la figura lo conferma rappresentandoci una pianta sterile.</p>
         </div>
         <div type="notes">
           <note xml:id="A-142-N1" n="1"> In bianco.</note>
@@ -6666,7 +6666,7 @@
       </div>
 
       <div type="plant" xml:id="A-143">
-        <head>N. 143 ALIMO</head>
+        <head>N. 143 Alimo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000556480">[<hi>Atriplex portulacoides L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6697,13 +6697,13 @@
             solamente gustato cacia la fame...</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita. Una figura migliore trovasi nel libro verde, N. 231. La pianta fu
-            trovata al Lido dal Michiel che però deve averne ricevuto anche un campione dall'Aldrovandi (V. Catalogo 266')].</p>
+          <p>Pianta fiorita. Una figura migliore trovasi nel libro verde, N. 231. La pianta fu
+            trovata al Lido dal Michiel che però deve averne ricevuto anche un campione dall'Aldrovandi (V. Catalogo 266').</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-144">
-        <head>N. 144 ARIA</head>
+        <head>N. 144 Aria</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001016017">[<hi>Pirus Aria Ehrh.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6714,14 +6714,14 @@
           <p> In luoghi alti et selvosi, ne sonno nella Magiela nell’Abruzzio (<ptr target="#A-144-N1"/>),</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fiorita e fruttifera; a parte una foglia in grandezza naturale.</p>
+          <p>Pianta fiorita e fruttifera; a parte una foglia in grandezza naturale.</p>
           <p> L'<persName ref="#Anguillara">Anguillara</persName> nei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> diede una descrizione dell'aåpla di Teofrasto che
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="101"/> corrisponde a
             Pirus Aria ed il Michiel seguì la sua opinione che non fu invece quella del Guilandino,
             il quale nelle note a margine del testo dei «Semplici» scrive: «Aria inter
             glandiferas est. Vide Theophr. lib. 3 hist. cap. 16». Contuttociò anche i botanici
             posteriori accettarono l'identificazione di Anguillara.</p>
-          <p>Poco dopo il Michiel la specie venne figurata da Pena e Lobelio].</p>
+          <p>Poco dopo il Michiel la specie venne figurata da Pena e Lobelio.</p>
         </div>
         <div type="notes">
           <note xml:id="A-144-N1" n="1"> Tratto dall'Anguillara.</note>
@@ -6729,7 +6729,7 @@
       </div>
 
       <div type="plant" xml:id="A-145">
-        <head>N. 145 PERO CERVINO</head>
+        <head>N. 145 Pero Cervino</head>
         <ab><ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1">[<hi>Cotoneaster integerrima Medic.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6746,14 +6746,14 @@
             Padova tiene il sia il Chamemespilo di Valerio Cordi.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Guilandino qui citata è erronea perché il Chamaemespilus del <persName ref="#Cordo">Cordo</persName> è Pirus Chamaemespilus
+          <p>Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Guilandino qui citata è erronea perché il Chamaemespilus del <persName ref="#Cordo">Cordo</persName> è Pirus Chamaemespilus
             [115]. Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152].
             </p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-146">
-        <head>N. 146 ASPALATO</head>
+        <head>N. 146 Aspalato</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213311">[<hi>Genista aspalathoides Lam.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6792,7 +6792,7 @@
             vanno dimostrando.</p>
         </div>
         <div type="editorial-D">
-          <p>[L'Anguillara riteneva dapprima che l'aspalato fosse l'incenso, ma rettifico l'opi-
+          <p>L'Anguillara riteneva dapprima che l'aspalato fosse l'incenso, ma rettifico l'opi-
             nione dopochè il Rodiotto (<ptr target="#A-146-N2"/>) qui nominato gli mando la descrizione della pianta pre-
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="102"/>sente che è
             riportata nei Semplici; Lo stesso Rodiotto mandò al Michiel un campione che perd
@@ -6806,7 +6806,7 @@
       </div>
 
       <div type="plant" xml:id="A-147">
-        <head>N. 147 TAMARINDI</head>
+        <head>N. 147 Tamarindi</head>
         <div type="name">
           <head>NOMI</head>
           <p> Tamarindi da Arabi Datili indiani da Latini Palma salvatica da simplicisti
@@ -6838,7 +6838,7 @@
             detto ci narra il Mathiolo.</p>
         </div>
         <div type="editorial-D">
-          <p>[Traviati da quanto dice <persName ref="#Serapione">Serapione</persName>, che il tamarindo ha foglie di salice, e da quanto
+          <p>Traviati da quanto dice <persName ref="#Serapione">Serapione</persName>, che il tamarindo ha foglie di salice, e da quanto
             dice Mesue, che il frutto proviene da specie di palme dell'India (donde il nome arabo
             ta- mar-indi) vari autori fecero una pianta fittizia con foglie semplici lanceolate e
             frutti ovoidali a guisa datteri. Tale la troviamo nel <persName ref="#Rinio">Rinio</persName> a c. 108, e simile, ma con
@@ -6846,12 +6846,12 @@
             del Michiel. I frutti sono ovoidi, giallo-dorati con fasce longitudinali brune. Il
             <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref>, il quale copiò la maggior parte delle figure dal Michiel, copiò quella del
             tamarindo dal Rinio, come egli stesso avverte.</p>
-          <p> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta (2)]. -</p>
+          <p> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta (2). -</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-148">
-        <head>N. 148 CITISO</head>
+        <head>N. 148 Citiso</head>
         <ab>[Medicago arborea L.)</ab>
         <div type="name">
           <head>NOMI</head>
@@ -6885,10 +6885,10 @@
             viene bene.</p>
         </div>
         <div type="editorial-D">
-          <p>[La figura molto rozza è copiata, come è detto nel testo, da quella del Mattioli, ma è
+          <p>La figura molto rozza è copiata, come è detto nel testo, da quella del Mattioli, ma è
             copiata male perché i fiori, che il Mattioli fece papilionacei, qui sono campanulati.
             L'opinione del botanico sanese che questa pianta fosse il citiso virgiliano fu seguita
-            anche da altri (Gleditsch)].</p>
+            anche da altri (Gleditsch).</p>
         </div>
         <div type="notes">
           <note xml:id="A-148-N1" n="1"> Ed anche in questo libro N. 122.</note>
@@ -6896,7 +6896,7 @@
       </div>
 
       <div type="plant" xml:id="A-149">
-        <head>N. 149 FRANGOLA</head>
+        <head>N. 149 Frangola</head>
         <ab> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000361644">[<hi>Lonicera Xylosteum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -6926,11 +6926,11 @@
             come ci narra il Mathiolo a k. 1334.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta fruttifera. Benché non si tratti della medesima specie, il Michiel mostro un
+          <p>Pianta fruttifera. Benché non si tratti della medesima specie, il Michiel mostro un
             certo acume, ravvicinando questa pianta a quella figurata al N. 46 che le è molto
             affine.</p>
           <p>Improprio è il nome frangola appartenente a Rhamnus Frangula, come è improprio quello
-            di halimus sotto il quale, prima del Michiel, la specie fu descritta dal Trago].</p>
+            di halimus sotto il quale, prima del Michiel, la specie fu descritta dal Trago.</p>
         </div>
         <div type="notes">
           <note xml:id="A-149-N1" n="1"> * Il testo dopo e demostro portava inanti»; l'autore ha corretto azioè da
@@ -6942,12 +6942,12 @@
       <div type="plant" xml:id="A-150_151">
         <head>NN 150 e 151</head>
         <div type="editorial-D">
-          <p>[Pagine bianche].</p>
+          <p>Pagine bianche.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-152">
-        <head>N. 152 OXIACANTA</head>
+        <head>N. 152 Oxiacanta</head>
         <div type="name">
           <head>NOMI</head>
           <p> Oxia Cantha da Greci Pirina et Pitiantha da alcuni — Acuta spina dal Ruelio.</p>
@@ -6974,7 +6974,7 @@
             questo si conviene raggionevolmente.</p>
         </div>
         <div type="editorial-D">
-          <p>[Figura poco accurata di pianta fiorita e fruttifera. Nelle foglie non appaiono le
+          <p>Figura poco accurata di pianta fiorita e fruttifera. Nelle foglie non appaiono le
             minute dentature,</p>
           <p>Nel testo il Michiel paragona la pianta al perastro che infatti è un congenere <ref target="A-145)"><ref target="A-145)">(N. 145)</ref></ref> e le foglie a quelle
             dell'olivella o putana.</p>
@@ -6983,7 +6983,7 @@
             E, siccome il Michiel ricevette la pianta dal Ghini, abbiamo la prova che l'Oxyacantha di quest'autore era C. Pyracantha, come già si riteneva probabile per la
             diagnosi che egli ne dà [303, 305] e dalle sue parole: «Dioscorides describens
             Oxyacantham dicet similis esse Pirastro». Pel Mattioli invece l'Oxyacantha era
-            <hi>Crataegus oxyacantha</hi>].</p>
+            <hi>Crataegus oxyacantha</hi>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-152-N2" n="2"> · Il testo veramente porta 85, certo per una svista. (Ed.).</note>
@@ -6991,7 +6991,7 @@
       </div>
 
       <div type="plant" xml:id="A-153">
-        <head>N. 153 TEMBUL</head>
+        <head>N. 153 Tembul</head>
         <div type="name">
           <head>NOMI</head>
           <p> Tembul da Arabi persiani Folio da Portogesi Betel da Indiani Folio da Indiani et
@@ -7022,22 +7022,22 @@
             Conferma a questo l'ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>
         </div>
         <div type="editorial-D">
-          <p>[Nella figura c'è di tratto dal vero solo il disegno di una foglia ingiallita (82 mm
-            60 mm)].</p>
+          <p>Nella figura c'è di tratto dal vero solo il disegno di una foglia ingiallita (82 mm
+            60 mm).</p>
           <p>Dietro questa e dietro le descrizioni del De Muti e dell'aAnguillara il Michiel fece
             anche fare il disegno di una pianta sterile a fusto volubile, con viticci oppostifogli.
             Le parti che furono aggiunte dopo son tratte dall'<persName ref="#Anguillara">Anguillara</persName> il quale distingueva il
             Betel dal Tembul. Nella copia del suo libro esistente alla Marciana vi è una glosa ms.
             del Guilandino in cui è detto che il Tembul degli Arabi e Persiani è la stessa cosa del
             Betel indiano.</p>
-          <p>Del pepe c'è una figura fittizia a N. 159].</p>
+          <p>Del pepe c'è una figura fittizia a N. 159.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="105"/>
       </div>
 
       <div type="plant" xml:id="A-154">
-        <head>N. 154 TEMBUL TENUTO</head>
+        <head>N. 154 Tembul Tenuto</head>
         <div type="name">
           <head>NOME</head>
           <p> Tembul da Persiani Et li altri nomi 153.</p>
@@ -7076,7 +7076,7 @@
         <div type="editorial-D">
           <p>(Fu disegnata dapprima una foglia ingiallita (145 mm. X45) mm. e poi un albero col
             tronco mozzo alto e con rami fogliosi. Ben distinte in tutte le foglie le tre ner-
-            vature longitudinali].</p>
+            vature longitudinali.</p>
         </div>
         <div type="notes">
           <note xml:id="A-154-N1" n="1"> * Dal confronto dei due fogli 153 e 154, tenendo conto delle differenze di
@@ -7091,7 +7091,7 @@
       </div>
 
       <div type="plant" xml:id="A-155">
-        <head>N. 155 LOTO</head>
+        <head>N. 155 Loto</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000593422">[<hi>Celtis australis L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -7122,7 +7122,7 @@
             Diascoride d'il Loto.</p>
         </div>
         <div type="editorial-D">
-          <p>[Figura d'albero con tronco mozzato e vari rami con foglie e frutti. A parte una <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="106"/> foglia in grandezza
+          <p>Figura d'albero con tronco mozzato e vari rami con foglie e frutti. A parte una <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="106"/> foglia in grandezza
             naturale. Poca accuratezza nel disegno e nel colorito, mentre un secolo prima il <persName ref="#Rinio">Rinio</persName>
             avea dato a c. 98 del suo codice una bella figura di ramo fruttifero sotto il falso
             nome di faggio.</p>
@@ -7133,7 +7133,7 @@
             producendo un suono sordo. </p>
           <p>La minuta esposizione delle località fatta dagli Autori prova che a quei tempi l'albero
             era piuttosto raro nel Veneto, mentre oggidi esso ampiamente coltivato pei suoi rami coi
-            quali si fanno mazze e manichi di fruste. Nel Padovano è chiamato bessolaro].</p>
+            quali si fanno mazze e manichi di fruste. Nel Padovano è chiamato bessolaro.</p>
         </div>
         <div type="notes">
           <note xml:id="A-155-N1" n="1"> Giudecca.</note>
@@ -7142,7 +7142,7 @@
       </div>
 
       <div type="plant" xml:id="A-156">
-        <head>N. 156 CIPRUS</head>
+        <head>N. 156 Ciprus</head>
         <div type="name">
           <head>NOMI</head>
           <p> Ciprus albero da Plinio Et Cypero.</p>
@@ -7181,7 +7181,7 @@
             nelli suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 59, non esser il Ligustro el Cypero.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile].</p>
+          <p>Pianta sterile.</p>
         </div>
         <div type="notes">
           <note xml:id="A-156-N1" n="1"> Ziryphus.</note>
@@ -7190,7 +7190,7 @@
       </div>
 
       <div type="plant" xml:id="A-157">
-        <head>N. 157 HAI</head>
+        <head>N. 157 Hai</head>
         <div type="name">
           <head>NOME</head>
           <p> Hai albero da Indiani.</p>
@@ -7224,12 +7224,12 @@
             marcir, ma li fanno neri. Come si legge nel libro secondo delle Indie k. 116.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile].</p>
+          <p>Pianta sterile.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-158">
-        <head>N. 158 ALBERO DE INDIA</head>
+        <head>N. 158 Albero de India</head>
         <div type="name">
           <head>NOME</head>
           <p> Albero d'India.</p>
@@ -7268,12 +7268,12 @@
             dice il lib. primo 51 dell'Indie.</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta sterile].</p>
+          <p>Pianta sterile.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-159">
-        <head>N. 159 PEPE</head>
+        <head>N. 159 Pepe</head>
         <ab>[I. <hi>fittizia</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000428869">[<hi>II. Xylopia aethiopica A. Rich.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -7322,7 +7322,7 @@
             k. 96. Et l'fa ch el sia albero simil alla Hedera.</p>
         </div>
         <div type="editorial-D">
-          <p>[La prima figura è una copia di quella del Mattioli il quale però dichiara di non aver
+          <p>La prima figura è una copia di quella del Mattioli il quale però dichiara di non aver
             visto la pianta né verde né secca, ma di avere ricevuto il disegno da un Portoghese
             reduce dalle Indie.</p>
           <p>La seconda figura rappresenta solo alcuni frutti e, come dice l'autore, fu tratta da un
@@ -7333,7 +7333,7 @@
             pepe fosse un albero a foglie di ginepro; però l'unica cognizione giusta da lui
             sostituita è che il fusto è sarmentoso e rampicante. Nel resto egli pure erra, fidandosi
             dei rap porti inesatti dei viaggiatori e della figura di Mattioli. Qualche anno dopo
-            apparve la figura mediocre, ma tratta dal vero, di C. Acosta [2]]. -</p>
+            apparve la figura mediocre, ma tratta dal vero, di C. Acosta [2]. -</p>
         </div>
         <div type="notes">
           <note xml:id="A-159-N1" n="1"> Si avvolgono.</note>
@@ -7344,7 +7344,7 @@
       </div>
 
       <div type="plant" xml:id="A-160">
-        <head>N. 160 GRANA</head>
+        <head>N. 160 Grana</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000290191">[<hi>Quercus coccifera L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -7394,7 +7394,7 @@
             piante spinose (<ptr target="#A-160-N5"/>).</p>
         </div>
         <div type="editorial-D">
-          <p>[Pianta con foglie e cogli insetti parassiti (Coccus Ilicis) collocati alle ascelle
+          <p>Pianta con foglie e cogli insetti parassiti (Coccus Ilicis) collocati alle ascelle
             foliari, dietro l'idea che fossero frutti, idea che troveremo ribadita al N. 144 del
             libro giallo colle parole: «di fruti di granna ci nasce benché in quel libro il Michiel
             mostri di sapere che quei corpi rossi lasciati a sé producono insetti. Questo errore
@@ -7415,7 +7415,7 @@
           <p>La figura data in questa pagina è inferiore a quella del <persName ref="#Rinio">Rinio</persName> c. 172, ma superiore a
             quella molto infelice che diede, un secolo dopo il Michiel, lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> [63]. Che la
             pianta fosse poco diffusa abbiamo la prova in ciò che nel secolo XVII era notata fra le
-            più cospicue dell'Orto botanico di Pisa [262]].</p>
+            più cospicue dell'Orto botanico di Pisa [262].</p>
           <div type="notes">
             <note xml:id="A-160-N1" n="1"> Beere = bacca da scarlatto.</note>
             <note xml:id="A-160-N2" n="2"> Adrianopoli.</note>
@@ -7427,7 +7427,7 @@
       </div>
 
       <div type="plant" xml:id="A-161">
-        <head>N. 161 OTRA MANERA DE MECOACAN</head>
+        <head>N. 161 Otra Manera de Mecoacan</head>
         <ab><ref target="https://www.ipni.org/n/269109-1">[<hi>Ipomaea Jalapa Coxe</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
@@ -7454,7 +7454,7 @@
           <p>Molto sole et humido.</p>
         </div>
         <div type="editorial-D">
-          <p>[Come avverte l'autore, la pianta crebbe nel suo giardino ma non potè fiorire e perciò la figura è di pianta sterile; a parte, una figura di foglia in grandezza naturale
+          <p>Come avverte l'autore, la pianta crebbe nel suo giardino ma non potè fiorire e perciò la figura è di pianta sterile; a parte, una figura di foglia in grandezza naturale
             e fra le pagine un campione di foglia disseccata.</p>
           <p>Sebbene incompleta, la figura ha il merito d'esser la prima in ordine storico. Quasi
             contemporanea è la descrizione della radice fatta da Monardes [179 bis], segue poi la
@@ -7462,7 +7462,7 @@
             specie brasiliana Piptostegia Pisonis, quindi a torto lo Sprengel dà a loro il primato
             dell'iconografia del vero Mechoacan.</p>
           <p>Da principio l'autore avea ricevuto dal Guilandino col nome di Mechoacan la passiflora
-              <ref target="A-017)">[N. 17]</ref>, ma poi lo Guilandino riconobbe l'errore].</p>
+              <ref target="A-017)">[N. 17]</ref>, ma poi lo Guilandino riconobbe l'errore.</p>
         </div>
         <div type="notes">
           <note xml:id="A-161-N1" n="1"> In bianco.</note>
