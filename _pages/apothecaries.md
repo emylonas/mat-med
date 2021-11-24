@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collection
 permalink: /apothecaries/
 title: "Apothecaries"
 collection: apothecaries
