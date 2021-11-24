@@ -329,3 +329,13 @@ defaults:
       share: false
       sidebar:
         nav: "edition"
+  # _apothecaries
+  - scope:
+      path: "_apothecaries"
+      type: apothecaries
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      sidebar:
+        nav: "apothecaries"
