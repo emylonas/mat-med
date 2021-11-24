@@ -2,6 +2,9 @@
 layout: single
 permalink: /apothecaries/
 title: "Apothecaries"
+classes: wide
+sidebar:
+  nav: "apothecaries"
 ---
 # 16th-18th century Venetian Apothecary Shops
 
