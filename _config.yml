@@ -290,6 +290,9 @@ collections:
   edition:
     output: true
     permalink: /:collection/:path/
+  apothecaries:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - https://jch.penibelst.de/
