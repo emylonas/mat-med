@@ -25,17 +25,17 @@ main:
 apothecaries:
   - title: Apothecaries
     children:
-      - title: 16th Cetury
+      - title: 16th Century
         url:  /edition/index/
-      - title: 16th Cetury Inventories
+      - title: 16th Century Inventories
         url:  /edition/plant000/
-      - title: 17th Cetury
+      - title: 17th Century
         url:  /edition/plant001/
-      - title: 17th Cetury Inventories
+      - title: 17th Century Inventories
         url:  /edition/plant002/
-      - title: 18th Cetury
+      - title: 18th Century
         url:  /edition/plant003/
-      - title: 18th Cetury Inventories
+      - title: 18th Century Inventories
         url:  /edition/plant004/
 
 #plants sidebar
