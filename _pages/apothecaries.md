@@ -2,6 +2,7 @@
 layout: single
 permalink: /apothecaries/
 title: "Apothecaries"
+collection: apothecaries
 classes: wide
 sidebar:
   nav: "apothecaries"
