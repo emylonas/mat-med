@@ -36,3 +36,5 @@ gallery:
     alt: "placeholder image 8"
     title: "Image 1 title caption"
 ---
+
+{% include gallery caption="[placeholder for gallery caption]" %}
