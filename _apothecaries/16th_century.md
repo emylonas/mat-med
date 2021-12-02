@@ -19,6 +19,6 @@ Sabrina Minuzzi, ‘Il medico Tommaso Giannotti Rangone (1493-1577) nell’econo
 
 ----------
 
-[1](#_ftnref1) ASV, _Cancelleria inferiore, Miscellanea notai diversi, Inventari_, b. 43, n. 17, 1° dicembre 1589.
+<a name="_ftn1">[1]</a> ASV, _Cancelleria inferiore, Miscellanea notai diversi, Inventari_, b. 43, n. 17, 1° dicembre 1589.
 
-[2](#_ftnref2) Venice, Museo Correr Library, Mariegola 209, I, ff. 33v-34r
+<a name="_ftn2">[2]</a> AVenice, Museo Correr Library, Mariegola 209, I, ff. 33v-34r
