@@ -3,7 +3,6 @@ Title: "16th Century"
 permalink: "/apothecaries/16th_century/"
 layout: single
 ---
-**16th century inventories**
 
 Angelo Bergognin apothecary at the Abraham: 1589<sup>[1](#_ftn1)</sup>
 
