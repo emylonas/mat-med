@@ -5,9 +5,9 @@ layout: single
 ---
 **16th century inventories**
 
-Angelo Bergognin apothecary at the Abraham: 1589<sup>[1]</sup>(#_ftn1)
+Angelo Bergognin apothecary at the Abraham: 1589<sup>[1](#_ftn1)</sup>
 
-Anzolo or Angelo Bergognin, until a few years ago known simply as 'Anzolo all'Abram', was one of the most active apothecaries in 16th-century Venice. Together with other colleagues, in 1566 he asked the Senate to set up a botanical garden on one of the islands in the lagoon, open to all, which would contain specimens "of all those plants that can be had from all parts of the world [...] for the benefit of those who are not healthy and who need to know them for the help of human bodies in many different, and various diseases".<sup>[2]</sup>(#_ftn2) Unfortunately, the request was not successful.
+Anzolo or Angelo Bergognin, until a few years ago known simply as 'Anzolo all'Abram', was one of the most active apothecaries in 16th-century Venice. Together with other colleagues, in 1566 he asked the Senate to set up a botanical garden on one of the islands in the lagoon, open to all, which would contain specimens "of all those plants that can be had from all parts of the world [...] for the benefit of those who are not healthy and who need to know them for the help of human bodies in many different, and various diseases".<sup>[2](#_ftn2)</sup> Unfortunately, the request was not successful.
 
 The inventory of his workshop shows how Angelo was very prone to the use of exotic natural substances, which often came from the New World. In his _post-mortem_ inventory in fact are found galanga, tamarind, sassafras, sarsaparilla, holy wood and cinchona.
 
