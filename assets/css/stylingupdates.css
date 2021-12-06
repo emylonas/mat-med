@@ -20,6 +20,12 @@ body {
 	}
 }
 
+.greedy-nav .visible-links a::before {
+	background: white !important;
+	height: 1.5px !important;
+	opacity: .67;
+}
+
 #site-nav a, .nav__items a {
 	font-family: 'Work Sans', sans-serif !important;
 	color: #566147 !important;
