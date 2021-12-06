@@ -48,7 +48,7 @@ body {
 }
 
 div.top-flex {
-	padding-top: 1em !important;
+	padding-top: .875em !important;
 	background-color: rgb(244, 244, 244);
 }
 
