@@ -47,6 +47,10 @@ body {
 	color: #566147 !important;
 }
 
+.initial-content {
+	margin-top: 1em !important;
+}
+
 div.ornament {
 	color: #566147 !important;
 	opacity: .5 !important;
