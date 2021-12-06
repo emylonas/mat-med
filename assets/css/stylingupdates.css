@@ -47,8 +47,9 @@ body {
 	color: #566147 !important;
 }
 
-.initial-content {
-	margin-top: 1em !important;
+div.top-flex {
+	padding-top: 1em !important;
+	background-color: rgb(244, 244, 244);
 }
 
 div.ornament {
