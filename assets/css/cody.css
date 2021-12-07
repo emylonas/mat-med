@@ -25,6 +25,12 @@ div#TEI {
 	h4.nav__title{
 	  display:none;
 	}
+	img.thumb{
+		max-width: 75px;
+		height: auto;
+		vertical-align: middle;
+		border: .5 solid black;
+	}
 	img.img-ctr {
 		margin-left: 100px;
 		margin-right: 100px;
@@ -257,9 +263,3 @@ display: flex;
 		top: 50%;
 		transform: translate(0, -50%);
 	} */
-img.thumb{
-	max-width: 75px;
-	height: auto;
-	vertical-align: middle;
-    border: .5 solid black;
-}
