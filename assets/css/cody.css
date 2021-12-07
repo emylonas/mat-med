@@ -261,5 +261,5 @@ img.thumb{
 	max-width: 75px;
 	height: auto;
 	vertical-align: middle;
-    border: .5;
+    border: .5 solid black;
 }
