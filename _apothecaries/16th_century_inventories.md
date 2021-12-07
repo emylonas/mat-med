@@ -55,6 +55,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | Breve per metere sopra le scatole | n° 100 |
 
  *c. 1v*
+<a href="{{ page.img1v | relative_url }}"><img class="thumb" src="{{ page.img1v | relative_url }}"/></a>
 
 | Acacia | l. 6 |
 | Molvere magistral del eccellente signor Gadaldino | l. 2 |
@@ -97,6 +98,8 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | Pulegio | l. 2 |
 
 *c. 2r*
+<a href="{{ page.img2r | relative_url }}"><img class="thumb" src="{{ page.img2r | relative_url }}"/></a>
+
 
 | fior de boraso | l. 1 |
 | fumoterre | l. 1 |
@@ -138,6 +141,8 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | grasso de orso | l. 1 |
 
 *c. 2v*
+<a href="{{ page.img2v | relative_url }}"><img class="thumb" src="{{ page.img2v | relative_url }}"/></a>
+
 
 | Sugo de eufragie condensato | l. 1 |
 | Siropo rosato s. | l. 2 s. 6 |
@@ -180,6 +185,8 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | Eris usti | s. _  |
 
 *c. 3r*
+<a href="{{ page.img3r | relative_url }}"><img class="thumb" src="{{ page.img3r | relative_url }}"/></a>
+
 
 | Calcitis preparati | s. _ |
 | Arzento vivo | s. 6 |
@@ -219,6 +226,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | corali rossi preparati | s. 2 |
 
 *c. 3v*
+<a href="{{ page.img3v | relative_url }}"><img class="thumb" src="{{ page.img3v | relative_url }}"/></a>
 
 | spetie imperiali | 3 iii |
 | spetie diaridon abaris | s. 1 [...] 3 vi |
@@ -259,6 +267,8 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | mitridato | l. 3 |
 
 *c. 4r*
+<a href="{{ page.img4r | relative_url }}"><img class="thumb" src="{{ page.img4r | relative_url }}"/></a>
+
 
 | zucaro rosato vasetti n° 34 pesa nette | l. 20 |
 | julep rosato ampole n° 33 nette | l. 13 |
@@ -298,6 +308,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | alove lotto | l. 2 |
 
 *c. 4v*
+<a href="{{ page.img4v | relative_url }}"><img class="thumb" src="{{ page.img4v | relative_url }}"/></a>
 
 | succi citonoirum | l. 10 |
 | infusion de rose sola | l. 40 |
