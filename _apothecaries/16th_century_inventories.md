@@ -22,7 +22,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | Prima [] mirra | s. 6 |
 | Sandale rosse et bianche | l. 3 s. 10 |
 | Doronece [?] | l. 1 s. 6 |
-| Incenso f.� [fresco?] | l. 10 s. 6 |
+| Incenso f.° [fresco?]] | l. 10 s. 6 |
 | Eleboro negro | l. 3 |
 | Cantarelle | l. 1 s. 10 |
 | Perle or.s de masinar | l. 1 s. 8 |
