@@ -11,16 +11,16 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #LOCAL
-theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "aqua"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-url                      : ""
-baseurl                  : "/"
+#theme                    : "minimal-mistakes-jekyll"
+#minimal_mistakes_skin    : "aqua"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#url                      : ""
+#baseurl                  : "/"
 
 # GITHUB REMOTE THEME
-#remote_theme             : "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-#url                      : "https://emylonas.github.io"
-#baseurl                  : "/xml-minimal/"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url                      : "https://emylonas.github.io"
+baseurl                  : "/xml-minimal/"
 
 # THEME-SETTINGS-RECLAIM
 # theme                    : "minimal-mistakes-jekyll"

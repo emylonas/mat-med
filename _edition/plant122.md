@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant122.xml"
 plant-img1: "/assets/img/plant122_verso.jpg"
 plant-img2: "/assets/img/plant122.jpg"
 plant-title: "N. 122 Genestela Phrigia"
-plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-4000010595"
-plant-taxon-content: "[Cytisus ...]"
+plant-wfo-link: ""
+plant-kew-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

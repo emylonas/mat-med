@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant157.xml"
 plant-img1: "/assets/img/plant157_verso.jpg"
 plant-img2: "/assets/img/plant157.jpg"
 plant-title: "N. 157 Hai"
-plant-taxon-link: ""
+plant-wfo-link: ""
+plant-kew-link: ""
 plant-taxon-content: ""
 layout: single-xml
 ---
