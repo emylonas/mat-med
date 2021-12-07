@@ -11,7 +11,7 @@ gallery:
     image_path: /assets/img/16c_inventory_anzolo_bergonin_1_recto.jpg
     alt: "placeholder image 2"
     title: "Image 1 title caption"
-  - url: /assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg
+  - url: /assets/img/16c_inventory_anzolo_bergonin_2_verso.jpg
     image_path: /assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg
     alt: "placeholder image 3"
     title: "Image 1 title caption"
