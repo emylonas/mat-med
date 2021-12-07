@@ -17,7 +17,7 @@ img4r: "/assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg"
 Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino spetiaro al Abram.
 
 *c. 1r*
-<a href="{{ page.img1r | relative_url }}"><img id="img1" src="{{ page.img1r | relative_url }}"/></a>
+<a href="{{ page.img1r | relative_url }}"><img class="thumb" src="{{ page.img1r | relative_url }}"/></a>
 
 | Prima [] mirra | s. 6 |
 | Sandale rosse et bianche | l. 3 s. 10 |
