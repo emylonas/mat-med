@@ -21,6 +21,23 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+#apothecaries sidebar
+apothecaries:
+  - title: Apothecaries
+    children:
+      - title: 16th Century
+        url:  /apothecaries/16th_century/
+      - title: 16th Century Inventories
+        url:  /apothecaries/16th_century_inventories/
+      - title: 17th Century
+        url:  /apothecaries/17th_century/
+      - title: 17th Century Inventories
+        url:  /apothecaries/17th_century_inventories/
+      - title: 18th Century
+        url:  /apothecaries/18th_century/
+      - title: 18th Century Inventories
+        url:  /apothecaries/18th_century_inventories/
+
 #plants sidebar
 edition:
   - title: Edition
