@@ -52,7 +52,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | Agrimonie | l. 1 |
 | Polio montano | l. 2 |
 | Hisoppo montano | l. 2 |
-| Breve per metere sopra le scatole | n� 100 |
+| Breve per metere sopra le scatole | n° 100 |
 
  *c. 1v*
 
@@ -236,7 +236,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | armoniaco | s. 5 |
 | cina | s. 7 _  |
 | cera zala | l. 1 s. 7 |
-| letrigerio [= litargirio] d�oro ala grossa | l. 36 |
+| letrigerio [= litargirio] d’oro ala grossa | l. 36 |
 | draganti | s. 7 _ |
 | semenze de malva | s. 3 _ |
 | cortilum castenea... | s. 9 |
@@ -260,8 +260,8 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 
 *c. 4r*
 
-| zucaro rosato vasetti n� 34 pesa nette | l. 20 |
-| julep rosato ampole n� 33 nette | l. 13 |
+| zucaro rosato vasetti n° 34 pesa nette | l. 20 |
+| julep rosato ampole n° 33 nette | l. 13 |
 | mandorle de persico | l. 2 |
 | ollii de schorpionibus | l. 1 s. 6 |
 | ollii de cannella condensato | l. 7 |
@@ -275,7 +275,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | suco de absintio condensato | l. 1 |
 | pillole de terebinto con reubarbaro | s. 2 |
 | pillole auree | l. 1 s. 7 |
-| legno santo stange n� 4 pesta� ala sutil | l. 180 |
+| legno santo stange n° 4 pesta’ ala sutil | l. 180 |
 | schorze de naranze | l. 40 |
 | grasso de orso | l. 1 s. 6 |
 | unguento rosato | l. 24 |
@@ -322,7 +322,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 | gotti de peltro da medecine | n. 3 |
 | una foradina et una bacinella | n. 2 |
 | trei balanze | n. 3 |
-| doi mortari uno grando da spetie ? et l�altro picolo | n. 2 |
+| doi mortari uno grando da spetie ? et l’altro picolo | n. 2 |
 | una maza de legnio | n. 1 |
 | zare per aque stilade | n. 13 |
 | doi schragni in botega cum le castiore | n. 2 |
