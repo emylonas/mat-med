@@ -5,36 +5,36 @@ permalink: "/apothecaries/16th_century_inventories/"
 gallery:
   - url: /assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg
     image_path: /assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "placeholder image 1v"
+    title: "Image 1v title caption"
   - url: /assets/img/16c_inventory_anzolo_bergonin_1_recto.jpg
     image_path: /assets/img/16c_inventory_anzolo_bergonin_1_recto.jpg
-    alt: "placeholder image 2"
-    title: "Image 1 title caption"
+    alt: "placeholder image 1r"
+    title: "Image 1r title caption"
   - url: /assets/img/16c_inventory_anzolo_bergonin_2_verso.jpg
     image_path: /assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg
-    alt: "placeholder image 3"
-    title: "Image 1 title caption"
+    alt: "placeholder image 2v"
+    title: "Image 2v title caption"
   - url: /assets/img/16c_inventory_anzolo_bergonin_2_recto.jpg
     image_path: /assets/img/16c_inventory_anzolo_bergonin_2_recto.jpg
-    alt: "placeholder image 4"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 5"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 6"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 7"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 8"
-    title: "Image 1 title caption"
+    alt: "placeholder image 2r"
+    title: "Image 2r title caption"
+  - url: /assets/img/16c_inventory_anzolo_bergonin_3_verso.jpg
+    image_path: /assets/img/16c_inventory_anzolo_bergonin_3_verso.jpg
+    alt: "placeholder image 3v"
+    title: "Image 3v title caption"
+  - url: /assets/img/16c_inventory_anzolo_bergonin_3_recto.jpg
+    image_path: /assets/img/16c_inventory_anzolo_bergonin_3_recto.jpg
+    alt: "placeholder image 3r"
+    title: "Image 3r title caption"
+  - url: /assets/img/16c_inventory_anzolo_bergonin_4_verso.jpg
+    image_path: /assets/img/16c_inventory_anzolo_bergonin_4_verso.jpg
+    alt: "placeholder image 4v"
+    title: "Image 4v title caption"
+  - url: /assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg
+    image_path: /assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg
+    alt: "placeholder image 4r"
+    title: "Image 4r title caption"
 ---
 
 {% include gallery caption="[placeholder for gallery caption]" %}
