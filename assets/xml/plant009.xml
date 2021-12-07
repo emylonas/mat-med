@@ -47,17 +47,17 @@
         <div type="exposure">
           <head>AMANO</head>
           <p> Ne monti frigidi et sassosi sonno il suo proprio et non li bisognia tagliare suoe
-            cime, impero (<ptr target="#A-009-N1"/>) si muore et piui non germinano.</p>
+            cime, impero <ptr target="#A-009-N1"/> si muore et piui non germinano.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> L'<persName ref="#Aldrovandi">Aldrovandi</persName> tiene ch'il Cedro phenicea vel Oxicedro sia quella spezie de Junipero che
-            descrive Diascoride quando dice (<ptr target="#A-009-N2"/>) «Baccarum non nulle nucem pontu equar nar.a» lui
+            descrive Diascoride quando dice <ptr target="#A-009-N2"/> «Baccarum non nulle nucem pontu equar nar.a» lui
             intende di questo <hi>Cedro phenicea</hi>. Et Plinio par che confundano li giuniperi facendone di
             4 spezie et quello Cedralite son depinto dal <persName ref="#Belonio">Belonio</persName> nel suo libro <ref type="bibl" target="http://id.sbn.it/bid/CFIE000031">de Resiniferis</ref>, et
             questo son quello che fu edificato il tempio di Salamone et l'Arca di Noe tenuto da
             Hebrei. Et l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> 45 dice che li Cedri de Theophrasto Diascoride con errore li
-            chiamorno Ginepri. Et il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandini</persName> nel Membro 24 (<ptr target="#A-009-N3"/>) tiene che il Cedro maggior de
+            chiamorno Ginepri. Et il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandini</persName> nel Membro 24 <ptr target="#A-009-N3"/> tiene che il Cedro maggior de
             Greci sia il Larice de Latini et con molti belli discorsi.</p>
         </div>
         <div type="properties">
@@ -90,7 +90,7 @@
             prevenzione che i Cedri dovessero aver frutti a galbulo come i ginepri, mentre il
             Mattioli fece conoscere che il Cedro del Libano ha per frutti delle pigne. Da ciò la
             poca persuasione del Michiel che esso fosse un Cedro, la quale si basava sopra un passo
-            mal trascritto da Dioscoride che fu ridotto alla giusta lezione dal <persName ref="#Mattioli">Mattioli</persName>. (<ptr target="#A-009-N4"/>)</p>
+            mal trascritto da Dioscoride che fu ridotto alla giusta lezione dal <persName ref="#Mattioli">Mattioli</persName>. <ptr target="#A-009-N4"/></p>
           <p>Π passo in questione è: «<foreign xml:lang="grc">Κέδρος δένδρον εστί μέγα εξ ου η
               λεγομένη κεδρία συνάγεται. καρπόν δε έχει ώσπερ κυπαρίσσου, μακρότερον μεν παρά πολύ.
               λέγεται δε και άλλη κέδρος μικρά, ακανθώδης ώσπερ άρκευθος, φέρουσα καρπόν μέγεθος

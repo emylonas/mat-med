@@ -30,7 +30,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'hebbi della <placeName ref="https://www.geonames.org/11592140/majella.html">Megella [= Majella]</placeName> (<ptr target="#A-117-N1"/>),</p>
+          <p> Io l'hebbi della <placeName ref="https://www.geonames.org/11592140/majella.html">Megella [= Majella]</placeName> <ptr target="#A-117-N1"/>,</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -43,7 +43,7 @@
           <p>Pianta fruttifera sorgente in un paesaggio montano con pastore e greggie. È il Rhamno
             primo dell'<persName ref="#Anguillara">Anguillara</persName>. <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marcello fiorentino [= Marcello Virgilio Adriani]</ref> lo chiamò salutare et spina bianca nella
             credenza da lui esposta nel libro De re medicinali: Spina alba qua Christus incoronatus
-            fuit» (<ptr target="#A-117-N2"/>). </p>
+            fuit» <ptr target="#A-117-N2"/>. </p>
         </div>
         <div type="notes">
           <note xml:id="A-117-N1" n="1"> Maiella.</note>

@@ -17,11 +17,11 @@
           <head>NOMI</head>
           <p> Chamelea, Pyrosachium et Heraclion da Greci - Blyram et Coccognidium da altri - Citocacium
             et Cilibracam da Romani - Oleaginem et Oleastelum da molti - Mezereon da Arabi - Cneoro di
-            Galeno - Alypiade (<ptr target="#A-030-N1"/>) di Aetio.</p>
+            Galeno - Alypiade <ptr target="#A-030-N1"/> di Aetio.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti aspri caldi, alla <placeName ref="https://www.geonames.org/11592140/majella.html">Megella [Majella]</placeName> (<ptr target="#A-030-N2"/>), nella <placeName ref="https://www.geonames.org/3172219/val-di-non.html">Valle Anania</placeName>, in <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName> et in Grecia
+          <p> Ne monti aspri caldi, alla <placeName ref="https://www.geonames.org/11592140/majella.html">Megella [Majella]</placeName> <ptr target="#A-030-N2"/>, nella <placeName ref="https://www.geonames.org/3172219/val-di-non.html">Valle Anania</placeName>, in <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName> et in Grecia
             nel <placeName ref="https://www.geonames.org/255620/peloponnese.html">Peloponese</placeName>.</p>
         </div>
         <div type="opinions">
@@ -32,7 +32,7 @@
         </div>
         <div type="editorial-D">
           <p>Pianta fiorita e fruttifera. Le località notate furono tratte parte dal Mattioli,
-            parte dall'Anguillara. E siccome la Chamaelea del <persName ref="#Mattioli">Mattioli</persName> è altra specie di Daphne (<ptr target="#A-030-N3"/>),
+            parte dall'Anguillara. E siccome la Chamaelea del <persName ref="#Mattioli">Mattioli</persName> è altra specie di Daphne <ptr target="#A-030-N3"/>,
             ne deduciamo che la specie presente è la Chamaelea dell'Anguillara trovata dall'illustre botanico al Monte Maiella. Altre specie del genere Daphne furono figurate dal
             Michiel nei tre numeri seguenti, al <ref target="#R1-377">N. 377 del primo libro rosso</ref> ed al <ref target="#V-187">N. 187 del libro
               verde</ref>.</p>

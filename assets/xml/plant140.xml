@@ -15,7 +15,7 @@
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000671633">[I <hi>Erica carnea L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000580837">[II <hi>Calluna vulgaris Hull</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000667231">[III <hi>Empetrum nigrum L.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Erice da Greci Erica da Lat. - Neid (<ptr target="#A-140-N1"/>) da Germ. - Bnere da Galeno - Grione da paesani verso
+          <p> Erice da Greci Erica da Lat. - Neid <ptr target="#A-140-N1"/> da Germ. - Bnere da Galeno - Grione da paesani verso
             Goritia - Queiro da Spagnioli - Heyden da Tedeschi - Bruyere da Francesi.</p>
         </div>
         <div type="genus">
@@ -24,14 +24,14 @@
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p> <hi>...la terzia</hi> (<ptr target="#A-140-N2"/>) di Bormia si spande a terra et fa bache come di ginepro una tenere et
+          <p> <hi>...la terzia</hi> <ptr target="#A-140-N2"/> di Bormia si spande a terra et fa bache come di ginepro una tenere et
             viscose. <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="99"/>
           </p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
           <p> In Asia et in Gretia sonno il suo proprio, ma Ermolao dice esserne ne monti patavini
-            et vegentini (<ptr target="#A-140-N3"/>) di questo, ne sonno... (<ptr target="#A-140-N4"/>).</p>
+            et vegentini <ptr target="#A-140-N3"/> di questo, ne sonno... <ptr target="#A-140-N4"/>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>

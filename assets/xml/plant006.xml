@@ -20,8 +20,8 @@
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> De due spezie ne fano mentione Diascoride, l'una sonno la provinca (<ptr target="#A-006-N1"/>), l'altra parmi
-            molto s'acompagnia et corisponda a questa. (<ptr target="#A-006-N2"/>)</p>
+          <p> De due spezie ne fano mentione Diascoride, l'una sonno la provinca <ptr target="#A-006-N1"/>, l'altra parmi
+            molto s'acompagnia et corisponda a questa. <ptr target="#A-006-N2"/></p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -36,7 +36,7 @@
         </div>
         <div type="editorial-D">
           <p> [Figura abbastanza buona di pianta fiorita. Dioscoride descrisse col nome di <foreign xml:lang="grc">κληματίς</foreign> la pervinca e con quelo di <foreign xml:lang="grc">κληματίτις</foreign> 1a specie presente che il <persName ref="#Mattioli">Mattioli</persName> chiamò <hi>Clematis secunda</hi>. Il
-            Viburno di <persName ref="#Virgilio">Virgilio</persName> (<ptr target="#A-006-N3"/>) secondo <persName ref="#Dodoneo">Dodoneo</persName> era <hi>Viburnum Lantana</hi> qui figurato a <ref type="internal" target="#A-138">N. 138.</ref>. La
+            Viburno di <persName ref="#Virgilio">Virgilio</persName> <ptr target="#A-006-N3"/> secondo <persName ref="#Dodoneo">Dodoneo</persName> era <hi>Viburnum Lantana</hi> qui figurato a <ref type="internal" target="#A-138">N. 138.</ref>. La
             falsa credenza del Michiel si basava o su informazioni avute o sopra una mala
             determinazione della figura pubblicata nel <hi>Cruydtboek</hi>.</p>
         </div>

@@ -22,7 +22,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti d'<placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName> et .... (<ptr target="#A-034-N1"/>).</p>
+          <p> Ne monti d'<placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName> et .... <ptr target="#A-034-N1"/>.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
