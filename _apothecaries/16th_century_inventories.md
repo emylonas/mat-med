@@ -2,48 +2,22 @@
 Title: "16th Century Inventories"
 layout: single
 permalink: "/apothecaries/16th_century_inventories/"
-# gallery:
-#   - url: /assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg
-#     image_path: /assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg
-#     alt: "placeholder image 1v"
-#     title: "Image 1v title caption"
-#   - url: /assets/img/16c_inventory_anzolo_bergonin_1_recto.jpg
-#     image_path: /assets/img/16c_inventory_anzolo_bergonin_1_recto.jpg
-#     alt: "placeholder image 1r"
-#     title: "Image 1r title caption"
-#   - url: /assets/img/16c_inventory_anzolo_bergonin_2_verso.jpg
-#     image_path: /assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg
-#     alt: "placeholder image 2v"
-#     title: "Image 2v title caption"
-#   - url: /assets/img/16c_inventory_anzolo_bergonin_2_recto.jpg
-#     image_path: /assets/img/16c_inventory_anzolo_bergonin_2_recto.jpg
-#     alt: "placeholder image 2r"
-#     title: "Image 2r title caption"
-#   - url: /assets/img/16c_inventory_anzolo_bergonin_3_verso.jpg
-#     image_path: /assets/img/16c_inventory_anzolo_bergonin_3_verso.jpg
-#     alt: "placeholder image 3v"
-#     title: "Image 3v title caption"
-#   - url: /assets/img/16c_inventory_anzolo_bergonin_3_recto.jpg
-#     image_path: /assets/img/16c_inventory_anzolo_bergonin_3_recto.jpg
-#     alt: "placeholder image 3r"
-#     title: "Image 3r title caption"
-#   - url: /assets/img/16c_inventory_anzolo_bergonin_4_verso.jpg
-#     image_path: /assets/img/16c_inventory_anzolo_bergonin_4_verso.jpg
-#     alt: "placeholder image 4v"
-#     title: "Image 4v title caption"
-#   - url: /assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg
-#     image_path: /assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg
-#     alt: "placeholder image 4r"
-#     title: "Image 4r title caption"
+img1v: "/assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg"
+img1r: "/assets/img/16c_inventory_anzolo_bergonin_1_recto.jpg"
+img2v: "/assets/img/16c_inventory_anzolo_bergonin_2_verso.jpg"
+img2r: "/assets/img/16c_inventory_anzolo_bergonin_2_recto.jpg"
+img3v: "/assets/img/16c_inventory_anzolo_bergonin_3_verso.jpg"
+img3r: "/assets/img/16c_inventory_anzolo_bergonin_3_recto.jpg"
+img4v: "/assets/img/16c_inventory_anzolo_bergonin_4_verso.jpg"
+img4r: "/assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg"
 ---
-
-<!-- {% include gallery caption="[placeholder for gallery caption]" %} -->
 
 # 1589 adì primo decembrio in Venetia
 
 Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino spetiaro al Abram.
 
 *c. 1r*
+<a href="{{ page.img1r | relative_url }}"><img id="img1" src="{{ page.img1r | relative_url }}"/></a>
 
 | Prima [] mirra | s. 6 |
 | Sandale rosse et bianche | l. 3 s. 10 |
