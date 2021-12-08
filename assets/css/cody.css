@@ -32,8 +32,9 @@ div#TEI {
 		border: .5 solid black;
 	}
 	img.img-ctr {
-		margin-left: 100px;
-		margin-right: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	img.img-left {
 		margin-right: 1em;
