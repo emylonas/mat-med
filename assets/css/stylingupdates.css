@@ -17,12 +17,11 @@ body {
 		height: 230px;
 	}
 	div.masthead__menu, div.masthead__inner-wrap, nav#site-nav.greedy-nav {
-		background-color: white !important;
 		margin-top: 25px;
 	}
-	nav#site-nav.greedy-nav a, .search__toggle, .greedy-nav__toggle {
-		color:  white !important;
-	}
+	/* nav#site-nav.greedy-nav a, .search__toggle, .greedy-nav__toggle {
+		color:  none !important;
+	} */
 	div.masthead__inner-wrap {
 		opacity: .93;
 	}
