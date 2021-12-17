@@ -10,25 +10,35 @@ body {
 
 /* accents top area for desktop views */
 @media only screen and (min-width: 1280px) {
-	div.masthead, div.masthead__inner-wrap, div.masthead__menu, nav#site-nav.greedy-nav {
-		background-color: #566147 !important;
-		background-image: url(../img/topbannerbackgroundcrop.jpg);
+	div.masthead {
+		background-image: url(../img/topbannerbackgroundcrop2.jpg);
 		opacity: 1;
+		max-height: 575px;
+		height: 230px;
+	}
+	div.masthead__menu, div.masthead__inner-wrap, nav#site-nav.greedy-nav {
+		background-color: white !important;
+		margin-top: 25px;
 	}
 	nav#site-nav.greedy-nav a, .search__toggle, .greedy-nav__toggle {
 		color:  white !important;
+	}
+	div.masthead__inner-wrap {
+		opacity: .93;
 	}
 }
 
 .greedy-nav .visible-links a::before {
 	background: white !important;
 	height: 1.5px !important;
-	opacity: .67;
 }
 
 #site-nav a, .nav__items a {
 	font-family: 'Work Sans', sans-serif !important;
+	font-size: 85%;
 	color: #566147 !important;
+	padding: .5em;
+	opacity: 1;
 }
 
 .nav__sub-title {
