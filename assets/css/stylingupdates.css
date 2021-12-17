@@ -83,9 +83,15 @@ tei-p, p, ul, li, tei-head {
 	font-weight: 700;
 }
 
-tei-div[type="editorial-D"], tei-div[type="editorial-M"], tei-div[type="notes"], tei-div[type="bibl"] {
-	font-size: .8125em !important;
-	font-family: 'Work Sans', sans-serif !important;
+tei-div[type="editorial-D"], tei-div[type="editorial-M"], tei-div[type="bibl"] {
+	font-size: .875em !important;
+	font-family: 'Spectral', serif !important;
+}
+
+tei-div[type="notes"] {
+	font-size: 104%;
+	font-family: 'Spectral', serif !important;
+	color: #362526 !important;
 }
 
 .horizline {
