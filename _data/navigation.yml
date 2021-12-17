@@ -25,15 +25,15 @@ main:
 apothecaries:
   - title: Apothecaries
     children:
-      - title: 16th Century
+      - title: 16th Century Shops and Merchants
         url:  /apothecaries/16th_century/
       - title: 16th Century Inventories
         url:  /apothecaries/16th_century_inventories/
-      - title: 17th Century
+      - title: 17th Century Shops Shops and Merchants
         url:  /apothecaries/17th_century/
       - title: 17th Century Inventories
         url:  /apothecaries/17th_century_inventories/
-      - title: 18th Century
+      - title: 18th Century Shops and Merchants
         url:  /apothecaries/18th_century/
       - title: 18th Century Inventories
         url:  /apothecaries/18th_century_inventories/
