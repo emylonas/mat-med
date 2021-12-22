@@ -81,6 +81,7 @@ h1, h2, h3, h4, h5 {
 tei-p, p, ul, li, tei-head {
 	font-family: 'Spectral', serif !important;
 	font-weight: 400;
+	letter-spacing: -.225px;
 	color: #362526 !important;
 }
 
