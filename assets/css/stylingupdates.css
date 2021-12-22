@@ -94,7 +94,7 @@ tei-div[type="editorial-D"], tei-div[type="editorial-M"], tei-div[type="bibl"] {
 }
 
 tei-div[type="notes"] {
-	font-size: 104%;
+/*	font-size: 104%; */
 	font-family: 'Spectral', serif !important;
 	color: #362526 !important;
 }

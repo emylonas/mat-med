@@ -45,7 +45,7 @@ tei-div[type="plant"] > tei-head {
 tei-div[type="editorial-D"], tei-div[type="editorial-M"], tei-div[type="notes"],
 tei-div[type="bibl"] {
   font-family: "Trebuchet", sans-serif;
-  font-size: .7em;
+  font-size: .875em!important;
 }
 
 tei-p {
@@ -90,7 +90,7 @@ tei-div[type="notes"]::before {
 
 tei-div[type="notes"] tei-note {
   display: block;
-  font-size: .7em;
+  font-size: 1em!important;
 }
 
 
@@ -104,7 +104,7 @@ tei-div[type="bibl"]::before {
   content: "Bibliography";
   display: block;
   font-weight: bold;
-  font-size: 1m;
+  font-size: 1em;
   margin-left: -3%;
   margin-top: 2%;
 
