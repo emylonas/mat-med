@@ -40,6 +40,10 @@ body {
 	opacity: 1;
 }
 
+.page__content > table > tbody > tr > td {
+	font-family: 'Work Sans', sans-serif !important;
+}
+
 .nav__sub-title {
 	font-family: 'Work Sans', sans-serif !important;
 	color: #566147 !important;
