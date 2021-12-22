@@ -12,6 +12,7 @@ body {
 @media only screen and (min-width: 1280px) {
 	div.masthead {
 		background-image: url(../img/topbannerbackgroundcrop2.jpg);
+		background-position-y: center;
 		opacity: 1;
 		max-height: 575px;
 		height: 230px;
