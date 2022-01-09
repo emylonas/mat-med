@@ -1,5 +1,5 @@
 ---
-classes: full-wide
+classes: wide
 layout: single
 permalink: /gardens/
 title: "Gardens"
