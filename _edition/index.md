@@ -1,6 +1,8 @@
 ---
 title: "Libro Azzurro"
 layout: single
+sidebar:
+  nav: "edition"
 ---
 
 <div class="row">
