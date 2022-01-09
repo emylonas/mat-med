@@ -1,6 +1,6 @@
 ---
-layout: single
 classes: wide
+layout: single
 permalink: /gardens/
 title: "Gardens"
 ---
