@@ -3,6 +3,7 @@ classes: wide
 layout: single
 permalink: /gardens/
 title: "Gardens"
+custom_css: gardens.css
 ---
 # Gardens in 16th-18th-century Venice
 <div class="ornament">r p r</div>
