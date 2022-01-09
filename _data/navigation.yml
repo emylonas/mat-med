@@ -40,7 +40,7 @@ apothecaries:
 
 #plants sidebar
 edition:
-  - title: Libro Azzurro
+  - title: Table of Contents
     children:
       - title: Libro Azzurro
         url:  /edition/index/
