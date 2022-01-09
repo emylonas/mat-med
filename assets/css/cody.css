@@ -80,10 +80,10 @@ div#TEI {
 	/* #main {
 		max-width: 80%;
 	} */
-	#main article {
+	/* #main article {
 		width: calc(100%-500px);
 		padding-right: 0;
-	}
+	} */
 	hr.horizline {
 		display: block;
 		margin: auto;
