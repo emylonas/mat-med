@@ -1,0 +1,144 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+<!-- <div class="top-flex">
+  <div class="flex-child top-name">
+
+<h2 class="top-name">{{ page.title }}</h2>
+<h3 class="top-name">
+  {{page.plant-title}}<br>
+  <em>{{page.plant-taxon-content}}<br></em>
+  <a href="{{page.plant-wfo-link}}"><em>WFO</em></a><br></nr>
+  <a href="{{page.plant-kew-link}}"><em>Kew</em></a>
+</h3>
+</div>
+
+  <div class="flex-child">
+    <a href="{{ page.plant-img1 | relative_url }}"><img id="img1" src="{{ page.plant-img1 | relative_url }}"/></a>
+    <a href="{{ page.plant-img2 | relative_url }}"><img id="img2" src="{{ page.plant-img2 | relative_url }}"/></a>
+<figcaption>{{ page.plant-title }}</figcaption> -->
+  </div>
+</div>
+<hr class="horizline"> -->
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>{% endif %}
+          {% include page__meta.html %}
+        </header>
+      {% endunless %}
+
+      <section class="page__content e-content" itemprop="text">
+        {% if page.toc %}
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+            <nav class="toc">
+              <a href="{{ page.plant-img | relative_url }}"><img src="{{ page.plant-img | relative_url }}"/></a>
+              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+            </nav>
+          </aside>
+        {% endif %}
+        {{ content }}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
+
+      <script>
+          var hu = document.querySelector('.page__title a');
+          hu.removeAttribute('href');
+
+          var CETEIcean = new CETEI();
+          CETEIcean.addBehaviors({"tei":{
+           "ptr": function(elt) {
+             var link = document.createElement("a");
+             link.innerHTML = elt.getAttribute("target").replace(/#A\-((\d+))(\d+.([^\d\"]))/, "");
+             link.href = elt.getAttribute("target");
+             return link;
+            },
+            "ref": [
+
+              "[type=bibl]", ["[target]", ["<a href=\"$rw@target\">","</a>"]]
+            ],
+            // "persName": [
+            //   ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+            // ],
+            // "placeName": [
+            //   ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
+            // ],
+            "pb": ["[DeToni p. $@n]"]
+          }
+          });
+              CETEIcean.getHTML5('{{page.plant-xml | relative_url}}', function(data) {
+                document.getElementById("TEI").innerHTML = "";
+                document.getElementById("TEI").appendChild(data);
+                CETEIcean.addStyle(document, data);
+              });
+      </script>
+
+      </div>
+        <div id="TEI"></div>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+
+      {% include post_pagination.html %}
+    </div>
+
+    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+      <div class="grid__wrapper">
+        {% for post in site.related_posts limit:4 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
+  {% elsif page.id and page.related %}
+    <div class="page__related">
+      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+      <div class="grid__wrapper">
+        {% for post in site.posts limit:4 %}
+          {% if post.id == page.id %}
+            {% continue %}
+          {% endif %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+</div>

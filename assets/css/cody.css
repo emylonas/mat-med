@@ -25,6 +25,17 @@ div#TEI {
 	h4.nav__title{
 	  display:none;
 	}
+	img.thumb{
+		max-width: 75px;
+		height: auto;
+		vertical-align: middle;
+		border: .5 solid black;
+	}
+	img.img-ctr {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
 	img.img-left {
 		margin-right: 1em;
 	  }
@@ -69,10 +80,10 @@ div#TEI {
 	/* #main {
 		max-width: 80%;
 	} */
-	#main article {
+	/* #main article {
 		width: calc(100%-500px);
 		padding-right: 0;
-	}
+	} */
 	hr.horizline {
 		display: block;
 		margin: auto;

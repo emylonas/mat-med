@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant123.xml"
 plant-img1: "/assets/img/plant123_verso.jpg"
 plant-img2: "/assets/img/plant123.jpg"
 plant-title: "N. 123 Genestela"
-plant-taxon-link: ""
+plant-wfo-link: ""
+plant-kew-link: ""
 plant-taxon-content: ""
 layout: single-xml
 ---

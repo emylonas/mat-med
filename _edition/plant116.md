@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant116.xml"
 plant-img1: "/assets/img/plant116_verso.jpg"
 plant-img2: "/assets/img/plant116.jpg"
 plant-title: "* N. II6 Cua Muchel"
-plant-taxon-link: ""
+plant-wfo-link: ""
+plant-kew-link: ""
 plant-taxon-content: ""
 layout: single-xml
 ---

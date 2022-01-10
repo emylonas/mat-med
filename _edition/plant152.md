@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant152.xml"
 plant-img1: "/assets/img/plant152_verso.jpg"
 plant-img2: "/assets/img/plant152.jpg"
 plant-title: "N. 152 Oxiacanta"
-plant-taxon-link: ""
+plant-wfo-link: ""
+plant-kew-link: ""
 plant-taxon-content: ""
 layout: single-xml
 ---

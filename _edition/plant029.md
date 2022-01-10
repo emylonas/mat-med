@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant029.xml"
 plant-img1: "/assets/img/plant029_verso.jpg"
 plant-img2: "/assets/img/plant029.jpg"
 plant-title: "N. 29"
-plant-taxon-link: ""
+plant-wfo-link: ""
+plant-kew-link: ""
 plant-taxon-content: ""
 layout: single-xml
 ---

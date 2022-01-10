@@ -59,8 +59,9 @@ plant
         <xsl:result-document method="text" href="{$md-file}">
             <xsl:variable name="plant-title" select="t:head"/>
             <xsl:variable name="plant-num" select="substring-after(@xml:id, '-')"/>
-            <xsl:variable name="plant-taxon-link" select="t:ab/t:ref/@target"/>
-            <xsl:variable name="plant-taxon-content" select="t:ab/t:ref"/>
+            <xsl:variable name="plant-wfo-link" select="t:ab/t:ref[text()='WFO']/@target"/>
+            <xsl:variable name="plant-kew-link" select="t:ab/t:ref[text()='Kew']/@target"/>
+            <xsl:variable name="plant-taxon-content" select="t:ab/t:hi"/>
             <!-- try to make regex to match only name, not numbers. don't need now -->
             <xsl:variable name="plant-name" select="replace($plant-title,'(N[\.N]\s+\d+) ([\w ]+)','$1')"/>
 
@@ -74,7 +75,8 @@ plant-xml: "/assets/xml/plant</xsl:text><xsl:value-of
 plant-img1: "/assets/img/plant</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>_verso.jpg"
 plant-img2: "/assets/img/plant</xsl:text><xsl:value-of select="$plant-num"/><xsl:text>.jpg"
 plant-title: "</xsl:text><xsl:value-of select="$plant-title"/><xsl:text>"
-plant-taxon-link: "</xsl:text><xsl:value-of select="$plant-taxon-link"/><xsl:text>"
+plant-wfo-link: "</xsl:text><xsl:value-of select="$plant-wfo-link"/><xsl:text>"
+plant-kew-link: "</xsl:text><xsl:value-of select="$plant-kew-link"/><xsl:text>"
 plant-taxon-content: "</xsl:text><xsl:value-of select="$plant-taxon-content"/><xsl:text>"
 layout: single-xml
 ---</xsl:text>

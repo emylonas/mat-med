@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant001.xml"
 plant-img1: "/assets/img/plant001_verso.jpg"
 plant-img2: "/assets/img/plant001.jpg"
 plant-title: "N. I Ciruelas Monteses"
-plant-taxon-link: ""
+plant-wfo-link: ""
+plant-kew-link: ""
 plant-taxon-content: ""
 layout: single-xml
 ---

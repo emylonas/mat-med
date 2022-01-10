@@ -21,9 +21,26 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+#apothecaries sidebar
+apothecaries:
+  - title: Apothecaries
+    children:
+      - title: 16th Century Shops and Merchants
+        url:  /apothecaries/16th_century/
+      - title: 16th Century Inventories
+        url:  /apothecaries/16th_century_inventories/
+      - title: 17th Century Shops and Merchants
+        url:  /apothecaries/17th_century/
+      - title: 17th Century Inventories
+        url:  /apothecaries/17th_century_inventories/
+      - title: 18th Century Shops and Merchants
+        url:  /apothecaries/18th_century/
+      - title: 18th Century Inventories
+        url:  /apothecaries/18th_century_inventories/
+
 #plants sidebar
 edition:
-  - title: Edition
+  - title: Table of Contents
     children:
       - title: Libro Azzurro
         url:  /edition/index/

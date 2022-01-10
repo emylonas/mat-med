@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant129.xml"
 plant-img1: "/assets/img/plant129_verso.jpg"
 plant-img2: "/assets/img/plant129.jpg"
 plant-title: "N. 129 Gensamin Gialo"
-plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000813823"
-plant-taxon-content: "[Jasminum humile L.]"
+plant-wfo-link: ""
+plant-kew-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

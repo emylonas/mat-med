@@ -6,6 +6,11 @@
 <script src="{{ '/assets/js/CETEI.js' | relative_url }}"></script>
 <link rel="stylesheet" href="{{ '/assets/css/ceteicean.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/cody.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/stylingupdates.css' | relative_url }}">
 <!-- <link rel="stylesheet" href="{{ '/assets/css/cody.scss' | relative_url }}"> -->
-
+{% if page.custom_css %}
+{% for stylesheet in page.custom_css %}
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
+{% endfor %}
+{% endif %}
 <!-- end custom head snippets -->

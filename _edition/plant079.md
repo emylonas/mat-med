@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant079.xml"
 plant-img1: "/assets/img/plant079_verso.jpg"
 plant-img2: "/assets/img/plant079.jpg"
 plant-title: "N. 79 Canela"
-plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000605543"
-plant-taxon-content: "[*Cinnamomum zeylanicum Nees]"
+plant-wfo-link: ""
+plant-kew-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

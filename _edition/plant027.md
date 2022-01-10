@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant027.xml"
 plant-img1: "/assets/img/plant027_verso.jpg"
 plant-img2: "/assets/img/plant027.jpg"
 plant-title: "N. 27 Fusaria, Stonber"
-plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000681728"
-plant-taxon-content: "[Euonymus Europaeus L.]"
+plant-wfo-link: ""
+plant-kew-link: ""
+plant-taxon-content: ""
 layout: single-xml
 ---

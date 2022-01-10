@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant053.xml"
 plant-img1: "/assets/img/plant053_verso.jpg"
 plant-img2: "/assets/img/plant053.jpg"
 plant-title: "N. 53 Crategon"
-plant-taxon-link: ""
+plant-wfo-link: ""
+plant-kew-link: ""
 plant-taxon-content: ""
 layout: single-xml
 ---

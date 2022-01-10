@@ -7,7 +7,8 @@ plant-xml: "/assets/xml/plant117.xml"
 plant-img1: "/assets/img/plant117_verso.jpg"
 plant-img2: "/assets/img/plant117.jpg"
 plant-title: "N. 117 Ramno Primo b.o"
-plant-taxon-link: ""
+plant-wfo-link: ""
+plant-kew-link: ""
 plant-taxon-content: ""
 layout: single-xml
 ---
