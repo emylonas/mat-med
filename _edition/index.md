@@ -6,10 +6,10 @@ layout: single
 
 <div class="row">
     <div class="flex-child">
-        <img src="{{ site.baseurl }}/assets/img/72dpi_title-pages-azzurro_mss.png" style="width:50%"/>
+        <img src="{{ site.baseurl }}/assets/img/72dpi_title_azzurro_from_9950_1940.jpg" style="width:50%;border:2px solid black"/>
     </div>
     <div class="flex-child">
-        <img src="{{ site.baseurl }}/assets/img/72dpi_title_azzurro_from_9950_1940.jpg" style="width:50%;border:2px solid black"/>
+        <img src="{{ site.baseurl }}/assets/img/72dpi_title-pages-azzurro_mss.png" style="width:50%"/>
     </div>
 </div>
 This is not a philological edition of the Libro Azzurro of Pietro Antonio Michiel’s herbal, but a work in progress starting from the 1940 edition of the first book. 
