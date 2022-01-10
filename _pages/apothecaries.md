@@ -15,10 +15,11 @@ In 1569, Venice had 85 apothecary shops, and by the early Seventeenth century th
 
 <img src="{{ site.baseurl }}/assets/img/16c_0_Italy_Issogne_16th_century.png" class="img-ctr" align="center"/>
 
-A few among the many Venetian Apothecaries and apothecary shops were crucial sites in the urban and social fabric of the city: physicians and other medical professionals, noblemen and civil servants, artisans, people of middling sort status and servants met there, asking for medicinal compounds processed according to recipes, for raw and semi-processed substances. Benches ran along the walls where people waited for their turn and chatted: pharmacies offered shelter for sociability and leisure, spaces where to exchange news as well – and sometimes where political and religious heterodoxies matured.
-
+A few among the many apothecaries and apothecary shops were crucial sites in the urban and social fabric of the city: physicians and other medical professionals, noblemen and civil servants, artisans, people of middling sort status and servants met there, asking for medicinal compounds processed according to recipes, for raw and semi-processed substances. Benches ran along the walls where people waited for their turn and chatted: pharmacies offered shelter for sociability and leisure, spaces where to exchange news as well – and sometimes where political and religious heterodoxies matured.
+<figure>
 <img src="{{ site.baseurl }}/assets/img/72dpi_BUB_Ms2197_492r_1.jpg" class="img-ctr" align="center"/>
-
+<figcaption>Bologna, Biblioteca Universitaria, MS 2197, <em>Canon Medicinae of Avicenna</em>, c. 1450-75, Italy, fol. 492r</figcaption>
+</figure>
 But *Materia Medica* was the absolute protagonist: preserved in the storerooms, in the jars and vessels on display in the shop, and as a subject of conversation. At the Testa d'oro pharmacy of Rialto (its golden sign still hangs over Rialto bridge),
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Testadoro.jpg"/>
