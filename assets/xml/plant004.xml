@@ -16,7 +16,7 @@
 
         <div type="name">
           <head>NOMI</head>
-          <p> Argavani che inferisse (<ptr target="#A-004-N1"/>) color pavonazio in <placeName ref="https://www.geonames.org/10922502/mediterranean-region.html">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
+          <p> Argavani che inferisse <ptr target="#A-004-N1"/> color pavonazio in <placeName ref="https://www.geonames.org/10922502/mediterranean-region.html">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
             Theophrasti da molti - Glans unguentaria <persName ref="#Mattioli">Matthioli</persName>.</p>
         </div>
         <div type="genus">
@@ -53,7 +53,7 @@
             scenza di questa specie spetta all'<persName ref="#Aldrovandi">Aldovrandi</persName>.</p>
           <p>Il <persName ref="#Mattioli">Mattioli</persName> ne ricevette un disegno da <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> e più tardi un ramo fresco dal
             <persName ref="#Cortuso">Cortuso</persName> sui quali fece la sua figura ed emise l'opinione che questa specie fosse l'
-            <foreign xml:lang="grc">ὀστρύα</foreign> (<ptr target="#A-004-N2"/>) di Teofrasto per la somiglianza al
+            <foreign xml:lang="grc">ὀστρύα</foreign> <ptr target="#A-004-N2"/> di Teofrasto per la somiglianza al
             frassino e la ghianda unguentaria per l'aspetto dei frutti; donde le critiche di
             <persName ref="#Guilandino">Melchiorre Guilandino</persName> qui riportate dal Michiel.</p>
         </div>

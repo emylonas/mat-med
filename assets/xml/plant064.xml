@@ -20,7 +20,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p>Ne sonno in <placeName ref="https://www.geonames.org/2523118/sicily.html">Sicilia</placeName> qualli furno portati per il Mare Gionio (<ptr target="#A-064-N1"/>) et ne sonno qualche
+          <p>Ne sonno in <placeName ref="https://www.geonames.org/2523118/sicily.html">Sicilia</placeName> qualli furno portati per il Mare Gionio <ptr target="#A-064-N1"/> et ne sonno qualche
             uno in Italia, in <placeName ref="https://www.geonames.org/258763/crete.html">Candia</placeName> ne sonno in quantità, et io ne ho mantenuto uno nel mio
             giardineto.</p>
         </div>
@@ -37,7 +37,7 @@
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>
-          <p> Germoglia et si rimette; et son albero che rizeve ogni sorte de in Esti (<ptr target="#A-064-N2"/>) ma
+          <p> Germoglia et si rimette; et son albero che rizeve ogni sorte de in Esti <ptr target="#A-064-N2"/> ma
             corompono alquanto gli sapori.</p>
         </div>
         <div type="disagreements">
@@ -47,7 +47,7 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p>Suoa umbra son molto soave et dilettevol come si lege che ciascheduno debasi guardare
-            da la polvere che ci nasse delle suoe frondi impero (<ptr target="#A-064-N3"/>) ritirata nelle fauce ci nuoce et
+            da la polvere che ci nasse delle suoe frondi impero <ptr target="#A-064-N3"/> ritirata nelle fauce ci nuoce et
             anche nell'occhi et orecchie... </p>
         </div>
         <div type="editorial-D">
@@ -55,7 +55,7 @@
             molto buona, ma ha importanza perché rappresenta una pianta rara a quei tempi in Italia,
             come apprendiamo non solo dal Michiel, ma anche dall'<persName ref="#Anguillara/">Anguillara</persName> che ne conta pochi
             individui nel Veronese, nel Bolognese ed a Padova, quest'ultimo nel giardino di mons. 
-            <persName ref="#BemboT">Torquato Bembo</persName> (<ptr target="#A-064-N4"/>).</p>
+            <persName ref="#BemboT">Torquato Bembo</persName> <ptr target="#A-064-N4"/>.</p>
           <p>Un secolo dopo la compilazione del presente codice lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> (p. 62) scriveva del
             Platano: «in Orbe nostro rara admodum est: nec nisi in divitum hortis apud Italos,
             Hispanos, Siculos et Constantinopolitanos reperitur. Sic speciosas habent Florentiae

@@ -16,8 +16,8 @@
         <div type="name">
           <head>NOMI</head>
           <p> Fior di notte a Napoli - Smilace liscia celeste, Viteal et Volubile medio da volgari -
-            Helxine cissampelos et Convolvulus da Latini - Mitellvviden (<ptr target="#A-011-N1"/>) et Vvoigartenvviden (<ptr target="#A-011-N2"/>)
-            da Germani - Capanete vitreole (<ptr target="#A-011-N3"/>) et lizet (<ptr target="#A-011-N4"/>) da Galli - Granum Nil Avicena dal Ghyno vel
+            Helxine cissampelos et Convolvulus da Latini - Mitellvviden <ptr target="#A-011-N1"/> et Vvoigartenvviden <ptr target="#A-011-N2"/>
+            da Germani - Capanete vitreole <ptr target="#A-011-N3"/> et lizet <ptr target="#A-011-N4"/> da Galli - Granum Nil Avicena dal Ghyno vel
             Habel Nil.</p>
         </div>
         <div type="genus">
@@ -47,7 +47,7 @@
           <p>Figura abbastanza buona di pianta fiorita e fruttifera. Il Michiel ed il <persName ref="#Gesner">Gesner</persName> (<ref type="bibl" target="http://id.sbn.it/bid/PUVE006389"><hi>De
             hortis Germaniae</hi>, f. 255a)</ref> furono i primi ad effigiare questa specie. Linneo, accettando l'identificazione del <persName ref="#Ghini">Ghini</persName>, lo chiamò Convolvulus Nil benché il Nil degli Arabi
             sia Indigofera tinctoria od altra pianta producente indaco, secondo i vari autori. Il
-            fior di notte odierno è <hi>Mirabilis Jalapa</hi>. (<ptr target="#A-011-N5"/>)</p>
+            fior di notte odierno è <hi>Mirabilis Jalapa</hi>. <ptr target="#A-011-N5"/></p>
         </div>
         <div type="notes">
           <note xml:id="A-011-N1" n="1"> Mittelwindc.</note>

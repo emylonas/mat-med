@@ -16,7 +16,7 @@
         <div type="name">
           <head>NOMI</head>
           <p> Asclepias da Latini - Vincitosica da volgari – Cission et Cissophilon da Greci -
-            Schvulbenurtz (<ptr target="#A-041-N1"/>) da Germani - Hirundinario dal Trago - Polirizon Plinij.</p>
+            Schvulbenurtz <ptr target="#A-041-N1"/> da Germani - Hirundinario dal Trago - Polirizon Plinij.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -30,7 +30,7 @@
           <head>OPPINIONI</head>
           <p>M. <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Marchio</persName>, mastro d’il notabil Giardino della ill.ma Signoria nostra dice che il vulgo
             la tiene per il <hi>Polyrizon Plinij</hi>. Asclepias vitiose <persName ref="#Fuchs">Fuchsio</persName> refutata a Mattioli in Au[?]
-            (<ptr target="#A-041-N2"/>). Il Trago ha oppinion per il suo libro che la sia l'Asclepiade.</p>
+            <ptr target="#A-041-N2"/>. Il Trago ha oppinion per il suo libro che la sia l'Asclepiade.</p>
         </div>
         <div type="editorial-D">
           <p>Nella copia del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">libro dei Semplici</ref>  di <persName ref="#Anguillara">Anguillara</persName> esistente alla Biblioteca Marciana di
@@ -47,14 +47,14 @@
           <p>La figura presente abbastanza buona è di pianta completa con fiori e frutti a tutti gli
             stati d'accrescimento fino alla deiscenza del follicolo. L'Anguillara fu condotto ad
             identificare il vincetossico col Polirizo di Plinio perché l'autore classico dice (lib.
-            27, c. 12) che le foglie somiglianti a quelle del mirto (<ptr target="#A-041-N3"/>) servono contro il veleno dei serpenti.
+            27, c. 12) che le foglie somiglianti a quelle del mirto <ptr target="#A-041-N3"/> servono contro il veleno dei serpenti.
             Vi sono altre due piante nel testo pliniano col nome di polirizo, cioè l'elleboro nero e la
             pistolochia ma Plinio le chiama <hi>melanpodion</hi> e <hi>pistolochia</hi>, aggiungendo che alcuni le
-            chiamano polyrrhizon (<ptr target="#A-041-N4"/>). Così si spiega l'equivoco del Guilandino il quale credette che
+            chiamano polyrrhizon <ptr target="#A-041-N4"/>. Così si spiega l'equivoco del Guilandino il quale credette che
             l'Anguillara volesse identificare il vincetossico colla pistolochia di Plinio.</p>
           <p>A questo proposito notiamo che il Littré  <ref type="bibl" target="http://id.sbn.it/bid/UBO2441963">[176]</ref> non mise alcun nome linneano di fronte
             alla parola Polirizo di Plinio rigettando, con ragione, la sua identità con Aristolochia
-            Pistolochia (<ptr target="#A-041-N5"/>). Il Legré <ref type="bibl" target="https://catalogue.bnf.fr/ark:/12148/cb45513429s">[170]</ref> mette il Polirizo tra le specie di Anguillara <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="35"/> che aspettano una
+            Pistolochia <ptr target="#A-041-N5"/>. Il Legré <ref type="bibl" target="https://catalogue.bnf.fr/ark:/12148/cb45513429s">[170]</ref> mette il Polirizo tra le specie di Anguillara <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="35"/> che aspettano una
             identificazione la quale ora si sarebbe ottenuta a merito del nostro codice.</p>
           <p>In un'opera voluminosa come questa, comprendente oltre un migliaio di piante disposte
             con una classificazione artificiale era facile che l'autore dimenticasse di aver
