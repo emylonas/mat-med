@@ -10,6 +10,11 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-127">
         <head>N. 127 Mirto Latifolia</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000248712">[<hi>Myrtus communis L.</hi>]</ref></ab>

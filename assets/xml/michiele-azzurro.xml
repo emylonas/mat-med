@@ -13,26 +13,36 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
   </teiHeader>
   <standOff>
     <listPerson>
-      <person>
+      <!-- Sample for encoding a person
+        <person>
         <persName xml:id="xx" ref="http://a.url.here.it">Template Person</persName>
-      </person>
+        <persName type="alt">alternate name for the person, if any</persName>
+        <note>any further information</desc>
+      </person>  
+      -->
+      
       <person>
         <persName xml:id="daMula" ref="https://www.treccani.it/enciclopedia/marcantonio-da-mula_%28Dizionario-Biografico%29/">Da Mula, Marcantonio</persName>
       </person>
       <person>
         <persName xml:id="Guilandino" ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandino, Melchiorre</persName>
-        <persName>Wieland, Melchior</persName>
+        <persName type="alt">Wieland, Melchior</persName>
       </person>
       <person>
         <persName xml:id="Anguillara" ref="https://www.treccani.it/enciclopedia/squalermo-luigi-detto-anguillara_%28Dizionario-Biografico%29/">Alguillara, Luigi</persName>
-        <persName>Anguillara, Alvise</persName>
+        <persName type="alt">Anguillara, Alvise</persName>
       </person>
       <person>
         <persName xml:id="Rinio" ref="https://data.cerl.org/thesaurus/cnp01365502">Rinio, Benedetto</persName>
-        <persName>Rinius, Benedictus</persName>
+        <persName type="alt">Rinius, Benedictus</persName>
       </person>
       <person>
         <persName xml:id="Ghini" ref="https://www.treccani.it/enciclopedia/luca-ghini_%28Dizionario-Biografico%29/">Ghini, Luca</persName>
@@ -52,8 +62,8 @@
       </person>
       <person>
         <persName xml:id="Cortuso" ref="https://www.treccani.it/enciclopedia/giacomo-antonio-cortuso_(Dizionario-Biografico)">Cortuso, Giacomo Antonio</persName>
-        <persName>Cortusius, Jacobus Antonius</persName>
-        <persName>Cortusi, Jacopo Antonio</persName>
+        <persName type="alt">Cortusius, Jacobus Antonius</persName>
+        <persName type="alt">Cortusi, Jacopo Antonio</persName>
       </person>
       <person>
         <persName xml:id="Pasqualigo">Pasqualigo, Filippo</persName>
@@ -89,7 +99,7 @@
         <persName xml:id="Liberale" ref="http://thesaurus.cerl.org/record/cnp01095089">Liberale, Giorgio</persName>
       </person>
       <person>
-        <p><persName xml:id="Priuli" ref="https://www.treccani.it/enciclopedia/lorenzo-priuli_%28Dizionario-Biografico%29/">Priuli, Lorenzo</persName> </p>
+        <persName xml:id="Priuli" ref="https://www.treccani.it/enciclopedia/lorenzo-priuli_%28Dizionario-Biografico%29/">Priuli, Lorenzo</persName>
       </person>
       <person>
         <persName xml:id="Moderato" ref="...">Moderato, Liberale</persName>
@@ -101,7 +111,7 @@
         <persName xml:id="Alpago">Alpago, Agostino</persName>
       </person>
       <person>
-      <p><persName xml:id="Passamonte">Passamonte, Michele</persName> Speziale piacentino.</p>
+      <persName xml:id="Passamonte">Passamonte, Michele</persName> <note>Speziale piacentino.</note>
       </person>
       <person>
         <p><persName xml:id="Trevisan">Trevisan, Bernardino</persName>  (1506-1583). Studiò filosofia e medicina e si specializzò in botanica.</p>
@@ -122,31 +132,30 @@
         <persName xml:id="Ruellio" ref="http://thesaurus.cerl.org/record/cnp01345249">Ruel, Jean</persName>
       </person>
       <person>
-        <p><persName xml:id="Marcello" ref="https://www.treccani.it/enciclopedia/marcello-virgilio-detto-il-dioscoride-adriani_(Dizionario-Biografico)/">Adriani, Marcello Virgilio</persName> Detto il Dioscoride</p>
+        <persName xml:id="Marcello" ref="https://www.treccani.it/enciclopedia/marcello-virgilio-detto-il-dioscoride-adriani_(Dizionario-Biografico)/">Adriani, Marcello Virgilio</persName> <note>Detto il Dioscoride</note>
       </person>
       <person>
-        <p><persName xml:id="BemboT">Bembo, Torquato</persName> (1525-1595) Figlio naturale del cardinal Pietro Bembo, possedeva uno dei giardini più belli del padovano</p>
+        <persName xml:id="BemboT">Bembo, Torquato</persName> <note>(1525-1595)  Figlio naturale del cardinal Pietro Bembo, possedeva uno dei giardini più belli del padovano</note>
       </person>
       <person>
-        <p><persName xml:id="Cechin">Martinelli, Francesco</persName>Speziale attivo a Venezia all'insegna dell'Angelo, chiamato Cechin (o Cecchin) all'Angelo</p>
+        <p><persName xml:id="Cechin">Martinelli, Francesco</persName> Speziale attivo a Venezia all'insegna dell'Angelo, chiamato Cechin (o Cecchin) all'Angelo</p>
       </person>
       <person>
         <persName xml:id="Cordo" ref="https://www.treccani.it/enciclopedia/simone-da-genova_%28Dizionario-Biografico%29/">Simone da Cordo</persName>
           <persName>Simon a Cordo</persName>
-        <persName>Simone da Genova</persName>
+        <persName type="alt">Simone da Genova</persName>
+      </person>
+      <person> 
+          <persName>Veglia, Pierio Dionisio</persName> <note>Esperto semplicista, botanico, matematico, costruttore di orologi solari, 
+          fra il 1634 ed il 1636 fu prefetto dell'Orto Botanico di Pisa. Frate dell'Ordine dei Servi, nacque a Perugia e morì a Pisa.</note>
       </person>
       <person>
-        <p> 
-          <persName>Veglia, Pierio Dionisio</persName> Esperto semplicista, botanico, matematico, costruttore di orologi solari, 
-          fra il 1634 ed il 1636 fu prefetto dell'Orto Botanico di Pisa. Frate dell'Ordine dei Servi, nacque a Perugia e morì a Pisa.</p>
+        <persName xml:id="Maffei" ref="https://data.cerl.org/thesaurus/cnp01105307">Maffei, Maffeo</persName> 
+          <note>Medico veneziano (m. 1563), possessore di un giardino botanico privato nel sestiere di Canareggio.</note>
       </person>
       <person>
-        <p><persName xml:id="Maffei" ref="https://data.cerl.org/thesaurus/cnp01105307">Maffei, Maffeo</persName> 
-          Medico veneziano (m. 1563), possessore di un giardino botanico privato nel sestiere di Canareggio.</p>
-      </person>
-      <person>
-        <p><persName xml:id="Theofrastus" ref="https://isni.org/isni/000000012276427X">Theophrastus</persName>
-          Filosofo, allievo e successore di Aristotele nella direzione del Peripato. Nato ad Ereso intorno al 371 a.C. e morto ad Atene intorno al 286 a.C.</p>
+        <persName xml:id="Theofrastus" ref="https://isni.org/isni/000000012276427X">Theophrastus</persName>
+          <note>Filosofo, allievo e successore di Aristotele nella direzione del Peripato. Nato ad Ereso intorno al 371 a.C. e morto ad Atene intorno al 286 a.C.</note>
       </person>
     </listPerson>
     

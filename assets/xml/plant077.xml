@@ -10,6 +10,11 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-077">
         <head>N. 77 Opulo</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000514593">[<hi>Acer monspessulanum L.</hi>]</ref></ab>

@@ -11,11 +11,15 @@
         Information about the source
       
     
+    
+      Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      
+    
   
   
     
       
-        Template Person
       
       
         Da Mula, Marcantonio
@@ -87,7 +91,7 @@
         Liberale, Giorgio
       
       
-        Priuli, Lorenzo 
+        Priuli, Lorenzo
       
       
         Moderato, Liberale
@@ -123,18 +127,17 @@
         Adriani, Marcello Virgilio Detto il Dioscoride
       
       
-        Bembo, Torquato (1525-1595) Figlio naturale del cardinal Pietro Bembo, possedeva uno dei giardini più belli del padovano
+        Bembo, Torquato (1525-1595)  Figlio naturale del cardinal Pietro Bembo, possedeva uno dei giardini più belli del padovano
       
       
-        Martinelli, FrancescoSpeziale attivo a Venezia all'insegna dell'Angelo, chiamato Cechin (o Cecchin) all'Angelo
+        Martinelli, Francesco Speziale attivo a Venezia all'insegna dell'Angelo, chiamato Cechin (o Cecchin) all'Angelo
       
       
         Simone da Cordo
           Simon a Cordo
         Simone da Genova
       
-      
-         
+       
           Veglia, Pierio Dionisio Esperto semplicista, botanico, matematico, costruttore di orologi solari, 
           fra il 1634 ed il 1636 fu prefetto dell'Orto Botanico di Pisa. Frate dell'Ordine dei Servi, nacque a Perugia e morì a Pisa.
       
@@ -156,4 +159,1126 @@
     
   
   
+  
+    
+      --&gt;
+        
+    
+    
+    
+    
+      
+plant
+        
+        plant001.xml--&gt; 
+          
+        
+      
+      
+plant
+        
+        plant002.xml--&gt; 
+          
+        
+      
+    
+      
+plant
+        
+        plant003.xml--&gt; 
+          
+        
+      
+
+      
+plant
+        
+        plant004.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant005.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant006.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant007.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant008.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant009.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant010.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant011.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant012.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant013.xml--&gt; 
+          
+        
+      LIBRO AZZURRO
+      
+
+      
+plant
+        
+        plant014.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant015.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant016.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant017.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant17_18_19_20.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant021.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant022.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant023.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant024.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant025.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant026.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant027.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant028.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant029.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant030.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant031.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant032.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant033.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant034.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant035.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant036.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant037.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant038.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant039.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant040.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant041.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant042.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant043.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant044.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant045.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant046.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant047.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant048.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant049.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant050.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant051.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant052.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant053.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant054.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant055.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant056.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant057.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant058.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant059.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant060.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant061.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant062.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant063.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant064.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant065.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant066.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant067.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant068.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant069.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant070.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant071.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant072.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant073.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant074.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant075.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant076.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant077.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant078.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant079.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant080.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant081.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant082.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant083.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant084.xml--&gt; 
+          
+        
+
+
+      
+plant
+        
+        plant085.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant086.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant087.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant088.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant089.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant090.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant091.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant092.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant093.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant094.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant095.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant096.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant097.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant098.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant099.xml--&gt; 
+          
+        
+      
+
+      
+plant
+        
+        plant100.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant101.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant102.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant103.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant104.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant105.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant106.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant107.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant108.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant109.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant110.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant111.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant112.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant113.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant114.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant115.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant116.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant117.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant118.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant119.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant120.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant121.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant122.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant123.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant124.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant125.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant126.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant127.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant128.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant129.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant130.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant131.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant132.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant133.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant134.xml--&gt; 
+          
+        
+
+
+      
+plant
+        
+        plant135.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant136.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant137.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant138.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant139.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant140.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant141.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant142.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant143.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant144.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant145.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant146.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant147.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant148.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant149.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant150_151.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant152.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant153.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant154.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant155.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant156.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant157.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant158.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant159.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant160.xml--&gt; 
+          
+        
+
+      
+plant
+        
+        plant161.xml--&gt; 
+          
+        
+
+    
   

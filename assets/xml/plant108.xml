@@ -10,6 +10,11 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-108">
         <head>N. 108 Frutice Incognito</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000421966">[<hi>I. Vaccinium Vitis Idaea L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000422209">[<hi>II. Vaccinium Myrtillus L.</hi>]</ref></ab>

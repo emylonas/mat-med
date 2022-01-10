@@ -60,7 +60,7 @@ plant
             <xsl:variable name="plant-title" select="t:head"/>
             <xsl:variable name="plant-num" select="substring-after(@xml:id, '-')"/>
             <xsl:variable name="plant-wfo-link" select="t:ab/t:ref[text()='WFO']/@target"/>
-            <xsl:variable name="plant-kew-link" select="t:ab/t:ref[text()='Kew']/@target"/>
+            <xsl:variable name="plant-kew-link" select="t:ab/t:ref[text()='Kew-WPO']/@target"/>
             <xsl:variable name="plant-taxon-content" select="t:ab/t:hi"/>
             <!-- try to make regex to match only name, not numbers. don't need now -->
             <xsl:variable name="plant-name" select="replace($plant-title,'(N[\.N]\s+\d+) ([\w ]+)','$1')"/>
@@ -86,7 +86,7 @@ layout: single-xml
     
     <!-- ************* create people index as an .md file. mostly using HTML -->
     <xsl:template match="t:text">
-        <xsl:result-document href="../../_pages/peopleIndex.md" omit-xml-declaration="yes" >
+        <xsl:result-document href="../../_pages/peopleIndex.md" omit-xml-declaration="yes" indent="no" >
             <xsl:text>---
 title: "Index of People"
 permalink: "/index-people/"
@@ -97,7 +97,11 @@ layout: single
                <xsl:sort select="current-grouping-key()"/>
                <xsl:text>
 ## [</xsl:text><xsl:value-of select="id(substring-after(current-grouping-key(),'#'))"/>](<xsl:value-of select="id(substring-after(current-grouping-key(),'#'))/@ref"/>)
-               information about person here
+               <xsl:for-each select="id(substring-after(current-grouping-key(),'#'))">
+<xsl:value-of select="following-sibling::t:persName[@type='alt']" /> 
+<xsl:value-of select="following-sibling::t:note"/>
+               </xsl:for-each>
+               
                <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
                    <xsl:text>
  - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant']/t:head"/><xsl:text>]({{ site.baseurl }}edition/plant</xsl:text><xsl:value-of select="substring-after(ancestor::t:div[@type='plant']/@xml:id, '-')"/><xsl:text>/) </xsl:text> 

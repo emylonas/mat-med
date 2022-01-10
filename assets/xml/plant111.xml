@@ -10,6 +10,11 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-111">
         <head>N. 111 Sebeste di Levante</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000620765">[<hi>Cordia Myxa L.</hi>]</ref></ab>

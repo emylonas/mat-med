@@ -4,7 +4,6 @@ permalink: "/index-people/"
 layout: single
 ---
 ## [Aldrovandi, Ulisse](https://www.treccani.it/enciclopedia/ulisse-aldrovandi_(Dizionario-Biografico))
-               information about person here
                
  - [N. 4 Albero Incognito]({{ site.baseurl }}edition/plant004/) [2]
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) 
@@ -18,8 +17,7 @@ layout: single
  - [N. 62 Andracne]({{ site.baseurl }}edition/plant062/) [2]
  - [N. 64 Platano]({{ site.baseurl }}edition/plant064/) 
 ## [Alguillara, Luigi](https://www.treccani.it/enciclopedia/squalermo-luigi-detto-anguillara_%28Dizionario-Biografico%29/)
-               information about person here
-               
+               Anguillara, Alvise
  - [N. 3 Lauro Silvestre]({{ site.baseurl }}edition/plant003/) 
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) [7]
  - [N. 7 Vite Bianca Vulgare]({{ site.baseurl }}edition/plant007/) [2]
@@ -47,17 +45,14 @@ layout: single
  - [N. 156 Ciprus]({{ site.baseurl }}edition/plant156/) 
  - [N. 160 Grana]({{ site.baseurl }}edition/plant160/) 
 ## []()
-               information about person here
                
  - [N. 59 Anagiro]({{ site.baseurl }}edition/plant059/) 
  - [N. 64 Platano]({{ site.baseurl }}edition/plant064/) 
 ## [Barbaro, Ermolao](https://www.treccani.it/enciclopedia/ermolao-barbaro_%28Dizionario-Biografico%29/)
-               information about person here
                
  - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) [2]
  - [N. 81 Noce Moscata]({{ site.baseurl }}edition/plant081/) 
 ## [Belon, Pierre](https://data.cerl.org/thesaurus/cnp01320254)
-               information about person here
                
  - [N. 9 Cedro]({{ site.baseurl }}edition/plant009/) 
  - [N. 40 Frutes Citrio Simil]({{ site.baseurl }}edition/plant040/) 
@@ -67,18 +62,15 @@ layout: single
  - [N. 126 Tithimalo Dendroide]({{ site.baseurl }}edition/plant126/) 
  - [N. 155 Loto]({{ site.baseurl }}edition/plant155/) 
 ## [Bembo, Torquato]()
-               information about person here
-               
+               (1525-1595)  Figlio naturale del cardinal Pietro Bembo, possedeva uno dei giardini più belli del padovano
  - [N. 64 Platano]({{ site.baseurl }}edition/plant064/) 
  - [N. 101 Barba Iovis]({{ site.baseurl }}edition/plant101/) 
 ## [Bonato, Giuseppe Antonio](https://marciana.venezia.sbn.it/immagini-possessori/1140-bonato-giuseppe-antonio)
-               information about person here
                
  - [N. 13 Putana vel Olivela]({{ site.baseurl }}edition/plant013/) 
  - [N. 125 Jaruma Albero de India]({{ site.baseurl }}edition/plant125/) 
  - [N. 126 Tithimalo Dendroide]({{ site.baseurl }}edition/plant126/) 
 ## [Martinelli, Francesco]()
-               information about person here
                
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) 
  - [N. 88 Acatia Seconda]({{ site.baseurl }}edition/plant088/) 
@@ -86,48 +78,39 @@ layout: single
  - [N. 142 Nil Sp.]({{ site.baseurl }}edition/plant142/) 
  - [N. 153 Tembul]({{ site.baseurl }}edition/plant153/) 
 ## [Cesalpino, Andrea](https://www.treccani.it/enciclopedia/andrea-cesalpino_%28Dizionario-Biografico%29/)
-               information about person here
                
  - [N. 13 Putana vel Olivela]({{ site.baseurl }}edition/plant013/) 
 ## [Clusius, Carolus](http://thesaurus.cerl.org/record/cnp01302790)
-               information about person here
                
  - [N. 35 Rosa Senis]({{ site.baseurl }}edition/plant035/) 
 ## [Simone da Cordo](https://www.treccani.it/enciclopedia/simone-da-genova_%28Dizionario-Biografico%29/)
-               information about person here
-               
+               Simone da Genova
  - [N. 52 Macaleb]({{ site.baseurl }}edition/plant052/) 
  - [N. 145 Pero Cervino]({{ site.baseurl }}edition/plant145/) 
 ## [Cortuso, Giacomo Antonio](https://www.treccani.it/enciclopedia/giacomo-antonio-cortuso_(Dizionario-Biografico))
-               information about person here
-               
+               Cortusius, Jacobus Antonius Cortusi, Jacopo Antonio
  - [N. 4 Albero Incognito]({{ site.baseurl }}edition/plant004/) 
  - [N. 148 Citiso]({{ site.baseurl }}edition/plant148/) 
 ## [Rauwolf, Leonhard](https://data.cerl.org/thesaurus/cnp00399447)
-               information about person here
                
  - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) 
  - [N. 61 Zarnab]({{ site.baseurl }}edition/plant061/) [2]
 ## [Dodoens, Rembert](http://thesaurus.cerl.org/record/cnp01345755)
-               information about person here
                
  - [N. 6 Vite Nera Vulgare]({{ site.baseurl }}edition/plant006/) [3]
 ## [Fuchs, Leonhart](https://data.cerl.org/thesaurus/cnp01878059)
-               information about person here
                
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) [2]
  - [N. 41 Vircitosica]({{ site.baseurl }}edition/plant041/) [3]
  - [N. 76 Tilia Femina]({{ site.baseurl }}edition/plant076/) 
  - [N. 140 Ericha]({{ site.baseurl }}edition/plant140/) 
 ## [Gesner, Conrad](http://thesaurus.cerl.org/record/cnp01317315)
-               information about person here
                
  - [N. II Smilace Lisia]({{ site.baseurl }}edition/plant011/) 
  - [N. 46 Frutice Incognito]({{ site.baseurl }}edition/plant046/) 
  - [N. 59 Anagiro]({{ site.baseurl }}edition/plant059/) 
  - [N. 73 Pepe Tondo]({{ site.baseurl }}edition/plant073/) 
 ## [Ghini, Luca](https://www.treccani.it/enciclopedia/luca-ghini_%28Dizionario-Biografico%29/)
-               information about person here
                
  - [N. 2 Incognita]({{ site.baseurl }}edition/plant002/) 
  - [N. 3 Lauro Silvestre]({{ site.baseurl }}edition/plant003/) 
@@ -143,12 +126,10 @@ layout: single
  - [N. 134 Smilax Levis di Candia]({{ site.baseurl }}edition/plant134/) 
  - [N. 152 Oxiacanta]({{ site.baseurl }}edition/plant152/) 
 ## [Ryff, Walther Hermann](http://thesaurus.cerl.org/record/cnp01319119)
-               information about person here
                
  - [N. 7 Vite Bianca Vulgare]({{ site.baseurl }}edition/plant007/) [2]
 ## [Guilandino, Melchiorre](http://thesaurus.cerl.org/record/cnp01884856)
-               information about person here
-               
+               Wieland, Melchior
  - [N. 4 Albero Incognito]({{ site.baseurl }}edition/plant004/) 
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) [6]
  - [N. 17 Cedriolo]({{ site.baseurl }}edition/plant017/) [5]
@@ -156,20 +137,16 @@ layout: single
  - [N. 42 Asclepias]({{ site.baseurl }}edition/plant042/) 
  - [N. 145 Pero Cervino]({{ site.baseurl }}edition/plant145/) 
 ## [Liberale, Giorgio](http://thesaurus.cerl.org/record/cnp01095089)
-               information about person here
                
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) 
 ## [Marini, Andrea](https://www.treccani.it/enciclopedia/andrea-marini_%28Dizionario-Biografico%29/)
-               information about person here
                
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) [2]
 ## [Marsili, Giovanni](https://www.treccani.it/enciclopedia/giovanni-marsili_%28Dizionario-Biografico%29/)
-               information about person here
                
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) 
  - [N. IIO SEBESTE SP.]({{ site.baseurl }}edition/plant110/) 
 ## [Mattioli, Pietro Andrea](https://www.treccani.it/enciclopedia/pietro-andrea-mattioli_(Dizionario-Biografico))
-               information about person here
                
  - [N. 4 Albero Incognito]({{ site.baseurl }}edition/plant004/) [4]
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) 
@@ -186,25 +163,20 @@ layout: single
  - [N. 53 Crategon]({{ site.baseurl }}edition/plant053/) 
  - [N. 73 Pepe Tondo]({{ site.baseurl }}edition/plant073/) 
 ## [Mocenigo, Alvise I](https://www.treccani.it/enciclopedia/alvise-mocenigo_res-f80f7ef1-d924-11e0-8aa7-d5ce3506d72e_%28Dizionario-Biografico%29/)
-               information about person here
                
  - [N. 47 Albero da l'Uva]({{ site.baseurl }}edition/plant047/) 
  - [N. 48 Agrifolio]({{ site.baseurl }}edition/plant048/) 
 ## []()
-               information about person here
                
 ## [Passamonte, Michele]()
-               information about person here
-               
+               Speziale piacentino.
  - [N. 51 Cuciophoron]({{ site.baseurl }}edition/plant051/) 
 ## [Plinius Caecilius Secundus, Gaius](https://isni.org/isni/0000000120990775)
-               information about person here
                
  - [N. 39. Albero Simil al Cipreso]({{ site.baseurl }}edition/plant039/) 
  - [N. 51 Cuciophoron]({{ site.baseurl }}edition/plant051/) 
 ## [Rinio, Benedetto](https://data.cerl.org/thesaurus/cnp01365502)
-               information about person here
-               
+               Rinius, Benedictus
  - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) 
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) [2]
  - [N. 33 Laureola]({{ site.baseurl }}edition/plant033/) 
@@ -225,11 +197,9 @@ layout: single
  - [N. 155 Loto]({{ site.baseurl }}edition/plant155/) 
  - [N. 160 Grana]({{ site.baseurl }}edition/plant160/) 
 ## [Ruel, Jean](http://thesaurus.cerl.org/record/cnp01345249)
-               information about person here
                
  - [N. 48 Agrifolio]({{ site.baseurl }}edition/plant048/) 
 ## [Serapio, Junior](http://thesaurus.cerl.org/record/cnp00152538)
-               information about person here
                
  - [N. 9 Cedro]({{ site.baseurl }}edition/plant009/) 
  - [N. 52 Macaleb]({{ site.baseurl }}edition/plant052/) [2]
@@ -240,34 +210,27 @@ layout: single
  - [N. 147 Tamarindi]({{ site.baseurl }}edition/plant147/) 
  - [N. 159 Pepe]({{ site.baseurl }}edition/plant159/) 
 ## [Theophrastus](https://isni.org/isni/000000012276427X)
-               information about person here
-               
+               Filosofo, allievo e successore di Aristotele nella direzione del Peripato. Nato ad Ereso intorno al 371 a.C. e morto ad Atene intorno al 286 a.C.
  - [N. 51 Cuciophoron]({{ site.baseurl }}edition/plant051/) 
  - [N. 53 Crategon]({{ site.baseurl }}edition/plant053/) 
  - [N. 57 Hebano]({{ site.baseurl }}edition/plant057/) 
 ## [Trevisan, Bernardino]()
-               information about person here
                
  - [N. 55 Licio Secondo Indiano]({{ site.baseurl }}edition/plant055/) 
 ## []()
-               information about person here
                
  - [N. 50 Seco Moro Fratesco]({{ site.baseurl }}edition/plant050/) 
 ## [Vergilius Maro, Publius](https://isni.org/isni/0000000430695667)
-               information about person here
                
  - [N. 6 Vite Nera Vulgare]({{ site.baseurl }}edition/plant006/) 
 ## [Da Mula, Marcantonio](https://www.treccani.it/enciclopedia/marcantonio-da-mula_%28Dizionario-Biografico%29/)
-               information about person here
                
  - [N. I Ciruelas Monteses]({{ site.baseurl }}edition/plant001/) [3]
  - [N. 67 Cacao Blanco]({{ site.baseurl }}edition/plant067/) 
 ## []()
-               information about person here
                
  - [N. 15 Chieregini]({{ site.baseurl }}edition/plant015/) 
 ## []()
-               information about person here
                
  - [N. 4 Albero Incognito]({{ site.baseurl }}edition/plant004/) 
  - [N. 9 Cedro]({{ site.baseurl }}edition/plant009/) 
@@ -277,27 +240,21 @@ layout: single
  - [N. 72 Alimo de Crateua]({{ site.baseurl }}edition/plant072/) 
  - [N. 99 Ben da Perfumieri]({{ site.baseurl }}edition/plant099/) 
 ## []()
-               information about person here
                
  - [N. 73 Pepe Tondo]({{ site.baseurl }}edition/plant073/) 
 ## []()
-               information about person here
                
  - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) 
 ## []()
-               information about person here
                
  - [N. 7 Vite Bianca Vulgare]({{ site.baseurl }}edition/plant007/) 
  - [N. 9 Cedro]({{ site.baseurl }}edition/plant009/) 
 ## []()
-               information about person here
                
  - [N. 17 Cedriolo]({{ site.baseurl }}edition/plant017/) 
 ## []()
-               information about person here
                
  - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) 
 ## []()
-               information about person here
                
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) 

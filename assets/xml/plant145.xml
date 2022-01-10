@@ -10,6 +10,11 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-145">
         <head>N. 145 Pero Cervino</head>
         <ab><ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1">[<hi>Cotoneaster integerrima Medic.</hi>]</ref></ab>

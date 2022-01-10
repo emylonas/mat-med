@@ -10,6 +10,11 @@
         <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-115">
         <head>N. 115 Stafilodendro</head>
         <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000493112">[<hi>Staphylea pinnata L.</hi>]</ref></ab>
