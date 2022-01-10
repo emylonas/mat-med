@@ -117,7 +117,7 @@ a.pagination--pager:hover {
 /* adjusts apothecaries' inventory images' positioning */
 
 .page__content > p > a > img {
-	float:  right!important;
+	float: right!important;
 	margin-right: -30%!important;
 	max-width: 300px!important;
 	clear: none;
@@ -126,4 +126,20 @@ a.pagination--pager:hover {
 .page__content > table {
 	max-width: 70%!important;
 	clear: none!important;
+}
+
+@media (max-width: 1280px) {
+	.page__content > p > a > img {
+		float: left!important;
+		margin-right: auto!important;
+		max-width: 100%!important;
+		min-width: 100%!important;
+		clear: both!important;
+	}
+	.page__content > table {
+		max-width: 100%!important;
+	}
+	.page__content > p {
+		clear: both;
+	}
 }
