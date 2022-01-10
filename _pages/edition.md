@@ -2,13 +2,12 @@
 title: Edition
 layout: collection
 permalink: /edition/
-# collection: edition
-layout: single
+collection: edition
+# layout: single
 classes: wide
 sidebar:
   nav: "edition"
 ---
-
 # Pietro Antonio Michel’s Herbal in five books
 
 Marciana Library, Venice, **Ms It. II, 26-30 (= 4860-64)**, *I cinque libri di piante*
