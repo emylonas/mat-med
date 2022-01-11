@@ -22,10 +22,8 @@ As to Venice, in which the art of pharmacy was particularly developed, in 1569 w
 <figcaption>Bologna, Biblioteca Universitaria, MS 2197, <em>Canon Medicinae of Avicenna</em>, c. 1450-75, Italy, fol. 492r</figcaption>
 </figure>
 But *Materia Medica* was the absolute protagonist: preserved in the storerooms, in the jars and vessels on display in the shop, and as a subject of conversation. At the Testa d'oro pharmacy of Rialto (whose golden sign still hangs over Rialto bridge),
-<figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Testadoro.jpg" style="width:70%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Testadoro.jpg" style="width:70%" align="right"/>
 <figcaption>Rialto bridge, sign of the Testa d’Oro pharmacy</figcaption>
-</figure>
 the magnificently illustrated herbal called 'Codice Rinio \[but Roccabonella\]' was on display for the use of experts, but also for the curious who wanted to see and know something more about plants.
 
 In this section, through a few inventories of apothecary shops, you will get an idea of how many natural substances – vegetable, but also animal and mineral ones – were available in an average shop of 16th-and 17th-century Venice. 
