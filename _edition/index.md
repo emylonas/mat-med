@@ -6,9 +6,6 @@ layout: single
 
 <div class="row">
     <div class="flex-child">
-        <img src="{{ site.baseurl }}/assets/img/72dpi_title_azzurro_from_9950_1940.jpg" style="width:50%;border:2px solid black"/>
-    </div>
-    <div class="flex-child">
         <img src="{{ site.baseurl }}/assets/img/72dpi_title-pages-azzurro_mss.png" style="width:50%"/>
     </div>
 </div>
