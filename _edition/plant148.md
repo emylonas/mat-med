@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant148.jpg"
 plant-title: "N. 148 Citiso"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "[Medicago arborea L.]"
 layout: single-xml
 ---

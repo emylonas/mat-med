@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant022.jpg"
 plant-title: "* N. 22 Moli Albero de India"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "[Not identified]"
 layout: single-xml
 ---

@@ -146,7 +146,7 @@
         <persName type="alt">Simone da Genova</persName>
       </person>
       <person> 
-          <persName>Veglia, Pierio Dionisio</persName> <note>Esperto semplicista, botanico, matematico, costruttore di orologi solari, 
+          <persName xml:id="Veglia">Veglia, Pierio Dionisio</persName> <note>Esperto semplicista, botanico, matematico, costruttore di orologi solari, 
           fra il 1634 ed il 1636 fu prefetto dell'Orto Botanico di Pisa. Frate dell'Ordine dei Servi, nacque a Perugia e morì a Pisa.</note>
       </person>
       <person>
@@ -228,7 +228,7 @@
         <head>N. I Ciruelas Monteses</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Ciruelas monteses ex fruta de Indiani<seg type="trans"><foreign xml:lang="eng">wild plums</foreign> 
+          <p> Ciruelas monteses ex fruta de Indiani <seg type="trans"><foreign xml:lang="eng">wild plums</foreign> 
             <foreign xml:lang="ita">prugne selvatiche</foreign></seg></p>
         </div>
         <div type="genus">
@@ -989,7 +989,7 @@
 
       <div type="plant" xml:id="A-016">
         <head>N. 16 Elo Capoli</head>
-        <ab>[Not identified]</ab>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Elo Capoli da Spagnioli overo Indiani.</p>
@@ -1088,7 +1088,7 @@
 
       <div type="plant" xml:id="A-021">
         <head>N. 21 Ciruelas Incarnadas es Fruta</head>
-        <ab>[Not identified]</ab>
+        <ab><hi><hi>[Not identified]</hi></hi></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cirvelas incarnadas es fruta.</p>
@@ -1114,7 +1114,7 @@
 
       <div type="plant" xml:id="A-022">
         <head>* N. 22 Moli Albero de India</head>
-        <ab>[Not identified]</ab>
+        <ab><hi><hi>[Not identified]</hi></hi></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Moli de India albero grande.</p>
@@ -1242,7 +1242,7 @@
 
       <div type="plant" xml:id="A-024">
         <head>N. 24 Vite Nera, Tamaro</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000568332">[<hi>Tamus communis L.</hi>].</ref></ab>
+        <ab>[<hi>Tamus communis L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000568332"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Tamaro et Vite nera volgari - Brionia nigra et Ampellos melena <ptr target="#A-024-N1"/> da Latini - Chironion
@@ -1320,7 +1320,7 @@
 
       <div type="plant" xml:id="A-026">
         <head>N. 26 Ostrin vel Ostrea</head>
-        <ab>[Not identified]</ab>
+        <ab><hi>[<hi>Not identified</hi>]</hi></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Ostrin vel Ostrea da Plinio.</p>
@@ -3504,7 +3504,7 @@
 
       <div type="plant" xml:id="A-079">
         <head>N. 79 Canela</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000605543">[*<hi>Cinnamomum zeylanicum Nees</hi>]</ref></ab>
+        <ab>[<hi>*Cinnamomum zeylanicum Nees</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000605543"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Canella da volgari - Cinamomo da molti avegna che altro ci sia il Cinamomo - Cassia
@@ -3603,7 +3603,7 @@
 
       <div type="plant" xml:id="A-081">
         <head>N. 81 Noce Moscata</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000447317">[*<hi>Myristica fragrans Houtt.</hi>]</ref></ab>
+        <ab>[<hi>*Myristica fragrans Houtt.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000447317"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Noce moscata da volgari - Nux miristica da Latini- Jeuzbaue da Arabi et Sistose,
@@ -4226,7 +4226,7 @@
 
       <div type="plant" xml:id="A-094">
         <head>N. 94 Allaterno</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000818074">[Phyllirea [ma Phillyrea] variabilis Timb. var. media L.]</ref></ab>
+        <ab>[<hi>Phyllirea [ma Phillyrea] variabilis Timb. var. media L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000818074"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Alaterno da Plinio - Allaterna chiamano ancora li vilani da Lanzan a Santo Vito <ptr target="#A-094-N1"/>
@@ -4645,7 +4645,7 @@
 
       <div type="plant" xml:id="A-101">
         <head>N. 101 Barba Iovis</head>
-        <ab><placeName ref="http://www.worldfloraonline.org/taxon/wfo-0000212106">[<hi>Anthyllis Barba-Jovis L.</hi>]</placeName></ab>
+        <ab>[<hi>Anthyllis Barba-Jovis L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Barba Jovis in Italia - Impia Plinij da molti - Herba Herculis vel Honades, idest
@@ -4928,7 +4928,7 @@
 
       <div type="plant" xml:id="A-106">
         <head>N. 106 Paliuro di Agatocle</head>
-        <ab>[Zizyphus ...]</ab>
+        <ab>[<hi>Zizyphus ...</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Paliuro di Agatocle - Connaron da Atheneo - Serica da Galeno Giugibe – Ziziphe.</p>
@@ -5339,7 +5339,7 @@
 
       <div type="plant" xml:id="A-114">
         <head>N. 114 Pistachier</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000393766">[<hi>Pistacia vera L.</hi>♀]</ref></ab>
+        <ab>[<hi>Pistacia vera L. ♀</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000393766"/></ab>
         <div type="names">
           <head>Nomi</head>
           <p>Pistachier da volgari - Pistacia da Greci - Pisthoc, Fustech, Siusistach da Arabi - Fistucia
@@ -5650,7 +5650,7 @@
 
       <div type="plant" xml:id="A-121">
         <head>N. 121 Genesta</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000213405">[I. <hi>Spartium Junceum L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000213761">[II. <hi>Genista radiata Scop.</hi>]</ref></ab>
+        <ab>[<hi>I. Spartium Junceum L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000213405"/> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000213761">[II. <hi>Genista radiata Scop.</hi>]</ref></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Genesta da volgari Balsilex da Latini Spartum Diascoride Spargamo et Mirche da Arabi
@@ -6739,7 +6739,7 @@
 
       <div type="plant" xml:id="A-145">
         <head>N. 145 Pero Cervino</head>
-        <ab><ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1">[<hi>Cotoneaster integerrima Medic.</hi>]</ref></ab>
+        <ab>[<hi>Cotoneaster integerrima Medic.</hi>] <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Pero cervino da Pugliesi - Chamemespilus Valerij Cordi.</p>
@@ -6861,7 +6861,7 @@
 
       <div type="plant" xml:id="A-148">
         <head>N. 148 Citiso</head>
-        <ab>[Medicago arborea L.)</ab>
+        <ab><hi>[Medicago arborea L.]</hi></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cytiso, li altri nomi a k. 116 nel libro primo rosso.</p>

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant101.jpg"
 plant-title: "N. 101 Barba Iovis"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Anthyllis Barba-Jovis L."
 layout: single-xml
 ---

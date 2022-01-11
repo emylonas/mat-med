@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant114.jpg"
 plant-title: "N. 114 Pistachier"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Pistacia vera L. ♀"
 layout: single-xml
 ---

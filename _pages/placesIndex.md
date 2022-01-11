@@ -186,8 +186,6 @@ layout: single
  - [N. 54 Licio Primo]({{ site.baseurl }}edition/plant054/) 
 ## Zividal de Bellun
  - [N. 32 Piper Montan]({{ site.baseurl }}edition/plant032/) 
-## [Anthyllis Barba-Jovis L.]
- - [N. 101 Barba Iovis]({{ site.baseurl }}edition/plant101/) 
 ## alpi di Liguria
  - [N. 54 Licio Primo]({{ site.baseurl }}edition/plant054/) 
 ## frati zocolanti in San Francesco

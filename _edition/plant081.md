@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant081.jpg"
 plant-title: "N. 81 Noce Moscata"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "*Myristica fragrans Houtt."
 layout: single-xml
 ---

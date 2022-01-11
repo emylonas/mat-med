@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant024.jpg"
 plant-title: "N. 24 Vite Nera, Tamaro"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Tamus communis L."
 layout: single-xml
 ---

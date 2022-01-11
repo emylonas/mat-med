@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant094.jpg"
 plant-title: "N. 94 Allaterno"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Phyllirea [ma Phillyrea] variabilis Timb. var. media L."
 layout: single-xml
 ---

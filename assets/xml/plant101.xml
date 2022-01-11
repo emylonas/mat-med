@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-101">
         <head>N. 101 Barba Iovis</head>
-        <ab><placeName ref="http://www.worldfloraonline.org/taxon/wfo-0000212106">[<hi>Anthyllis Barba-Jovis L.</hi>]</placeName></ab>
+        <ab>[<hi>Anthyllis Barba-Jovis L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Barba Jovis in Italia - Impia Plinij da molti - Herba Herculis vel Honades, idest
