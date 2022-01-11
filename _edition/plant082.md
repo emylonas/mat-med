@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant082.jpg"
 plant-title: "N. 82 Noce de India"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cocos nucifera L."
 layout: single-xml
 ---

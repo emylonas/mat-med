@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant138.jpg"
 plant-title: "N. 138 Lantana"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Viburnum Lantana L."
 layout: single-xml
 ---

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant014.jpg"
 plant-title: "N. 14 Philirea"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Phyllirea L.?"
 layout: single-xml
 ---

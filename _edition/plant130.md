@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant130.jpg"
 plant-title: "N. 130 Ceiner Melo"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cycas circinnalis L."
 layout: single-xml
 ---

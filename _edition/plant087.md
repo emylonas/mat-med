@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant087.jpg"
 plant-title: "N. 87 Spin Bianco"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Crataegus oxyacantha L."
 layout: single-xml
 ---

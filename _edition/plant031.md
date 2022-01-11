@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant031.jpg"
 plant-title: "N. 31 Chame Timelea spe."
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Daphne Cneorum L."
 layout: single-xml
 ---

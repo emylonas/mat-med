@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant125.jpg"
 plant-title: "N. 125 Jaruma Albero de India"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cecropia palmata Willd."
 layout: single-xml
 ---

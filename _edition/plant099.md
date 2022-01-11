@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant099.jpg"
 plant-title: "N. 99 Ben da Perfumieri"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Moringa alata *an aptius M. pterigosperma Gaertner?"
 layout: single-xml
 ---

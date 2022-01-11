@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant046.jpg"
 plant-title: "N. 46 Frutice Incognito"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Lonicera alpigena L."
 layout: single-xml
 ---

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant149.jpg"
 plant-title: "N. 149 Frangola"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Lonicera Xylosteum L."
 layout: single-xml
 ---

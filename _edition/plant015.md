@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant015.jpg"
 plant-title: "N. 15 Chieregini"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cardiospermum Halicacabum L."
 layout: single-xml
 ---

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant041.jpg"
 plant-title: "N. 41 Vircitosica"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cynanchum Vincetoxicum Pers."
 layout: single-xml
 ---

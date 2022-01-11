@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant033.jpg"
 plant-title: "N. 33 Laureola"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Daphne Laureola L."
 layout: single-xml
 ---

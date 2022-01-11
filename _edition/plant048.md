@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant048.jpg"
 plant-title: "N. 48 Agrifolio"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Ilex Aquifolium L."
 layout: single-xml
 ---

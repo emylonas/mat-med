@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant037.jpg"
 plant-title: "N. 37 Taso"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Taxus baccata L."
 layout: single-xml
 ---

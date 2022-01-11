@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant110.jpg"
 plant-title: "N. IIO SEBESTE SP."
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Diospyrus Lotus L."
 layout: single-xml
 ---

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant032.jpg"
 plant-title: "N. 32 Piper Montan"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Daphne Mezereum L."
 layout: single-xml
 ---

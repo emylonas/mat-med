@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant141.jpg"
 plant-title: "N. 141 Nil Spetie"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Ipomoea purpurea Lam."
 layout: single-xml
 ---

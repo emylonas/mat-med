@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant146.jpg"
 plant-title: "N. 146 Aspalato"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Genista aspalathoides Lam."
 layout: single-xml
 ---

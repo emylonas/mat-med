@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant118.jpg"
 plant-title: "N. 118 Ramno Bianco"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Hippophaë rhamnoides L."
 layout: single-xml
 ---

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant042.jpg"
 plant-title: "N. 42 Asclepias"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Marsdenia erecta (L.) R.Br."
 layout: single-xml
 ---

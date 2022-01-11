@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant105.jpg"
 plant-title: "N. 105 Lentisco"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Pistacia Lentiscus L."
 layout: single-xml
 ---

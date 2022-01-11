@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant011.jpg"
 plant-title: "N. II Smilace Lisia"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Ipomoea hederacea Jacq."
 layout: single-xml
 ---

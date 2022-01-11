@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant043.jpg"
 plant-title: "N. 43 Asclepias de Francia"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cynanchum nigrum Pers."
 layout: single-xml
 ---

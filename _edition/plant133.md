@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant133.jpg"
 plant-title: "N. 133 Smilace Aspera"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Smilax aspera L."
 layout: single-xml
 ---

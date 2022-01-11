@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant075.jpg"
 plant-title: "N. 75 Corniolo"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cornus mas L."
 layout: single-xml
 ---

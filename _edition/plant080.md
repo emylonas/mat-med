@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant080.jpg"
 plant-title: "N. 80 Mamai Albero de India"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Mammea americana L."
 layout: single-xml
 ---

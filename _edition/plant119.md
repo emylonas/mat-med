@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant119.jpg"
 plant-title: "N. 119 Ramno dal Folicolo"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Paliurus Spina-Christi Mill."
 layout: single-xml
 ---

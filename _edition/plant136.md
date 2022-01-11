@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant136.jpg"
 plant-title: "N.136 Carober Salvatico"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cercis Siliquastrum L."
 layout: single-xml
 ---

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant159.jpg"
 plant-title: "N. 159 Pepe"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: "fittizia"
+plant-taxon-content: "fittizia II. Xylopia aethiopica A. Rich."
 layout: single-xml
 ---

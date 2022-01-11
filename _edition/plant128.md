@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant128.jpg"
 plant-title: "N. 128 Mirto Minuto"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Myrtus communis L. var. tarentina L."
 layout: single-xml
 ---

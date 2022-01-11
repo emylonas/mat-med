@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant078.jpg"
 plant-title: "N. 78 Garofali"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Eugenia caryophyllata Thunbg."
 layout: single-xml
 ---

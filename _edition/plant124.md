@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant124.jpg"
 plant-title: "N. 124 Solano Aquatico"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Solanum Dulcamara L."
 layout: single-xml
 ---

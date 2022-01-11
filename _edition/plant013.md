@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant013.jpg"
 plant-title: "N. 13 Putana vel Olivela"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Rhamnus Alaternus L."
 layout: single-xml
 ---

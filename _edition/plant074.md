@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant074.jpg"
 plant-title: "N. 74 Ribes Menor"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Ribes rubrum L."
 layout: single-xml
 ---

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant035.jpg"
 plant-title: "N. 35 Rosa Senis"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Philadelphus coronarius L."
 layout: single-xml
 ---

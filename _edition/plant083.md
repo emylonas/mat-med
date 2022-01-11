@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant083.jpg"
 plant-title: "N. 83 Agno Casto"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Vitex Agnus-Castus L."
 layout: single-xml
 ---

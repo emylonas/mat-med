@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant108.jpg"
 plant-title: "N. 108 Frutice Incognito"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "I. Vaccinium Vitis Idaea L. II. Vaccinium Myrtillus L."
 layout: single-xml
 ---

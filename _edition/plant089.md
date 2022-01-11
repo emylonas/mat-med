@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant089.jpg"
 plant-title: "N. 89 Acatia"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Calycotome spinosa Lk."
 layout: single-xml
 ---

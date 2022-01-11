@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant098.jpg"
 plant-title: "N. 98 Oleandro"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Nerium Oleander L."
 layout: single-xml
 ---

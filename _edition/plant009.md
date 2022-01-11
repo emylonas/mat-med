@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant009.jpg"
 plant-title: "N. 9 Cedro"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "I. Juniperus Oxycedrus L. II. J. macrocarpa S. et S."
 layout: single-xml
 ---

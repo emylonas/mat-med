@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-042">
         <head>N. 42 Asclepias</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001102183">[<hi>Marsdenia erecta (L.) R.Br.</hi>]</ref></ab>
+        <ab>[<hi>Marsdenia erecta (L.) R.Br.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0001102183"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Asclepiade dal francese, <persName ref="#Belonio">Bellonio</persName> simplicista copioso et erante.</p>

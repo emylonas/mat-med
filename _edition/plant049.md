@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant049.jpg"
 plant-title: "N. 49 Ficus Egiptia"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Ficus Sycomorus L."
 layout: single-xml
 ---

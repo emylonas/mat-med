@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant012.jpg"
 plant-title: "N. 12 Ligustro"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Ligustrum vulgare L."
 layout: single-xml
 ---

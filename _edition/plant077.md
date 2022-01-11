@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant077.jpg"
 plant-title: "N. 77 Opulo"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Acer monspessulanum L."
 layout: single-xml
 ---

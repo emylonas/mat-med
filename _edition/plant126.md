@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant126.jpg"
 plant-title: "N. 126 Tithimalo Dendroide"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Euphorbia dendroides L."
 layout: single-xml
 ---

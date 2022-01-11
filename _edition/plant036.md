@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant036.jpg"
 plant-title: "N. 36 Abete"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Abies alba Mill."
 layout: single-xml
 ---

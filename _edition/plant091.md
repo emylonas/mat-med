@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant091.jpg"
 plant-title: "N. 91 Brionia"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Bryonia dioica Jacq. ..."
 layout: single-xml
 ---

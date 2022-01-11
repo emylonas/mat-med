@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant090.jpg"
 plant-title: "N. 90 Charance"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Momordica Balsamina L."
 layout: single-xml
 ---

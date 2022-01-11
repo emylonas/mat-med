@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant100.jpg"
 plant-title: "N. 100 Betula"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Betula alba L."
 layout: single-xml
 ---

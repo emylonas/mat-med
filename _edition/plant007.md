@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant007.jpg"
 plant-title: "N. 7 Vite Bianca Vulgare"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Clematis Flammula L."
 layout: single-xml
 ---

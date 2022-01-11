@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant095.jpg"
 plant-title: "N. 95 Storace"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Styrax officinale L."
 layout: single-xml
 ---

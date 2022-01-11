@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant025.jpg"
 plant-title: "N. 25 Centunculo"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Polygonum Convolvulus L."
 layout: single-xml
 ---

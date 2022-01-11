@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant160.jpg"
 plant-title: "N. 160 Grana"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Quercus coccifera L."
 layout: single-xml
 ---

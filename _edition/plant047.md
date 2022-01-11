@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant047.jpg"
 plant-title: "N. 47 Albero da l'Uva"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Prunus Padus L."
 layout: single-xml
 ---

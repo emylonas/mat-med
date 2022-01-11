@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant111.jpg"
 plant-title: "N. 111 Sebeste di Levante"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cordia Myxa L."
 layout: single-xml
 ---

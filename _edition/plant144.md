@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant144.jpg"
 plant-title: "N. 144 Aria"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Pirus Aria Ehrh."
 layout: single-xml
 ---

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant086.jpg"
 plant-title: "N. 86 Azarolo"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Crataegus Azarolus L."
 layout: single-xml
 ---

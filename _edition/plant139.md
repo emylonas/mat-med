@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant139.jpg"
 plant-title: "N. 139 Berberi"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Berberis vulgaris L."
 layout: single-xml
 ---

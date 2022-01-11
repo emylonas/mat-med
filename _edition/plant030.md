@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant030.jpg"
 plant-title: "N. 30 Chamelea"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Daphne oleaefolia Lk."
 layout: single-xml
 ---

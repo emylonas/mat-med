@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant050.jpg"
 plant-title: "N. 50 Seco Moro Fratesco"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Melia Azedarach L."
 layout: single-xml
 ---

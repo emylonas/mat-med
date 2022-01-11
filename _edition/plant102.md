@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant102.jpg"
 plant-title: "N. 102 Casia Solutiva"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Cassia Fistula L."
 layout: single-xml
 ---
