@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant145_verso.jpg"
 plant-img2: "/assets/img/plant145.jpg"
 plant-title: "N. 145 Pero Cervino"
 plant-wfo-link: ""
-plant-kew-link: ""
+plant-kew-link: "http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1"
 plant-taxon-content: "Cotoneaster integerrima Medic."
 layout: single-xml
 ---

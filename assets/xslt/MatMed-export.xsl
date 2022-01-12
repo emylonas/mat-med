@@ -59,8 +59,8 @@ plant
         <xsl:result-document method="text" href="{$md-file}">
             <xsl:variable name="plant-title" select="t:head"/>
             <xsl:variable name="plant-num" select="substring-after(@xml:id, '-')"/>
-            <xsl:variable name="plant-wfo-link" select="t:ab/t:ref[text()='WFO']/@target"/>
-            <xsl:variable name="plant-kew-link" select="t:ab/t:ref[text()='Kew-WPO']/@target"/>
+            <xsl:variable name="plant-wfo-link" select="t:ab/t:ref[@type='wfo'][1]/@target"/>
+            <xsl:variable name="plant-kew-link" select="t:ab/t:ref[@type='kew'][1]/@target"/>
             <xsl:variable name="plant-taxon-content" select="t:ab/t:hi"/>
             <!-- try to make regex to match only name, not numbers. don't need now -->
             <xsl:variable name="plant-name" select="replace($plant-title,'(N[\.N]\s+\d+) ([\w ]+)','$1')"/>

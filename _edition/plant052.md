@@ -7,7 +7,7 @@ plant-xml: "/assets/xml/plant052.xml"
 plant-img1: "/assets/img/plant052_verso.jpg"
 plant-img2: "/assets/img/plant052.jpg"
 plant-title: "N. 52 Macaleb"
-plant-wfo-link: ""
+plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0001013325"
 plant-kew-link: ""
 plant-taxon-content: "Prunus Mahaleb L."
 layout: single-xml

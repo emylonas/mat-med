@@ -7,7 +7,7 @@ plant-xml: "/assets/xml/plant023.xml"
 plant-img1: "/assets/img/plant023_verso.jpg"
 plant-img2: "/assets/img/plant023.jpg"
 plant-title: "N. 23 Scamonea"
-plant-wfo-link: ""
+plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0001298534"
 plant-kew-link: ""
 plant-taxon-content: "Convolvolus Scammonia L."
 layout: single-xml

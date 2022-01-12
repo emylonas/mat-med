@@ -7,7 +7,7 @@ plant-xml: "/assets/xml/plant073.xml"
 plant-img1: "/assets/img/plant073_verso.jpg"
 plant-img2: "/assets/img/plant073.jpg"
 plant-title: "N. 73 Pepe Tondo"
-plant-wfo-link: ""
+plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000405161"
 plant-kew-link: ""
 plant-taxon-content: "Ribes nigrum L."
 layout: single-xml

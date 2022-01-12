@@ -7,7 +7,7 @@ plant-xml: "/assets/xml/plant045.xml"
 plant-img1: "/assets/img/plant045_verso.jpg"
 plant-img2: "/assets/img/plant045.jpg"
 plant-title: "N. 45 Chico Capolt"
-plant-wfo-link: ""
+plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000294988"
 plant-kew-link: ""
 plant-taxon-content: "Achras Sapota L."
 layout: single-xml

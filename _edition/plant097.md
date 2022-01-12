@@ -7,7 +7,7 @@ plant-xml: "/assets/xml/plant097.xml"
 plant-img1: "/assets/img/plant097_verso.jpg"
 plant-img2: "/assets/img/plant097.jpg"
 plant-title: "N. 97 Visco"
-plant-wfo-link: ""
+plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000424722"
 plant-kew-link: ""
 plant-taxon-content: "Viscum album L."
 layout: single-xml
