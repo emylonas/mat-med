@@ -33,7 +33,7 @@ We decided not to convert pages of the Herbal to HTML or Markdown in the initial
 
 ### Credits
 
-Sabrina Minucci, the principal investigator of this project, is responsible for all the content and intellectual contributions. 
+Sabrina Minuzzi, the principal investigator of this project, is responsible for all the content and intellectual contributions. 
 
 Brown University Center for Digital Scholarship provided support and direction for the data architecture of the digital edition, a process for implementing and generating the website and visual design. 
 
