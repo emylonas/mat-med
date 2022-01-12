@@ -34,6 +34,8 @@ Alternate Names: Anguillara, Alvise
  - [N. 43 Asclepias de Francia]({{ site.baseurl }}edition/plant043/) 
  - [N. 48 Agrifolio]({{ site.baseurl }}edition/plant048/) 
  - [N. 50 Seco Moro Fratesco]({{ site.baseurl }}edition/plant050/) 
+ - [N. 59 Anagiro]({{ site.baseurl }}edition/plant059/) 
+ - [N. 64 Platano]({{ site.baseurl }}edition/plant064/) 
  - [N. 71 Madre Silva]({{ site.baseurl }}edition/plant071/) 
  - [N. 73 Pepe Tondo]({{ site.baseurl }}edition/plant073/) 
  - [N. 95 Storace]({{ site.baseurl }}edition/plant095/) 
@@ -46,11 +48,6 @@ Alternate Names: Anguillara, Alvise
  - [N. 153 Tembul]({{ site.baseurl }}edition/plant153/) [2]
  - [N. 156 Ciprus]({{ site.baseurl }}edition/plant156/) 
  - [N. 160 Grana]({{ site.baseurl }}edition/plant160/) 
-                   
-## []()
-
- - [N. 59 Anagiro]({{ site.baseurl }}edition/plant059/) 
- - [N. 64 Platano]({{ site.baseurl }}edition/plant064/) 
                    
 ## [Barbaro, Ermolao](https://www.treccani.it/enciclopedia/ermolao-barbaro_%28Dizionario-Biografico%29/)
 

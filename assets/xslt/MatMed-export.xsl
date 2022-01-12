@@ -94,7 +94,7 @@ layout: single
 ---</xsl:text>
             
            <xsl:for-each-group select="descendant::t:persName" group-by="@ref">
-               <xsl:sort select="current-grouping-key()"/>
+               <xsl:sort select="lower-case(current-grouping-key())"/>
                <xsl:text>
                    
 ## [</xsl:text><xsl:value-of select="id(substring-after(current-grouping-key(),'#'))"/>](<xsl:value-of select="id(substring-after(current-grouping-key(),'#'))/@ref"/>)
