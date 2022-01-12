@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-110">
         <head>N. IIO SEBESTE SP.</head>
-        <ab>[<hi>Diospyrus Lotus L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000649239"/></ab>
+        <ab>[<hi>Diospyrus Lotus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000649239"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Sebeste spetie da volgari Loto secondo alcuni sto di Plinio <ptr target="#A-110-N1"/>  secondo altri Guaiaco

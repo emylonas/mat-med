@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-067">
         <head>N. 67 Cacao Blanco</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000458440"/>[<hi>Theobroma Cacao L.</hi>]</ab>
+        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000458440"/>[<hi>Theobroma Cacao L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cacao blanco da Indiani overo Spagnioli.</p>

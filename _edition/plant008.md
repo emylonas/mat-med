@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant008.jpg"
 plant-title: "N. 8 Savina"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: "I. Juniperus Sabina L."
+plant-taxon-content: "I. Juniperus Sabina L. II, Juniperus phoenicea L."
 layout: single-xml
 ---

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-004">
         <head>N. 4 Albero Incognito</head>
-        <ab>[<hi>Syringa vulgaris L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000818704">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:289009-2">Kew</ref></ab>
+        <ab>[<hi>Syringa vulgaris L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000818704"/> <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:289009-2"/></ab>
 
         <div type="name">
           <head>NOMI</head>

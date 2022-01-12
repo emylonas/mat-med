@@ -19,7 +19,7 @@
         <head>N. 5 Atragene</head>
 
 
-        <ab>[<hi>Clematis Vitalba L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000610926">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:319145-2">Kew</ref></ab>
+        <ab>[<hi>Clematis Vitalba L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610926"/> <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:319145-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Atragena Theophrasti - Vitison da volgari.</p>

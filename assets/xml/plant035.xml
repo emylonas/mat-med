@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-035">
         <head>N. 35 Rosa Senis</head>
-        <ab>[<hi>Philadelphus coronarius L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000465348"/></ab>
+        <ab>[<hi>Philadelphus coronarius L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000465348"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Rosa Senis da volg. - Et Seringa.</p>

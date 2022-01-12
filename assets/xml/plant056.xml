@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-056">
         <head>N. 56 Suber Th.</head>
-        <ab><ref target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/>[<hi>Quercus Suber L.</hi>]</ab>
+        <ab>[<hi>Quercus Suber L.</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Suber da Theophrasto et dal Gaza.</p>

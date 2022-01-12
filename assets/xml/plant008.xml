@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-008">
         <head>N. 8 Savina</head>
-        <ab>[<hi>I. Juniperus Sabina L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000354994"/>. - <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355663">[<hi>II, Juniperus phoenicea L.</hi></ref>]</ab>
+        <ab>[<hi>I. Juniperus Sabina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000354994"/>. - [<hi>II, Juniperus phoenicea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000355663"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Savina da volg. - Abhel da Arabici da Germ. - Savinier da Galeno - Arathy, Barython

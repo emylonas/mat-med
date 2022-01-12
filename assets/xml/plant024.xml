@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-024">
         <head>N. 24 Vite Nera, Tamaro</head>
-        <ab>[<hi>Tamus communis L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000568332"/></ab>
+        <ab>[<hi>Tamus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000568332"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Tamaro et Vite nera volgari - Brionia nigra et Ampellos melena <ptr target="#A-024-N1"/> da Latini - Chironion

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-078">
         <head>N. 78 Garofali</head>
-        <ab>[<hi>Eugenia caryophyllata Thunbg.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000956730"/></ab>
+        <ab>[<hi>Eugenia caryophyllata Thunbg.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000956730"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Garofali orientali volgarmente - Harmufel da Arabi.</p>

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-091">
         <head>N. 91 Brionia</head>
-        <ab>[<hi>Bryonia dioica Jacq. ...</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000572974"/></ab>
+        <ab>[<hi>Bryonia dioica Jacq. ...</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000572974"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Vite alba, Viticella et Brionia da Latini - Zucha salvatica da volgari - Fesera, Fea vel

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-077">
         <head>N. 77 Opulo</head>
-        <ab>[<hi>Acer monspessulanum L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000514593"/></ab>
+        <ab>[<hi>Acer monspessulanum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000514593"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Opulo.</p>

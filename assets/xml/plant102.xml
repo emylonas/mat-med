@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-102">
         <head>N. 102 Casia Solutiva</head>
-        <ab>[<hi>Cassia Fistula L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000163802"/></ab>
+        <ab>[<hi>Cassia Fistula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000163802"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cassia solutiva et siliqua de Egipto - da Latini Cassia nera - da il Greco Atuario.</p>

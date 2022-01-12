@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-115">
         <head>N. 115 Stafilodendro</head>
-        <ab>[<hi>Staphylea pinnata L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000493112"/></ab>
+        <ab>[<hi>Staphylea pinnata L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000493112"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Staphilodendron da Plinio Avelana indica da volgari Ornello in Romagnia Bim per

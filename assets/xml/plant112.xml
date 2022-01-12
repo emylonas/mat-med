@@ -18,7 +18,7 @@
   </teiHeader><text><body><div type="plant" xml:id="A-112">
         <head>N. II2 Guaico</head>
         <div type="editorial-S">
-          <ab> [<hi>Guaiacum L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-4000016293"/></ab>
+          <ab> [<hi>Guaiacum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-4000016293"/></ab>
         </div>
           <div type="name">
           <head>NOMI</head>

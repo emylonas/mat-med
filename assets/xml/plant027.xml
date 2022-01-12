@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-027">
         <head>N. 27 Fusaria, Stonber</head>
-        <ab>[<hi>Euonymus Europaeus L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000681728"/></ab>
+        <ab>[<hi>Euonymus Europaeus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000681728"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Evonimo da Theophrasto - Fusaria latini - Barete da preti da vuolgari - Stomber <ptr target="#A-027-N1"/> da

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-083">
         <head>N. 83 Agno Casto</head>
-        <ab>[<hi>Vitex Agnus-Castus L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000332916"/></ab>
+        <ab>[<hi>Vitex Agnus-Castus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000332916"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Agno casto da volgari - Salice marino et Alesandrina, Arbor Abraz et Agnus castus da

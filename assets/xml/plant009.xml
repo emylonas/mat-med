@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-009">
         <head>N. 9 Cedro</head>
-        <ab>[<hi>I. Juniperus Oxycedrus L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355658"/> - [<hi>II. J. macrocarpa S. et S.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000355640"/></ab>
+        <ab>[<hi>I. Juniperus Oxycedrus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000355658"/> - [<hi>II. J. macrocarpa S. et S.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000355640"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cedrus da Arabi et Latini - Serbin da Greci - Oxicedro da molti - Reomiher da Hebrei nel

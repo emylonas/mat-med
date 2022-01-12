@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-033">
         <head>N. 33 Laureola</head>
-        <ab>[<hi>Daphne Laureola L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000637701"/></ab>
+        <ab>[<hi>Daphne Laureola L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637701"/></ab>
         <div type="name">
           <head>Nomi</head>
           <p> Laureola et Lauraginem da Romani et vuolgari - Chamae-daphne et Daphnitem da Greci –

@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant161.jpg"
 plant-title: "N. 161 Otra Manera de Mecoacan"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Ipomaea Jalapa Coxe"
 layout: single-xml
 ---

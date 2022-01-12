@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-076">
         <head>N. 76 Tilia Femina</head>
-        <ab>[<hi>Tilia cordata Mill.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000457451"/></ab>
+        <ab>[<hi>Tilia cordata Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000457451"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Thilia femina dal <persName ref="#Fuchs">Fuchsio</persName> - Phylira da Greci - Tilia da Latini et officini - Linden da

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-006">
         <head>N. 6 Vite Nera Vulgare</head>
-        <ab>[<hi>Clematis Viticella L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000610944"/></ab>
+        <ab>[<hi>Clematis Viticella L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610944"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Vite nera da volgari - Clematide altera da Diascoride - Philacrion da Egiptij - Epigetin da

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-017">
         <head>N. 17 Cedriolo</head>
-        <ab>[<ref target="http://www.worldfloraonline.org/taxon/wfo-0000479867">Passiflora coerulea L.</ref>]</ab>
+        <ab>[<hi>Passiflora coerulea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000479867"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Mecoacan <ptr target="#A-017-N1"/> da Spagnioli — Cedriolo vel Cocomero sp.</p>

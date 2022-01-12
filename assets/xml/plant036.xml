@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-036">
         <head>N. 36 Abete</head>
-        <ab>[<hi>Abies alba Mill.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000510976"/></ab>
+        <ab>[<hi>Abies alba Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000510976"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Abete da Latini Avezzo da volg. et Avedin.</p>

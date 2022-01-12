@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-130">
         <head>N. 130 Ceiner Melo</head>
-        <ab>[<hi>Cycas circinnalis L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000631521"/></ab>
+        <ab>[<hi>Cycas circinnalis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000631521"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Ceiner melo da Mesopotamiani et Antiocheni.</p>

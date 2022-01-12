@@ -7,7 +7,7 @@ plant-xml: "/assets/xml/plant005.xml"
 plant-img1: "/assets/img/plant005_verso.jpg"
 plant-img2: "/assets/img/plant005.jpg"
 plant-title: "N. 5 Atragene"
-plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000610926"
+plant-wfo-link: ""
 plant-kew-link: ""
 plant-taxon-content: "Clematis Vitalba L."
 layout: single-xml

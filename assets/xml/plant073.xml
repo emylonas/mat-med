@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-073">
         <head>N. 73 Pepe Tondo</head>
-        <ab>[<hi>Ribes nigrum L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000405161"/></ab>
+        <ab>[<hi>Ribes nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405161"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Pepe tondo Pepe da Greci et Latini Falfel da Arabici Pimenta del rabo da Portogesi

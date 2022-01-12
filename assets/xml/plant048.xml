@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-048">
         <head>N. 48 Agrifolio</head>
-        <ab>[<hi>Ilex Aquifolium L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000729203"/></ab>
+        <ab>[<hi>Ilex Aquifolium L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000729203"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Agrifolio da volgari – Lothos, Mella, Agrifolium, Locrus et Sidra da Greci - Paliuro da

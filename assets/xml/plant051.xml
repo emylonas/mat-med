@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-051">
         <head>N. 51 Cuciophoron</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
+        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cuciophoron da <persName ref="#Theofrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="#Plinius">Plinio</persName>.</p>

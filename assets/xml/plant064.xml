@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-064">
         <head>N. 64 Platano</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000487086"/>[<hi>Platanus orientalis L.</hi>]</ab>
+        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000487086"/>[<hi>Platanus orientalis L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Platano over Suffire da Greci - Dulb, Dulbo over Baccam da Arabi - Palma Christi in

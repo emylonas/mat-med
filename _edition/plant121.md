@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant121.jpg"
 plant-title: "N. 121 Genesta"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: "I. Spartium Junceum L."
+plant-taxon-content: "Spartium Junceum L. Genista radiata Scop."
 layout: single-xml
 ---

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-141">
         <head>N. 141 Nil Spetie</head>
-        <ab>[<hi>Ipomoea purpurea Lam.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/></ab>
+        <ab>[<hi>Ipomoea purpurea Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Nil spetie da messer <persName ref="#Cechin">Cechin</persName>, legi <ref type="internal" target="#A-142">k. 142</ref>.</p>

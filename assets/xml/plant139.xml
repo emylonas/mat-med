@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-139">
         <head>N. 139 Berberi</head>
-        <ab>[<hi>Berberis vulgaris L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000564027"/></ab>
+        <ab>[<hi>Berberis vulgaris L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000564027"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Berberi da Latini et volgari - Paisselbeer <ptr target="#A-139-N1"/>, Saurich <ptr target="#A-139-N2"/>, Erbsel et Versich da

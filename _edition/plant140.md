@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant140.jpg"
 plant-title: "N. 140 Ericha"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Erica carnea L. Calluna vulgaris Hull Empetrum nigrum L."
 layout: single-xml
 ---

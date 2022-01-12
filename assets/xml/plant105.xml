@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-105">
         <head>N. 105 Lentisco</head>
-        <ab>[<hi>Pistacia Lentiscus L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000394118"/></ab>
+        <ab>[<hi>Pistacia Lentiscus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000394118"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Lentiscus da Latini - Schinus da Greci - Mescehe et Meseccha da Arabi - Stinchi da

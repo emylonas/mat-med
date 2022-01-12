@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-140">
         <head>N. 140 Ericha</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000671633">[I <hi>Erica carnea L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000580837">[II <hi>Calluna vulgaris Hull</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000667231">[III <hi>Empetrum nigrum L.</hi>]</ref></ab>
+        <ab>[I <hi>Erica carnea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000671633"/> [II <hi>Calluna vulgaris Hull</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000580837"/> [III <hi>Empetrum nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000667231"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Erice da Greci Erica da Lat. - Neid <ptr target="#A-140-N1"/> da Germ. - Bnere da Galeno - Grione da paesani verso

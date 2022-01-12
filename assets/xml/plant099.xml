@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-099">
         <head>N. 99 Ben da Perfumieri</head>
-        <ab>[<hi>Moringa alata *an aptius M. pterigosperma Gaertner?</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000448146"/></ab>
+        <ab>[<hi>Moringa alata *an aptius M. pterigosperma Gaertner?</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000448146"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Ben da profumieri - Gianda unguentaria da Latini - Mirabolano et Balano mirepsico da

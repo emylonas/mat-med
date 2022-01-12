@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-032">
         <head>N. 32 Piper Montan</head>
-        <ab>[<hi>Daphne Mezereum L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000637755"/></ab>
+        <ab>[<hi>Daphne Mezereum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637755"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Piper montan da rustici - Mezereo da Arabi - Chameleam, Thymelea, Pyros Achnen <ptr target="#A-032-N1"/>,

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-160">
         <head>N. 160 Grana</head>
-        <ab>[<hi>Quercus coccifera L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000290191"/></ab>
+        <ab>[<hi>Quercus coccifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000290191"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Grana para tenir da Spagnioli Cocus baphica, Granum infectorium da Greci et Latini

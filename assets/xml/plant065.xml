@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-065">
         <head>N. 65 Sorbo Terminale</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0001016033"/>[<hi>Pirus torminalis Ehrh.</hi>]</ab>
+        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016033"/>[<hi>Pirus torminalis Ehrh.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Sorbe torminale da volgari - Crategus son il sorbe torminale Plinij - Milder Sperwerbaum,

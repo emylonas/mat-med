@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-063">
         <head>N. 63 Scotanus</head>
-        <ab><ref target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
+        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Scotanus da Latini et Plinio - Cotino da Greci - Albero dal penacchio da volgari - Rosa per

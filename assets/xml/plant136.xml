@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-136">
         <head>N.136 Carober Salvatico</head>
-        <ab>[<hi>Cercis Siliquastrum L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000213642"/></ab>
+        <ab>[<hi>Cercis Siliquastrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213642"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Charober salvatico da volgari - Arbor Giuda da Latini - Fanfalugo da molti - Acatia prima

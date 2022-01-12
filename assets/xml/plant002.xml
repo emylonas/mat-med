@@ -18,7 +18,7 @@
   </teiHeader><text><body><div type="plant" xml:id="A-002">
         <head>N. 2 Incognita</head>
 
-        <ab>[<hi>Sambucus racemosa L.</hi>]<ref target="http://www.worldfloraonline.org/taxon/wfo-0000439333">WFO</ref> <ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30056767-2">Kew</ref></ab>
+        <ab>[<hi>Sambucus racemosa L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/> <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30056767-2"/></ab>
 
         <div type="editorial-D">
           <p>Il verso della pagina è bianco. Nel recto una figura incompletamente dipinta di ramo

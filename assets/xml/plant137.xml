@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-137">
         <head>N. 137 Ribes Sp.</head>
-        <ab>[<hi>Viburnum Opulus L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000422807"/></ab>
+        <ab>[<hi>Viburnum Opulus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422807"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Ribes maggiore da volgari - Mauritani da Latini - Johansztetublin <ptr target="#A-137-N1"/> et beerlin da

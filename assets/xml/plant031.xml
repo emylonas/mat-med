@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-031">
         <head>N. 31 Chame Timelea spe.</head>
-        <ab>[<hi>Daphne Cneorum L.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000637544"/></ab>
+        <ab>[<hi>Daphne Cneorum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637544"/></ab>
         <div type="name">
           <head>Nomi</head>
           <p>Chame Thymelea in Bolognia Etolio da Euboici <ptr target="#A-031-N1"/> Lino da alcuni perché si rasembra al

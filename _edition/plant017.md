@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant017.jpg"
 plant-title: "N. 17 Cedriolo"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Passiflora coerulea L."
 layout: single-xml
 ---

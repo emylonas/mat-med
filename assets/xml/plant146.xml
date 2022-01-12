@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-146">
         <head>N. 146 Aspalato</head>
-        <ab>[<hi>Genista aspalathoides Lam.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000213311"/></ab>
+        <ab>[<hi>Genista aspalathoides Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213311"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Aspalathus, Erysisceptron da Greci Sphagnion, Phasganon da altri Dyaxylon da Syri.</p>

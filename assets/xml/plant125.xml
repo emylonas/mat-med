@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body><div type="plant" xml:id="A-125">
         <head>N. 125 Jaruma Albero de India</head>
-        <ab>[<hi>Cecropia palmata Willd.</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000592293"/>.</ab>
+        <ab>[<hi>Cecropia palmata Willd.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000592293"/>.</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Jaruma <ptr target="#A-125-N1"/> alboro de India.</p>
