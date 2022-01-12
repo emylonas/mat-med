@@ -20,7 +20,9 @@ layout: default
 <h3 class="top-name">
   {{page.plant-title}}<br>
   <em>{{page.plant-taxon-content}}</em><br>
-  {% if page.plant-wfo-link}<a href="{{page.plant-wfo-link}}" target="_blank">WFO</a>{% endif %} <a href="{{page.plant-kew-link}}" target="_blank">Kew-PWO</a>
+  {% if page.plant-wfo-link !="" %}<a href="{{page.plant-wfo-link}}" target="_blank">WFO</a>{% endif %} 
+  {% if page.plant-wfo-link !="" and page.plant-kew-link !="" %}|{% endif %}
+  {% if page.plant-kew-link !="" %}<a href="{{page.plant-kew-link}}" target="_blank">Kew-PWO</a>{% endif %}
 </h3>
 </div>
 
