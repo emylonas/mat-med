@@ -96,6 +96,7 @@ layout: single
            <xsl:for-each-group select="descendant::t:persName" group-by="@ref">
                <xsl:sort select="current-grouping-key()"/>
                <xsl:text>
+                   
 ## [</xsl:text><xsl:value-of select="id(substring-after(current-grouping-key(),'#'))"/>](<xsl:value-of select="id(substring-after(current-grouping-key(),'#'))/@ref"/>)
 <xsl:for-each select="id(substring-after(current-grouping-key(),'#'))">
     <xsl:if test="following-sibling::t:persName[@type='alt']">Alternate Names: <xsl:for-each select="following-sibling::t:persName"><xsl:value-of select="." /><xsl:if test="not(position() = last())"><xsl:text>; </xsl:text></xsl:if></xsl:for-each></xsl:if>

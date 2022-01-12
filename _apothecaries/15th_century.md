@@ -3,6 +3,6 @@ Title: "15th Century"
 permalink: "/apothecaries/15th_century/"
 layout: single
 ---
+## Introduction to 15th Century Apothecary Shops
 
-
-Information about 15th c. apothecary shops.
+In process.

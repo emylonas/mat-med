@@ -157,6 +157,15 @@
         <persName xml:id="Theofrastus" ref="https://isni.org/isni/000000012276427X">Theophrastus</persName>
           <note>Filosofo, allievo e successore di Aristotele nella direzione del Peripato. Nato ad Ereso intorno al 371 a.C. e morto ad Atene intorno al 286 a.C.</note>
       </person>
+      <person>
+        <persName xml:id="Durante" ref="https://www.treccani.it/enciclopedia/castore-durante_(Dizionario-Biografico)">Durante, Castore</persName>
+      </person>
+      <person>
+        <persName xml:id="Porta" ref="http://thesaurus.cerl.org/record/cnp01881034">Della Porta, Giambattista</persName>
+      </person>
+      <person>
+        <persName xml:id="Barca" ref="https://isni.org/isni/0000000118158998">Barca Centenera (Martín del)</persName>
+      </person>
     </listPerson>
     
     <listPlace>
@@ -381,7 +390,7 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Son molti che lo ritira alla Potulaca Theophrasti. Et altri per sp. di seringa ma io
-            non giudico. <hi>Glans unguentaria</hi> dal <persName ref="#Mattioli">Mattiolo</persName> che fa rider molti, disse M. <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Marchio</persName>
+            non giudico. <hi>Glans unguentaria</hi> dal <persName ref="#Mattioli">Mattiolo</persName> che fa rider molti, disse M. <persName ref="#Guilandino">Marchio</persName>
             giardiniero in Padova del Studio.</p>
 
         </div>
@@ -571,7 +580,7 @@
           <p>Pianta con fiori alcuni verdi, altri ingialliti; però il Michiel conobbe la pianta
             fresca come lo prova la diagnosi che egli dà: «fa molti fiori bianchi piccioli
             odorati». A parte dipinto un ramo fruttifero, il che rende questa figura più completa di
-            quella lasciata dal <persName ref="https://data.cerl.org/thesaurus/cnp01365502">Rinio</persName> al <ref type="internal" target="#A-091">N. 91</ref>, però quest'ultima è artisticamente superiore.</p>
+            quella lasciata dal <persName ref="#Rinio">Rinio</persName> al <ref type="internal" target="#A-091">N. 91</ref>, però quest'ultima è artisticamente superiore.</p>
         </div>
         <div type="notes">
           <note xml:id="A-007-N1" n="1"> Bianca</note>
@@ -682,7 +691,7 @@
             4 spezie et quello Cedralite son depinto dal <persName ref="#Belonio">Belonio</persName> nel suo libro <ref type="bibl" target="http://id.sbn.it/bid/CFIE000031">de Resiniferis</ref>, et
             questo son quello che fu edificato il tempio di Salamone et l'Arca di Noe tenuto da
             Hebrei. Et l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> 45 dice che li Cedri de Theophrasto Diascoride con errore li
-            chiamorno Ginepri. Et il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandini</persName> nel Membro 24 <ptr target="#A-009-N3"/> tiene che il Cedro maggior de
+            chiamorno Ginepri. Et il <persName ref="#Guilandino">Guilandini</persName> nel Membro 24 <ptr target="#A-009-N3"/> tiene che il Cedro maggior de
             Greci sia il Larice de Latini et con molti belli discorsi.</p>
         </div>
         <div type="properties">
@@ -724,7 +733,7 @@
             (Juniperus Oxycedrus) a quello del ginepro e del mirto. Ma un amanuense nel trascrivere
             saltò da un <foreign xml:lang="grc">ὥσπερ</foreign> all'altro ed in tal modo nelle copie riprodotte per le stampe era
             scritto che il Cedro maggiore (Cedrus Libanotica Lk.) ha frutti di ginepro e di mirto.
-            Dietro questa credenza il <persName ref="https://data.cerl.org/thesaurus/cnp01365502">Rinio</persName> a c. 425 fece una figura fittizia di Cedro del Libano
+            Dietro questa credenza il <persName ref="#Rinio">Rinio</persName> a c. 425 fece una figura fittizia di Cedro del Libano
             con galbuli di ginepro.</p>
           <p>Non comprendiamo poi con qual fondamento lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> asserisca che il <persName ref="#Mattioli">Mattioli</persName> erra
             con Dioscoride, ammettendo che il Cedro maggiore sia baccifero.</p>
@@ -848,9 +857,9 @@
           <p>Pianta e rametto fruttiferi. A ragione l'<persName ref="#Anguillara">Anguillara</persName> sostenne che il Ligustro non dovea
             confondersi col <foreign xml:lang="grc">κὺπρος</foreign> dei Greci che è <hi>Lawsonia inermis</hi> chiamata dagli Arabi <hi>Henne</hi>,
             <hi>Al-henne</hi>, <hi>Al-hanna</hi> donde venne il nostro <hi>alcanna</hi>. Contuttociò non solo <persName ref="#Barbaro">Ermolao Barbaro</persName>
-            ma altri contemporanei come <persName ref="#Mattioli">Mattioli</persName>, <persName ref="https://www.treccani.it/enciclopedia/castore-durante_(Dizionario-Biografico)">Durante</persName> e lo stesso P.A. Michiel confondevano le
+            ma altri contemporanei come <persName ref="#Mattioli">Mattioli</persName>, <persName ref="#Durante">Durante</persName> e lo stesso P.A. Michiel confondevano le
             due specie che pure un secolo prima erano state ben distinte dal <persName ref="#Rinio">Rinio</persName> (c. 389, 390) e
-            che poi furono riconosciute diverse da due esploratori, il <persName ref="https://data.cerl.org/thesaurus/cnp01320254">Belonio</persName> ed il <persName ref="#Dasilico">Dasilico</persName>. Il
+            che poi furono riconosciute diverse da due esploratori, il <persName ref="#Belonio">Belonio</persName> ed il <persName ref="#Dasilico">Dasilico</persName>. Il
             nome Conastrel o Conostrel è tuttora usato nel Veneto per indicare la presente specie ed
             anche un'altra che per aspetto e stazione le somiglia, il sanguine (<hi>Cornus
               sanguinea</hi>).</p>
@@ -976,7 +985,7 @@
         </div>
         <div type="editorial-D">
           <p>Pianta fiorita e fruttifera, figura abbastanza buona. Qui si fa strada la teoria delle
-            signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="http://thesaurus.cerl.org/record/cnp01881034">G.B. Porta</persName> ove accanto
+            signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="#Porta">G.B. Porta</persName> ove accanto
             alle figure espresse dalle piante ci sono quelle degli organi umani contro le cui
             malattie doveva semplice usarsi. Riguardo alla presente specie troviamo la medesima
             credenza nel <persName ref="#Mattioli">Mattioli</persName>.</p>
@@ -1029,7 +1038,7 @@
           <p> Suoa radice grosseta pallida, suoi sarmentosi rami che se invoglie <ptr target="#A-017-N2"/> nodati et da
             ogni nodo suoi caprioli <ptr target="#A-017-N3"/> con una fronde per nodo in sete parti per el piui divise
             simil al pentafillon giallezzie et amare, suoi semi simili alla scamonea <ref type="internal" target="#A-023">[N. 23]</ref> per
-            quello mi disse el <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandini</persName>. Et la vide poi meglio che la gli naque et li fezze li
+            quello mi disse el <persName ref="#Guilandino">Guilandini</persName>. Et la vide poi meglio che la gli naque et li fezze li
             frutti l'hanno 1570 ma non mi disse la forma di essi e che non si maturorno.</p>
         </div>
         <div type="location">
@@ -1050,7 +1059,7 @@
         </div>
         <div type="editorial-D">
           <p>Pianta sterile; a parte una foglia in grandezza naturale. La passiflora trovasi la
-            prima volta ricordata dal poeta <persName ref="https://isni.org/isni/0000000118158998">Martino del Barco</persName> che la vide nel <placeName ref="https://www.geonames.org/3437598/republic-of-paraguay.html">Paraguay</placeName>. Da questo
+            prima volta ricordata dal poeta <persName ref="#Barca">Martino del Barco</persName> che la vide nel <placeName ref="https://www.geonames.org/3437598/republic-of-paraguay.html">Paraguay</placeName>. Da questo
             codice apprendiamo che essa fu importata in <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Ispagna</placeName> donde il <persName ref="#Guilandino">Guilandino</persName> ottenne un
             campione che spedì al Michiel dopo averne levato i frutti per poter seminar la pianta
             nell'Orto botanico di Padova. Perciò la figura presente riuscì incompleta, non avendo
@@ -1235,7 +1244,7 @@
           <note xml:id="A-023-N2" n="2"> Vasi da fiori di terraglia smaltata.</note>
           <note xml:id="A-023-N3" n="3"> Eletta,</note>
           <note xml:id="A-023-N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="#Anguillara">Anguillara</persName> ne fece nascere una
-            pianta da semi avuti di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="https://www.treccani.it/enciclopedia/lorenzo-priuli_%28Dizionario-Biografico%29/">Lorenzo Priuli</persName>
+            pianta da semi avuti di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="#Priuli">Lorenzo Priuli</persName>
             a <placeName ref="https://www.geonames.org/6542281/padova.html">Padova</placeName> e <persName>Giulio Moderato</persName> a <placeName ref="https://www.geonames.org/6541863/rimini.html">Rimini</placeName>. </note>
         </div>
       </div>
@@ -1458,7 +1467,7 @@
             perciò la specie presente ad essa affine ma di statura minore fu dall'Aldrovandi
             battezzata col nome sopracitato. Contemporaneamente la figura e descrisse il <persName ref="#Mattioli">Mattioli</persName>
             col nome di Cneoro del Mattioli mentre il suo Cneoro di Teofrasto è <hi>Saponaria
-              ocimoides</hi>. A torto dunque il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandino</persName> credette che il Cneoro di Mattioli fosse la
+              ocimoides</hi>. A torto dunque il <persName ref="#Guilandino">Guilandino</persName> credette che il Cneoro di Mattioli fosse la
             specie qui figurata al <ref type="internal" target="#A-072">N. 72</ref>.</p>
         </div>
         <div type="notes">
@@ -1846,7 +1855,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>M. <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Marchio</persName>, mastro d’il notabil Giardino della ill.ma Signoria nostra dice che il vulgo
+          <p>M. <persName ref="#Guilandino">Marchio</persName>, mastro d’il notabil Giardino della ill.ma Signoria nostra dice che il vulgo
             la tiene per il <hi>Polyrizon Plinij</hi>. Asclepias vitiose <persName ref="#Fuchs">Fuchsio</persName> refutata a Mattioli in Au[?]
             <ptr target="#A-041-N2"/>. Il Trago ha oppinion per il suo libro che la sia l'Asclepiade.</p>
         </div>
@@ -3185,7 +3194,7 @@
             mandato dal Cadore perché l'abitazione del Sannio si riferisce all'Alimo di Dioscoride
             ed è copiata dall'Anguillara.</p>
           <p>Il dubbio del Michiel era giusto perché il Cneoro di Mattioli è Daphne Cncorum figur. a
-            N. 31 di questo codice, non già la specie presente, come riteneva il <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandino</persName>. Errò
+            N. 31 di questo codice, non già la specie presente, come riteneva il <persName ref="#Guilandino">Guilandino</persName>. Errò
             anche il Michiel ritenendo che essa fosse l'ἅλιμος di Crateva <ptr target="#A-072-N2"/>, ma ha il merito di averla fatta per primo conoscere colla iconografia. Poco dopo troviamo la figura
             del Lobelio col nome «Balsamum alpinum».</p>
         </div>
@@ -3260,7 +3269,7 @@
             altri due amomi, quello di Plinio figurato in questo codice al <ref target="#R1-063">Ro I, 63</ref> e quello delle
             spezierie al <ref target="#V-037">Ve., 37</ref>. Il <persName ref="#Mattioli">Mattioli</persName> non diede la figura della specie presente ma disse
             di averla <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="53"/> veduta nel
-            giardino del medico <persName ref="https://data.cerl.org/thesaurus/cnp01105307">Maffeo de Maffei</persName> a Venezia, la chiama arbuscula piper racematim
+            giardino del medico <persName ref="#Maffei">Maffeo de Maffei</persName> a Venezia, la chiama arbuscula piper racematim
             proferens, e soggiunge che alcuni credono il ribes. Il Michiel nel testo riconosce le
             sue analogie col Ribes rubrum.</p>
           <p>La figura è di pianta fiorita in un paesaggio di valle prossima al mare; le glandole
@@ -4592,7 +4601,7 @@
             descrizioni degli antichi, dubitò fosse fittizia <ptr target="#A-099-N4"/>, il che dimostra che, quando egli
             visitò <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="72"/> il giardino
             del Michiel, la pianta era ormai morta. Il Mattioli poi suppose che la Ghianda
-            unguentaria fosse Syringa vulgaris, il che gli attirò le critiche del <persName ref="http://thesaurus.cerl.org/record/cnp01884856">Guilandino</persName> di cui
+            unguentaria fosse Syringa vulgaris, il che gli attirò le critiche del <persName ref="#Guilandino">Guilandino</persName> di cui
             parla il nostro autore al N. 4.</p>
           <p>Malgrado la pubblicazione dell'opera di Acosta che dà la vera forma del frutto, la
             credenza che il guscio seminale fosse il pericarpo continuò per oltre un secolo
@@ -6362,7 +6371,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Il Mattiolo lo dipinge con le spine per Acatia prima. Et Messer Marchio eccellente
+          <p> Il Mattiolo lo dipinge con le spine per Acatia prima. Et Messer <persName ref="#Guilandino">Marchio</persName> eccellente
             giardiniero della Illustrissima Signoria nostra se ne ride et beffa et me lo disse lui.
             Pur a Costantinopoli dunde l'hebbe lui potrebbe fare. spini ma per quello ho inteso da
             altri non ci fa.</p>
