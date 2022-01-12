@@ -5,7 +5,7 @@ permalink: /gardens/
 title: "Gardens"
 custom_css: gardens
 ---
-# Gardens in 16th-18th-century Venice
+# Early Modern Gardens
 <div class="ornament">r p r</div>
 <img src="../assets/img/72dpi_venice_map.jpg" width="1295px"/>
 
