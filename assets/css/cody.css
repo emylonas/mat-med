@@ -25,12 +25,65 @@ div#TEI {
 	h4.nav__title{
 	  display:none;
 	}
+	
 	img.thumb{
 		/* max-width: 75px; */
 		height: auto;
 		vertical-align: middle;
-		border: .5 solid black;
+		border: 3px solid black;
 	}
+	
+    /*  these styles are for handling the inventory pages in the apothecary section
+     *  The thumbnail navigation at the top is a flex-box so that we can include a bit of text 
+     *  under the thumbnail image. 
+     *  how do we handle the side by send image and text? Tried flex but it didn't work well so la
+	    */
+	
+	div.thumb-nav {
+	    display: flex;
+	    flex-flow: row wrap;  
+	}
+	
+	span.thumb-nav-p {
+	    width: 10%;
+		height: auto;
+		vertical-align: middle;
+		/*border: 3px solid black;*/
+		margin : 3px;
+	}
+
+	img.thumb-menu {
+		/*width: 10%;*/
+		height: auto;
+		vertical-align: middle;
+		border: 3px solid black;
+	}
+	
+	div.side-by-side {
+	     display: flex;
+	    flex-flow: row wrap;  
+	}
+
+
+    table.inventory {
+  	 max-width: 35%!important;
+	  /* clear: none!important;*/
+	   font-size: .6em !important;
+    }
+    
+    table.inventory  td {
+        padding: 0;
+    }
+    
+    p.inventory-image-float {
+        max-width: 60%;
+        /*float: left;*/
+        margin-right: 5%;
+        vertical-align: middle;
+    }
+    
+    /*  End section for inventory display */
+	
 	img.img-ctr {
 		display: block;
 		margin-left: auto;

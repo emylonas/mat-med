@@ -1153,7 +1153,7 @@ Inventario de robe da botega da speciaria de quondam messer Anzolo Bergognino sp
 *c. 4v*
 <a href="{{ page.img4v | relative_url }}"><img class="thumb" src="{{ page.img4v | relative_url }}"/></a>
 
-<table>
+<table class="inventory">
   <tbody>
     <tr>
       <td>succi citonoirum</td>

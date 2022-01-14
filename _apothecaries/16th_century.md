@@ -2,6 +2,14 @@
 Title: "16th Century"
 permalink: "/apothecaries/16th_century/"
 layout: single
+img1v: "/assets/img/16c_inventory_anzolo_bergonin_1_verso.jpg"
+img1r: "/assets/img/16c_inventory_anzolo_bergonin_1_recto.jpg"
+img2v: "/assets/img/16c_inventory_anzolo_bergonin_2_verso.jpg"
+img2r: "/assets/img/16c_inventory_anzolo_bergonin_2_recto.jpg"
+img3v: "/assets/img/16c_inventory_anzolo_bergonin_3_verso.jpg"
+img3r: "/assets/img/16c_inventory_anzolo_bergonin_3_recto.jpg"
+img4v: "/assets/img/16c_inventory_anzolo_bergonin_4_verso.jpg"
+img4r: "/assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg"
 ---
 
 ## The apothecary shop of Angelo Bergognin at the Abraham, 1589<sup>[1](#_ftn1)</sup>
@@ -12,7 +20,25 @@ The inventory of his workshop shows how Angelo was very prone to the use of exot
 
 A widower with a daughter, Cipriana, Angelo Bergognin married subsequently the daughter of a famous Venetian doctor, Agostina Gadaldina. And with physicians, apothecaries and empirics he collaborated all his life long to create new and effective medicinal remedies, in his central store at the Mercerie in the parish of San Basso, at the sign of Abraham.
 
-[Browse the inventory]({{ site.baseurl }}apothecaries/16th_century_inventories) 
+## Browse the Bergognin 1589 Inventory
+<div class="thumb-nav">
+<span class="thumb-nav-p"><a href="{{ site.baseurl }}apothecaries/16th_century_inventories-1r"><img class="thumb-menu" src="{{ page.img1r | relative_url }}"/>
+<br/> c. 1r </a></span>
+<span class="thumb-nav-p"><a href="{{ site.baseurl }}apothecaries/16th_century_inventories-1v/"><img class="thumb-menu" src="{{ page.img1v | relative_url }}"/>
+<br/> c. 1v </a></span>
+<span class="thumb-nav-p"><a href="{{ site.baseurl }}apothecaries/16th_century_inventories-2r/"><img class="thumb-menu" src="{{ page.img2r | relative_url }}"/>
+<br/> c. 2r </a> </span>
+<span class="thumb-nav-p"><a href="{{ site.baseurl }}apothecaries/16th_century_inventories-2v/"><img class="thumb-menu" src="{{ page.img2v | relative_url }}"/>
+<br/> c. 2v </a> </span>
+<span class="thumb-nav-p"><a href="{{ site.baseurl }}apothecaries/16th_century_inventories-3r/"><img class="thumb-menu" src="{{ page.img3r | relative_url }}"/>
+<br/> c. 3r </a> </span>
+<span class="thumb-nav-p"><a href="{{ site.baseurl }}apothecaries/16th_century_inventories-3v/"><img class="thumb-menu" src="{{ page.img3v | relative_url }}"/>
+<br/> c. 3v </a> </span>
+<span class="thumb-nav-p"><a href="{{ site.baseurl }}apothecaries/16th_century_inventories-4r/"><img class="thumb-menu" src="{{ page.img4r | relative_url }}"/>
+<br/> c. 4r </a> </span>
+<span class="thumb-nav-p"><a href="{{ site.baseurl }}apothecaries/16th_century_inventories-4v/"><img class="thumb-menu" src="{{ page.img4v | relative_url }}"/>
+<br/> c. 4v </a> </span>
+</div>
 
 ## Learn more: 
 - Richard Palmer, ‘The influence of botanical research on pharmacists in Sixteenth century Venice’, _NTM-Schriftnenrheie für Geschichte der Naturwissenshaften Teknik und Medizin_, 21, 1984/2, pp. 69-80 

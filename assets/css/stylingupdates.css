@@ -123,9 +123,9 @@ a.pagination--pager:hover {
 	clear: none;
 }
 
+
 .page__content > table {
-	max-width: 70%!important;
-	clear: none!important;
+
 }
 
 @media (max-width: 1280px) {
