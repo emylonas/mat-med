@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-107">
+  </teiHeader><text><body>
         <head>N. 107 Cumara</head>
         <ab>[<hi>Arbutus Unedo L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000543204"/></ab>
         <div type="name">
@@ -50,7 +50,7 @@
         </div>
         <div type="editorial-D">
           <p>Pianta fiorita e fruttifera con figure di farfalle volanti e di un lupo ai piedi dell'arboscello, allusivo al nome «ficus lupi» A parte due coppie di frutti accompagnati
-            da foglia. Il disegno delle foglie non compete certo con quello che troviamo nel <persName ref="#Rinio">Rinio</persName> a
+            da foglia. Il disegno delle foglie non compete certo con quello che troviamo nel <persName ref="rinio-benedetto">Rinio</persName> a
             c. 330, ma la figura del Michiel è più completa ed esatta, comprendendo fiori e frutti a
             tutti i gradi di maturità ed aggregati come lo sono in natura.</p>
           <p>Il nome qui citato del dialetto vicentino è corruzione del xdu.zcos di Teofrasto.</p>
@@ -63,4 +63,4 @@
 
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="78"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

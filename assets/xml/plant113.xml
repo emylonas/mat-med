@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-113">
+  </teiHeader><text><body>
         <head>N. 113 Guaiabo</head>
         <div type="name">
           <head>NOMI</head>
@@ -37,6 +37,6 @@
             <ref type="bibl" target="http://id.sbn.it/bid/LO1E013261"/>secondo k. 98.</p>
         </div>
         <div type="editorial-D">
-          <p>Pianta fiorita e fruttifera, figura forse copiata (di <ref target="http://www.worldfloraonline.org/taxon/wfo-0000284583"><hi>Psidium pyriferum</hi></ref>?).</p>
+          <p>Pianta fiorita e fruttifera, figura forse copiata (di <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000284583"><hi>Psidium pyriferum</hi></ref>?).</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

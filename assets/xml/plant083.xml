@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-083">
+  </teiHeader><text><body>
         <head>N. 83 Agno Casto</head>
         <ab>[<hi>Vitex Agnus-Castus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000332916"/></ab>
         <div type="name">
@@ -55,7 +55,7 @@
         <div type="editorial-D">
           <p>Albero fiorito e fruttifero, a sinistra del quale ci sono un ramoscello fiorito e
             fruttifero abbastanza ben delineato ed una figura di donna inginocchiata con sopra la
-            parola castità. La figura della pianta è più completa di quella del <persName ref="#Rinio">Rinio</persName> c. 221,
+            parola castità. La figura della pianta è più completa di quella del <persName ref="rinio-benedetto">Rinio</persName> c. 221,
             presentandoci oltre i frutti, anche i fiori.</p>
           <p>Parlando nel testo dell'agnocasto a hori bianchi, il Michiel lo considera come una
             specie separata, seguendo in ciò il Dioscoride.</p>
@@ -67,4 +67,4 @@
             credevano i contemporanei sulle virtù dell'agnocasto, mentre l'esperienza dimostrò
             essere il suo frutto uno stimolante.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

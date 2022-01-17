@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-047">
+  </teiHeader><text><body>
         <head>N. 47 Albero da l'Uva</head>
         <ab>[<hi>Prunus Padus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001008273"/></ab>
         <div type="name">
@@ -30,7 +30,7 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> In rari monti de Italia ne sonno et in giardini da simplicisti sonno custoditi. Et
-            io ne avevo nel mio et ne ho posto in Padova in quello del clar. cav. <persName ref="#MocenigoAlv-I">Mozenigo</persName>.</p>
+            io ne avevo nel mio et ne ho posto in Padova in quello del clar. cav. <persName ref="mocenigo-alvise-i">Mozenigo</persName>.</p>
         </div>
         <div type="editorial-D">
           <p>Intera pianta fiorita; a sinistra ramoscello con foglie e racemo pendente di fiori ed
@@ -38,4 +38,4 @@
             portava frutti rosso-verdastri, come si scorge nella figura e si apprende dalla
             diagnosi.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

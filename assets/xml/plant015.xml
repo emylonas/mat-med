@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-015">
+  </teiHeader><text><body>
         <head>N. 15 Chieregini</head>
         <ab>[<hi>Cardiospermum Halicacabum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000587875"/></ab>
         <div type="name">
@@ -59,13 +59,13 @@
         </div>
         <div type="editorial-D">
           <p>Pianta fiorita e fruttifera, figura abbastanza buona. Qui si fa strada la teoria delle
-            signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="#Porta">G.B. Porta</persName> ove accanto
+            signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="della-porta-giambattista">G.B. Porta</persName> ove accanto
             alle figure espresse dalle piante ci sono quelle degli organi umani contro le cui
             malattie doveva semplice usarsi. Riguardo alla presente specie troviamo la medesima
-            credenza nel <persName ref="#Mattioli">Mattioli</persName>.</p>
+            credenza nel <persName ref="mattioli-pietro-andrea">Mattioli</persName>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-015-N1" n="1"> Physalis Alkekengi.</note>
-          <note xml:id="A-015-N2" n="2"> Physalis somnifera v. <ref target="#V-063">libro verde N. 63</ref>.</note>
+          <note xml:id="A-015-N2" n="2"> Physalis somnifera v. <ref type="internal" target="#V-063">libro verde N. 63</ref>.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

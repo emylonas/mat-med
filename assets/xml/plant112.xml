@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-112">
+  </teiHeader><text><body>
         <head>N. II2 Guaico</head>
         <div type="editorial-S">
           <ab> [<hi>Guaiacum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-4000016293"/></ab>
@@ -70,4 +70,4 @@
           <note xml:id="A-112-N3" n="3"> Calicut.</note>
           <note xml:id="A-112-N4" n="4"> * Ha fiori solitari, gialli. (Ed.). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-013">
+  </teiHeader><text><body>
         <head>N. 13 Putana vel Olivela</head>
         <ab>[<hi>Rhamnus Alaternus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000462513"/></ab>
         <div type="name">
@@ -38,7 +38,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName>Agustin Alpago</persName>
+          <p> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName ref="">Agustin Alpago</persName>
             et a molti non sonno de oppinion.</p>
         </div>
         <div type="disagreements">
@@ -48,10 +48,10 @@
         </div>
         <div type="editorial-D">
           <p>Pianta con fiori e frutti a due gradi di maturità, cioè rossi ed oscuri. A parte un
-            rametto con foglie e frutti maturi. Sui rami varie figure di tordi. Il <persName ref="#Bonato">Bonato</persName> la ritenne
+            rametto con foglie e frutti maturi. Sui rami varie figure di tordi. Il <persName ref="bonato-giuseppe-antonio">Bonato</persName> la ritenne
             Phyllirea latifolia, ma la figura ha le foglie alterne il che è asserito anche nel testo
-            colle parole: «et venghon falate». Notisi che anche il <persName ref="#Cesalpino">Cesalpino</persName> chiamava questa
+            colle parole: «et venghon falate». Notisi che anche il <persName ref="cesalpino-andrea">Cesalpino</persName> chiamava questa
             specie Phyllirea. Al <ref type="internal" target="#A-152">N. 152</ref> di questo libro si paragonano le sue foglie a quelle
             dell'agazzino. Una Phyllirea è a <ref type="internal" target="#A-094">N. 94</ref> col nome alaterno.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

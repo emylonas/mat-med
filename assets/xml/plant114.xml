@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-114">
+  </teiHeader><text><body>
         <head>N. 114 Pistachier</head>
         <ab>[<hi>Pistacia vera L. ♀</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000393766"/></ab>
         <div type="names">
@@ -41,7 +41,7 @@
         <div type="editorial-D">
           <p>Figura di albero fiorito e fruttifero con scoiattoli che si arrampicano e ne man-
             giano i semi. A parte due rami, uno con foglie e fiori, l'altro con foglie e frutti. In
-            complesso le figure sono inferiori per bellezza a quelle del <persName ref="#Rinio">Rinio</persName> (c. 176), ma più
+            complesso le figure sono inferiori per bellezza a quelle del <persName ref="rinio-benedetto">Rinio</persName> (c. 176), ma più
             esatte nell'infiorescenza. I frutti della figura del Rinio appartengono alla varietà
             orientale e quelli della presente figura alla varietà nostrana; lo avverte l'autore
             colle parole: «Et questo che nascono in Italia sonno minor et come rotondi». Non
@@ -77,4 +77,4 @@
           <note xml:id="A-114-N3" n="3"> II Boccone parla anche di queste due fecondazioni artificiali e dice che
             quella dei pistacchi chiamasi a Girgenti turchiariase. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

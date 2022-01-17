@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-123">
+  </teiHeader><text><body>
         <head>N. 123 Genestela</head>
         <div type="name">
           <head>NOMI</head>
@@ -40,4 +40,4 @@
           <p>Pianta fiorita a foglie imparipennate (9 foglioline); a parte un ramoscello con tre
             fiori.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

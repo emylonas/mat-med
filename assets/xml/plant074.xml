@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-074">
+  </teiHeader><text><body>
         <head>N. 74 Ribes Menor</head>
         <ab>[<hi>Ribes rubrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405218"/></ab>
         <div type="name">
@@ -55,4 +55,4 @@
           <note xml:id="A-074-N2" n="2"> Ciliegie.</note>
           <note xml:id="A-074-N3" n="3"> Descrizione,</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

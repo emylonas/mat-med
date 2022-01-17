@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-039">
+  </teiHeader><text><body>
         <head>N. 39. Albero Simil al Cipreso</head>
         <div type="name">
           <head>NOMI</head>
@@ -37,7 +37,7 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p> Son celebrato nell'Istoria di Claudio Cesare, pongonsi le foglie ne potioni come fano
-            li Parthi. Il suo odore son simil al Cedro come legesi in <persName ref="#Plinius">Plinio</persName> lib. 12, 18 [lib. 12,
+            li Parthi. Il suo odore son simil al Cedro come legesi in <persName ref="plinius-caecilius-secundus-gaius">Plinio</persName> lib. 12, 18 [lib. 12,
             cap. 17].</p>
         </div>
         <div type="editorial-D">
@@ -48,4 +48,4 @@
           <note xml:id="A-039-N2" n="2"> Pasitigri oggidi Khardm o Kurem.</note>
           <note xml:id="A-039-N3" n="3"> Zagro.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

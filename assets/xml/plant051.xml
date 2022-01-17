@@ -15,12 +15,12 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-051">
+  </teiHeader><text><body>
         <head>N. 51 Cuciophoron</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Cuciophoron da <persName ref="#Theofrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="#Plinius">Plinio</persName>.</p>
+          <p> Cuciophoron da <persName ref="theophrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="plinius-caecilius-secundus-gaius">Plinio</persName>.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
@@ -28,7 +28,7 @@
             tiene sia di questo albero, qual è simil a uno melo cotognio ripieno de nervi che fa
             fastidio a mangiarlo che conviensi sputarlo, son alquanto dolcie con nocciolo di pruno
             durissimo et bianco del qualle si fanno manichi di trivelli et anelli. Et li portò M.
-            <persName ref="#Passamonte">Michiele Passamonte</persName> spetiale piacentino.</p>
+            <persName ref="passamonte-michele">Michiele Passamonte</persName> spetiale piacentino.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -39,4 +39,4 @@
             lasciato lo spazio in mezzo per dipingere la pianta, ma non poté mai farne la
             conoscenza.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

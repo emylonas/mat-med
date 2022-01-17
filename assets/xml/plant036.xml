@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-036">
+  </teiHeader><text><body>
         <head>N. 36 Abete</head>
         <ab>[<hi>Abies alba Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000510976"/></ab>
         <div type="name">
@@ -39,7 +39,7 @@
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
-          <p> Di queste spezie ne raggiona bene il mio carissimo comp. <persName ref="#Anguillara">Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> a k.
+          <p> Di queste spezie ne raggiona bene il mio carissimo comp. <persName ref="alguillara-luigi">Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> a k.
             42 et 43.</p>
         </div>
         <div type="editorial-D">
@@ -50,6 +50,6 @@
             pareno che si vogliono aprire», alludendosi all'apice bifido del lembo, mentre nel nasso
             figurato e descritto al numero seguente parla dell'unica punta.</p>
           <p>L'aggettivo <hi>rascontrate</hi> che generalmente per Michiel significa <hi>opposte</hi> ha qui ed
-            altrove (<ref target="#R1-149">Ro. I, 149</ref>) il significato di <hi>distiche</hi>.</p>
+            altrove (<ref type="internal" target="#R1-149">Ro. I, 149</ref>) il significato di <hi>distiche</hi>.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

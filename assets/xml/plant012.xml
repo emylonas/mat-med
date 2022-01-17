@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-012">
+  </teiHeader><text><body>
         <head>N. 12 Ligustro</head>
         <ab>[<hi>Ligustrum vulgare L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-000081598"/></ab>
         <div type="name">
@@ -27,21 +27,21 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 59 dice che il Ligustro non è il Cipro avegna
-            che il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> del <persName ref="#Barbaro">Barbaro</persName> vuole che egli ci sia. Et più avanti k. 61 dice che il
+          <p> L'ecc. <persName ref="alguillara-luigi">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 59 dice che il Ligustro non è il Cipro avegna
+            che il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> del <persName ref="barbaro-ermolao">Barbaro</persName> vuole che egli ci sia. Et più avanti k. 61 dice che il
             Conastrelo è la Tilia. Et anche de molti inganati da Servio gramatico pensandosi che il
             Ligustro sia spezie di Vilucchio. Et altri si inciampano credendosi che il Ligustro sia
             il Caprifolio over Pisciachanta de Diascoride et non il Periclimeno <ref type="internal" target="#A-071">[N. 71]</ref>.</p>
         </div>
         <div type="editorial-D">
-          <p>Pianta e rametto fruttiferi. A ragione l'<persName ref="#Anguillara">Anguillara</persName> sostenne che il Ligustro non dovea
+          <p>Pianta e rametto fruttiferi. A ragione l'<persName ref="alguillara-luigi">Anguillara</persName> sostenne che il Ligustro non dovea
             confondersi col <foreign xml:lang="grc">κὺπρος</foreign> dei Greci che è <hi>Lawsonia inermis</hi> chiamata dagli Arabi <hi>Henne</hi>,
-            <hi>Al-henne</hi>, <hi>Al-hanna</hi> donde venne il nostro <hi>alcanna</hi>. Contuttociò non solo <persName ref="#Barbaro">Ermolao Barbaro</persName>
-            ma altri contemporanei come <persName ref="#Mattioli">Mattioli</persName>, <persName ref="#Durante">Durante</persName> e lo stesso P.A. Michiel confondevano le
-            due specie che pure un secolo prima erano state ben distinte dal <persName ref="#Rinio">Rinio</persName> (c. 389, 390) e
-            che poi furono riconosciute diverse da due esploratori, il <persName ref="#Belonio">Belonio</persName> ed il <persName ref="#Dasilico">Dasilico</persName>. Il
+            <hi>Al-henne</hi>, <hi>Al-hanna</hi> donde venne il nostro <hi>alcanna</hi>. Contuttociò non solo <persName ref="barbaro-ermolao">Ermolao Barbaro</persName>
+            ma altri contemporanei come <persName ref="mattioli-pietro-andrea">Mattioli</persName>, <persName ref="durante-castore">Durante</persName> e lo stesso P.A. Michiel confondevano le
+            due specie che pure un secolo prima erano state ben distinte dal <persName ref="rinio-benedetto">Rinio</persName> (c. 389, 390) e
+            che poi furono riconosciute diverse da due esploratori, il <persName ref="belon-pierre">Belonio</persName> ed il <persName ref="rauwolf-leonhard">Dasilico</persName>. Il
             nome Conastrel o Conostrel è tuttora usato nel Veneto per indicare la presente specie ed
             anche un'altra che per aspetto e stazione le somiglia, il sanguine (<hi>Cornus
               sanguinea</hi>).</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

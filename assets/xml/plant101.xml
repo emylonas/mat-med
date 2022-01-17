@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-101">
+  </teiHeader><text><body>
         <head>N. 101 Barba Iovis</head>
         <ab>[<hi>Anthyllis Barba-Jovis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/></ab>
         <div type="name">
@@ -58,7 +58,7 @@
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="73"/> min et ogni
             ramuscolo par una sol fronda», sospettando così trattarsi di una foglia composta.</p>
           <p>Dopo il Michiel e l'Anguillara parlò di questa specie Gaspare Bauhin che la trovo
-            coltivata nel giardino di <persName ref="#BemboT">mons. Torquato Bembo in Padova</persName>, ma non ne diede figura. Più
+            coltivata nel giardino di <persName ref="bembo-torquato">mons. Torquato Bembo in Padova</persName>, ma non ne diede figura. Più
             tardi lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> [63] se ne procurò un campione sterile da Montenero dietro l'indicazione di Anguillara e ne diede figura (pag. 611) in sostituzione di altra falsa che
             avea dato (pag. 83), perd non ne fu ancora soddisfatto <ptr target="#A-101-N4"/>, Perciò non conoscendosi che
             la descrizione vaga di Bauhin <ptr target="#A-101-N5"/> e le figure imperfette di Chabray vi furono dubbi
@@ -73,4 +73,4 @@
           <note xml:id="A-101-N4" n="4"> * Non omni ex parte bona, siquidem desiderantur pores.</note>
           <note xml:id="A-101-N5" n="5"> * Vaga quidem significationis est Barba Jovis. (Chabray., p. 82).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-138">
+  </teiHeader><text><body>
         <head>N. 138 Lantana</head>
         <ab>[<hi>Viburnum Lantana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421166"/></ab>
         <div type="name">
@@ -54,11 +54,11 @@
           <p>A ragione il Michiel mise in dubbio che questa specie fosse, come riteneva il Ruellio, il <foreign xml:lang="grc">ῥούς</foreign> di Teofrasto che invece è Rhus
             Coriaria.</p>
           <p>Questa è la specie che il Dodoneo chiamò Viburnum Virgilij, non già la sp. Clematis
-            Viticella, come credette il Michiel <ref target="A-006">[N. 6]</ref>. </p>
+            Viticella, come credette il Michiel <ref type="internal" target="#A-006">[N. 6]</ref>. </p>
         </div>
         <div type="notes">
           <note xml:id="A-138-N2" n="1"> Talvolta neri, ma più spesso purpurei.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="98"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

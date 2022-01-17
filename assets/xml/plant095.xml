@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-095">
+  </teiHeader><text><body>
         <head>N. 95 Storace</head>
         <ab>[<hi>Styrax officinale L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000492654"/></ab>
         <div type="name">
@@ -52,7 +52,7 @@
             falsifica ancora. Lo storace scalda, molifica et digerisce...</p>
         </div>
         <div type="editorial-D">
-          <p>L'<persName ref="#Anguillara">Anguillara</persName> nel <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">secondo Parere sopra i Semplici</ref> dedicato al nostro Michiel, così
+          <p>L'<persName ref="alguillara-luigi">Anguillara</persName> nel <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">secondo Parere sopra i Semplici</ref> dedicato al nostro Michiel, così
             scrive dello storace: «si può vedere nel giardino di Vostra Magnificentia et del mio
             carissimo amico M. Antonio Filetti a Santa Lucia et ancora nell'horto delli venerandi
             frati di S. Francesco della Vigna. Trovasi ancora partendo da Tivoli nella strada che va
@@ -81,4 +81,4 @@
             prefetto dell'Orto botanico di Pisa o la pianto nell'Orto stesso fra il 1992 e il 1595.
             Ancora nel 1635 era riguardata una delle piante più cospicue dell'Orto [262].</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

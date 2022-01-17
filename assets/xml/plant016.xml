@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-016">
+  </teiHeader><text><body>
         <head>N. 16 Elo Capoli</head>
         <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
@@ -43,4 +43,4 @@
             all'azzurro secondo i grappoli. Sull'albero vari uccelli, farfalle e bruchi; notevole
             fra gli altri un pappagallo azzurro.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

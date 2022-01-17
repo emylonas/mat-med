@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-011">
+  </teiHeader><text><body>
         <head>N. II Smilace Lisia</head>
         <ab>[<hi>Ipomoea hederacea Jacq.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000747944"/></ab>
         <div type="name">
@@ -44,13 +44,13 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Non son oppinione che questa sia la Helsine di Diascoride come al suo cap.
-            dimostrarò. L'ecc. <persName ref="#Ghini">Ghyno</persName> la ritira al Granum Nil de Avicenna overo Habel Nil ma stante
+            dimostrarò. L'ecc. <persName ref="ghini-luca">Ghyno</persName> la ritira al Granum Nil de Avicenna overo Habel Nil ma stante
             la scritura delle Pandette altri non voleno ne li corispondeno. Et per quelle parti ho
             vedute son una pianta simile havuta con il nome di Nil ma spinoseta, demostra <ref type="internal" target="#A-141">k. 141</ref>.</p>
         </div>
         <div type="editorial-D">
-          <p>Figura abbastanza buona di pianta fiorita e fruttifera. Il Michiel ed il <persName ref="#Gesner">Gesner</persName> (<ref type="bibl" target="http://id.sbn.it/bid/PUVE006389"><hi>De
-            hortis Germaniae</hi>, f. 255a)</ref> furono i primi ad effigiare questa specie. Linneo, accettando l'identificazione del <persName ref="#Ghini">Ghini</persName>, lo chiamò Convolvulus Nil benché il Nil degli Arabi
+          <p>Figura abbastanza buona di pianta fiorita e fruttifera. Il Michiel ed il <persName ref="gesner-conrad">Gesner</persName> (<ref type="bibl" target="http://id.sbn.it/bid/PUVE006389"><hi>De
+            hortis Germaniae</hi>, f. 255a)</ref> furono i primi ad effigiare questa specie. Linneo, accettando l'identificazione del <persName ref="ghini-luca">Ghini</persName>, lo chiamò Convolvulus Nil benché il Nil degli Arabi
             sia Indigofera tinctoria od altra pianta producente indaco, secondo i vari autori. Il
             fior di notte odierno è <hi>Mirabilis Jalapa</hi>. <ptr target="#A-011-N5"/></p>
         </div>
@@ -64,4 +64,4 @@
             delle foglie, sovente alterate da eterofillia. Non potrebbero essere state confuse tutte
             insieme dal Michiel? (Ed.). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

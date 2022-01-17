@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-057">
+  </teiHeader><text><body>
         <head>N. 57 Hebano</head>
         <div type="name">
           <head>NOMI</head>
@@ -29,7 +29,7 @@
         </div>
         <div type="shape">
           <head>FORMA</head>
-          <p> Narra <persName ref="#Theofrastus">Theophrasto</persName> che sono molti che dicono esser simil al Terebintho ne' foglia, rami
+          <p> Narra <persName ref="theophrastus">Theophrasto</persName> che sono molti che dicono esser simil al Terebintho ne' foglia, rami
             et nel resto ancora, ma il fruto son simil allo mandole in forma et gusto ma non in
             grandezza et son albero fruticoso a modo di Cytiso <hi>et duro di legnio l'Absi e di legnio
             nero et morde la lingua et di buon odore. Et il Indo son con lineamenti bianchi et di
@@ -48,4 +48,4 @@
           <p>Pianta a foglie piccole, ovali allungate; frutti rotondi, verdi, ascellari,
             solitari.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

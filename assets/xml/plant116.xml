@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-116">
+  </teiHeader><text><body>
         <head>* N. II6 Cua Muchel</head>
         <div type="name">
           <head>NOMI</head>
@@ -58,4 +58,4 @@
           <p>Figura della stessa fattura dei n. 1, 21, 69; albero a foglie abbinate, lanceolate,
             penninervie; legumi verdi, subarticolati lunghi il doppio delle foglie. (Ed.). </p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

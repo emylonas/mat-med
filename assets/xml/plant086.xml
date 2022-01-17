@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-086">
+  </teiHeader><text><body>
         <head>N. 86 Azarolo</head>
         <ab>[<hi>Crataegus Azarolus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000988173"/></ab>
         <div type="name">
@@ -45,7 +45,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> - Legesi che <persName ref="#Serapione">Serapione</persName> posse <ptr target="#A-086-N6"/> il Sorbo in vece di Nespolo per li atributi gli
+          <p> - Legesi che <persName ref="serapio-junior">Serapione</persName> posse <ptr target="#A-086-N6"/> il Sorbo in vece di Nespolo per li atributi gli
             diede.</p>
         </div>
         <div type="editorial-D">
@@ -69,4 +69,4 @@
           <note xml:id="A-086-N6" n="6"> Pose.</note>
           <note xml:id="A-086-N7" n="7"> Trovasi un campione nell'Erbario Aldrovandi col nome Mespilus Aronia.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

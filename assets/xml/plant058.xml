@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-058">
+  </teiHeader><text><body>
         <head>N. 58 Anagiro, Egano</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000214693"/>[<hi>Cytisus Laburnum L.</hi>]</ab>
         <div type="name">
@@ -39,7 +39,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'ecc. m. <persName ref="#Ghini">Luca Ghini</persName> et ecc. m. <persName ref="#Aldrovandi">Ulisse Aldrovandi</persName> lo thiene per il Aburnum Plinij. Et
+          <p> L'ecc. m. <persName ref="ghini-luca">Luca Ghini</persName> et ecc. m. <persName ref="aldrovandi-ulisse">Ulisse Aldrovandi</persName> lo thiene per il Aburnum Plinij. Et
             l'ecc.<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 85 non ha questa oppinione ma la seconda spezie di Hebano per esser
             di medola nera come l'Hebano et non bianca come l'Alburnio.</p>
         </div>
@@ -70,4 +70,4 @@
           <note xml:id="A-058-N2" n="2"> In modo simile <hi>lottone</hi> divenne <hi>ottone</hi> (dial. ven. <hi>latón</hi>), <hi>lusignolo</hi> divenne
             <hi>usignuolo</hi> (lat. luscixia).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

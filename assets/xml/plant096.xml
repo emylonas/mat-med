@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-096">
+  </teiHeader><text><body>
         <head>N. 96 Balsamo</head>
         <div type="name">
           <head>NOMI</head>
@@ -73,4 +73,4 @@
             che altro modellata sulla descrizione, come non originali sono tutte le notizie e
             citazioni qui riportate ai diversi §§. (Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

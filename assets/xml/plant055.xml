@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-055">
+  </teiHeader><text><body>
         <head>N. 55 Licio Secondo Indiano</head>
         <div type="name">
           <head>NOMI</head>
@@ -39,7 +39,7 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p>L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 63 dice non lo conoscer et de molti dimostrano questo. Et l'ecc.
-            M. <persName ref="#Trevisan">Bernardin Trivisan</persName>, letor di Simplici in Padova dignissimo tiene che questo sia
+            M. <persName ref="trevisan-bernardino">Bernardin Trivisan</persName>, letor di Simplici in Padova dignissimo tiene che questo sia
             l'Aspalato.</p>
         </div>
         <div type="editorial-D">
@@ -51,4 +51,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="42"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

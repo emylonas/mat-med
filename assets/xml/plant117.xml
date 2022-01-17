@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-117">
+  </teiHeader><text><body>
         <head>N. 117 Ramno Primo b.o</head>
         <div type="name">
           <head>NOMI</head>
@@ -46,7 +46,7 @@
         </div>
         <div type="editorial-D">
           <p>Pianta fruttifera sorgente in un paesaggio montano con pastore e greggie. È il Rhamno
-            primo dell'<persName ref="#Anguillara">Anguillara</persName>. <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marcello fiorentino [= Marcello Virgilio Adriani]</ref> lo chiamò salutare et spina bianca nella
+            primo dell'<persName ref="alguillara-luigi">Anguillara</persName>. <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marcello fiorentino [= Marcello Virgilio Adriani]</ref> lo chiamò salutare et spina bianca nella
             credenza da lui esposta nel libro De re medicinali: Spina alba qua Christus incoronatus
             fuit» <ptr target="#A-117-N2"/>. </p>
         </div>
@@ -57,4 +57,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="85"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

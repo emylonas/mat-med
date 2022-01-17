@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-066">
+  </teiHeader><text><body>
         <head>N. 66 Sambuco Sp.e</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/>[<hi>Sambucus racemosa L.</hi>]</ab>
         <div type="name">
@@ -53,4 +53,4 @@
             Parturit et rutilas ebuli creat uvido baccas <hi>Colum. X, 9-10</hi> Sanguineis ebuli baccis
             minioque rubentem <hi>Verg. Buc. X. 37</hi> (Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

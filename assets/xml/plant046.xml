@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-046">
+  </teiHeader><text><body>
         <head>N. 46 Frutice Incognito</head>
         <ab>[<hi>Lonicera alpigena L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000359767"/></ab>
         <div type="name">
@@ -33,7 +33,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'ecc. m. <persName ref="#Aldrovandi">Ulisse Aldrovandi</persName> tiene sia spezie di Corno femina unde la si potrà chiamare
+          <p>L'ecc. m. <persName ref="aldrovandi-ulisse">Ulisse Aldrovandi</persName> tiene sia spezie di Corno femina unde la si potrà chiamare
             con genere al Corno femina.</p>
         </div>
         <div type="editorial-D">
@@ -45,7 +45,7 @@
           <p>Più tardi il Michiel trovò una pianta congenere non fiorita, ma fruttifera che da lui
             fu figurata al <ref type="internal" target="#A-149">N. 149</ref> col nome «frangola» ed espresse il dubbio che si trattasse della
             medesima specie, andando poco lontano dal vero.</p>
-          <p>La specie presente ſu descritta dal <persName ref="#Gesner">Gesner</persName> <ref type="bibl" target="http://id.sbn.it/bid/PUVE006389">[131]</ref> col nome <hi>Chamaecerasus</hi>.</p>
+          <p>La specie presente ſu descritta dal <persName ref="gesner-conrad">Gesner</persName> <ref type="bibl" target="http://id.sbn.it/bid/PUVE006389">[131]</ref> col nome <hi>Chamaecerasus</hi>.</p>
         </div>
 
-      </div></body></text></TEI>
+      </body></text></TEI>

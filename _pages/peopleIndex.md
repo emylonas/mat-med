@@ -106,6 +106,11 @@ Alternate Names: Cortusius, Jacobus Antonius; Cortusi, Jacopo Antonio
  - [N. 4 Albero Incognito]({{ site.baseurl }}edition/plant004/) 
  - [N. 148 Citiso]({{ site.baseurl }}edition/plant148/) 
                    
+## [Da Mula, Marcantonio](https://www.treccani.it/enciclopedia/marcantonio-da-mula_%28Dizionario-Biografico%29/)
+
+ - [N. I Ciruelas Monteses]({{ site.baseurl }}edition/plant001/) [3]
+ - [N. 67 Cacao Blanco]({{ site.baseurl }}edition/plant067/) 
+                   
 ## [Rauwolf, Leonhard](https://data.cerl.org/thesaurus/cnp00399447)
 
  - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) 
@@ -283,8 +288,3 @@ Esperto semplicista, botanico, matematico, costruttore di orologi solari,
 ## [Vergilius Maro, Publius](https://isni.org/isni/0000000430695667)
 
  - [N. 6 Vite Nera Vulgare]({{ site.baseurl }}edition/plant006/) 
-                   
-## [Da Mula, Marcantonio](https://www.treccani.it/enciclopedia/marcantonio-da-mula_%28Dizionario-Biografico%29/)
-
- - [N. I Ciruelas Monteses]({{ site.baseurl }}edition/plant001/) [3]
- - [N. 67 Cacao Blanco]({{ site.baseurl }}edition/plant067/) 

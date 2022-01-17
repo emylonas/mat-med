@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-035">
+  </teiHeader><text><body>
         <head>N. 35 Rosa Senis</head>
         <ab>[<hi>Philadelphus coronarius L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000465348"/></ab>
         <div type="name">
@@ -44,7 +44,7 @@
         <div type="editorial-D">
           <p>Figura mediocre di pianta fiorita; a parte una bella figura di ramoscello fiorito.</p>
           <p>Il Michiel, come narra, coltivò nel suo giardino questa pianta e fu il primo ad
-            effigiarla. Più tardi viene la figura data dal <persName ref="#Clusius">Clusio</persName> (<ref type="bibl" target="http://id.sbn.it/bid/UFIE002981">Hist. I. 55</ref>) sotto il nome <hi>Frutex
+            effigiarla. Più tardi viene la figura data dal <persName ref="clusius-carolus">Clusio</persName> (<ref type="bibl" target="http://id.sbn.it/bid/UFIE002981">Hist. I. 55</ref>) sotto il nome <hi>Frutex
               coronarius</hi>.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-090">
+  </teiHeader><text><body>
         <head>N. 90 Charance</head>
         <ab>[<hi>Momordica Balsamina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000376910"/></ab>
         <div type="name">
@@ -48,7 +48,7 @@
           <p>Buona figura di pianta avvolgentesi intorno ad uno stelo. A sinistra un rametto con
             foglia, fiore e frutto verde, a destra un rametto con foglie e frutto maturo.</p>
           <p>La più antica figura che si conosca di questa specie è quella alla c. 140 del Cod.
-            <persName ref="#Rinio">Rinio</persName>, la quale supera in bellezza questa del Michiel. A quei tempi, cioè nella prima
+            <persName ref="rinio-benedetto">Rinio</persName>, la quale supera in bellezza questa del Michiel. A quei tempi, cioè nella prima
             metà del sec. XV, si usava solo il nome caranza, ora applicato ad una congenere, e
             quelli di Balsamina e Momordica cominciarono ad usarsi verso la fine [19.</p>
           <p>Il Geranio primo di Dioscoride è G. tuberosum come risulta dalla diagnosi: <foreign xml:lang="grc">γεράνιον φύλλῳ ἀνεμόνης ῥίζᾳ ὑποστρογγύλῃ γλυγέιᾳ</foreign> (geranio a
@@ -63,4 +63,4 @@
           <note xml:id="A-090-N3" n="3"> Geranium rotundifolium. </note>
           <note xml:id="A-090-N4" n="4"> * c. 148 del lib. IV. (Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-062">
+  </teiHeader><text><body>
         <head>N. 62 Andracne</head>
         <div type="name">
           <head>NOMI</head>
@@ -37,12 +37,12 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce nell'Alpe dunde l'hebbi dal ecc. <persName ref="#Aldrovandi">Aldrovandi</persName>. Et l'altra mostra di Levante et
+          <p> Nasce nell'Alpe dunde l'hebbi dal ecc. <persName ref="aldrovandi-ulisse">Aldrovandi</persName>. Et l'altra mostra di Levante et
             non nasce in piano.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Questo albero come deto l'hebbi dal <persName ref="#Aldrovandi">Aldrovandi</persName> sotto questo nome, ma per non esser
+          <p> Questo albero come deto l'hebbi dal <persName ref="aldrovandi-ulisse">Aldrovandi</persName> sotto questo nome, ma per non esser
             suoe frondi simil al Arbuto vi son difficultà. L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che
             l'Andrachne Plinio vel Portulaca Theophr. son l'Arbuto di Diascoride. Et vengono tenuto
             communamente che l'Andrachne Plinij et Portulaca Theophrasti son una istessa cosa.</p>
@@ -62,4 +62,4 @@
             aggricciato, aggrezzato). Cfr. Plinio XIII, 120: cortice...., qui circumgelatus videri
             possit. (Ed.). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

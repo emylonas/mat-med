@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-061">
+  </teiHeader><text><body>
         <head>N. 61 Zarnab</head>
         <div type="name">
           <head>NOMI</head>
@@ -45,12 +45,12 @@
         </div>
         <div type="editorial-D">
           <p>Pianta sterile a foglie lanceolate; a parte i foglia (lembo cm 8X1, picciolo cm
-            1). Sprengel dalla fig. N. 112, del Zarnab di <persName ref="#Dasilico">Dasilico</persName> deduce che possa essere Salix
+            1). Sprengel dalla fig. N. 112, del Zarnab di <persName ref="rauwolf-leonhard">Dasilico</persName> deduce che possa essere Salix
             aegyptiaca. <ptr target="#A-061-N1"/></p>
         </div>
         <div type="notes">
           <note xml:id="A-061-N1" n="1"> * Infatti lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref>, p. 66,
-            riporta, secondo <persName ref="#Dasilico">Rauwolf</persName>, «zarnab» a <hi>Safsaf Syrorum</hi> (<hi>Salix Safsal</hi> Forsk).
+            riporta, secondo <persName ref="rauwolf-leonhard">Rauwolf</persName>, «zarnab» a <hi>Safsaf Syrorum</hi> (<hi>Salix Safsal</hi> Forsk).
             (Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

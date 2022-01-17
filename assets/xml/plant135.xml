@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-135">
+  </teiHeader><text><body>
         <head>N. 135 Spin Cerbin</head>
         <ab>[<hi>Rhamnus cathartica L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000460239"/></ab>
         <div type="name">
@@ -51,4 +51,4 @@
           <note xml:id="A-135-N3" n="3"> Allume.</note>
           <note xml:id="A-135-N4" n="4"> Bollitura.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

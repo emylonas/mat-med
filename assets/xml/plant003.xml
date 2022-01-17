@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-003">
+  </teiHeader><text><body>
         <head>N. 3 Lauro Silvestre</head>
 
 
@@ -47,10 +47,10 @@
             figurate due foglie mostranti le due pagine. La figura della pianta è abbastanza buona,
             brutta e sproporzionata è invece quella del monte, come infelici son le figure di
             alberi, case, uomini.</p>
-          <p>Il nome abruzzese <hi>molesso</hi> fu tratto dall'<persName ref="#Anguillara">Anguillara</persName> che a p. 80 dei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> 
+          <p>Il nome abruzzese <hi>molesso</hi> fu tratto dall'<persName ref="alguillara-luigi">Anguillara</persName> che a p. 80 dei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> 
             parlò di questa specie sotto i nomi <hi>Tinus</hi> e <foreign xml:lang="grc">Δάφνη
               ἀγρία</foreign>.</p>
-          <p>Nella lista delle piante coltivate a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> dal <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
+          <p>Nella lista delle piante coltivate a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> dal <persName ref="ghini-luca">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
             vocata; alij sui generis arborem esse putant».</p>
         </div>
         <div type="notes">
@@ -60,4 +60,4 @@
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="14"/>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

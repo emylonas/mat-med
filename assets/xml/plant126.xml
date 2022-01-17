@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-126">
+  </teiHeader><text><body>
         <head>N. 126 Tithimalo Dendroide</head>
         <ab>[<hi>Euphorbia dendroides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000961698"/></ab>
         <div type="name">
@@ -48,9 +48,9 @@
             esser volgare non lo figurai et legesi nel dito libro.</p>
         </div>
         <div type="editorial-D">
-          <p>Pianta fertile; a parte un rametto fiorito e fruttifero. Le località di Toscana, Liguria e Marsiglia son prese dall'<persName ref="#Anguillara">Anguillara</persName> che vi rinvenne la pianta. Ma siccome oggidi
+          <p>Pianta fertile; a parte un rametto fiorito e fruttifero. Le località di Toscana, Liguria e Marsiglia son prese dall'<persName ref="alguillara-luigi">Anguillara</persName> che vi rinvenne la pianta. Ma siccome oggidi
             
-            (1) Il <persName ref="#Bonato">Bonato</persName> trascrisse erroneamente Saruma. 
+            (1) Il <persName ref="bonato-giuseppe-antonio">Bonato</persName> trascrisse erroneamente Saruma. 
             (2) * È, inoltre, in contraddizione con
             l'habitat e con lo stesso nome Jaruma, cho corrisponderebbero alla Cocropia peltata i
             perché la forma delle foglie nettamente «palmate», se esatta, sarebbe caratteristica
@@ -66,7 +66,7 @@
             opportuna a confermare tali deduzioni e togliere ogni dubbio sulla sinonimia <ptr target="#A-126-N2"/>. Che la
             figura del Dodoneo non sia tratta dall'originale può constatarsi dalle parole scritte
             sotto [93]: * «Tithymalus dendroides ex Codice caesareo» e la stessa descrizione è
-            presa dal <persName ref="#Belonio">Belonio</persName> e dà dimensioni esagerate alla pianta <ptr target="#A-126-N3"/>.</p>
+            presa dal <persName ref="belon-pierre">Belonio</persName> e dà dimensioni esagerate alla pianta <ptr target="#A-126-N3"/>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-126-N1" n="1"> La nostra Napoli era così chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
@@ -82,4 +82,4 @@
             memoriae prodidit». La pianta è conservata nell'Erbario Aldrovandi, Vol. II, 185.
           </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

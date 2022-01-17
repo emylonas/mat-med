@@ -78,16 +78,30 @@ layout: default
              return link;
             },
             "ref": [
-
-              "[type=bibl]", ["[target]", ["<a href=\"$rw@target\">","</a>"]]
+            ["[type=internal]", function(elt) {
+              let linkNum = elt.getAttribute("target").replace(/#A-/,"");
+              let linkPre = '{{ site.baseurl }}edition/plant';
+              let link = document.createElement("a");
+              link.innerHTML = elt.innerHTML;
+              link.href = linkPre.concat(linkNum);
+              return link;
+            }],
+            ["[type=bibl][target]", ["<a href=\"$rw@target\">","</a>"]],
+            ["[type=kew][target]", ["<a href=\"$rw@target\">","</a>"]],
+            ["[type=wfo][target]", ["<a href=\"$rw@target\">","</a>"]]
             ],
-            // "persName": [
-            //   ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
-            // ],
-            // "placeName": [
-            //   ["[ref]", ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"]]
-            // ],
-            "pb": ["[DeToni p. $@n]"]
+            "pb": ["[DeToni p. $@n]"],
+            "placeName": ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"],
+            
+            "persName": function(elt) {
+              let linkPre = '{{ site.baseurl }}index-people/#';
+              let linkName = elt.getAttribute("ref");
+              let link = document.createElement("a");
+              link.innerHTML = elt.innerHTML;
+              link.href = linkPre.concat(linkName);
+              return link;
+            }
+            
           }
           });
               CETEIcean.getHTML5('{{page.plant-xml | relative_url}}', function(data) {

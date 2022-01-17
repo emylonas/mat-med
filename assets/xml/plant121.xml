@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-121">
+  </teiHeader><text><body>
         <head>N. 121 Genesta</head>
         <ab>[I. <hi>Spartium Junceum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213405"/> [II. <hi>Genista radiata Scop.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213761"/></ab>
         <div type="name">
@@ -90,4 +90,4 @@
           <note xml:id="A-121-N9" n="9"> Reti.</note>
           <note xml:id="A-121-N10" n="10"> * Reduti = ridotti. (Ed.). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

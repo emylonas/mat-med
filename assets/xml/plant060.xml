@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-060">
+  </teiHeader><text><body>
         <head>N. 60 Prunus Theo.</head>
         <div type="name">
           <head>NOMI</head>
@@ -53,4 +53,4 @@
             (κοκκυγυέα nella lez. corretta) era reso con prunus (= gr. κοκκυμηλέα). (Ed.).</note>
           <note xml:id="A-060-N2" n="2"> Comaro (<hi>Arbutus Unedo</hi>). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

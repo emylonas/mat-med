@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-149">
+  </teiHeader><text><body>
         <head>N. 149 Frangola</head>
         <ab> [<hi>Lonicera Xylosteum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/></ab>
         <div type="name">
@@ -57,4 +57,4 @@
             driedo, e poi ba cancellato «inanti. Quel siod dunque non ha senso nella forma attuale
             del testo. (Ed.). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

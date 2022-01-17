@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-161">
+  </teiHeader><text><body>
         <head>N. 161 Otra Manera de Mecoacan</head>
         <ab>[<hi>Ipomaea Jalapa Coxe</hi>] <ref type="kew" target="https://www.ipni.org/n/269109-1"/></ab>
         <div type="name">
@@ -51,7 +51,7 @@
             specie brasiliana Piptostegia Pisonis, quindi a torto lo Sprengel dà a loro il primato
             dell'iconografia del vero Mechoacan.</p>
           <p>Da principio l'autore avea ricevuto dal Guilandino col nome di Mechoacan la passiflora
-              <ref target="A-017)">[N. 17]</ref>, ma poi lo Guilandino riconobbe l'errore.</p>
+              <ref type="internal" target="#A-017)">[N. 17]</ref>, ma poi lo Guilandino riconobbe l'errore.</p>
         </div>
         <div type="notes">
           <note xml:id="A-161-N1" n="1"> In bianco.</note>
@@ -59,4 +59,4 @@
           <note xml:id="A-161-N3" n="3"> Hernandez la figurò fiorita sotto il nome Tacuache («vol. I, pag. 164»
             Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

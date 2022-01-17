@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-136">
+  </teiHeader><text><body>
         <head>N.136 Carober Salvatico</head>
         <ab>[<hi>Cercis Siliquastrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213642"/></ab>
         <div type="name">
@@ -42,7 +42,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Il Mattiolo lo dipinge con le spine per Acatia prima. Et Messer <persName ref="#Guilandino">Marchio</persName> eccellente
+          <p> Il Mattiolo lo dipinge con le spine per Acatia prima. Et Messer <persName ref="guilandino-melchiorre">Marchio</persName> eccellente
             giardiniero della Illustrissima Signoria nostra se ne ride et beffa et me lo disse lui.
             Pur a Costantinopoli dunde l'hebbe lui potrebbe fare. spini ma per quello ho inteso da
             altri non ci fa.</p>
@@ -80,4 +80,4 @@
             frequente in Toscana, patria del botanico. Valeva dunque la pena, dicono loro, di
             farsela venire da Costantinopol ? </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

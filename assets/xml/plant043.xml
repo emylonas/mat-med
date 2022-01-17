@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-043">
+  </teiHeader><text><body>
         <head>N. 43 Asclepias de Francia</head>
         <ab>[<hi>Cynanchum nigrum Pers.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000633390"/></ab>
         <div type="name">
@@ -29,11 +29,11 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In (sic) l'hebbi di Francia dal <persName>Tholomei giovane simplicista</persName> degnissimo.</p>
+          <p> In (sic) l'hebbi di Francia dal <persName ref="">Tholomei giovane simplicista</persName> degnissimo.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'ecc. <persName ref="#Anguillara">Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 274 al cap. del A pochino di questa ne parla. Et
+          <p> L'ecc. <persName ref="alguillara-luigi">Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 274 al cap. del A pochino di questa ne parla. Et
             molti tengono oppinione sia piui presto apocino che asclepias.</p>
         </div>
         <div type="disagreements">
@@ -64,4 +64,4 @@
           <note xml:id="A-043-N3" n="3"> Intendesi la prima, cioè grammaticalmente <hi>quella</hi>.</note>
           <note xml:id="A-043-N4" n="4"> Intendesi la seconda, cioè grammaticalmente <hi>questa</hi>.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

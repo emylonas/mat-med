@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-030">
+  </teiHeader><text><body>
         <head>N. 30 Chamelea</head>
         <ab>[<hi>Daphne oleaefolia Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637792"/></ab>
         <div type="name">
@@ -37,9 +37,9 @@
         </div>
         <div type="editorial-D">
           <p>Pianta fiorita e fruttifera. Le località notate furono tratte parte dal Mattioli,
-            parte dall'Anguillara. E siccome la Chamaelea del <persName ref="#Mattioli">Mattioli</persName> è altra specie di Daphne <ptr target="#A-030-N3"/>,
+            parte dall'Anguillara. E siccome la Chamaelea del <persName ref="mattioli-pietro-andrea">Mattioli</persName> è altra specie di Daphne <ptr target="#A-030-N3"/>,
             ne deduciamo che la specie presente è la Chamaelea dell'Anguillara trovata dall'illustre botanico al Monte Maiella. Altre specie del genere Daphne furono figurate dal
-            Michiel nei tre numeri seguenti, al <ref target="#R1-377">N. 377 del primo libro rosso</ref> ed al <ref target="#V-187">N. 187 del libro
+            Michiel nei tre numeri seguenti, al <ref type="internal" target="#R1-377">N. 377 del primo libro rosso</ref> ed al <ref type="internal" target="#V-187">N. 187 del libro
               verde</ref>.</p>
         </div>
         <div type="notes">
@@ -50,4 +50,4 @@
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="29"/>
 
-      </div></body></text></TEI>
+      </body></text></TEI>

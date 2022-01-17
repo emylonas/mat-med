@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-023">
+  </teiHeader><text><body>
         <head>N. 23 Scamonea</head>
         <ab>[<hi>Convolvolus Scammonia L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001298534"/></ab>
         <div type="name">
@@ -59,38 +59,38 @@
         <div type="editorial-D">
           <p>La figura di pianta fiorita è mediocre ma fu tratta dal vero, come lo prova un rametto
             foglioso disseccato che trovasi conservato fra le pagine del codice. Essa è
-            contemporanea a quella che pubblicò il <persName ref="#Mattioli">Mattioli</persName> pur traendola dal vero e sebbene, <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="26"/> come si disse, non sia
-            molto ben fatta, fa vedere un carattere che non fu avvertito ne dal <persName ref="#Mattioli">Mattioli</persName>, né dal
-            <persName ref="#Rinio">Rinio</persName> che effigiò la pianta alla c. 416 del suo codice, cioè quello dei dentini interni
+            contemporanea a quella che pubblicò il <persName ref="mattioli-pietro-andrea">Mattioli</persName> pur traendola dal vero e sebbene, <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="26"/> come si disse, non sia
+            molto ben fatta, fa vedere un carattere che non fu avvertito ne dal <persName ref="mattioli-pietro-andrea">Mattioli</persName>, né dal
+            <persName ref="rinio-benedetto">Rinio</persName> che effigiò la pianta alla c. 416 del suo codice, cioè quello dei dentini interni
             alla base del lembo fogliare. Questo carattere da principio era sfuggito allo stesso
             Michiel perché la differenza di gradazione delle tinte verdi prova che il disegno delle
             foglie fu corretto più tardi, aggiungendo i dentini, ed un'altra prova l'abbiamo nella
             diagnosi in cui non se ne fa parola.</p>
-          <p>Non teniamo conto della figura data da <persName ref="#Marini">Andrea Marini</persName> perché essa è copiata da quella di
-            <persName ref="#Mattioli">Mattioli</persName>, come risulta dalle seguenti parole: «Scamoniae imaginem nullus hactenus ex
+          <p>Non teniamo conto della figura data da <persName ref="marini-andrea">Andrea Marini</persName> perché essa è copiata da quella di
+            <persName ref="mattioli-pietro-andrea">Mattioli</persName>, come risulta dalle seguenti parole: «Scamoniae imaginem nullus hactenus ex
             herbarijs quod equidem sciam pictam tradidit. Nobis autem hanc Byzantio adlatam dono
             dedit Georgius Liberalis pictor egregius et mihi perfamiliaris, quae Dioscoridis
             historiae omni ex parte consentire videtur, consimilem quoque ostendit Petrus Antonius
             Michaelius patritius Venetus ...».</p>
-          <p>Il Mattioli rispose: «M. <persName ref="#Marini">Andrea Marini</persName> nelle sue <ref type="bibl" target="http://id.sbn.it/bid/PUVE006496"><hi>Annotazioni sopra Mesue</hi></ref> mette questa
-            medesima pianta, dicendo haverla ricevuta da M. <persName ref="#Liberale">Giorgio Liberale</persName> pittore il quale ha
+          <p>Il Mattioli rispose: «M. <persName ref="marini-andrea">Andrea Marini</persName> nelle sue <ref type="bibl" target="http://id.sbn.it/bid/PUVE006496"><hi>Annotazioni sopra Mesue</hi></ref> mette questa
+            medesima pianta, dicendo haverla ricevuta da M. <persName ref="liberale-giorgio">Giorgio Liberale</persName> pittore il quale ha
             dissegnato la maggior parte delle figure di questo nostro volume per non haver forse
             egli saputo che il Liberale l'haveva presa dal nostro giardino...».</p>
-          <p>Da ciò può dedursi che le figure date dal <persName ref="#Mattioli">Mattioli</persName> e dal Michiel sono contemporanee o
+          <p>Da ciò può dedursi che le figure date dal <persName ref="mattioli-pietro-andrea">Mattioli</persName> e dal Michiel sono contemporanee o
             quasi, ma d'altra parte la questione della priorità diventa oziosa <ptr target="#A-023-N4"/> ora che sappiamo
             essere stata la scammonea figurata, benché imperfettamente, un secolo prima dei nostri
-            due botanici, da <persName ref="#Rinio">Benedetto Rinio</persName>.</p>
+            due botanici, da <persName ref="rinio-benedetto">Benedetto Rinio</persName>.</p>
           <p>Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
             trovasi in altri convolvoli.</p>
           <p>Il Michiel ottenne la pianta di semi che accidentalmente si trovavano racchiusi nel
-            succo concreto di scammonea spedito da <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html">Aleppo</placeName> da <persName ref="#Cechin">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
+            succo concreto di scammonea spedito da <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html">Aleppo</placeName> da <persName ref="martinelli-francesco">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-023-N1" n="1"> Avvolgono.</note>
           <note xml:id="A-023-N2" n="2"> Vasi da fiori di terraglia smaltata.</note>
           <note xml:id="A-023-N3" n="3"> Eletta,</note>
-          <note xml:id="A-023-N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="#Anguillara">Anguillara</persName> ne fece nascere una
-            pianta da semi avuti di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="#Priuli">Lorenzo Priuli</persName>
-            a <placeName ref="https://www.geonames.org/6542281/padova.html">Padova</placeName> e <persName>Giulio Moderato</persName> a <placeName ref="https://www.geonames.org/6541863/rimini.html">Rimini</placeName>. </note>
+          <note xml:id="A-023-N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="alguillara-luigi">Anguillara</persName> ne fece nascere una
+            pianta da semi avuti di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="priuli-lorenzo">Lorenzo Priuli</persName>
+            a <placeName ref="https://www.geonames.org/6542281/padova.html">Padova</placeName> e <persName ref="">Giulio Moderato</persName> a <placeName ref="https://www.geonames.org/6541863/rimini.html">Rimini</placeName>. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

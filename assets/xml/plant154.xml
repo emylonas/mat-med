@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-154">
+  </teiHeader><text><body>
         <head>N. 154 Tembul Tenuto</head>
         <div type="name">
           <head>NOME</head>
@@ -67,4 +67,4 @@
             incogniti a noi». Potrebbe quindi darsi che avesse ricevuto foglie di Piper Belel o lo
             Folia Malabalhri, ma mancano elementi per riconoscerle. (Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

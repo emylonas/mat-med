@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-100">
+  </teiHeader><text><body>
         <head>N. 100 Betula</head>
         <ab>[<hi>Betula alba L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000330385"/></ab>
         <div type="name">
@@ -38,4 +38,4 @@
         <div type="editorial-D">
           <p>Pianta fertile, amenti allungati gialli. A parte una foglia. -</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

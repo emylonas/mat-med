@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-115">
+  </teiHeader><text><body>
         <head>N. 115 Stafilodendro</head>
         <ab>[<hi>Staphylea pinnata L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000493112"/></ab>
         <div type="name">
@@ -41,7 +41,7 @@
           <p>Albero fiorito e fruttifero portante in cima un nido di cicogne. A parte una buona
             figura di foglia accompagnata da infiorescenza ed un'altra bellissima di due frutti, uno
             de' quali lacerato per far vedere i semi.</p>
-          <p>Questa figura ci fa conoscere che la specie chiamata dall'<persName ref="#Anguillara">Anguillara</persName> arbor ritis
+          <p>Questa figura ci fa conoscere che la specie chiamata dall'<persName ref="alguillara-luigi">Anguillara</persName> arbor ritis
             (traduzione un po' libera di <foreign xml:lang="grc">σταφυλόδενδρον</foreign> = albero
             dai grappoli) e che egli disse aver veduto nel giardino del nob. Filippo Pasqualigo a
             Padova non è già il pistacchio selvatico, ma la stafilea. Altri credettero che le «
@@ -61,4 +61,4 @@
             graminca chiamata oggidi Lagrime di Giobbe (Cois Lacryma) servono al medesimo
             uso.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

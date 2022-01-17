@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-145">
+  </teiHeader><text><body>
         <head>N. 145 Pero Cervino</head>
         <ab>[<hi>Cotoneaster integerrima Medic.</hi>] <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1"/></ab>
         <div type="name">
@@ -29,12 +29,12 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Da simplicisti son tenuta per spetie di perastro. Et m. <persName ref="#Guilandino">Marchio</persName> eccell. giardiniero in
+          <p> Da simplicisti son tenuta per spetie di perastro. Et m. <persName ref="guilandino-melchiorre">Marchio</persName> eccell. giardiniero in
             Padova tiene il sia il Chamemespilo di Valerio Cordi.</p>
         </div>
         <div type="editorial-D">
-          <p>Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Guilandino qui citata è erronea perché il Chamaemespilus del <persName ref="#Cordo">Cordo</persName> è Pirus Chamaemespilus
+          <p>Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Guilandino qui citata è erronea perché il Chamaemespilus del <persName ref="simone-da-cordo">Cordo</persName> è Pirus Chamaemespilus
             [115]. Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152].
             </p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

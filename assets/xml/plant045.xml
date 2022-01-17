@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-045">
+  </teiHeader><text><body>
         <head>N. 45 Chico Capolt</head>
         <ab>[<hi>Achras Sapota L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000294988"/></ab>
         <div type="name">
@@ -53,4 +53,4 @@
           <note xml:id="A-045-N2" n="2"> Albicocche.</note>
           <note xml:id="A-045-N3" n="3"> Innesto. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

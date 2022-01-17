@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-130">
+  </teiHeader><text><body>
         <head>N. 130 Ceiner Melo</head>
         <ab>[<hi>Cycas circinnalis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000631521"/></ab>
         <div type="name">
@@ -52,4 +52,4 @@
             riconoscere abbastanza bene la specie e precede quella di Andrea Cleyer [271] di oltre
             un secolo.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

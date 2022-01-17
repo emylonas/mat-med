@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-048">
+  </teiHeader><text><body>
         <head>N. 48 Agrifolio</head>
         <ab>[<hi>Ilex Aquifolium L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000729203"/></ab>
         <div type="name">
@@ -27,7 +27,7 @@
           <head>GENERA</head>
           <p> Molti et varii sonno li Paliuri ma questo molto meglio si rasembra al Paliuro scrito
             da Plinio et tolto da Theophrasto che tutti gli altri da varii et diversi autori
-            menzonati come alli suoi capitoli chiaro vedrassi. Et de lothi legi nel <ref target="#R1-116">libro primo
+            menzonati come alli suoi capitoli chiaro vedrassi. Et de lothi legi nel <ref type="internal" target="#R1-116">libro primo
               rosso k. 116 </ref> <ptr target="#A-048-N3"/>.</p>
         </div>
         <div type="shape">
@@ -38,11 +38,11 @@
           <head>LUOGHO</head>
           <p> Ne <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
             ne havevo uno molto ben formato et ne ho posto nel giardino in Padova del clar. cav.
-            <persName ref="#MocenigoAlv-I">Mozenigo</persName>.</p>
+            <persName ref="mocenigo-alvise-i">Mozenigo</persName>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'<persName ref="#Anguillara">Anguillara</persName> tiene esser l'Aquifoglia vel Agria Theophrasti. Et il <persName ref="#Ruellio">Ruelio</persName> mosso da non
+          <p> L'<persName ref="alguillara-luigi">Anguillara</persName> tiene esser l'Aquifoglia vel Agria Theophrasti. Et il <persName ref="ruel-jean">Ruelio</persName> mosso da non
             scio che tiene che questo sia il Loto.</p>
         </div>
         <div type="properties">
@@ -60,4 +60,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="39"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,12 +15,12 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-042">
+  </teiHeader><text><body>
         <head>N. 42 Asclepias</head>
         <ab>[<hi>Marsdenia erecta (L.) R.Br.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001102183"/></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Asclepiade dal francese, <persName ref="#Belonio">Bellonio</persName> simplicista copioso et erante.</p>
+          <p> Asclepiade dal francese, <persName ref="belon-pierre">Bellonio</persName> simplicista copioso et erante.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -29,7 +29,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nel <placeName ref="https://www.geonames.org/351820/jabal-musa.html">Monte Sinai</placeName> mi disse el deto <persName ref="#Belonio">Belonio</persName> el qual mi diede de semi et mi naque in
+          <p> Nel <placeName ref="https://www.geonames.org/351820/jabal-musa.html">Monte Sinai</placeName> mi disse el deto <persName ref="belon-pierre">Belonio</persName> el qual mi diede de semi et mi naque in
             quantità dunde la dispensai per de molti giardini de simplici che ancora si vedeno.</p>
         </div>
         <div type="seasonality">
@@ -48,9 +48,9 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p>Molti simplicisti vuoleno che questa sia spezie di Apochinos, ma per fare li sarmenti
-            lunghi l'<persName ref="#Aldrovandi">Aldrovandi</persName> dignissimo simplicista tiene che vengano meglio quivi et de altri
+            lunghi l'<persName ref="aldrovandi-ulisse">Aldrovandi</persName> dignissimo simplicista tiene che vengano meglio quivi et de altri
             ancora tieneno questa oppinione. M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Aloise Anguillara</ref> k. 274 dice che se li suoi
-            sarmenti fussero piccoli et che amazassero i cani che potria essere. M. <persName ref="#Guilandino">Marchiò</persName> 
+            sarmenti fussero piccoli et che amazassero i cani che potria essere. M. <persName ref="guilandino-melchiorre">Marchiò</persName> 
             Giardiniero della Ill.ma Signoria dice che l'Asclepias Mathioli son il Polyrizon Plinij
             <hi>ma non è così</hi>: Et anchora de molti sciochi voleno che quella volgar Hedera terestre sia
             l'Asclepiade. Et <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marzello fiorentino [= Marcello Virgilio Adriani]</ref> dice far il fiore di Rosa.</p>
@@ -62,10 +62,10 @@
             sarmenti di questa ci vivono et quelle ci muore l'inverno».</p>
           <p>L'Anguillara nel suo Parere sull'Apocino citato al numero seguente dice di aver
             ricevuto questa pianta nel 1549 dalla Grecia insieme a quella che segue.</p>
-          <p>Confrontando quanto dice il Michiel con quanto è detto negli scritti di <persName ref="#Ghini">Ghini</persName>,
-            <persName ref="#Aldrovandi">Aldrovandi</persName> e <persName ref="#Mattioli">Mattioli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CAG0081035">[303</ref>, <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">305</ref>, <ref type="bibl" target="http://id.sbn.it/bid/RMLE0070830412287">191]</ref> si comprende che <persName ref="#Belonio">Pietro Belon</persName> diede al Michiel i
+          <p>Confrontando quanto dice il Michiel con quanto è detto negli scritti di <persName ref="ghini-luca">Ghini</persName>,
+            <persName ref="aldrovandi-ulisse">Aldrovandi</persName> e <persName ref="mattioli-pietro-andrea">Mattioli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CAG0081035">[303</ref>, <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">305</ref>, <ref type="bibl" target="http://id.sbn.it/bid/RMLE0070830412287">191]</ref> si comprende che <persName ref="belon-pierre">Pietro Belon</persName> diede al Michiel i
             semi della pianta col nome di asclepiade, semi i quali germogliarono nel giardino del
-            patrizio veneto. Nel 1547 <persName ref="#Ghini">Luca Ghini</persName> ricevette due follicoli, come lo mostrano le parole
+            patrizio veneto. Nel 1547 <persName ref="ghini-luca">Luca Ghini</persName> ricevette due follicoli, come lo mostrano le parole
             nel placito <hi>de Apocyno</hi>: «Ante quatuor annos dono mihi dedit Nobilis quidam binas
             siliquas ex Syria allatas quarum una inscriptionem habebat hanc Periploca repens,
             alteri inscriptum erat Periploca non repens». La prima è la pianta figurata dal Michiel
@@ -75,4 +75,4 @@
             nel 1549 cioè due anni dopo che il Ghini ricevette i campioni, non può esser nemmeno
             l'Anguillara che ebbe le piante due anni dopo dalla Grecia.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

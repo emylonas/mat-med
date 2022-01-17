@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-070">
+  </teiHeader><text><body>
         <head>N. 70 Aparine</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000968296"/>[<hi>Galium Aparine L.</hi>]</ab>
         <div type="name">
@@ -40,4 +40,4 @@
             appiccicano alle vesti mediante peli viscosi (es. Salvia glutinosa) meglio che alla
             presente che s'attacca con peli uncinati</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

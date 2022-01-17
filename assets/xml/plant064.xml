@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-064">
+  </teiHeader><text><body>
         <head>N. 64 Platano</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000487086"/>[<hi>Platanus orientalis L.</hi>]</ab>
         <div type="name">
@@ -58,9 +58,9 @@
         <div type="editorial-D">
           <p> [In mezzo ad un paesaggio con caseggiato sorge l'albero fruttifero. La figura con è
             molto buona, ma ha importanza perché rappresenta una pianta rara a quei tempi in Italia,
-            come apprendiamo non solo dal Michiel, ma anche dall'<persName ref="#Anguillara">Anguillara</persName> che ne conta pochi
+            come apprendiamo non solo dal Michiel, ma anche dall'<persName ref="alguillara-luigi">Anguillara</persName> che ne conta pochi
             individui nel Veronese, nel Bolognese ed a Padova, quest'ultimo nel giardino di mons. 
-            <persName ref="#BemboT">Torquato Bembo</persName> <ptr target="#A-064-N4"/>.</p>
+            <persName ref="bembo-torquato">Torquato Bembo</persName> <ptr target="#A-064-N4"/>.</p>
           <p>Un secolo dopo la compilazione del presente codice lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> (p. 62) scriveva del
             Platano: «in Orbe nostro rara admodum est: nec nisi in divitum hortis apud Italos,
             Hispanos, Siculos et Constantinopolitanos reperitur. Sic speciosas habent Florentiae
@@ -73,9 +73,9 @@
           <note xml:id="A-064-N2" n="2"> Innesti.</note>
           <note xml:id="A-064-N3" n="3"> Imperocche.</note>
           <note xml:id="A-064-N4" n="4"> Questo platano fu cantato in versi da Giovanni Hagius e Pietro Cotichio.
-            Altre figure della pianta diedero il <persName ref="#Belonio">Belon</persName> ed il Trago (41, 306), un campione si trova
-            nell'Erbario <persName ref="#Aldrovandi">Aldrovandi</persName>.</note>
+            Altre figure della pianta diedero il <persName ref="belon-pierre">Belon</persName> ed il Trago (41, 306), un campione si trova
+            nell'Erbario <persName ref="aldrovandi-ulisse">Aldrovandi</persName>.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="48"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

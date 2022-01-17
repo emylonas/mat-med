@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-128">
+  </teiHeader><text><body>
         <head>N. 128 Mirto Minuto</head>
         <ab>[<hi>Myrtus communis L. var. tarentina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000248725"/></ab>
         <div type="name">
@@ -39,4 +39,4 @@
             colle ale spiegate. Per completar la figura sono aggiunti due modelli di zampe che
             posano sopra uno stecco fissato traversalmente sull'orlo del vaso.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

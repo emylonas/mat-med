@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-127">
+  </teiHeader><text><body>
         <head>N. 127 Mirto Latifolia</head>
         <ab>[<hi>Myrtus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000248712"/></ab>
         <div type="name">
@@ -51,4 +51,4 @@
         <div type="notes">
           <note xml:id="A-127-N3" n="3"> Bacche. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

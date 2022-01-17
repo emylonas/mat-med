@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-153">
+  </teiHeader><text><body>
         <head>N. 153 Tembul</head>
         <div type="name">
           <head>NOMI</head>
@@ -41,17 +41,17 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p><persName ref="#Cechin">M. Cechino dal Angelo</persName> virtuosissimo et inteligente mi diede questa mostra et dissemi
+          <p><persName ref="martinelli-francesco">M. Cechino dal Angelo</persName> virtuosissimo et inteligente mi diede questa mostra et dissemi
             come per raporti si tiene che questa sia il Tembul et che la chiamano con questo nome.
             Et apresso ha la fede dal ecc. M. huomo singularissimo Michiele di Muti et veridico.
-            Conferma a questo l'ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>
+            Conferma a questo l'ecc. <persName ref="alguillara-luigi">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>
         </div>
         <div type="editorial-D">
           <p>Nella figura c'è di tratto dal vero solo il disegno di una foglia ingiallita (82 mm
             60 mm).</p>
           <p>Dietro questa e dietro le descrizioni del De Muti e dell'aAnguillara il Michiel fece
             anche fare il disegno di una pianta sterile a fusto volubile, con viticci oppostifogli.
-            Le parti che furono aggiunte dopo son tratte dall'<persName ref="#Anguillara">Anguillara</persName> il quale distingueva il
+            Le parti che furono aggiunte dopo son tratte dall'<persName ref="alguillara-luigi">Anguillara</persName> il quale distingueva il
             Betel dal Tembul. Nella copia del suo libro esistente alla Marciana vi è una glosa ms.
             del Guilandino in cui è detto che il Tembul degli Arabi e Persiani è la stessa cosa del
             Betel indiano.</p>
@@ -59,4 +59,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="105"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

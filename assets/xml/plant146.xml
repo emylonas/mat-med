@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-146">
+  </teiHeader><text><body>
         <head>N. 146 Aspalato</head>
         <ab>[<hi>Genista aspalathoides Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213311"/></ab>
         <div type="name">
@@ -46,7 +46,7 @@
             Costantin Rhodioto speziale dignissimo in Candia degno di fede, qual mi mando la mostra
             di esso per il Magnifico sig. Gabriel Valaresso al tempo che Suoa Magnificencia era
             consiglier in Candia <ptr target="#A-146-N1"/>. Altri pensorno che il Sandalo rosso sia l'Aspalato, ma
-            <persName ref="#Serapione">Serapione</persName> lo chiarisse. Altri se inganano tenendo il legittimo Aloe per il deto
+            <persName ref="serapio-junior">Serapione</persName> lo chiarisse. Altri se inganano tenendo il legittimo Aloe per il deto
             Aspalato.</p>
         </div>
         <div type="disagreements">
@@ -66,4 +66,4 @@
           <note xml:id="A-146-N1" n="1"> Dal 16 Giugno 1550 al 15 Febbraio 1553.</note>
           <note xml:id="A-146-N2" n="2"> Non Roberto come lo chiama lo Sprengel.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

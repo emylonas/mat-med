@@ -15,10 +15,10 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-028">
+  </teiHeader><text><body>
         <head>N. 28 Giande</head>
         <div type="editorial-D">
           <p>Tre buone figure rappresentanti ghiande di quercia prive di cupola. Manca il
             testo.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

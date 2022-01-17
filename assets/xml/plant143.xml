@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-143">
+  </teiHeader><text><body>
         <head>N. 143 Alimo</head>
         <ab>[<hi>Atriplex portulacoides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000556480"/></ab>
         <div type="name">
@@ -50,4 +50,4 @@
           <p>Pianta fiorita. Una figura migliore trovasi nel libro verde, N. 231. La pianta fu
             trovata al Lido dal Michiel che però deve averne ricevuto anche un campione dall'Aldrovandi (V. Catalogo 266').</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

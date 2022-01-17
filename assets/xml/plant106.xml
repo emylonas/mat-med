@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-106">
+  </teiHeader><text><body>
         <head>N. 106 Paliuro di Agatocle</head>
         <ab>[<hi>Zizyphus ...</hi>]</ab>
         <div type="name">
@@ -59,4 +59,4 @@
           <note xml:id="A-106-N3" n="3"> * Il Michiel invece, seguendo l'Anguillara, lo identifica col 2. vulgaris;
             nulla perd dice dell'originale da cui cavo la figura. (Ed.). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

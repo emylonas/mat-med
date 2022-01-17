@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-097">
+  </teiHeader><text><body>
         <head>N. 97 Visco</head>
         <ab>[<hi>Viscum album L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000424722"/></ab>
         <div type="name">
@@ -71,4 +71,4 @@
           <note xml:id="A-097-N2" n="2"> Turdus sibi cacat mortem.</note>
           <note xml:id="A-097-N3" n="3"> La pania. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -9,7 +9,7 @@ sidebar:
 ---
 # Early Modern Apothecary Shops
 
-Starting from natural substances, the last step to obtain a medicine was to process it in a professional laboratory – but remember that private kitchens were also a sort of home-laboratory for simple remedies.
+The last step to necessary in order to obtain a medicine based derived from natural substances, was to process it in a professional laboratory – but remember that private kitchens were also a sort of home-laboratory for simple remedies.
 
 <img src="{{ site.baseurl }}/assets/img/16c_0_Italy_Issogne_16th_century.png" class="img-ctr" align="center"/>
 
@@ -29,7 +29,7 @@ But *Materia Medica* was the absolute protagonist: preserved in the storerooms, 
 
 In this section, through a few inventories of apothecary shops, you will get an idea of how many natural substances – vegetable, but also animal and mineral ones – were available in an average shop of 16th-and 17th-century Venice. 
 
-Inventories are lists of furniture, equipment, natural substances, medicines etc. generally drawn up after the death of the owner of the apothecary shop to get an idea of the amount and value of movable assets.
+Inventories are lists of furniture, equipment, natural substances, medicines etc. generally drawn up after the death of the owner of the apothecary shop to get an idea of the amount and value of their movable assets.
 
 
 

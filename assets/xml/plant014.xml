@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-014">
+  </teiHeader><text><body>
         <head>N. 14 Philirea</head>
         <ab>[<hi>Phyllirea L.?</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-4000029227"/></ab>
         <div type="name">
@@ -45,4 +45,4 @@
         <div type="notes">
           <note xml:id="A-014-N1" n="1"> Du troesne. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

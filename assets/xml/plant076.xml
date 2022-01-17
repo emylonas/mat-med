@@ -15,12 +15,12 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-076">
+  </teiHeader><text><body>
         <head>N. 76 Tilia Femina</head>
         <ab>[<hi>Tilia cordata Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000457451"/></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Thilia femina dal <persName ref="#Fuchs">Fuchsio</persName> - Phylira da Greci - Tilia da Latini et officini - Linden da
+          <p> Thilia femina dal <persName ref="fuchs-leonhart">Fuchsio</persName> - Phylira da Greci - Tilia da Latini et officini - Linden da
             Germani - Tilet da Galli - Tiglia et Teia da volgari.</p>
         </div>
         <div type="genus">
@@ -62,4 +62,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="55"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

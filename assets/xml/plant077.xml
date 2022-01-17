@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-077">
+  </teiHeader><text><body>
         <head>N. 77 Opulo</head>
         <ab>[<hi>Acer monspessulanum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000514593"/></ab>
         <div type="name">
@@ -28,4 +28,4 @@
           <p>Il nome opulo cangiato ora in oppio, loppio, loppo si dà oggidi a due specie affini, A.
             Opulus ed A. campestre.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

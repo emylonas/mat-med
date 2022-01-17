@@ -16,9 +16,9 @@ img4r: "/assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg"
 
 Anzolo or Angelo Bergognin, until a few years ago known simply as 'Anzolo all'Abram', was one of the most active apothecaries in 16th-century Venice. Together with other colleagues, in 1566 he asked the Senate to set up a botanical garden on one of the islands in the lagoon, open to all, which would contain specimens "of all those plants that can be had from all parts of the world [...] for the benefit of those who are not healthy and who need to know them for the help of human bodies in many different, and various diseases".<sup>[2](#_ftn2)</sup> Unfortunately, the request was not successful.
 
-The inventory of his workshop shows how Angelo was very prone to the use of exotic natural substances, which often came from the New World. In his _post-mortem_ inventory in fact are found galanga, tamarind, sassafras, sarsaparilla, holy wood and cinchona.
+The _post-mortem_ inventory of his workshop shows how Angelo was prone to use exotic natural substances, which often came from the New World. For example, galanga, tamarind, sassafras, sarsaparilla, holy wood and cinchona are all listed in the inventory.
 
-A widower with a daughter, Cipriana, Angelo Bergognin married subsequently the daughter of a famous Venetian doctor, Agostina Gadaldina. And with physicians, apothecaries and empirics he collaborated all his life long to create new and effective medicinal remedies, in his central store at the Mercerie in the parish of San Basso, at the sign of Abraham.
+A widower with a daughter, Cipriana, Angelo Bergognin subsequently married the daughter of a famous Venetian doctor, Agostina Gadaldina. And he collaborated throughout his life with physicians, apothecaries and empirics to create new and effective medicinal remedies, in his central store at the Mercerie in the parish of San Basso, at the sign of Abraham.
 
 ## Browse the Bergognin 1589 Inventory
 <div class="thumb-nav">

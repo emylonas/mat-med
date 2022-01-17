@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-109">
+  </teiHeader><text><body>
         <head>N. 109 Croton Nicandro</head>
         <div type="name">
           <head>NOMI</head>
@@ -54,4 +54,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="79"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

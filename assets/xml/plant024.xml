@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-024">
+  </teiHeader><text><body>
         <head>N. 24 Vite Nera, Tamaro</head>
         <ab>[<hi>Tamus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000568332"/></ab>
         <div type="name">
@@ -48,4 +48,4 @@
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="27"/>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-033">
+  </teiHeader><text><body>
         <head>N. 33 Laureola</head>
         <ab>[<hi>Daphne Laureola L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637701"/></ab>
         <div type="name">
@@ -46,7 +46,7 @@
         <div type="editorial-D">
           <p>Buona figura di pianta fiorita; a parte un ramo fruttifero. Anche il Michiel volle
             occuparsi della questione riguardante la Chamaedaphne di Dioscoride. Questo nome lo
-            troviamo anche al <ref target="#R1-019">N. 19 del primo libro rosso</ref> applicato alla sp. Vinca minor, ma solo
+            troviamo anche al <ref type="internal" target="#R1-019">N. 19 del primo libro rosso</ref> applicato alla sp. Vinca minor, ma solo
             come opinione altrui. Secondo altri autori <ptr target="#A-033-N1"/> la <foreign xml:lang="grc">χαμαιδάφνη</foreign> degli antichi era <hi>Ruscus Hypoglossum</hi>
             che fa le bacche rosse, ma questa opinione non era nota al Michiel, il quale
             perciò arrischia la supposizione che la camedafne sia <hi>Daphne Mezercum</hi>. I nomi <hi>laclago</hi>,
@@ -54,10 +54,10 @@
               amygdaloides</hi>) <ptr target="#A-033-N2"/>.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-033-N1" n="1"> <persName ref="#Rinio">Rinio</persName>, c. 357.</note>
+          <note xml:id="A-033-N1" n="1"> <persName ref="rinio-benedetto">Rinio</persName>, c. 357.</note>
           <note xml:id="A-033-N2" n="2"> Le due piante si somigliano nella statura e nella forma e tinta del fogliame;
             solo alla fioritura appaiono chiari, anche a distanza, i caratteri distintivi. Anche nel
             Rinio (c. 35a) la laureola ha, fra gli altri, il nome Peplon e, per riscontro, in altro
             codice <ref type="bibl" target="http://id.sbn.it/bid/PUV0792629">[20]</ref> la sopranominata euforbia è chiamata <hi>mesercon</hi>.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

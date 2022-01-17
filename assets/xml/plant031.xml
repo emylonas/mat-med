@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-031">
+  </teiHeader><text><body>
         <head>N. 31 Chame Timelea spe.</head>
         <ab>[<hi>Daphne Cneorum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637544"/></ab>
         <div type="name">
@@ -33,18 +33,18 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'ecc. <persName ref="#Aldrovandi">Aldrovandi</persName> mi disse esser Chamethymelea zioe <ptr target="#A-031-N2"/> humil thymelea.</p>
+          <p> L'ecc. <persName ref="aldrovandi-ulisse">Aldrovandi</persName> mi disse esser Chamethymelea zioe <ptr target="#A-031-N2"/> humil thymelea.</p>
         </div>
         <div type="editorial-D">
           <p>Pianta fiorita. La Thymelaea di quasi tutti i floristi del secolo XVI era D. Gnidium,
             perciò la specie presente ad essa affine ma di statura minore fu dall'Aldrovandi
-            battezzata col nome sopracitato. Contemporaneamente la figura e descrisse il <persName ref="#Mattioli">Mattioli</persName>
+            battezzata col nome sopracitato. Contemporaneamente la figura e descrisse il <persName ref="mattioli-pietro-andrea">Mattioli</persName>
             col nome di Cneoro del Mattioli mentre il suo Cneoro di Teofrasto è <hi>Saponaria
-              ocimoides</hi>. A torto dunque il <persName ref="#Guilandino">Guilandino</persName> credette che il Cneoro di Mattioli fosse la
+              ocimoides</hi>. A torto dunque il <persName ref="guilandino-melchiorre">Guilandino</persName> credette che il Cneoro di Mattioli fosse la
             specie qui figurata al <ref type="internal" target="#A-072">N. 72</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-031-N1" n="1"> Eubei cioè abitanti l'isola Eubea o Negroponte in Grecia.</note>
           <note xml:id="A-031-N2" n="2"> Cioè. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

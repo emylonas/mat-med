@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-075">
+  </teiHeader><text><body>
         <head>N. 75 Corniolo</head>
         <ab>[<hi>Cornus mas L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000924760"/></ab>
         <div type="name">
@@ -57,4 +57,4 @@
             con foglie, fiori e frutti, mentre ben si sa che i fiori sono precoci. Un uomo scende da
             una scala a piuoli appoggiata all'albero con una cesta carica di frutta.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

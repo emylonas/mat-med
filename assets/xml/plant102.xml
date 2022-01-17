@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-102">
+  </teiHeader><text><body>
         <head>N. 102 Casia Solutiva</head>
         <ab>[<hi>Cassia Fistula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000163802"/></ab>
         <div type="name">
@@ -69,7 +69,7 @@
           <p>La presente specie fu chiamata dai Greci bizantini <foreign xml:lang="grc">γλυκοκάλαμος</foreign> (canna dolce) come trovasi in Nicola Mirepsico (201 p. 49
             (Ed.) e più tardi usurpo il nome di cassia per la somiglianza dei suoi legumi
             cilindrici e legnosi colla scorza rotolata dell'antica <foreign xml:lang="grc">κασσία</foreign> (Cinnamomum Cassia) ora chiamata cassia lignea. Questo errore
-            insinuato dagli Arabi fu però riconosciuto da vari semplicisti, p. e. dal <persName ref="#Rinio">Rinio</persName> che però
+            insinuato dagli Arabi fu però riconosciuto da vari semplicisti, p. e. dal <persName ref="rinio-benedetto">Rinio</persName> che però
             a c. 322 dà una figura fittizia della Cassia fistula ed a c. 437 pur parlando della
             cassia lignea non ne da alcuna figura.</p>
           <p>Della presente figura del Michiel fece copia il <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879">Marini [197]</ref> cui si attribuisce il primato della iconografia [276]. Donde l'abbia tratta il Michiel non sappiamo perché egli
@@ -85,4 +85,4 @@
             con due S. es. Parnassus, Narcissus.</note>
           <note xml:id="A-102-N6" n="6"> La casia o cassia poetica di Pena e Lobelio. Osyris alba.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

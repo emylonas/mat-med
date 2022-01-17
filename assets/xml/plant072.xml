@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-072">
+  </teiHeader><text><body>
         <head>N. 72 Alimo de Crateua</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000400715"/>[<hi>Rhododendron hirsutum L.</hi>]</ab>
         <div type="name">
@@ -51,7 +51,7 @@
             mandato dal Cadore perché l'abitazione del Sannio si riferisce all'Alimo di Dioscoride
             ed è copiata dall'Anguillara.</p>
           <p>Il dubbio del Michiel era giusto perché il Cneoro di Mattioli è Daphne Cncorum figur. a
-            N. 31 di questo codice, non già la specie presente, come riteneva il <persName ref="#Guilandino">Guilandino</persName>. Errò
+            N. 31 di questo codice, non già la specie presente, come riteneva il <persName ref="guilandino-melchiorre">Guilandino</persName>. Errò
             anche il Michiel ritenendo che essa fosse l'ἅλιμος di Crateva <ptr target="#A-072-N2"/>, ma ha il merito di averla fatta per primo conoscere colla iconografia. Poco dopo troviamo la figura
             del Lobelio col nome «Balsamum alpinum».</p>
         </div>
@@ -61,4 +61,4 @@
             specie montana e difatti lo stesso Michiel dice che l'altro alimo descritto da
             Anguillara vive lungo il mare. Quest'ultimo ſu identificato con Alriplex Halimus.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

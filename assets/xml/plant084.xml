@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-084">
+  </teiHeader><text><body>
         <head>N. 84 Tragio</head>
         <ab>[<hi>Hypericum hircinum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000727735"/></ab>
         <div type="name">
@@ -46,4 +46,4 @@
         <div type="notes">
           <note xml:id="A-084-N1" n="1"> Giallo </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

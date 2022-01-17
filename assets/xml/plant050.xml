@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-050">
+  </teiHeader><text><body>
         <head>N. 50 Seco Moro Fratesco</head>
         <ab>[<hi>Melia Azedarach L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000450150"/></ab>
         <div type="name">
@@ -36,7 +36,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> L'<persName ref="#Anguillara">Anguillara</persName> mi disse esser l'Ostrin di Plinio perché il fruto vol dire di Chacris et
+          <p> L'<persName ref="alguillara-luigi">Anguillara</persName> mi disse esser l'Ostrin di Plinio perché il fruto vol dire di Chacris et
             non di Orzo.</p>
         </div>
         <div type="properties">
@@ -53,14 +53,14 @@
           <p>In complesso questa figura è migliore di quella data dal Mattioli col nome di Sicomoro
             falso. Se ne occupò il Targioni-Tozzetti a pag. 185 dei suoi Cenni storici <ref type="bibl" target="http://id.sbn.it/bid/SBL0061900">[286]</ref>. </p>
           <p><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="40"/>A ragione il Michiel
-            censura coloro che ritenevano questa pianta una specie di Sicomoro. Anche l'<persName ref="#Aldrovandi">Aldrovandi</persName>
+            censura coloro che ritenevano questa pianta una specie di Sicomoro. Anche l'<persName ref="aldrovandi-ulisse">Aldrovandi</persName>
             nel suo Erbario (II, 261) la chiama Sycomorus perperam.</p>
           <p>A proposito di quanto dice il Michiel sulla diffusione di quest'albero nei giardini dei
-            semplici, notiamo che al tempo del <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287 ">[305]</ref> esso c'era all'Orto botanico di Pisa col
+            semplici, notiamo che al tempo del <persName ref="ghini-luca">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287 ">[305]</ref> esso c'era all'Orto botanico di Pisa col
             nome Lotus arbor vulgo Sicomorus e che, mezzo secolo dopo la morte del Michiel, il P.
-            <persName ref="#Veglia">Dionisio Veglia</persName> lo segnalava come una delle piante più cospicue di quell'Orto <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</p>
+            <persName ref="veglia-pierio-dionisio">Dionisio Veglia</persName> lo segnalava come una delle piante più cospicue di quell'Orto <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-050-N1" n="1"> Gelsomini.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

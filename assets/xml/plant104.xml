@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-104">
+  </teiHeader><text><body>
         <head>N. 104 Terebinto</head>
         <ab>[<hi>Pistacia Terebinthus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000393769"/></ab>
         <div type="name">
@@ -76,4 +76,4 @@
             matura, la paragona ad un baccello. Pena e Lobelio [180] figurarono il terebinto colla
             galla (folliculus) donde escono gli insetti (volucellas sive culices). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

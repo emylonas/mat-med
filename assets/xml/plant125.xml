@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-125">
+  </teiHeader><text><body>
         <head>N. 125 Jaruma Albero de India</head>
         <ab>[<hi>Cecropia palmata Willd.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000592293"/>.</ab>
         <div type="name">
@@ -46,10 +46,10 @@
             di Pisone e Marcgravio [196] N. 147.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-125-N1" n="1"> Il <persName ref="#Bonato">Bonato</persName> trascrisse erroneamente <hi>Saruma</hi>.</note>
+          <note xml:id="A-125-N1" n="1"> Il <persName ref="bonato-giuseppe-antonio">Bonato</persName> trascrisse erroneamente <hi>Saruma</hi>.</note>
           <note xml:id="A-125-N2" n="2"> * È, inoltre, in contraddizione con l'habitat e con lo stesso nome Jaruma,
             che corrisponderebbero alla <hi>Cecropia peltata</hi>: perché la forma delle foglie
             nettamente palmate se esatta, sarebbe caratteristica della C. palmata, propria non
             delle Antille ma del continente. (Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

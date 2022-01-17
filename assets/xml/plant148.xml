@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-148">
+  </teiHeader><text><body>
         <head>N. 148 Citiso</head>
         <ab><hi>[Medicago arborea L.]</hi></ab>
         <div type="name">
@@ -34,7 +34,7 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> lo questa nta non scio d'haverla veduta se non dal Mathiolo che la dimostra. El qual
-            dice haverla havuta dal sig. <persName ref="#Cortuso">Jacomo Antonio Cortusio</persName> padovano mio anche
+            dice haverla havuta dal sig. <persName ref="cortuso-giacomo-antonio">Jacomo Antonio Cortusio</persName> padovano mio anche
             familiarissimo.</p>
         </div>
         <div type="opinions">
@@ -58,4 +58,4 @@
         <div type="notes">
           <note xml:id="A-148-N1" n="1"> Ed anche in questo libro N. 122.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

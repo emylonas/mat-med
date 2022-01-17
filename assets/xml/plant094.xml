@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-094">
+  </teiHeader><text><body>
         <head>N. 94 Allaterno</head>
         <ab>[<hi>Phyllirea [ma Phillyrea] variabilis Timb. var. media L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000818074"/></ab>
         <div type="name">
@@ -63,4 +63,4 @@
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="67"/>
 
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-001">
+  </teiHeader><text><body>
         <head>N. I Ciruelas Monteses</head>
         <div type="name">
           <head>NOMI</head>
@@ -41,7 +41,7 @@
           <p> De l'<placeName>India</placeName> in pittura fu portato questo insieme con altri 10
             alberi come quivi li
             vedereti alla Maestà Cesarea, dunde essendo orator alla Sua Maestà al'hora il clar.
-            magnif. mess. <persName ref="#daMula">Marc'Antonio da Mulla</persName> et hora ill. et rev. benemerito cardinal <ptr target="#A-001-N3"/> ne
+            magnif. mess. <persName ref="da-mula-marcantonio">Marc'Antonio da Mulla</persName> et hora ill. et rev. benemerito cardinal <ptr target="#A-001-N3"/> ne
             fezze cavar coppia da quelli de Suoa Maestà et io da questi istessi cavai li presenti
             depinti.</p>
         </div>
@@ -60,7 +60,7 @@
         <div type="notes">
           <note xml:id="A-001-N1">In bianco. </note>
           <note xml:id="A-001-N2">La sigla k si deve leggere a carte (pagina).</note>
-          <note xml:id="A-001-N3"> * <persName ref="#daMula">Marco Antonio da Mula</persName> (latinizzato <persName ref="#daMula">Amulio</persName>) nacque a Venezia il
+          <note xml:id="A-001-N3"> * <persName ref="da-mula-marcantonio">Marco Antonio da Mula</persName> (latinizzato <persName ref="da-mula-marcantonio">Amulio</persName>) nacque a Venezia il
             12 febbraio 1505. Dopo aver occupato vari uffici in Dalmazia e in Terraferma, fu nel
             1551 inviato ambasciatore a Carlo V e stette presso di lui fino al 1553. Fu poi nel 1559
             ambasciatore straordinario a Filippo II per congratularsi della pace di Cateau Cambrésis
@@ -79,4 +79,4 @@
         
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="13"/>
-      </div></body></text></TEI>
+      </body></text></TEI>

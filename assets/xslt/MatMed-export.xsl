@@ -49,8 +49,10 @@ plant
         <xsl:value-of select="$xml-file"/>
         <xsl:result-document href="{concat('plant',substring-after(@xml:id, '-'),'.xml')}">
             <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                <xsl:copy-of select="/t:TEI/t:teiHeader"/> 
-                <text><body><xsl:copy-of select="self::t:div"/></body></text>
+                <xsl:copy-of select="/t:TEI/t:teiHeader"/>
+                <!-- <text><body><xsl:copy-of select="self::t:div"/></body></text>-->
+                
+                <text><body><xsl:apply-templates/></body></text>
             </TEI>
         </xsl:result-document>
 
@@ -141,6 +143,21 @@ layout: single
             
         <xsl:apply-templates/>
     </xsl:template>
+    
+    <xsl:template match="node()|@*">
+        <xsl:copy>
+            <xsl:apply-templates select="node()|@*"/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="t:persName">
+        <xsl:element name="persName">
+            <xsl:attribute name="ref"><xsl:value-of select="lower-case(replace(id(substring-after(@ref,'#')),'[^a-zA-Z]+','-'))"/></xsl:attribute>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="t:standOff"/>
 
 
 </xsl:stylesheet>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-160">
+  </teiHeader><text><body>
         <head>N. 160 Grana</head>
         <ab>[<hi>Quercus coccifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000290191"/></ab>
         <div type="name">
@@ -77,14 +77,14 @@
             ilicis» che poi si trasforma in moscerini, assimilandola alle galle, come più tardi
             fece il Fagon. <ref type="bibl" target="http://id.sbn.it/bid/BVEE003707">Durante [111]</ref> li chiamò bacche.</p>
           <p>Nel commento alla figura di questa stessa pianta al N. 144 del libro giallo si parlerà
-            delle tre piante coccifere di <persName ref="#Anguillara">Anguillara</persName> e della loro identificazione. Qui l'autore
+            delle tre piante coccifere di <persName ref="alguillara-luigi">Anguillara</persName> e della loro identificazione. Qui l'autore
             parla di un'altra specie di grana tintoria, di cui parla anche il Mattioli, proveniente
             dalle Indie occidentali che è la cocciniglia (Coccus Cacti) ma mostra di non conoscere
             su qual pianta si trovi, benché questa pianta sia da lui figurata nel libro giallo N.
             121. Solo, forse per aver sentito dire che era pianta spinosa, arrischia l'opinione che
             sia la «pianta propria» figurata nel medesimo libro N. 144 che invece è identica
             alla presente.</p>
-          <p>La figura data in questa pagina è inferiore a quella del <persName ref="#Rinio">Rinio</persName> c. 172, ma superiore a
+          <p>La figura data in questa pagina è inferiore a quella del <persName ref="rinio-benedetto">Rinio</persName> c. 172, ma superiore a
             quella molto infelice che diede, un secolo dopo il Michiel, lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> [63]. Che la
             pianta fosse poco diffusa abbiamo la prova in ciò che nel secolo XVII era notata fra le
             più cospicue dell'Orto botanico di Pisa [262].</p>
@@ -96,4 +96,4 @@
             <note xml:id="A-160-N5" n="5"> Cioè alla fine del libro giallo.</note>
           </div>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

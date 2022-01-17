@@ -15,9 +15,9 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-17_18_19_20">
+  </teiHeader><text><body>
         <head>NN 18, 19, 20</head>
         <div type="editorial-D">
           <p>Pagine bianche</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

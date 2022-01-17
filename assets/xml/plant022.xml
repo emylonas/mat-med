@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-022">
+  </teiHeader><text><body>
         <head>* N. 22 Moli Albero de India</head>
         <ab><hi><hi>[Not identified]</hi></hi></ab>
         <div type="name">
@@ -25,7 +25,7 @@
         <div type="genus">
           <head>GENERA</head>
           <p> Con questo nome moli diversità si sente. Questo, Moli Theophrasto Et moli di
-            Diascoride nel altro <ref target="#G-059">L.º [Gi] k. 59 / et k. 58</ref>.</p>
+            Diascoride nel altro <ref type="internal" target="#G-059">L.º [Gi] k. 59 / et k. 58</ref>.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
@@ -61,4 +61,4 @@
           <p>Albero a fg. opposte in serie numerose sui rami, sparse di frutti verdi, poco più
             grandi delle ig. tubercolati (?) umbilicati. -</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

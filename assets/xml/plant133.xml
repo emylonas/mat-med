@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-133">
+  </teiHeader><text><body>
         <head>N. 133 Smilace Aspera</head>
         <ab>[<hi>Smilax aspera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000740704"/></ab>
         <div type="name">
@@ -48,4 +48,4 @@
           <note xml:id="A-133-N2" n="2"> Scharfwinde = vilucchio pungente.</note>
           <note xml:id="A-133-N3" n="3"> Venne.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

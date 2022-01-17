@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-159">
+  </teiHeader><text><body>
         <head>N. 159 Pepe</head>
         <ab>[I. <hi>fittizia</hi>] [<hi>II. Xylopia aethiopica A. Rich.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000428869"/></ab>
         <div type="name">
@@ -32,7 +32,7 @@
             viticelle, suoe frondi simil tra le mandole et il cedro, suoi pepi in racemi nel summo
             de rami [I]. Et del Hetyopico demostro pur da driedo <ptr target="#A-159-N2"/> non vidi altro che uno mazzio
             di silique simile a fasuoli de molte contenute da uno ramo, et credensi sia il nero di
-            <persName ref="#Serapione">Serapione</persName> [II].</p>
+            <persName ref="serapio-junior">Serapione</persName> [II].</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -84,4 +84,4 @@
           <note xml:id="A-159-N3" n="3"> * Il Porcacchi specifica cho col nome di Taprobana indica Sumatra e pon
             Ceylon; come del resto risulta dalla illustrazione cartografica. (Ed.). </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

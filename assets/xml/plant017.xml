@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-017">
+  </teiHeader><text><body>
         <head>N. 17 Cedriolo</head>
         <ab>[<hi>Passiflora coerulea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000479867"/></ab>
         <div type="name">
@@ -27,7 +27,7 @@
           <p> Suoa radice grosseta pallida, suoi sarmentosi rami che se invoglie <ptr target="#A-017-N2"/> nodati et da
             ogni nodo suoi caprioli <ptr target="#A-017-N3"/> con una fronde per nodo in sete parti per el piui divise
             simil al pentafillon giallezzie et amare, suoi semi simili alla scamonea <ref type="internal" target="#A-023">[N. 23]</ref> per
-            quello mi disse el <persName ref="#Guilandino">Guilandini</persName>. Et la vide poi meglio che la gli naque et li fezze li
+            quello mi disse el <persName ref="guilandino-melchiorre">Guilandini</persName>. Et la vide poi meglio che la gli naque et li fezze li
             frutti l'hanno 1570 ma non mi disse la forma di essi e che non si maturorno.</p>
         </div>
         <div type="location">
@@ -43,21 +43,21 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Il supra deto <persName ref="#Guilandino">Guilandini</persName> mi disse esser il Mecoacan, poi mi scrisse haversi errato. Et
+          <p> Il supra deto <persName ref="guilandino-melchiorre">Guilandini</persName> mi disse esser il Mecoacan, poi mi scrisse haversi errato. Et
             che era spezie di Cedriolo over Cocomero.</p>
         </div>
         <div type="editorial-D">
           <p>Pianta sterile; a parte una foglia in grandezza naturale. La passiflora trovasi la
-            prima volta ricordata dal poeta <persName ref="#Barca">Martino del Barco</persName> che la vide nel <placeName ref="https://www.geonames.org/3437598/republic-of-paraguay.html">Paraguay</placeName>. Da questo
-            codice apprendiamo che essa fu importata in <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Ispagna</placeName> donde il <persName ref="#Guilandino">Guilandino</persName> ottenne un
+            prima volta ricordata dal poeta <persName ref="barca-centenera-mart-n-del-">Martino del Barco</persName> che la vide nel <placeName ref="https://www.geonames.org/3437598/republic-of-paraguay.html">Paraguay</placeName>. Da questo
+            codice apprendiamo che essa fu importata in <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Ispagna</placeName> donde il <persName ref="guilandino-melchiorre">Guilandino</persName> ottenne un
             campione che spedì al Michiel dopo averne levato i frutti per poter seminar la pianta
             nell'Orto botanico di Padova. Perciò la figura presente riuscì incompleta, non avendo
-            <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="24"/> poi il <persName ref="#Guilandino">Guilandino</persName>
+            <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="24"/> poi il <persName ref="guilandino-melchiorre">Guilandino</persName>
             spediti altri campioni quando gli riusci di avere individui fioriti e fruttiferi. Si
             limitò a scrivere al Michiel che i frutti avevano forma di cetrioli, senza dir nulla dei
             fiori che pur sono tanto singolari.</p>
-          <p>Dal testo apprendiamo che la passiflora fu creduta, sulla fede del <persName ref="#Guilandino">Guilandino</persName>, il
-            Mechoacan, ma più tardi l'errore fu corretto, sia per opera dello stesso <persName ref="#Guilandino">Guilandino</persName>, sia
+          <p>Dal testo apprendiamo che la passiflora fu creduta, sulla fede del <persName ref="guilandino-melchiorre">Guilandino</persName>, il
+            Mechoacan, ma più tardi l'errore fu corretto, sia per opera dello stesso <persName ref="guilandino-melchiorre">Guilandino</persName>, sia
             per avere il Michiel ricevuto un campione del vero Mechoacan che trovasi ritratto al <ref type="internal" target="#A-161">N.
               161</ref>. Giustamente il Michiel dall'errore del nome specifico dedusse l'errore di
             abitazione; difatti la patria della passiflora è l'<placeName ref="https://www.geonames.org/6255150/south-america.html">America meridionale</placeName>, non il <placeName ref="https://www.geonames.org/3996063/mexico.html">Messico</placeName>
@@ -75,4 +75,4 @@
             vi fu chi si presentò come azionista per l'impresa del taglio dell'isola di Svezia (<hi>fle
               de Suède</hi>). Si trattava dell'istmo di Suez.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

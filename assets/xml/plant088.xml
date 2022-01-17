@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-088">
+  </teiHeader><text><body>
         <head>N. 88 Acatia Seconda</head>
         <div type="name">
           <head>NOMI</head>
@@ -49,11 +49,11 @@
         </div>
         <div type="opinions">
           <head>OPPINIONE</head>
-          <p> Il <persName ref="#Belonio">Belonio</persName>simplicista errante et suffitiente me diede de semi con nome di Acatia
+          <p> Il <persName ref="belon-pierre">Belonio</persName>simplicista errante et suffitiente me diede de semi con nome di Acatia
             seconda di Cappedocia. L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 36 narra de uno altro Aspalato rodioto el qual
             tiene che il legno aloe rodio sia il vero aspalato. Et di questa non ne fa mentione
             alcuna, ma molti savij la tengono questa pianta piu presto per Acatia seconda che per
-            Aspalato. mes. <persName ref="#Cechin">Cechin dal Angelo</persName> spetial singularissimo mi ha dimostro uno legno odorato
+            Aspalato. mes. <persName ref="martinelli-francesco">Cechin dal Angelo</persName> spetial singularissimo mi ha dimostro uno legno odorato
             molto corrispondente per l'Aspalato. Vero è, che non havendo veduto de lui altro ch'il
             legnio el qual potrebonsi de legiero dargli l'odore io non scio afirmare.</p>
         </div>
@@ -64,4 +64,4 @@
         <div type="notes">
           <note xml:id="A-088-N1" n="1"> * Fig. infelice, con le radici rappresentate fuori terra.(Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

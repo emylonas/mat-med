@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-089">
+  </teiHeader><text><body>
         <head>N. 89 Acatia</head>
         <ab>[<hi>Calycotome spinosa Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213263"/></ab>
         <div type="name">
@@ -65,4 +65,4 @@
           <p>Pianta fiorita. Il Michiel la chiama Acacia prima, mentre il Mattioli la chiama Acacia
             seconda. -</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

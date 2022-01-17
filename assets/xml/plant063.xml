@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-063">
+  </teiHeader><text><body>
         <head>N. 63 Scotanus</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
         <div type="name">
@@ -43,10 +43,10 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p>De suoe foglie et ramuscoli si purgano li corami. Et leggesi come di sopra apar.
-            <persName ref="#Serapione">Serapione</persName> lib. agg. cap. Dulb. </p>
+            <persName ref="serapio-junior">Serapione</persName> lib. agg. cap. Dulb. </p>
         </div>
         <div type="editorial-D">
-          <p>Anche il <persName ref="#Rinio">Rinio</persName> a c. 438, pur non citando le Pandette di Matteo Silvatico confuse lo
+          <p>Anche il <persName ref="rinio-benedetto">Rinio</persName> a c. 438, pur non citando le Pandette di Matteo Silvatico confuse lo
             scotano col platano e per soprappiù figurò una pianta che non è né Rhus, né
             Platanus.</p>
           <p>La presente figura è di albero fruttifero sorgente in un paesaggio di collina; a parte
@@ -65,4 +65,4 @@
                 (interprete N. Mutono, Venezia, 1552, p. 55)</ref>. Suffeire è uno dei nomi arabi.
             (Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,13 +15,13 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-006">
+  </teiHeader><text><body>
         <head>N. 6 Vite Nera Vulgare</head>
         <ab>[<hi>Clematis Viticella L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610944"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Vite nera da volgari - Clematide altera da Diascoride - Philacrion da Egiptij - Epigetin da
-            alcuni - Ambuxum da Romani - Flamula da molti - Viburnum Virgilij dal <persName ref="#Dodoneo">Dodonei</persName>.</p>
+            alcuni - Ambuxum da Romani - Flamula da molti - Viburnum Virgilij dal <persName ref="dodoens-rembert">Dodonei</persName>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -35,13 +35,13 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>Credo che il <persName ref="#Dodoneo">Dodonei</persName> la pone per <hi>Viburnum Virgilij</hi>. Et questa viene meglio che la
+          <p>Credo che il <persName ref="dodoens-rembert">Dodonei</persName> la pone per <hi>Viburnum Virgilij</hi>. Et questa viene meglio che la
             sequente per <hi>Clematitis secunda</hi> de Diascoride. <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="16"/></p>
         </div>
         <div type="editorial-D">
-          <p> [Figura abbastanza buona di pianta fiorita. Dioscoride descrisse col nome di <foreign xml:lang="grc">κληματίς</foreign> la pervinca e con quelo di <foreign xml:lang="grc">κληματίτις</foreign> 1a specie presente che il <persName ref="#Mattioli">Mattioli</persName> chiamò <hi>Clematis secunda</hi>. Il
-            Viburno di <persName ref="#Virgilio">Virgilio</persName> <ptr target="#A-006-N3"/> secondo <persName ref="#Dodoneo">Dodoneo</persName> era <hi>Viburnum Lantana</hi> qui figurato a <ref type="internal" target="#A-138">N. 138.</ref>. La
+          <p> [Figura abbastanza buona di pianta fiorita. Dioscoride descrisse col nome di <foreign xml:lang="grc">κληματίς</foreign> la pervinca e con quelo di <foreign xml:lang="grc">κληματίτις</foreign> 1a specie presente che il <persName ref="mattioli-pietro-andrea">Mattioli</persName> chiamò <hi>Clematis secunda</hi>. Il
+            Viburno di <persName ref="vergilius-maro-publius">Virgilio</persName> <ptr target="#A-006-N3"/> secondo <persName ref="dodoens-rembert">Dodoneo</persName> era <hi>Viburnum Lantana</hi> qui figurato a <ref type="internal" target="#A-138">N. 138.</ref>. La
             falsa credenza del Michiel si basava o su informazioni avute o sopra una mala
             determinazione della figura pubblicata nel <hi>Cruydtboek</hi>.</p>
         </div>
@@ -51,4 +51,4 @@
           <note xml:id="A-006-N3" n="3"> «Verum haec tantum alias inter caput extulit urbes Quantum lenta solent inter
             viburna cupressi» (Egl. I. v. 24, 25).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

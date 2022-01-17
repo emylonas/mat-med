@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-079">
+  </teiHeader><text><body>
         <head>N. 79 Canela</head>
         <ab>[<hi>*Cinnamomum zeylanicum Nees</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000605543"/></ab>
         <div type="name">
@@ -79,4 +79,4 @@
           <note xml:id="A-079-N5" n="5"> Molucche.</note>
           <note xml:id="A-079-N6" n="6"> Sara.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

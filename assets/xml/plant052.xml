@@ -15,13 +15,13 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-052">
+  </teiHeader><text><body>
         <head>N. 52 Macaleb</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/>[<hi>Prunus Mahaleb L.</hi>]</ab>
   
         <div type="name">
           <head>NOMI</head>
-          <p> Machaleb da' profumieri et <persName ref="#Serapione">Serapione</persName>.</p>
+          <p> Machaleb da' profumieri et <persName ref="serapio-junior">Serapione</persName>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -43,8 +43,8 @@
         <div type="editorial-D">
           <p>Pianta fiorita e fruttifera. A parte un ramoscello con foglie.</p>
           <p>Il Michiel qui corregge un errore di Serapione seguito da altri Arabi e già avvertito
-            da <persName ref="#Cordo">Simone da Cordo</persName> che però non aveva indicato qual fosse il vero Mahaleb.</p>
-          <p>Secondo <persName ref="#Serapione">Serapione</persName> il Mahaleb era Phyllirea variabilis, secondo altri autori Ligustrum
-            vulgare; quest'ultima opinione è riportata dal <persName ref="#Rinio">Rinio</persName> a c. 389 del suo codice.</p>
+            da <persName ref="simone-da-cordo">Simone da Cordo</persName> che però non aveva indicato qual fosse il vero Mahaleb.</p>
+          <p>Secondo <persName ref="serapio-junior">Serapione</persName> il Mahaleb era Phyllirea variabilis, secondo altri autori Ligustrum
+            vulgare; quest'ultima opinione è riportata dal <persName ref="rinio-benedetto">Rinio</persName> a c. 389 del suo codice.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

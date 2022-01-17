@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-111">
+  </teiHeader><text><body>
         <head>N. 111 Sebeste di Levante</head>
         <ab>[<hi>Cordia Myxa L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000620765"/></ab>
         <div type="name">
@@ -42,7 +42,7 @@
           <p>Pianta fruttifera sorgente in un prato con figure di uomini nudi e di animali. A parte
             un ramo con foglie e frutti. Benché il Falloppio avesse giustamente descritta
             l'infruttescenza, il Michiel la figurd come grappolo semplice; contuttociò la figura è
-            migliore dal lato scientifico di quella del <persName ref="#Rinio">Rinio</persName> (c. 414) nella quale solo i frutti
+            migliore dal lato scientifico di quella del <persName ref="rinio-benedetto">Rinio</persName> (c. 414) nella quale solo i frutti
             sono legittimi e le foglie son fittizie. Sarebbe riuscita ancor migliore se il Michiel
             avesse preso cognizione di quella data dal Mattioli, ma questa figura fu pubblicata dopo
             la presente nell'edizione del 1568 che il Michiel consulto quando ormai la pittura era
@@ -66,4 +66,4 @@
           <note xml:id="A-111-N1" n="1"> Canis.</note>
           <note xml:id="A-111-N2" n="2"> Mori.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

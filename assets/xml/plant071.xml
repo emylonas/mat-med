@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-071">
+  </teiHeader><text><body>
         <head>N. 71 Madre Silva</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000359853"/>[<hi>Lonicera Caprifolium</hi>]</ab>
         <div type="name">
@@ -34,7 +34,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'<persName ref="#Anguillara">Anguilara</persName> mi disse che Oriobasio et Crateua dicono macran che significa lungha alla
+          <p>L'<persName ref="alguillara-luigi">Anguilara</persName> mi disse che Oriobasio et Crateua dicono macran che significa lungha alla
             radice a k. 252. </p>
         </div>
         <div type="editorial-D">
@@ -55,4 +55,4 @@
           <note xml:id="A-071-N2" n="2"> e.</note>
           <note xml:id="A-071-N3" n="3"> * Si deve evidentemente leggere Spockoder Waldgilgen. (Ed.).</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

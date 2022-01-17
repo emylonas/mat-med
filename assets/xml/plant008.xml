@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-008">
+  </teiHeader><text><body>
         <head>N. 8 Savina</head>
         <ab>[<hi>I. Juniperus Sabina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000354994"/>. - [<hi>II, Juniperus phoenicea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000355663"/></ab>
         <div type="name">
@@ -37,7 +37,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 46 dice esser de due spezie et la prima
+          <p>L'ecc. M. <persName ref="alguillara-luigi">Alovise Anguilara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 46 dice esser de due spezie et la prima
             esser la Tuvia Theophrasti et anche altri moderni simplicisti così ci tiene. Altri pure
             de moderni tiene esser la <hi>Miride Egiptia</hi>. Et molti con errore la prendeno per la
             Selagine di Plinio che son herba.</p>
@@ -55,9 +55,9 @@
             ha effetti violenti e più volte somministrata con imprudenza o malizia produsse
             l'aborto, l'albero porta sospesi due vasi di vetro, nell'uno dei quali vedesi un feto,
             nell'altro una figura di donna incappucciata, forse la maga che l'autore avrebbe condannato ad esser conservata in alcool per subir la pena del taglione. La seconda pianta
-            fu contemporaneamente figurata dal <persName ref="#Mattioli">Mattioli</persName> sotto il nome di <hi>cedro fenicio</hi>. Sia dalla
-            presente figura, sia da quanto dice espressamente nel testo l'<persName ref="#Anguillara">Anguillara</persName>, risulta che la
-            pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName>Pasqualigo</persName> è la
+            fu contemporaneamente figurata dal <persName ref="mattioli-pietro-andrea">Mattioli</persName> sotto il nome di <hi>cedro fenicio</hi>. Sia dalla
+            presente figura, sia da quanto dice espressamente nel testo l'<persName ref="alguillara-luigi">Anguillara</persName>, risulta che la
+            pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName ref="">Pasqualigo</persName> è la
             sabina, quindi a torto il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> disse che l'Anguillara vide in quel giardino
             la vera <hi>Thuia</hi>.</p>
         </div>
@@ -68,4 +68,4 @@
           <note xml:id="A-008-N4" n="4"> Sporcizie.</note>
           <note xml:id="A-008-N5" n="5"> Itterizia.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-081">
+  </teiHeader><text><body>
         <head>N. 81 Noce Moscata</head>
         <ab>[<hi>*Myristica fragrans Houtt.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000447317"/></ab>
         <div type="name">
@@ -74,7 +74,7 @@
           <head>VIRTÙ</head>
           <p>Son calide et secche nel fin del secondo grado, stiticano et fanno buon fiato come el
             Mattiolo ne dechiara de molte doti et virtù al cap. delle noci. Et nel pre alegato libro
-            secondo del India <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> del <persName ref="#Barbaro">Barbaro</persName> cap. 773 al cap. de Ballanus myrepsica Avicenna
+            secondo del India <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> del <persName ref="barbaro-ermolao">Barbaro</persName> cap. 773 al cap. de Ballanus myrepsica Avicenna
             ij. canon diiij, li. ij, C. DIX. Galeno al 7 Sim. phar. Diascoride libro primo. cap.
             112-101. Nelli <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Isolani de Thomaso Porcacchi</ref> alla Malucche a k. 99.</p>
         </div>
@@ -87,7 +87,7 @@
             scio afirmare, non credette di far aggiunte o modificazioni al disegno. Anche la
             nomenclatura è confusa perché non è determinato quali nomi spettino all'intera pianta,
             quali alle singole parti, lasciando pur da un lato la mala trascrizione di alcuni di
-            essi. Per tutti i riguardi il Michiel si mostra nelle cognizioni ben inferiore al <persName ref="#Rinio">Rinio</persName>
+            essi. Per tutti i riguardi il Michiel si mostra nelle cognizioni ben inferiore al <persName ref="rinio-benedetto">Rinio</persName>
             che un secolo prima (c. II) avea ben distinto le varie parti e data una figura più
             soddisfacente.</p>
           <p>Una certa importanza per la storia della scienza e la letteratura dialettale ha il
@@ -128,4 +128,4 @@
             dipingere nel vano fra le due spade. Il nomo di battesimo Domenica era usitatissimo al
             tempo della Repubblica. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

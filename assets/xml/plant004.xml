@@ -15,14 +15,14 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-004">
+  </teiHeader><text><body>
         <head>N. 4 Albero Incognito</head>
         <ab>[<hi>Syringa vulgaris L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000818704"/> <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:289009-2"/></ab>
 
         <div type="name">
           <head>NOMI</head>
           <p> Argavani che inferisse <ptr target="#A-004-N1"/> color pavonazio in <placeName ref="https://www.geonames.org/10922502/mediterranean-region.html">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
-            Theophrasti da molti - Glans unguentaria <persName ref="#Mattioli">Matthioli</persName>.</p>
+            Theophrasti da molti - Glans unguentaria <persName ref="mattioli-pietro-andrea">Matthioli</persName>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -36,14 +36,14 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'hebbi dal eccell. sig. <persName ref="#Aldrovandi">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="https://www.geonames.org/3177545/dolomiti.html">Alpi</placeName>.</p>
+          <p> Io l'hebbi dal eccell. sig. <persName ref="aldrovandi-ulisse">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="https://www.geonames.org/3177545/dolomiti.html">Alpi</placeName>.</p>
         </div>
         <div type="reproduction"><head>GENERATIONE</head>
           <p> A me mi naque de suoi semi, ma propaginano anche.</p></div>
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Son molti che lo ritira alla Potulaca Theophrasti. Et altri per sp. di seringa ma io
-            non giudico. <hi>Glans unguentaria</hi> dal <persName ref="#Mattioli">Mattiolo</persName> che fa rider molti, disse M. <persName ref="#Guilandino">Marchio</persName>
+            non giudico. <hi>Glans unguentaria</hi> dal <persName ref="mattioli-pietro-andrea">Mattiolo</persName> che fa rider molti, disse M. <persName ref="guilandino-melchiorre">Marchio</persName>
             giardiniero in Padova del Studio.</p>
 
         </div>
@@ -53,14 +53,14 @@
         <div type="editorial-D">
           <p>Figura poco buona di pianta fiorita; a parte un ramo fiorito. Fu dipinta, come si
             deduce dal testo, copiando una pianta nata nel giardino del Michiel ed è la prima
-            effigie che si conosca perché le parole sul <persName ref="#Mattioli">Mattioli</persName> furono aggiunte più tardi. Perciò,
+            effigie che si conosca perché le parole sul <persName ref="mattioli-pietro-andrea">Mattioli</persName> furono aggiunte più tardi. Perciò,
             dietro la testimonianza del nostro autore, possiamo dedurre che il primato della cono-
-            scenza di questa specie spetta all'<persName ref="#Aldrovandi">Aldovrandi</persName>.</p>
-          <p>Il <persName ref="#Mattioli">Mattioli</persName> ne ricevette un disegno da <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> e più tardi un ramo fresco dal
-            <persName ref="#Cortuso">Cortuso</persName> sui quali fece la sua figura ed emise l'opinione che questa specie fosse l'
+            scenza di questa specie spetta all'<persName ref="aldrovandi-ulisse">Aldovrandi</persName>.</p>
+          <p>Il <persName ref="mattioli-pietro-andrea">Mattioli</persName> ne ricevette un disegno da <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> e più tardi un ramo fresco dal
+            <persName ref="cortuso-giacomo-antonio">Cortuso</persName> sui quali fece la sua figura ed emise l'opinione che questa specie fosse l'
             <foreign xml:lang="grc">ὀστρύα</foreign> <ptr target="#A-004-N2"/> di Teofrasto per la somiglianza al
             frassino e la ghianda unguentaria per l'aspetto dei frutti; donde le critiche di
-            <persName ref="#Guilandino">Melchiorre Guilandino</persName> qui riportate dal Michiel.</p>
+            <persName ref="guilandino-melchiorre">Melchiorre Guilandino</persName> qui riportate dal Michiel.</p>
         </div>
         <div type="notes">
           <note xml:id="A-004-N1" n="1"> Significa</note>
@@ -68,4 +68,4 @@
             alla porpora) proviene il nome, scritto più sopra, potulaca (portulaca, in fran.
             <hi>pourpier</hi>)]. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,11 +15,11 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-053">
+  </teiHeader><text><body>
         <head>N. 53 Crategon</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Crategon da <persName ref="#Theofrastus">Theophrasto</persName> - Sambucus aquaticus motomorum, Piè de Occha dal vulgo - Aquifolio
+          <p> Crategon da <persName ref="theophrastus">Theophrasto</persName> - Sambucus aquaticus motomorum, Piè de Occha dal vulgo - Aquifolio
             et Ilex in Italia et da il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario [di E. Barbaro]</ref>.</p>
         </div>
         <div type="genus">
@@ -36,11 +36,11 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Il Corolario dice essere chiamato in Italia Aquifolio et non esser altro che l'Ilex et
-            il <persName ref="#Mattioli">Mateolo</persName> non così conferma. Et M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alovise Anguillara</ref> dice esser il Sorbo torminale ma a
+            il <persName ref="mattioli-pietro-andrea">Mateolo</persName> non così conferma. Et M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alovise Anguillara</ref> dice esser il Sorbo torminale ma a
             molti non pare k. 80. </p>
         </div>
         <div type="editorial-D">
           <p>Foglie intere, ovali-lanceolate, disposte a palma; frutti ascellari, isolati, bruni,
             piccoli.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-110">
+  </teiHeader><text><body>
         <head>N. IIO SEBESTE SP.</head>
         <ab>[<hi>Diospyrus Lotus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000649239"/></ab>
         <div type="name">
@@ -40,7 +40,7 @@
         <div type="opinions">
           <head>OPPINIONI</head>
           <p> Varie sonno le oppinioni in questo albero. Alcuni lo tiene per spetie di legno santo.
-            Messer <persName ref="#Ghini">Luca Ghini</persName> per spetie di Loto et il Mattiolo ancora, overo secondo altri per
+            Messer <persName ref="ghini-luca">Luca Ghini</persName> per spetie di Loto et il Mattiolo ancora, overo secondo altri per
             Lauro angusto di Plinio. Et molti per spetie di Sebeste.</p>
         </div>
         <div type="properties">
@@ -75,7 +75,7 @@
             originaria d'Italia ma che, dietro migliori informazioni, egli la suppone importata
             dalla Mauritania ove trovasi spontanea.</p>
           <p>Il Miller non seppe chi fosse stato l'importatore perché se ne era perduta la memoria
-            che a merito del <persName ref="#Marsili">Marsili</persName> fu ristaurata. Il Miller parla di due vecchi alberi di
+            che a merito del <persName ref="marsili-giovanni">Marsili</persName> fu ristaurata. Il Miller parla di due vecchi alberi di
             Diospyrus Lotus che ai suoi tempi (1771) vivevano all'Orto botanico di Padova. Uno è
             quello piantato dal Michiel e veduto dal Falloppio verso la metà del sec. XVI, l'altro
             fu piantato oltre un secolo dopo dal Viali, Ambedue le piante hanno ormai subito la
@@ -100,4 +100,4 @@
           <note xml:id="A-110-N4" n="4"> Lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> acconna ad un altra pianta che cresceva nell'Orto Wagneriano di
             Maudon, senza però dire la provenienza. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

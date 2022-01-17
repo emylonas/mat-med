@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-026">
+  </teiHeader><text><body>
         <head>N. 26 Ostrin vel Ostrea</head>
         <ab><hi>[<hi>Not identified</hi>]</hi></ab>
         <div type="name">
@@ -24,7 +24,7 @@
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Con nome di ostriago herba son anche nel <ref target="#R2-056">secondo libro rosso k. 56</ref>.</p>
+          <p> Con nome di ostriago herba son anche nel <ref type="internal" target="#R2-056">secondo libro rosso k. 56</ref>.</p>
         </div>
         <div type="disagreements">
           <head>DISPARERI</head>
@@ -34,4 +34,4 @@
           <p> [Pianta sterile con foglie pennate a 5 foglioline dezza naturale - a parte una
             fogliolina in grandezza naturale.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

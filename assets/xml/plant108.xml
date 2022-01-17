@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-108">
+  </teiHeader><text><body>
         <head>N. 108 Frutice Incognito</head>
         <ab>[<hi>I. Vaccinium Vitis Idaea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421966"/> [<hi>II. Vaccinium Myrtillus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422209"/></ab>
         <div type="name">
@@ -64,4 +64,4 @@
             col nome Myrtillus exiguus.</p>
           <p>La seconda figura è un ramo fiorifero rozzamente disegnato.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

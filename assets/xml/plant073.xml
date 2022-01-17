@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-073">
+  </teiHeader><text><body>
         <head>N. 73 Pepe Tondo</head>
         <ab>[<hi>Ribes nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405161"/></ab>
         <div type="name">
@@ -44,7 +44,7 @@
           <head>LUOGHO</head>
           <p> Dalle Indie nuove del Perù et da Calecut ne vengono portati a noi, et io ne ho
             custodito de molti anni fa. Et ne son in Toscana ancora di questa pianta per ralation
-            del ecc. M. <persName ref="#Ghini">Luca Ghino</persName>. L'Ethiopico son il buono, et il resto e anche questo sonno
+            del ecc. M. <persName ref="ghini-luca">Luca Ghino</persName>. L'Ethiopico son il buono, et il resto e anche questo sonno
             tenuti per salvatici. Et di questo ne sonno nel regnio di Beniamin in Soria <ptr target="#A-073-N3"/>.
             L'optimo si porta d'Armenia; quello di Media son manco buono con il legno venenoso;
             quello di Ponto rosseggia et il suo seme offende nel odorarlo.</p>
@@ -60,7 +60,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>L'ecc. <persName ref="#Anguillara">Anguilara</persName> mi disse esser l'Amomo de Diascoride ma non fa fior di viola bianca.
+          <p>L'ecc. <persName ref="alguillara-luigi">Anguilara</persName> mi disse esser l'Amomo de Diascoride ma non fa fior di viola bianca.
             Et k. 34 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> dice esser il Pepe salvatico. Et che questo sia veramente sp.
             di pepe mi son confirmato da alcuni degni Turchi soriani, ma sonno piante diverse che lo
             producono. Et anche diverse da il longo pepe come Portogesi affermano. Et che producono
@@ -72,18 +72,18 @@
             può vedere: «nel vaghissimo giardino del clarissimo Messer Pier'Antonio Michiele
             gentilhuomo dottissimo di questa facolta de' Semplici et in Padova nel copioso giar-
             dino del clarissimo Messer Lorenzo Priuli alla Saracinesca». Malgrado l'obiezione qui
-            mossa dallo stesso Michiel, malgrado le smentite di <persName ref="#Gesner">Gesner</persName> (4), Lobelio e Guilandino,
+            mossa dallo stesso Michiel, malgrado le smentite di <persName ref="gesner-conrad">Gesner</persName> (4), Lobelio e Guilandino,
             gli autori credettero, sulla fede dell'Anguillara, che nel giardino del Michiel fosse
             stato coltivato il vero Amomo [315] di Dioscoride. Ricordiamo che l'Anguillara distinse
-            altri due amomi, quello di Plinio figurato in questo codice al <ref target="#R1-063">Ro I, 63</ref> e quello delle
-            spezierie al <ref target="#V-037">Ve., 37</ref>. Il <persName ref="#Mattioli">Mattioli</persName> non diede la figura della specie presente ma disse
+            altri due amomi, quello di Plinio figurato in questo codice al <ref type="internal" target="#R1-063">Ro I, 63</ref> e quello delle
+            spezierie al <ref type="internal" target="#V-037">Ve., 37</ref>. Il <persName ref="mattioli-pietro-andrea">Mattioli</persName> non diede la figura della specie presente ma disse
             di averla <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="53"/> veduta nel
-            giardino del medico <persName ref="#Maffei">Maffeo de Maffei</persName> a Venezia, la chiama arbuscula piper racematim
+            giardino del medico <persName ref="maffei-maffeo">Maffeo de Maffei</persName> a Venezia, la chiama arbuscula piper racematim
             proferens, e soggiunge che alcuni credono il ribes. Il Michiel nel testo riconosce le
             sue analogie col Ribes rubrum.</p>
           <p>La figura è di pianta fiorita in un paesaggio di valle prossima al mare; le glandole
             alla pagina inferiore delle foglie furono imitate con orpello.</p>
-          <p>Il nome arabo Hab-el-zelin qui citato trovasi la prima volta in <persName ref="#Serapione">Serapione</persName>, indicante
+          <p>Il nome arabo Hab-el-zelin qui citato trovasi la prima volta in <persName ref="serapio-junior">Serapione</persName>, indicante
             una pianta non ancora determinata. Per alcuni autori [246] era Cyperus esculentus, il
             che fu negato dal Dodoneo [107], per altri, come il nostro, Ribes nigrum. Il nome gradatamente si corruppe in El-zelin, Al-zelin, Azzelin, Assaline e sotto quest'ultima
             forma è tuttora vivo nel dialetto veneto, ma indica una pianta ben diversa e nemmeno
@@ -98,4 +98,4 @@
           <note xml:id="A-073-N4" n="4"> Gesner conobbe la pianta presso Zurigo e la chiamò col nome che porta
             attualmente.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

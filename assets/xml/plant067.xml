@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-067">
+  </teiHeader><text><body>
         <head>N. 67 Cacao Blanco</head>
         <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000458440"/>[<hi>Theobroma Cacao L.</hi>]</ab>
         <div type="name">
@@ -38,7 +38,7 @@
         </div>
         <div type="editorial-D">
           <p>Come si apprende dal testo la figura non fu tratta dall'originale, ma copiata da una
-            pittura mandata dall'America ed ottenuta dall'autore a mezzo del <persName ref="#daMula">Da Mula</persName>. Abbiamo
+            pittura mandata dall'America ed ottenuta dall'autore a mezzo del <persName ref="da-mula-marcantonio">Da Mula</persName>. Abbiamo
             trascritta per intero la diagnosi perché essa dimostra uno studio non fatto sul vero;
             in caso diverso il Michiel non avrebbe paragonato a fichi e lodati come appetitosi dei
             frutti il cui pericarpo è in realtà secco e non commestibile.</p>
@@ -62,4 +62,4 @@
             emblici e bellirici il Marini parla senza darne figure. Nessun Mirabolano è figurato dal
             Michiel in questo codice, perché la pianta chiamata così al N. 99 è la Moringa. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

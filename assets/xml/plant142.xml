@@ -15,11 +15,11 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-142">
+  </teiHeader><text><body>
         <head>N. 142 Nil Sp.</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Nil da <persName ref="#Cechin">m. Cechin dal Angelo</persName> - Endego del Nil - Son il glasto sativo così tenuto da
+          <p> Nil da <persName ref="martinelli-francesco">m. Cechin dal Angelo</persName> - Endego del Nil - Son il glasto sativo così tenuto da
             molti.</p>
         </div>
         <div type="genus">
@@ -59,4 +59,4 @@
           <note xml:id="A-142-N1" n="1"> In bianco.</note>
           <note xml:id="A-142-N2" n="2"> Di là.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-147">
+  </teiHeader><text><body>
         <head>N. 147 Tamarindi</head>
         <div type="name">
           <head>NOMI</head>
@@ -48,14 +48,14 @@
             detto ci narra il Mathiolo.</p>
         </div>
         <div type="editorial-D">
-          <p>Traviati da quanto dice <persName ref="#Serapione">Serapione</persName>, che il tamarindo ha foglie di salice, e da quanto
+          <p>Traviati da quanto dice <persName ref="serapio-junior">Serapione</persName>, che il tamarindo ha foglie di salice, e da quanto
             dice Mesue, che il frutto proviene da specie di palme dell'India (donde il nome arabo
             ta- mar-indi) vari autori fecero una pianta fittizia con foglie semplici lanceolate e
-            frutti ovoidali a guisa datteri. Tale la troviamo nel <persName ref="#Rinio">Rinio</persName> a c. 108, e simile, ma con
+            frutti ovoidali a guisa datteri. Tale la troviamo nel <persName ref="rinio-benedetto">Rinio</persName> a c. 108, e simile, ma con
             foglie più allungate e pallide per assomigliarle meglio a quelle di Salix alba, è questa
             del Michiel. I frutti sono ovoidi, giallo-dorati con fasce longitudinali brune. Il
             <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref>, il quale copiò la maggior parte delle figure dal Michiel, copiò quella del
             tamarindo dal Rinio, come egli stesso avverte.</p>
           <p> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta (2). -</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

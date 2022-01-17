@@ -15,10 +15,10 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-029">
+  </teiHeader><text><body>
         <head>N. 29</head>
         <div type="editorial-D">
           <p>Una buona figura rappresentante lo strobilo maturo del cipresso, un'altra di strobilo
             immaturo. Manca il testo.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

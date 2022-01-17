@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-134">
+  </teiHeader><text><body>
         <head>N. 134 Smilax Levis di Candia</head>
         <div type="name">
           <head>NOMI</head>
@@ -47,7 +47,7 @@
             frondi pendenti come in grappolini da quelli ci restavano suoe silique con suoi fagiuoli
             dentro neri con il segno bianco».</p>
           <p>Il Michiel mandò un campione di questa pianta all'Aldrovandi perché ne facesse parte al
-            <persName ref="#Ghini">Ghini</persName>, come risultò dalla poscritta alla lettera 14 Settembre 1553 ove la pianta ( <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="95"/> è chiamata «Similax
+            <persName ref="ghini-luca">Ghini</persName>, come risultò dalla poscritta alla lettera 14 Settembre 1553 ove la pianta ( <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="95"/> è chiamata «Similax
             levis produce il seme come un fasuol ma nero. Notisi che nel vol. VII dell'Erbario
             Aldrovandi, c. 97 e 142 c'è una «Smilax levis ex Crela». Nella lettera 14 ottobre 1553
             il Michiel scrive all'Aldrovandi: «V. S. mi richiede per le sue un rampollo del Smilax
@@ -67,4 +67,4 @@
           <note xml:id="A-134-N3" n="3"> Perde i rami.</note>
           <note xml:id="A-134-N4" n="4"> Lido di Venezia.</note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

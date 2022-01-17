@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-080">
+  </teiHeader><text><body>
         <head>N. 80 Mamai Albero de India</head>
         <ab>[<hi>Mammea americana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000375040"/></ab>
         <div type="name">
@@ -46,4 +46,4 @@
         <div type="editorial-D">
           <p>Albero fruttifero. La pianta era stata descritta col nome Mamey da <ref type="bibl" target="http://id.sbn.it/bid/RMLE012034">Gonzalo Ferdinando Oviedo de Valdes (1525 [ma 1535])</ref>. -</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

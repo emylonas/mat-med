@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-129">
+  </teiHeader><text><body>
         <head>N. 129 Gensamin Gialo</head>
         <ab>[<hi>Jasminum humile L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000813823"/></ab>
         <div type="name">
@@ -63,4 +63,4 @@
           <note xml:id="A-129-N2" n="2"> I. officinalo.</note>
           <note xml:id="A-129-N3" n="3"> I. grandiflorum. </note>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>

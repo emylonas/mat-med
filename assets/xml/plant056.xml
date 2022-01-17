@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><text><body><div type="plant" xml:id="A-056">
+  </teiHeader><text><body>
         <head>N. 56 Suber Th.</head>
         <ab>[<hi>Quercus Suber L.</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/></ab>
         <div type="name">
@@ -27,7 +27,7 @@
           <p> Son albero palido con crasse foglie strette, lunghe, liscie et falate sopra e fusti
             simil al frassino et apresso a suoe frondi ci nasce certi minuti grappolini, da qualli
             poi ci viene suoe giande mi penso perché non le vidi ed hebbi questa mostra dal ecc.
-            sig. <persName ref="#Aldrovandi">Ulisse Aldrovandi</persName> di Bolognia.</p>
+            sig. <persName ref="aldrovandi-ulisse">Ulisse Aldrovandi</persName> di Bolognia.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -49,4 +49,4 @@
             dai «minuti grappolini cioè dagli amenti maschili pero con riserva, perché questi non
             fruttificarono, ma, com'era loro destino, morirono.</p>
         </div>
-      </div></body></text></TEI>
+      </body></text></TEI>
