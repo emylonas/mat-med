@@ -4,41 +4,46 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-109" part="N" org="uniform" sample="complete">
-        <head>N. 109 CROTON NICANDRO</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 109 Croton Nicandro</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Croton da Nicandro.</p>
+          <p> Croton da Nicandro.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In luoghi asperi, montuosi et sassosi in Dalmatia a molini di Sebenico.</p>
+          <p> In luoghi asperi, montuosi et sassosi in Dalmatia a molini di Sebenico.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Io credo stia sempre verde. Suoi fruti al fin dell'Esta.</p>
+          <p> Io credo stia sempre verde. Suoi fruti al fin dell'Esta.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 204 dice che potrebbe esser questo il Croton de Nicandro.</p>
+          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 204 dice che potrebbe esser questo il Croton de Nicandro.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Per non haver gustato de suoi frutti non vi scio che dire ma il suo legnio puol valere
+          <p>Per non haver gustato de suoi frutti non vi scio che dire ma il suo legnio puol valere
             in vece di quel del Pino.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Fusto nodoso, a foglie lineari verticillate, fiori rossi, frutti rossi. Pare fittizia,
-            dietro la descrizione dell'Anguillara (1)].</p>
+        <div type="editorial-D">
+          <p>Fusto nodoso, a foglie lineari verticillate, fiori rossi, frutti rossi. Pare fittizia,
+            dietro la descrizione dell'Anguillara (1).</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-109-N1" n="1" anchored="true"> * L'interesse che può avere questa pianta - se, come pare, esaminata o
+        <div type="notes">
+          <note xml:id="A-109-N1" n="1"> * L'interesse che può avere questa pianta - se, come pare, esaminata o
             comunicata dall'Anguillara – più che nella supposta corrispondenza col testo di
             Nicandro (questo autore npuxd, verso 676 la nomina senza nessuna indicazione, e solo il
             suo commentatore la dice vagamente simile al pino), sta nella possibilità che
@@ -49,4 +54,4 @@
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="79"/>
-      </div></TEI>
+      </body></text></TEI>

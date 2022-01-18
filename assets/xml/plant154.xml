@@ -4,56 +4,61 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-154" part="N" org="uniform" sample="complete">
-        <head>N. 154 TEMBUL TENUTO</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 154 Tembul Tenuto</head>
+        <div type="name">
           <head>NOME</head>
-          <p part="N"> Tembul da Persiani Et li altri nomi 153.</p>
+          <p> Tembul da Persiani Et li altri nomi 153.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Se questo ci fusse sarebbeno doi specie (1), l'altra da driedo k. 153 -</p>
+          <p> Se questo ci fusse sarebbeno doi specie (1), l'altra da driedo k. 153 -</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa radice ramosa et grossa. Son albero grande, suoe foglie piui grande del Lauro,
+          <p> Suoa radice ramosa et grossa. Son albero grande, suoe foglie piui grande del Lauro,
             con tre nervi sotili per lungho, liscie et di chiaro verde.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Si portano a noi delle suoe foglie de Alessandria.</p>
+          <p> Si portano a noi delle suoe foglie de Alessandria.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Credo che sempre si stia verde.</p>
+          <p> Credo che sempre si stia verde.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Sole et paese calido.</p>
+          <p> Sole et paese calido.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> Penso che fazzi fruti con nuclei che di quelli ci nasca.</p>
+          <p> Penso che fazzi fruti con nuclei che di quelli ci nasca.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Hermolao, Ruelio, et dal Brasavola son tenuto per il Tembul de li Arabi sanza lasarsi
+          <p> Hermolao, Ruelio, et dal Brasavola son tenuto per il Tembul de li Arabi sanza lasarsi
             intendere la ragione et il perché. dunde io penso che queste foglie siano de Alberi
             incogniti a noi.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">(Fu disegnata dapprima una foglia ingiallita (145 mm. X45) mm. e poi un albero col
+        <div type="editorial-D">
+          <p>(Fu disegnata dapprima una foglia ingiallita (145 mm. X45) mm. e poi un albero col
             tronco mozzo alto e con rami fogliosi. Ben distinte in tutte le foglie le tre ner-
-            vature longitudinali].</p>
+            vature longitudinali.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-154-N1" n="1" anchored="true"> * Dal confronto dei due fogli 153 e 154, tenendo conto delle differenze di
+        <div type="notes">
+          <note xml:id="A-154-N1" n="1"> * Dal confronto dei due fogli 153 e 154, tenendo conto delle differenze di
             scrittura che rivelano aggiunte successive (nella trascrizione, in corsivo) pare che
             il Michiel avesse prima seguito l'Anguillara ritenendo trattarsi di due specie distinte,
             risp. d'India e di Persia, e si sia poi indotto ad attribuire alla 1 anche nomi e
@@ -62,4 +67,4 @@
             incogniti a noi». Potrebbe quindi darsi che avesse ricevuto foglie di Piper Belel o lo
             Folia Malabalhri, ma mancano elementi per riconoscerle. (Ed.).</note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

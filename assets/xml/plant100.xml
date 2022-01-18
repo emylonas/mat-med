@@ -4,33 +4,38 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-100" part="N" org="uniform" sample="complete">
-        <head>N. 100 BETULA</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000330385">[<hi>Betula alba L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 100 Betula</head>
+        <ab>[<hi>Betula alba L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000330385"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Betula da Theophrasto - Biola et Belula in Italia - Birchen da Tedeschi.</p>
+          <p> Betula da Theophrasto - Biola et Belula in Italia - Birchen da Tedeschi.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti in <placeName ref="https://www.geonames.org/3175395/italian-republic.html" instant="false" full="yes">Italia</placeName> ne sonno. Et in <placeName ref="https://www.geonames.org/390903/hellenic-republic.html" instant="false" full="yes">Grecia</placeName> ancora. In paesi et luoghi frigidi in
-            <placeName ref="https://www.geonames.org/3017382/republic-of-france.html" instant="false" full="yes">Gallia</placeName>.</p>
+          <p> Ne monti in <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName> ne sonno. Et in <placeName ref="https://www.geonames.org/390903/hellenic-republic.html">Grecia</placeName> ancora. In paesi et luoghi frigidi in
+            <placeName ref="https://www.geonames.org/3017382/republic-of-france.html">Gallia</placeName>.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Io credo che in ogni staggion verdeggia.</p>
+          <p> Io credo che in ogni staggion verdeggia.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Luogho salvatico et silvestre umbroso et incognito.</p>
+          <p> Luogho salvatico et silvestre umbroso et incognito.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fertile, amenti allungati gialli. A parte una foglia]. -</p>
+        <div type="editorial-D">
+          <p>Pianta fertile, amenti allungati gialli. A parte una foglia. -</p>
         </div>
-      </div></TEI>
+      </body></text></TEI>

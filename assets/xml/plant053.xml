@@ -4,38 +4,43 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-053" part="N" org="uniform" sample="complete">
-        <head>N. 53 CRATEGON</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 53 Crategon</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Crategon da <persName ref="#Theofrastus" instant="false" full="yes">Theophrasto</persName> - Sambucus aquaticus motomorum, Piè de Occha dal vulgo - Aquifolio
+          <p> Crategon da <persName ref="theophrastus">Theophrasto</persName> - Sambucus aquaticus motomorum, Piè de Occha dal vulgo - Aquifolio
             et Ilex in Italia et da il <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario [di E. Barbaro]</ref>.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Alcuni tengono per sp. di Mespilo.</p>
+          <p> Alcuni tengono per sp. di Mespilo.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N">In rari luoghi d'Italia.</p>
+          <p>In rari luoghi d'Italia.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="41"/>
 
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Il Corolario dice essere chiamato in Italia Aquifolio et non esser altro che l'Ilex et
-            il <persName ref="#Mattioli" instant="false" full="yes">Mateolo</persName> non così conferma. Et M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alovise Anguillara</ref> dice esser il Sorbo torminale ma a
+          <p> Il Corolario dice essere chiamato in Italia Aquifolio et non esser altro che l'Ilex et
+            il <persName ref="mattioli-pietro-andrea">Mateolo</persName> non così conferma. Et M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alovise Anguillara</ref> dice esser il Sorbo torminale ma a
             molti non pare k. 80. </p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Foglie intere, ovali-lanceolate, disposte a palma; frutti ascellari, isolati, bruni,
-            piccoli].</p>
+        <div type="editorial-D">
+          <p>Foglie intere, ovali-lanceolate, disposte a palma; frutti ascellari, isolati, bruni,
+            piccoli.</p>
         </div>
-      </div></TEI>
+      </body></text></TEI>

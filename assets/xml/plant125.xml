@@ -4,47 +4,52 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-125" part="N" org="uniform" sample="complete">
-        <head>N. 125 JARUMA ALBERO DE INDIA</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000592293">[<hi>Cecropia palmata Willd.</hi>]</ref>.</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 125 Jaruma Albero de India</head>
+        <ab>[<hi>Cecropia palmata Willd.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000592293"/>.</ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Jaruma (<ptr target="#A-125-N1"/>) alboro de India.</p>
+          <p> Jaruma <ptr target="#A-125-N1"/> alboro de India.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Sua radice tenera et sparsa. Son albero simil alla noce con foglie di fico. Il suo
+          <p> Sua radice tenera et sparsa. Son albero simil alla noce con foglie di fico. Il suo
             fruti paiono vermi di buon sapore et sano.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nelle isole Leucoie che sonno in grande numero overo Jucae dete, qualle cadeno soto
+          <p> Nelle isole Leucoie che sonno in grande numero overo Jucae dete, qualle cadeno soto
             tramontana et queste Isole preseno il nome da Leucoie per esser città maggiore et
             l'altra picciole come Cuba, Haiti, Guanahani che fu la prima terra veduta da Cristoforo
             Colombo, Mangua, Guanina, Zugnareo et altre molte.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Le foglie et ramicelli spremuti, et il succhio posto ne piaghe vecchie le risannano.
+          <p> Le foglie et ramicelli spremuti, et il succhio posto ne piaghe vecchie le risannano.
             Et de tronchi delli alberi incavati ne fanno barchete, nel <ref type="bibl" target="http://id.sbn.it/bid/LO1E013261">libro secondo dell'India k.
               51</ref>. Et suoi fruti sonno di buono gusto et pettorali.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fruttifera; figura poco buona che dev'esser stata copiata da un disegno. (<ptr target="#A-125-N2"/>)
+        <div type="editorial-D">
+          <p>Pianta fruttifera; figura poco buona che dev'esser stata copiata da un disegno. <ptr target="#A-125-N2"/>
             Però notiamo che è la prima conosciuta in ordine storico, precedendo di un secolo quella
-            di Pisone e Marcgravio [196] N. 147].</p>
+            di Pisone e Marcgravio [196] N. 147.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-125-N1" n="1" anchored="true"> Il <persName ref="#Bonato" instant="false" full="yes">Bonato</persName> trascrisse erroneamente <hi>Saruma</hi>.</note>
-          <note xml:id="A-125-N2" n="2" anchored="true"> * È, inoltre, in contraddizione con l'habitat e con lo stesso nome Jaruma,
+        <div type="notes">
+          <note xml:id="A-125-N1" n="1"> Il <persName ref="bonato-giuseppe-antonio">Bonato</persName> trascrisse erroneamente <hi>Saruma</hi>.</note>
+          <note xml:id="A-125-N2" n="2"> * È, inoltre, in contraddizione con l'habitat e con lo stesso nome Jaruma,
             che corrisponderebbero alla <hi>Cecropia peltata</hi>: perché la forma delle foglie
             nettamente palmate se esatta, sarebbe caratteristica della C. palmata, propria non
             delle Antille ma del continente. (Ed.).</note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

@@ -4,58 +4,63 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-001" part="N" org="uniform" sample="complete">
-        <head>N. I CIRUELAS MONTESES</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. I Ciruelas Monteses</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Ciruelas monteses ex fruta de Indiani<seg type="trans" part="N"><foreign xml:lang="eng">wild plums</foreign> 
+          <p> Ciruelas monteses ex fruta de Indiani <seg type="trans"><foreign xml:lang="eng">wild plums</foreign> 
             <foreign xml:lang="ita">prugne selvatiche</foreign></seg></p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Tre sorte di Ciruelas ne sonno, questa monteses, incarnadas et amarilas, come vedereti
-            <note type="editorial" anchored="true"> [<ref type="internal" target="#A-021">NN. 21</ref> e <ref type="internal" target="#A-069">N.
+          <p> Tre sorte di Ciruelas ne sonno, questa monteses, incarnadas et amarilas, come vedereti
+            <note type="editorial"> [<ref type="internal" target="#A-021">NN. 21</ref> e <ref type="internal" target="#A-069">N.
               69</ref>]</note>.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa radice [...] (<ptr target="#A-001-N1"/>), son albero grande et di grosso tronco con colore
+          <p> Suoa radice [...] <ptr target="#A-001-N1"/>, son albero grande et di grosso tronco con colore
             verdezzio, suoe frondi poche sopra a rami simil al gelsomin, suoi fruti verdi et maturati
-            rossi et sonno molto saporosi, dice nel <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">lib. primo del India</ref> a k. 48 (<ptr target="#A-001-N2"/>)
+            rossi et sonno molto saporosi, dice nel <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">lib. primo del India</ref> a k. 48 <ptr target="#A-001-N2"/>
             et son simil a marasche ma sanza picioli qualli imediatamente si atacano al legnio del
             tronco.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> De l'<placeName instant="false" full="yes">India</placeName> in pittura fu portato questo insieme con altri 10
+          <p> De l'<placeName>India</placeName> in pittura fu portato questo insieme con altri 10
             alberi come quivi li
             vedereti alla Maestà Cesarea, dunde essendo orator alla Sua Maestà al'hora il clar.
-            magnif. mess. <persName ref="#daMula" instant="false" full="yes">Marc'Antonio da Mulla</persName> et hora ill. et rev. benemerito cardinal (<ptr target="#A-001-N3"/>) ne
+            magnif. mess. <persName ref="da-mula-marcantonio">Marc'Antonio da Mulla</persName> et hora ill. et rev. benemerito cardinal <ptr target="#A-001-N3"/> ne
             fezze cavar coppia da quelli de Suoa Maestà et io da questi istessi cavai li presenti
             depinti.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> De suoi picoli nuclei ci nascono, ma meglio per inesto in albero che habbi nucleo.</p>
+          <p> De suoi picoli nuclei ci nascono, ma meglio per inesto in albero che habbi nucleo.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Suoi fruti sonno gustevoli et si mangiano.</p>
+          <p>Suoi fruti sonno gustevoli et si mangiano.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fruttifera intorno alla quale vedonsi volare vari insetti].</p>
+        <div type="editorial-D">
+          <p>Pianta fruttifera intorno alla quale vedonsi volare vari insetti.</p>
         </div>
         
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-001-N1" anchored="true">In bianco. </note>
-          <note xml:id="A-001-N2" anchored="true">La sigla k si deve leggere a carte (pagina).</note>
-          <note xml:id="A-001-N3" anchored="true"> * <persName ref="#daMula" instant="false" full="yes">Marco Antonio da Mula</persName> (latinizzato <persName ref="#daMula" instant="false" full="yes">Amulio</persName>) nacque a Venezia il
+        <div type="notes">
+          <note xml:id="A-001-N1">In bianco. </note>
+          <note xml:id="A-001-N2">La sigla k si deve leggere a carte (pagina).</note>
+          <note xml:id="A-001-N3"> * <persName ref="da-mula-marcantonio">Marco Antonio da Mula</persName> (latinizzato <persName ref="da-mula-marcantonio">Amulio</persName>) nacque a Venezia il
             12 febbraio 1505. Dopo aver occupato vari uffici in Dalmazia e in Terraferma, fu nel
             1551 inviato ambasciatore a Carlo V e stette presso di lui fino al 1553. Fu poi nel 1559
             ambasciatore straordinario a Filippo II per congratularsi della pace di Cateau Cambrésis
@@ -67,11 +72,11 @@
             le sue ultime volontà, trasportata a Venezia e tumulata nella chiesa di S.
               Giobbe (Ed.).</note>
         </div>
-        <div type="bibl" part="N" org="uniform" sample="complete">
-          <bibl default="false" status="draft">Peter Mason, José Pardo-Tomás, Bringing it back from Mexico: Eleven paintings of trees in I cinque libri delle piante of Pier’Antonio Michiel (1510–1576), 
+        <div type="bibl">
+          <bibl>Peter Mason, José Pardo-Tomás, Bringing it back from Mexico: Eleven paintings of trees in I cinque libri delle piante of Pier’Antonio Michiel (1510–1576), 
             <hi>Journal of the History of Collections</hi>, Volume 32, Issue 2, July 2020, Pages 225–237. <idno>https://doi.org/10.1093/jhc/fhy062</idno></bibl>
         </div>
         
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="13"/>
-      </div></TEI>
+      </body></text></TEI>

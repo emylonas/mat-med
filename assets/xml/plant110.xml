@@ -4,78 +4,83 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-110" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
         <head>N. IIO SEBESTE SP.</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000649239">[<hi>Diospyrus Lotus L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Diospyrus Lotus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000649239"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Sebeste spetie da volgari Loto secondo alcuni sto di Plinio (<ptr target="#A-110-N1"/>)  secondo altri Guaiaco
+          <p> Sebeste spetie da volgari Loto secondo alcuni sto di Plinio <ptr target="#A-110-N1"/>  secondo altri Guaiaco
             spetie da molti tenuto Myxarijs da Greci Abahamfa, Mokaita et Moteica da Arabi.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> De il Sebeste ne son quello di Levante (N. 111) et questo vogliando (<ptr target="#A-110-N2"/>) sia spetie di
+          <p> De il Sebeste ne son quello di Levante (N. 111) et questo vogliando <ptr target="#A-110-N2"/> sia spetie di
             esso. Et de Loti leggi nel libro primo rosso a k. 116.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> De molti giardini de simplici ne sonno ma io non scio la sua origine.</p>
+          <p> De molti giardini de simplici ne sonno ma io non scio la sua origine.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> Pocho germoglia ma de suoi nociuoli bene ci nasce et io fui il primo a farli nascere
+          <p> Pocho germoglia ma de suoi nociuoli bene ci nasce et io fui il primo a farli nascere
             et in grande quantità che li divisi in molti giardini.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Varie sonno le oppinioni in questo albero. Alcuni lo tiene per spetie di legno santo.
-            Messer <persName ref="#Ghini" instant="false" full="yes">Luca Ghini</persName> per spetie di Loto et il Mattiolo ancora, overo secondo altri per
+          <p> Varie sonno le oppinioni in questo albero. Alcuni lo tiene per spetie di legno santo.
+            Messer <persName ref="ghini-luca">Luca Ghini</persName> per spetie di Loto et il Mattiolo ancora, overo secondo altri per
             Lauro angusto di Plinio. Et molti per spetie di Sebeste.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Se sperie di Sebeste, come al meglio a me apare si acosti gli suoi fruti,
+          <p> Se sperie di Sebeste, come al meglio a me apare si acosti gli suoi fruti,
             considerandoli nel gusto, poleno valere come quegli di Levante inanti a k. 111. Et in
             alcuni paesi si fanne visco.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Buona figura di pianta fruttifera. Di qua e di là del tronco due figure di foglie in
+        <div type="editorial-D">
+          <p>Buona figura di pianta fruttifera. Di qua e di là del tronco due figure di foglie in
             grandezza naturale, mostranti le due diverse pagine, l'una glabra, l'altra tomentosa.
             Seminascosta dalla prima foglia una infiorescenza meno bene ritratta. Sull'albero son
             disegnati cinque animali, tre quadrupedi e due uccelli per dimostrare la bontà dei
             frutti che l'autore stesso chiama di dolce sapore , mentre autori più moderni (173) li
             dichiararono, senza ragione, non commestibili. Il Michiel aveva osservato che anche i
             fiori contengono materia dolce e perciò li chiama «molto amici delle formiche ,</p>
-          <p part="N">È naturale che egli studiasse con particolare amore una pianta che egli per primo
+          <p>È naturale che egli studiasse con particolare amore una pianta che egli per primo
             allevò in Europa e diffuse pei giardini, cominciando coll'Orto botanico di Padova donde
             il nome di Guaiaco patavino sotto il quale essa fu conosciuta fino al cadere del secolo
             XVIII. E quell'Orto fu il centro dal quale pianta si sparse in modo da essere oggidi
-            quasi indigena nel Veronese, nel Mantovano, presso Belluno (<ptr target="#A-110-N3"/>).</p>
-          <p part="N">Contemporaneo al Michiel il Mattioli riceveva campioni da Costantinopoli sotto il nome
+            quasi indigena nel Veronese, nel Mantovano, presso Belluno <ptr target="#A-110-N3"/>.</p>
+          <p>Contemporaneo al Michiel il Mattioli riceveva campioni da Costantinopoli sotto il nome
             di «Dattero di Trebisonda , e dava pur una figura della pianta. Nel 1635 l'albero era
-            notato fra le piante cospicue dell'orto botanico di Pisa [262].</p>
+            notato fra le piante cospicue dell'orto botanico di Pisa [262.</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="80"/>
-          <p part="N">Un secolo dopo il Michiel lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> ne diede una figura poco esatta per la forma dei
+          <p>Un secolo dopo il Michiel lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> ne diede una figura poco esatta per la forma dei
             frutti, ritraendola da una pianta fatta nascere a Montbéliard con semi provenienti da
-            Padova (<ptr target="#A-110-N4"/>). </p>
-          <p part="N">Due secoli dopo il Michiel il Miller (178) si procurava semi pur da Padova e diffondeva così la pianta in Inghilterra non riuscendo però a farla fruttificare, come si
+            Padova <ptr target="#A-110-N4"/>. </p>
+          <p>Due secoli dopo il Michiel il Miller (178) si procurava semi pur da Padova e diffondeva così la pianta in Inghilterra non riuscendo però a farla fruttificare, come si
             scorge dalla figura da lui lasciata. Nella descrizione egli dice che la si crede
             originaria d'Italia ma che, dietro migliori informazioni, egli la suppone importata
             dalla Mauritania ove trovasi spontanea.</p>
-          <p part="N">Il Miller non seppe chi fosse stato l'importatore perché se ne era perduta la memoria
-            che a merito del <persName ref="#Marsili" instant="false" full="yes">Marsili</persName> fu ristaurata. Il Miller parla di due vecchi alberi di
+          <p>Il Miller non seppe chi fosse stato l'importatore perché se ne era perduta la memoria
+            che a merito del <persName ref="marsili-giovanni">Marsili</persName> fu ristaurata. Il Miller parla di due vecchi alberi di
             Diospyrus Lotus che ai suoi tempi (1771) vivevano all'Orto botanico di Padova. Uno è
             quello piantato dal Michiel e veduto dal Falloppio verso la metà del sec. XVI, l'altro
             fu piantato oltre un secolo dopo dal Viali, Ambedue le piante hanno ormai subito la
             sorte comune (266).</p>
-          <p part="N">Nella diagnosi il Michiel dice che i frutti sono gialli, ma nella figura vi sono rami a
+          <p>Nella diagnosi il Michiel dice che i frutti sono gialli, ma nella figura vi sono rami a
             frutti gialli e rami a frutti azzurri, i quali ultimi probabilmente furono aggiunti
             dopo, quando l'autore riconobbe esistere le due varietà di colore. È notevole il fatto
             che in alcuni libri moderni si ponga come carattere specifico ora l'una [26], ora
@@ -85,14 +90,14 @@
             abbiamo nei fiori che nel testo son chiamati «verdi» e nella figura furono tinti in
             bruniccio).</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-110-N1" n="1" anchored="true"> · Il Codice porta chiaramente scritto angusto; è certo pero che il Michiel
+        <div type="notes">
+          <note xml:id="A-110-N1" n="1"> · Il Codice porta chiaramente scritto angusto; è certo pero che il Michiel
             allude alla specie che Plinio (XV, 129) chiama: rogia, quae coepit Augusta appellari.
             (Ed.)</note>
-          <note xml:id="A-110-N2" n="2" anchored="true"> Volendo.</note>
-          <note xml:id="A-110-N3" n="3" anchored="true"> Nella villa di Cusighe vegeta una pianta la quale, malgrado il clima montano
+          <note xml:id="A-110-N2" n="2"> Volendo.</note>
+          <note xml:id="A-110-N3" n="3"> Nella villa di Cusighe vegeta una pianta la quale, malgrado il clima montano
             porta frutti saporiti,</note>
-          <note xml:id="A-110-N4" n="4" anchored="true"> Lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> acconna ad un altra pianta che cresceva nell'Orto Wagneriano di
+          <note xml:id="A-110-N4" n="4"> Lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> acconna ad un altra pianta che cresceva nell'Orto Wagneriano di
             Maudon, senza però dire la provenienza. </note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

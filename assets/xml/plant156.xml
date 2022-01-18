@@ -4,56 +4,61 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-156" part="N" org="uniform" sample="complete">
-        <head>N. 156 CIPRUS</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 156 Ciprus</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Ciprus albero da Plinio Et Cypero.</p>
+          <p> Ciprus albero da Plinio Et Cypero.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> De Cypero son anche in Herba. Legi nel lib. giallo a k. 84 et k. 63.</p>
+          <p> De Cypero son anche in Herba. Legi nel lib. giallo a k. 84 et k. 63.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa radice legnosa et profundasi, son albero di mediocre statura et ramoso, suoe
-            frondi di similitudine de zizoler (<ptr target="#A-156-N1"/>) . Suoi fiori non li ho veduti. Suoi semi piccoli,
+          <p> Suoa radice legnosa et profundasi, son albero di mediocre statura et ramoso, suoe
+            frondi di similitudine de zizoler <ptr target="#A-156-N1"/> . Suoi fiori non li ho veduti. Suoi semi piccoli,
             rotondi odorifferi, et bianchi, simil di forma a coriandri.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Son albero di Egypto dunde hebbi de semi et mi naque, ne sonno in Canapo (<ptr target="#A-156-N2"/>) nella
+          <p> Son albero di Egypto dunde hebbi de semi et mi naque, ne sonno in Canapo <ptr target="#A-156-N2"/> nella
             rippa del Nillo et son il migliore, in Ascalone cita nella Giudea et in Cypri.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Penso che se re verdeggia ma mi manco.</p>
+          <p> Penso che se re verdeggia ma mi manco.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Sole et humido.</p>
+          <p> Sole et humido.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> De suoi semi ci nasce.</p>
+          <p> De suoi semi ci nasce.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Molti si credono che il Cipro Albero sia il volg. Ligustro, come il Corollario del
-            Barbaro et anche lo stesso Plinio acena di dubito come l'<persName ref="#Anguillara" instant="false" full="yes">Anguilara</persName> prudente ci manifesta
+          <p> Molti si credono che il Cipro Albero sia il volg. Ligustro, come il Corollario del
+            Barbaro et anche lo stesso Plinio acena di dubito come l'<persName ref="alguillara-luigi">Anguilara</persName> prudente ci manifesta
             nelli suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 59, non esser il Ligustro el Cypero.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta sterile].</p>
+        <div type="editorial-D">
+          <p>Pianta sterile.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-156-N1" n="1" anchored="true"> Ziryphus.</note>
-          <note xml:id="A-156-N2" n="2" anchored="true"> Canopo pr., Abukir,</note>
+        <div type="notes">
+          <note xml:id="A-156-N1" n="1"> Ziryphus.</note>
+          <note xml:id="A-156-N2" n="2"> Canopo pr., Abukir,</note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

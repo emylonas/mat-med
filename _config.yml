@@ -12,13 +12,13 @@
 
 #LOCAL
 #theme                    : "minimal-mistakes-jekyll"
-#minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-url                      : ""
+#minimal_mistakes_skin    : "aqua"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#url                      : ""
 #baseurl                  : "/"
 
 # GITHUB REMOTE THEME
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 url                      : "https://emylonas.github.io"
 baseurl                  : "/xml-minimal/"
 
@@ -78,7 +78,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true #false (default)
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : "lunr" # lunr (default), algolia, google
@@ -290,6 +290,9 @@ collections:
   edition:
     output: true
     permalink: /:collection/:path/
+  apothecaries:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -329,3 +332,13 @@ defaults:
       share: false
       sidebar:
         nav: "edition"
+  # _apothecaries
+  - scope:
+      path: "_apothecaries"
+      type: apothecaries
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      sidebar:
+        nav: "apothecaries"

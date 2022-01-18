@@ -4,50 +4,55 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-007" part="N" org="uniform" sample="complete">
-        <head>N. 7 VITE BIANCA VULGARE</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000609903">[<hi>Clematis Flammula L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 7 Vite Bianca Vulgare</head>
+        <ab>[<hi>Clematis Flammula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000609903"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Vite biacha (<ptr target="#A-007-N1"/>) da volgari - Clematite dal ecc. M. <persName ref="#Anguillara" instant="false" full="yes">Alovise Anguilara</persName> - Clematitis aspera
-            dal ecc. M. <persName ref="#Ghini" instant="false" full="yes">Luca Ghini</persName> - Flamula Jovis da volgari - Ciclamino Secondo da il <persName ref="#Gualtiero" instant="false" full="yes">Gualtieri</persName> -
+          <p> Vite biacha <ptr target="#A-007-N1"/> da volgari - Clematite dal ecc. M. <persName ref="alguillara-luigi">Alovise Anguilara</persName> - Clematitis aspera
+            dal ecc. M. <persName ref="ghini-luca">Luca Ghini</persName> - Flamula Jovis da volgari - Ciclamino Secondo da il <persName ref="ryff-walther-hermann">Gualtieri</persName> -
             Epigetin da alcuni Phylacrion da Egyptij - Ambuxum da Romani.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Parmi che questa sia veramente spezie di la Atragene scrita inanti <ref type="internal" target="#A-005">[N. 5]</ref> essendo
-            molto simile se non nella grandezza. Et in me (<ptr target="#A-007-N2"/>) di Vite ne ho dimostre 4 sorti, questa
-            et l'altra alba son la zucha salvatica <ref type="internal" target="#A-005">[N. 91]</ref>, la terza nera son il tamaro <ref type="internal" target="#A-005">[N. 24]</ref>,
+          <p> Parmi che questa sia veramente spezie di la Atragene scrita inanti <ref type="internal" target="#A-005">[N. 5]</ref> essendo
+            molto simile se non nella grandezza. Et in me <ptr target="#A-007-N2"/> di Vite ne ho dimostre 4 sorti, questa
+            et l'altra alba son la zucha salvatica <ref type="internal" target="#A-091">[N. 91]</ref>, la terza nera son il tamaro <ref type="internal" target="#A-024">[N. 24]</ref>,
             la quarta vite nera et per accordarsi nelle fatezze alla seconda Clematide de Diascoride
             in vece di quella io la posi <ref type="internal" target="#A-006">[N. 6]</ref>.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti de <placeName ref="https://www.geonames.org/3175395/italian-republic.html" instant="false" full="yes">Italia</placeName> et apresso agli horti nel nostro <placeName ref="https://www.geonames.org/6951009/venice-lido.html" instant="false" full="yes">lito</placeName> (<ptr target="#A-007-N3"/>) ne sonno in copia.</p>
+          <p> Ne monti de <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName> et apresso agli horti nel nostro <placeName ref="https://www.geonames.org/6951009/venice-lido.html">lito</placeName> <ptr target="#A-007-N3"/> ne sonno in copia.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Parmi vengha assa bene con il Ciclamino Secondo et non son oppinion de il <persName ref="#Gualtiero" instant="false" full="yes">Gualtieri</persName>
-            perché dimostra sia altra pianta. Et M. <persName ref="#Anguillara" instant="false" full="yes">Aloise Anguilara</persName> [a] k. 301 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> vole sia
-            la Clematite et l'ecc. M. <persName ref="#Ghini" instant="false" full="yes">Luca Ghini</persName> tiene sia la <hi>Clematitis aspera</hi>. Et de molti
+          <p> Parmi vengha assa bene con il Ciclamino Secondo et non son oppinion de il <persName ref="ryff-walther-hermann">Gualtieri</persName>
+            perché dimostra sia altra pianta. Et M. <persName ref="alguillara-luigi">Aloise Anguilara</persName> [a] k. 301 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> vole sia
+            la Clematite et l'ecc. M. <persName ref="ghini-luca">Luca Ghini</persName> tiene sia la <hi>Clematitis aspera</hi>. Et de molti
             inganatosi pensorno che fusse quella spezie commune de volubili produce la campanella
             bianca.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta con fiori alcuni verdi, altri ingialliti; però il Michiel conobbe la pianta
+        <div type="editorial-D">
+          <p>Pianta con fiori alcuni verdi, altri ingialliti; però il Michiel conobbe la pianta
             fresca come lo prova la diagnosi che egli dà: «fa molti fiori bianchi piccioli
             odorati». A parte dipinto un ramo fruttifero, il che rende questa figura più completa di
-            quella lasciata dal <persName ref="https://data.cerl.org/thesaurus/cnp01365502" instant="false" full="yes">Rinio</persName> al <ref type="internal" target="#A-091">N. 91</ref>, però quest'ultima è artisticamente superiore].</p>
+            quella lasciata dal <persName ref="rinio-benedetto">Rinio</persName> al <ref type="internal" target="#A-091">N. 91</ref>, però quest'ultima è artisticamente superiore.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-007-N1" n="1" anchored="true"> Bianca</note>
-          <note xml:id="A-007-N2" n="2" anchored="true"> Nel mio libro.</note>
-          <note xml:id="A-007-N3" n="3" anchored="true"> Il Lido di Venezia. </note>
+        <div type="notes">
+          <note xml:id="A-007-N1" n="1"> Bianca</note>
+          <note xml:id="A-007-N2" n="2"> Nel mio libro.</note>
+          <note xml:id="A-007-N3" n="3"> Il Lido di Venezia. </note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

@@ -4,43 +4,48 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-133" part="N" org="uniform" sample="complete">
-        <head>N. 133 SMILACE ASPERA</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000740704">[<hi>Smilax aspera L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 133 Smilace Aspera</head>
+        <ab>[<hi>Smilax aspera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000740704"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N">Smilace aspera, Hedera spinosa et rovo canino da volgari - Smilax aspera da Latini
+          <p>Smilace aspera, Hedera spinosa et rovo canino da volgari - Smilax aspera da Latini
              - Epatitis, Lynchanthemon et Cynosbaton da <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="94"/> molti Greci - Anicetum, Heliophiton et Diticon da varij
              - Anatolicon et Helide da alquanti - Vyste da Egypti Mergina da Ramani - Radia da gli hetrusij - 
-            (<ptr target="#A-133-N1"/>) Groszstechend et Scharpffvvinde (<ptr target="#A-133-N2"/>) da Germani - Volubilis acuta da molti - Stracia
+            <ptr target="#A-133-N1"/> Groszstechend et Scharpffvvinde <ptr target="#A-133-N2"/> da Germani - Volubilis acuta da molti - Stracia
             brache in molti luoghi - Smirnas, Dialca da molti.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Varie sonno le spetie di smilace, questa aspera, la hortense, la lieve et de altre che
+          <p> Varie sonno le spetie di smilace, questa aspera, la hortense, la lieve et de altre che
             variano nel fiore. Et la lieve di Candia sequente.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In asperi et pallustrini luoghi sonno il suo proprio. In Gretia in abundanza et vene
-            (<ptr target="#A-133-N3"/>) prima di Cilicia. Ne sonno in Romagnia per li monti in quantità.</p>
+          <p> In asperi et pallustrini luoghi sonno il suo proprio. In Gretia in abundanza et vene
+            <ptr target="#A-133-N3"/> prima di Cilicia. Ne sonno in Romagnia per li monti in quantità.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> De molti con errore si credeno che questa sia la zarzaparilla [v. N. 132].</p>
+          <p> De molti con errore si credeno che questa sia la zarzaparilla [v. N. 132].</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fiorita e fruttifera].</p>
+        <div type="editorial-D">
+          <p>Pianta fiorita e fruttifera.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-133-N1" n="1" anchored="true"> Etruschi,</note>
-          <note xml:id="A-133-N2" n="2" anchored="true"> Scharfwinde = vilucchio pungente.</note>
-          <note xml:id="A-133-N3" n="3" anchored="true"> Venne.</note>
+        <div type="notes">
+          <note xml:id="A-133-N1" n="1"> Etruschi,</note>
+          <note xml:id="A-133-N2" n="2"> Scharfwinde = vilucchio pungente.</note>
+          <note xml:id="A-133-N3" n="3"> Venne.</note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

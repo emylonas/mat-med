@@ -2,11 +2,11 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Gardens"
+  - title: "Gardens in Venice"
     url: /gardens/
-  - title: "Edition"
+  - title: "P. A. Michiel Herbal Ms"
     url: /edition/
-  - title: "Apothecaries"
+  - title: "Apothecary Shops"
     url: /apothecaries/
   - title: "Indices"
     url: /indices/
@@ -21,327 +21,341 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+#apothecaries sidebar
+apothecaries:
+  - title: Apothecaries
+    children:
+ 
+      - title: 15th Century Apothecary Shop
+        url:  /apothecaries/15th_century/
+      - title: 16th Century Apothecary Shop
+        url:  /apothecaries/16th_century/
+      - title: 17th Century Apothecary Shop
+        url:  /apothecaries/17th_century/
+      - title: 18th Century Apothecary Shop
+        url:  /apothecaries/18th_century/
+
 #plants sidebar
 edition:
-  - title: Edition
+  - title: Table of Contents
     children:
       - title: Libro Azzurro
         url:  /edition/index/
       - title: Introduction
         url:  /edition/plant000/
-      - title: 1 CIRUELAS MONTESES
+      - title: 1 Ciruelas Monteses
         url:  /edition/plant001/
-      - title: 2 INCOGNITA
+      - title: 2 Incognita
         url:  /edition/plant002/
-      - title: 3 LAURO SILVESTRE
+      - title: 3 Lauro Silvestre
         url:  /edition/plant003/
-      - title: 4 ALBERO INCOGNITO
+      - title: 4 Albero Incognito
         url:  /edition/plant004/
-      - title: 5 ATRAGENE
+      - title: 5 Atragene
         url:  /edition/plant005/
-      - title: 6 VITE NERA VULGARE
+      - title: 6 Vite Nera Vulgare
         url:  /edition/plant006/
-      - title: 7 VITE BIANCA VULGARE
+      - title: 7 Vite Bianca Vulgare
         url:  /edition/plant007/
-      - title: 8 SAVINA
+      - title: 8 Savina
         url:  /edition/plant008/
-      - title: 9 CEDRO
+      - title: 9 Cedro
         url:  /edition/plant009/
-      - title: 10 RUS
+      - title: 10 Rus
         url:  /edition/plant010/
-      - title: 11 SMILACE LISIA
+      - title: 11 Smilace Lisia
         url:  /edition/plant011/
-      - title: 12 LIGUSTRO
+      - title: 12 Ligustro
         url:  /edition/plant012/
-      - title: 13 PUTANA VEL OLIVELA
+      - title: 13 Putana Vel Olivela
         url:  /edition/plant013/
-      - title: 14 PHILIREA
+      - title: 14 Philirea
         url:  /edition/plant014/
-      - title: 15 CHIEREGINI
+      - title: 15 Chieregini
         url:  /edition/plant015/
-      - title: 16 ELO CAPOLI
+      - title: 16 Elo Capoli
         url:  /edition/plant016/
-      - title: 17 CEDRIOLO
+      - title: 17 Cedriolo
         url:  /edition/plant017/
       - title: 18, 19, 20
         url:  /edition/plant018_019_020/
-      - title: 21 CIRUELAS INCARNADAS ES FRUTA
+      - title: 21 Ciruelas Incarnadas es Fruta
         url:  /edition/plant021/
-      - title: 22 MOLI ALBERO DE INDIA
+      - title: 22 Moli Albero de India
         url:  /edition/plant022/
-      - title: 23 SCAMONEA
+      - title: 23 Scamonea
         url:  /edition/plant023/
-      - title: 24 VITE NERA, TAMARO
+      - title: 24 Vite Nera, Tamaro
         url:  /edition/plant024/
-      - title: 25 CENTUNCULO
+      - title: 25 Centunculo
         url:  /edition/plant025/
-      - title: 26 OSTRIN VEL OSTREA
+      - title: 26 Ostrin Vel Ostrea
         url:  /edition/plant026/
-      - title: 27 FUSARIA, STONBER
+      - title: 27 Fusaria, Stonber
         url:  /edition/plant027/
-      - title: 28 GIANDE
+      - title: 28 Giande
         url:  /edition/plant028/
       - title: 29
         url:  /edition/plant029/
-      - title: 30 CHAMELEA
+      - title: 30 Chamelea
         url:  /edition/plant030/
-      - title: 31 CHAME TIMELEA SPE.
+      - title: 31 Chame Timelea Spe.
         url:  /edition/plant031/
-      - title: 32 PIPER MONTAN
+      - title: 32 Piper Montan
         url:  /edition/plant032/
-      - title: 33 LAUREOLA
+      - title: 33 Laureola
         url:  /edition/plant033/
-      - title: 34 CHAMECERASO
+      - title: 34 Chameceraso
         url:  /edition/plant034/
-      - title: 35 ROSA SENIS
+      - title: 35 Rosa Senis
         url:  /edition/plant035/
-      - title: 36 ABETE
+      - title: 36 Abete
         url:  /edition/plant036/
-      - title: 37 TASO
+      - title: 37 Taso
         url:  /edition/plant037/
-      - title: 38 PEZZO
+      - title: 38 Pezzo
         url:  /edition/plant038/
-      - title: 39. ALBERO SIMIL AL CIPRESO
+      - title: 39. Albero Simil al Cipreso
         url:  /edition/plant039/
-      - title: 40 FRUTES CITRIO SIMIL
+      - title: 40 Frutes Citrio Simil
         url:  /edition/plant040/
-      - title: 41 VIRCITOSICA
+      - title: 41 Vircitosica
         url:  /edition/plant041/
-      - title: 42 ASCLEPIAS
+      - title: 42 Asclepias
         url:  /edition/plant042/
-      - title: 43 ASCLEPIAS DE FRANCIA
+      - title: 43 Asclepias de Francia
         url:  /edition/plant043/
-      - title: 44 CAPORE ES FRUTA
+      - title: 44 Capore es Fruta
         url:  /edition/plant044/
-      - title: 45 CHICO CAPOLT
+      - title: 45 Chico Capolt
         url:  /edition/plant045/
-      - title: 46 FRUTICE INCOGNITO
+      - title: 46 Frutice Incognito
         url:  /edition/plant046/
-      - title: 47 ALBERO DA L'UVA
+      - title: 47 Albero da L'uva
         url:  /edition/plant047/
-      - title: 48 AGRIFOLIO
+      - title: 48 Agrifolio
         url:  /edition/plant048/
-      - title: 49 FICUS EGIPTIA
+      - title: 49 Ficus Egiptia
         url:  /edition/plant049/
-      - title: 50 SECO MORO FRATESCO
+      - title: 50 Seco Moro Fratesco
         url:  /edition/plant050/
-      - title: 51 CUCIOPHORON
+      - title: 51 Cuciophoron
         url:  /edition/plant051/
-      - title: 52 MACALEB
+      - title: 52 Macaleb
         url:  /edition/plant052/
-      - title: 53 CRATEGON
+      - title: 53 Crategon
         url:  /edition/plant053/
-      - title: 54 LICIO PO
+      - title: 54 Licio Po
         url:  /edition/plant054/
-      - title: 55 LICIO SO INDIANO
+      - title: 55 Licio So Indiano
         url:  /edition/plant055/
-      - title: 56 SUBER TH.
+      - title: 56 Suber Th.
         url:  /edition/plant056/
-      - title: 57 HEBANO
+      - title: 57 Hebano
         url:  /edition/plant057/
-      - title: 58 ANAGIRO, EGANO
+      - title: 58 Anagiro, Egano
         url:  /edition/plant058/
-      - title: 59 ANAGIRO
+      - title: 59 Anagiro
         url:  /edition/plant059/
-      - title: 60 PRUNUS THEO.
+      - title: 60 Prunus Theo.
         url:  /edition/plant060/
-      - title: 61 ZARNAB
+      - title: 61 Zarnab
         url:  /edition/plant061/
-      - title: 62 ANDRACNE
+      - title: 62 Andracne
         url:  /edition/plant062/
-      - title: 63 SCOTANUS
+      - title: 63 Scotanus
         url:  /edition/plant063/
-      - title: 64 PLATANO
+      - title: 64 Platano
         url:  /edition/plant064/
-      - title: 65 SORBO TERMINALE
+      - title: 65 Sorbo Terminale
         url:  /edition/plant065/
-      - title: 66 SAMBUCO SP.C
+      - title: 66 Sambuco Sp.c
         url:  /edition/plant066/
-      - title: 67 CACAO BLANCO
+      - title: 67 Cacao Blanco
         url:  /edition/plant067/
-      - title: 68 QUAHUXILOTS
+      - title: 68 Quahuxilots
         url:  /edition/plant068/
-      - title: 69 CIRUELAS AMARILLAS COMUNES ES FRUTA
+      - title: 69 Ciruelas Amarillas Comunes es Fruta
         url:  /edition/plant069/
-      - title: 70 APARINE
+      - title: 70 Aparine
         url:  /edition/plant070/
-      - title: 71 MADRE SILVA
+      - title: 71 Madre Silva
         url:  /edition/plant071/
-      - title: 72 ALIMO DE CRATEUA
+      - title: 72 Alimo de Crateua
         url:  /edition/plant072/
-      - title: 73 PEPE TONDO
+      - title: 73 Pepe Tondo
         url:  /edition/plant073/
-      - title: 74 RIBES MENOR
+      - title: 74 Ribes Menor
         url:  /edition/plant074/
-      - title: 75 CORNIOLO
+      - title: 75 Corniolo
         url:  /edition/plant075/
-      - title: 76 TILIA FEMINA
+      - title: 76 Tilia Femina
         url:  /edition/plant076/
-      - title: 77 OPULO
+      - title: 77 Opulo
         url:  /edition/plant077/
-      - title: 78 GAROFALI
+      - title: 78 Garofali
         url:  /edition/plant078/
-      - title: 79 CANELA
+      - title: 79 Canela
         url:  /edition/plant079/
-      - title: 80 MAMAI ALBERO DE INDIA
+      - title: 80 Mamai Albero de India
         url:  /edition/plant080/
-      - title: 81 NOCE MOSCATA
+      - title: 81 Noce Moscata
         url:  /edition/plant081/
-      - title: 82 NOCE DE INDIA
+      - title: 82 Noce de India
         url:  /edition/plant082/
-      - title: 83 AGNO CASTO
+      - title: 83 Agno Casto
         url:  /edition/plant083/
-      - title: 84 TRAGIO
+      - title: 84 Tragio
         url:  /edition/plant084/
-      - title: 85 PERSEA
+      - title: 85 Persea
         url:  /edition/plant085/
-      - title: 86 AZAROLO
+      - title: 86 Azarolo
         url:  /edition/plant086/
-      - title: 87 SPIN BIANCO
+      - title: 87 Spin Bianco
         url:  /edition/plant087/
-      - title: 88 ACATIA SECONDA
+      - title: 88 Acatia Seconda
         url:  /edition/plant088/
-      - title: 89 ACATIA
+      - title: 89 Acatia
         url:  /edition/plant089/
-      - title: 90 CHARANCE
+      - title: 90 Charance
         url:  /edition/plant090/
-      - title: 91 BRIONIA
+      - title: 91 Brionia
         url:  /edition/plant091/
-      - title: 92 CAPOLI OTERECAS ES FRUTA
+      - title: 92 Capoli Oterecas es Fruta
         url:  /edition/plant092/
-      - title: 93 QUAYAUTL COLORADO
+      - title: 93 Quayautl Colorado
         url:  /edition/plant093/
-      - title: 94 ALLATERNO
+      - title: 94 Allaterno
         url:  /edition/plant094/
-      - title: 95 STORACE
+      - title: 95 Storace
         url:  /edition/plant095/
-      - title: 96 BALSAMO
+      - title: 96 Balsamo
         url:  /edition/plant096/
-      - title: 97 VISCO
+      - title: 97 Visco
         url:  /edition/plant097/
-      - title: 98 OLEANDRO
+      - title: 98 Oleandro
         url:  /edition/plant098/
-      - title: 99 BEN DA PERFUMIERI
+      - title: 99 Ben Da Perfumieri
         url:  /edition/plant099/
-      - title: 100 BETULA
+      - title: 100 Betula
         url:  /edition/plant100/
-      - title: 101 BARBA IOVIS
+      - title: 101 Barba Iovis
         url:  /edition/plant101/
-      - title: 102 CASIA SOLUTIVA
+      - title: 102 Casia Solutiva
         url:  /edition/plant102/
-      - title: 103 MIRIDE ARBORE
+      - title: 103 Miride Arbore
         url:  /edition/plant103/
-      - title: 104 TEREBINTO
+      - title: 104 Terebinto
         url:  /edition/plant104/
-      - title: 105 LENTISCO
+      - title: 105 Lentisco
         url:  /edition/plant105/
-      - title: 106 PALIURO DI AGATOCLE
+      - title: 106 Paliuro Di Agatocle
         url:  /edition/plant106/
-      - title: 107 CUMARA
+      - title: 107 Cumara
         url:  /edition/plant107/
-      - title: 108 FRUTICE INCOGNITO
+      - title: 108 Frutice Incognito
         url:  /edition/plant108/
-      - title: 109 CROTON NICANDRO
+      - title: 109 Croton Nicandro
         url:  /edition/plant109/
-      - title: 11O SEBESTE SP.
+      - title: 11O Sebeste Sp.
         url:  /edition/plant110/
-      - title: 111 SEBESTE DI LEVANTE
+      - title: 111 Sebeste Di Levante
         url:  /edition/plant111/
-      - title: 112 GUAICO
+      - title: 112 Guaico
         url:  /edition/plant112/
-      - title: 113 GUAIABO
+      - title: 113 Guaiabo
         url:  /edition/plant113/
-      - title: 114 PISTACHIER
+      - title: 114 Pistachier
         url:  /edition/plant114/
-      - title: 115 STAFILODENDRO
+      - title: 115 Stafilodendro
         url:  /edition/plant115/
-      - title: 116 CUA MUCHEL
+      - title: 116 Cua Muchel
         url:  /edition/plant116/
-      - title: 117 RAMNO PRIMO B.O
+      - title: 117 Ramno Primo B.o
         url:  /edition/plant117/
-      - title: 118 RAMNO BIANCO
+      - title: 118 Ramno Bianco
         url:  /edition/plant118/
-      - title: 119 RAMNO DAL FOLICOLO
+      - title: 119 Ramno Dal Folicolo
         url:  /edition/plant119/
-      - title: 120 COLUTEA
+      - title: 120 Colutea
         url:  /edition/plant120/
-      - title: 121 GENESTA
+      - title: 121 Genesta
         url:  /edition/plant121/
-      - title: 122 GENESTELA PHRIGIA
+      - title: 122 Genestela Phrigia
         url:  /edition/plant122/
-      - title: 123 GENESTELA
+      - title: 123 Genestela
         url:  /edition/plant123/
-      - title: 124 SOLANO AQUATICO
+      - title: 124 Solano Aquatico
         url:  /edition/plant124/
-      - title: 125 JARUMA ALBERO DE INDIA
+      - title: 125 Jaruma Albero de India
         url:  /edition/plant125/
-      - title: 126 TITHIMALO DENDROIDE
+      - title: 126 Tithimalo Dendroide
         url:  /edition/plant126/
-      - title: 127 MIRTO LATIFOLIA
+      - title: 127 Mirto Latifolia
         url:  /edition/plant127/
-      - title: 128 MIRTO MINUTO
+      - title: 128 Mirto Minuto
         url:  /edition/plant128/
-      - title: 129 GENSAMIN GIALO
+      - title: 129 Gensamin Gialo
         url:  /edition/plant129/
-      - title: 130 CEINER MELO
+      - title: 130 Ceiner Melo
         url:  /edition/plant130/
-      - title: 131 FASUOL DE INDIA
+      - title: 131 Fasuol de India
         url:  /edition/plant131/
-      - title: 132 ZARZAPARILLA
+      - title: 132 Zarzaparilla
         url:  /edition/plant132/
-      - title: 133 SMILACE ASPERA
+      - title: 133 Smilace Aspera
         url:  /edition/plant133/
-      - title: 134 SMILAX LEVIS DI CANDIA
+      - title: 134 Smilax Levis di Candia
         url:  /edition/plant134/
-      - title: 135 SPIN CERBIN
+      - title: 135 Spin Cerbin
         url:  /edition/plant135/
-      - title: 136 CAROBER SALVATICO
+      - title: 136 Carober Salvatico
         url:  /edition/plant136/
-      - title: 137 RIBES SP.
+      - title: 137 Ribes Sp.
         url:  /edition/plant137/
-      - title: 138 LANTANA
+      - title: 138 Lantana
         url:  /edition/plant138/
-      - title: 139 BERBERI
+      - title: 139 Berberi
         url:  /edition/plant139/
-      - title: 140 ERICHA
+      - title: 140 Ericha
         url:  /edition/plant140/
-      - title: 141 NIL SP.
+      - title: 141 Nil Sp.
         url:  /edition/plant141/
-      - title: 142 NIL SP.
+      - title: 142 Nil Sp.
         url:  /edition/plant142/
-      - title: 143 ALIMO
+      - title: 143 Alimo
         url:  /edition/plant143/
-      - title: 144 ARIA
+      - title: 144 Aria
         url:  /edition/plant144/
-      - title: 145 PERO CERVINO
+      - title: 145 Pero Cervino
         url:  /edition/plant145/
-      - title: 146 ASPALATO
+      - title: 146 Aspalato
         url:  /edition/plant146/
-      - title: 147 TAMARINDI
+      - title: 147 Tamarindi
         url:  /edition/plant147/
-      - title: 148 CITISO
+      - title: 148 Citiso
         url:  /edition/plant148/
-      - title: 149 FRANGOLA
+      - title: 149 Frangola
         url:  /edition/plant149/
       - title: 150 e 151
         url:  /edition/plant150_151/
-      - title: 152 OXIACANTA
+      - title: 152 Oxiacanta
         url:  /edition/plant152/
-      - title: 153 TEMBUL
+      - title: 153 Tembul
         url:  /edition/plant153/
-      - title: 154 TEMBUL TENUTO
+      - title: 154 Tembul Tenuto
         url:  /edition/plant154/
-      - title: 155 LOTO
+      - title: 155 Loto
         url:  /edition/plant155/
-      - title: 156 CIPRUS
+      - title: 156 Ciprus
         url:  /edition/plant156/
-      - title: 157 HAI
+      - title: 157 Hai
         url:  /edition/plant157/
-      - title: 158 ALBERO DE INDIA
+      - title: 158 Albero de India
         url:  /edition/plant158/
-      - title: 159 PEPE
+      - title: 159 Pepe
         url:  /edition/plant159/
-      - title: 160 GRANA
+      - title: 160 Grana
         url:  /edition/plant160/
-      - title: 161 OTRA MANERA DE MECOACAN
+      - title: 161 Otra Manera de Mecoacan
         url:  /edition/plant161/

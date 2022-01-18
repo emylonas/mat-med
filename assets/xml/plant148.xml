@@ -4,53 +4,58 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-148" part="N" org="uniform" sample="complete">
-        <head>N. 148 CITISO</head>
-        <ab part="N">[Medicago arborea L.)</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 148 Citiso</head>
+        <ab><hi>[Medicago arborea L.]</hi></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Cytiso, li altri nomi a k. 116 nel libro primo rosso.</p>
+          <p> Cytiso, li altri nomi a k. 116 nel libro primo rosso.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> In ditto (1).</p>
+          <p> In ditto (1).</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa radice et tronchi legnosi et son albero non molto grande et ramoso. Suoe frondi
+          <p> Suoa radice et tronchi legnosi et son albero non molto grande et ramoso. Suoe frondi
             di trifolio, suoi fiori in forma de gigli, semi in suoi ritorte silique.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> lo questa nta non scio d'haverla veduta se non dal Mathiolo che la dimostra. El qual
-            dice haverla havuta dal sig. <persName ref="#Cortuso" instant="false" full="yes">Jacomo Antonio Cortusio</persName> padovano mio anche
+          <p> lo questa nta non scio d'haverla veduta se non dal Mathiolo che la dimostra. El qual
+            dice haverla havuta dal sig. <persName ref="cortuso-giacomo-antonio">Jacomo Antonio Cortusio</persName> padovano mio anche
             familiarissimo.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">Li già nominati degnissimi scrutatori la tiene per il vero Cytiso et la dimostra il
+          <p>Li già nominati degnissimi scrutatori la tiene per il vero Cytiso et la dimostra il
             Mathiolo dico a k. 1223. </p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="103"/>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI</head>
-          <p part="N"> Da Diascoride impoi che cignia esser herba et non albero con tutti li altri autori
+          <p> Da Diascoride impoi che cignia esser herba et non albero con tutti li altri autori
             viene bene.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[La figura molto rozza è copiata, come è detto nel testo, da quella del Mattioli, ma è
+        <div type="editorial-D">
+          <p>La figura molto rozza è copiata, come è detto nel testo, da quella del Mattioli, ma è
             copiata male perché i fiori, che il Mattioli fece papilionacei, qui sono campanulati.
             L'opinione del botanico sanese che questa pianta fosse il citiso virgiliano fu seguita
-            anche da altri (Gleditsch)].</p>
+            anche da altri (Gleditsch).</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-148-N1" n="1" anchored="true"> Ed anche in questo libro N. 122.</note>
+        <div type="notes">
+          <note xml:id="A-148-N1" n="1"> Ed anche in questo libro N. 122.</note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

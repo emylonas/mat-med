@@ -4,45 +4,50 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-143" part="N" org="uniform" sample="complete">
-        <head>N. 143 ALIMO</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000556480">[<hi>Atriplex portulacoides L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 143 Alimo</head>
+        <ab>[<hi>Atriplex portulacoides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000556480"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Alimo da Greci Sandalida da Candioti Molochia da Arabi et Atriplice marino Damasonium
+          <p> Alimo da Greci Sandalida da Candioti Molochia da Arabi et Atriplice marino Damasonium
             Erymon, Brytanicam, Rhabdion, Basilion da altri Mercurij basim, Osiridis diadema da
             Magi - Elystephanom, Sacrum caulem da alcuni Anthenoros da Pythagora Asontiri da Egyptij
             Asphen, Asealuti, Asariphem da alquanti Albucum et Ampeluciam da Latini Hermubasim da
             Propheti.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nelle siepi et maremme. Et in Candia et in Cilicia. Et di questo nel nostro Lido in
+          <p> Nelle siepi et maremme. Et in Candia et in Cilicia. Et di questo nel nostro Lido in
             quantità.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Salsume et sole.</p>
+          <p> Salsume et sole.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> L'Aldrovandi et altri simplicisti lo ritira all'Alimo di Diascoride overo spetie di
+          <p> L'Aldrovandi et altri simplicisti lo ritira all'Alimo di Diascoride overo spetie di
             esso ma li Alimi sono da alcuni tenuti per herba et altri per alborscello. Et Creteva
             una altra spetie demostro k. 72.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Questa son mangiata da Candioti come narra Solino che son di tanto potere che
+          <p> Questa son mangiata da Candioti come narra Solino che son di tanto potere che
             solamente gustato cacia la fame...</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fiorita. Una figura migliore trovasi nel libro verde, N. 231. La pianta fu
-            trovata al Lido dal Michiel che però deve averne ricevuto anche un campione dall'Aldrovandi (V. Catalogo 266')].</p>
+        <div type="editorial-D">
+          <p>Pianta fiorita. Una figura migliore trovasi nel libro verde, N. 231. La pianta fu
+            trovata al Lido dal Michiel che però deve averne ricevuto anche un campione dall'Aldrovandi (V. Catalogo 266').</p>
         </div>
-      </div></TEI>
+      </body></text></TEI>

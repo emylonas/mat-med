@@ -1,11 +1,14 @@
 ---
+classes: wide
 layout: single
 permalink: /gardens/
 title: "Gardens"
+custom_css: gardens
 ---
-# Gardens in 16th-18th-century Venice
+# Early Modern Gardens
 <div class="ornament">r p r</div>
 <img src="../assets/img/72dpi_venice_map.jpg" width="1295px"/>
+
 Here you can explore a famous view of Venice, a woodcut by the painter and engraver Jacopo de' Barbari, describing the city in minute detail at the height of the year 1500 [more info](https://www.movio.beniculturali.it/bnm/ridottiprocuratorisanmarco/it/34/la-veduta-di-venezia). The woodcut is a sum of highly accurate urban views taken from several angles, but organised to simulate a single point of view.
 
 If you click on one of the red triangles, you will enlarge the section/portion of de Barbari’s map where the existence of a fairly large garden is documented. Most of them no longer exist today, but, particularly from the dawn of the 16th century, private gardens multiplied and were very numerous until the fall of the Venetian Republic (1797). Although Venice was not an ideal place to grow plants, because of the salinity of the soil, Venetians did their best to build rainwater wells with underground cisterns for irrigation. Surrounded by high walls and hidden from prying eyes—many foreigners passing through Venice were totally unaware of their existence—gardens were adorned with fountains, small buildings, statues and they were often the setting for parties and receptions featuring song and dance.

@@ -4,34 +4,39 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-051" part="N" org="uniform" sample="complete">
-        <head>N. 51 CUCIOPHORON</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 51 Cuciophoron</head>
+        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Cuciophoron da <persName ref="#Theofrastus" instant="false" full="yes">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="#Plinius" instant="false" full="yes">Plinio</persName>.</p>
+          <p> Cuciophoron da <persName ref="theophrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="plinius-caecilius-secundus-gaius">Plinio</persName>.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Non ho fin hora veduto se non uno fruto che vide anche l'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 70 qual
+          <p> Non ho fin hora veduto se non uno fruto che vide anche l'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 70 qual
             tiene sia di questo albero, qual è simil a uno melo cotognio ripieno de nervi che fa
             fastidio a mangiarlo che conviensi sputarlo, son alquanto dolcie con nocciolo di pruno
             durissimo et bianco del qualle si fanno manichi di trivelli et anelli. Et li portò M.
-            <persName ref="#Passamonte" instant="false" full="yes">Michiele Passamonte</persName> spetiale piacentino.</p>
+            <persName ref="passamonte-michele">Michiele Passamonte</persName> spetiale piacentino.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Dalla remota reggione dalla <placeName ref="https://www.geonames.org/350981/nubia.html" instant="false" full="yes">Nubia</placeName>.</p>
+          <p> Dalla remota reggione dalla <placeName ref="https://www.geonames.org/350981/nubia.html">Nubia</placeName>.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[È figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
+        <div type="editorial-D">
+          <p>È figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
             lasciato lo spazio in mezzo per dipingere la pianta, ma non poté mai farne la
-            conoscenza].</p>
+            conoscenza.</p>
         </div>
-      </div></TEI>
+      </body></text></TEI>

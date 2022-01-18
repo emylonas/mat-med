@@ -1,0 +1,145 @@
+/*BT edits*/
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+	font-family: 'Spectral', serif;
+	background: white !important;
+}
+
+/* accents top area for desktop views */
+@media only screen and (min-width: 1280px) {
+	div.masthead {
+		background-image: url(../img/topbannerbackgroundcrop2b.jpg);
+		background-position-y: center;
+		background-position-x: right!important;
+		background-size: cover;
+		opacity: 1;
+		max-height: 575px;
+		height: 230px;
+	}
+	div.masthead__menu, div.masthead__inner-wrap, nav#site-nav.greedy-nav {
+		margin-top: 25px;
+	}
+	/* nav#site-nav.greedy-nav a, .search__toggle, .greedy-nav__toggle {
+		color:  none !important;
+	} */
+	div.masthead__inner-wrap {
+		opacity: .97;
+	}
+}
+
+.greedy-nav .visible-links a::before {
+	background: white !important;
+	height: 1.5px !important;
+}
+
+#site-nav a, .nav__items a {
+	font-family: 'Work Sans', sans-serif !important;
+	font-size: 85%;
+	color: #566147 !important;
+	padding: .5em;
+	opacity: 1;
+}
+
+.page__content > table > tbody > tr > td {
+	font-family: 'Work Sans', sans-serif !important;
+}
+
+.nav__sub-title {
+	font-family: 'Work Sans', sans-serif !important;
+	color: #566147 !important;
+	letter-spacing: 1px !important;
+	border-bottom: none !important;
+}
+
+#search {
+	font-family: 'Work Sans', sans-serif !important;
+}
+
+#site-nav {
+	background: white !important;
+	color: #566147 !important;
+}
+
+div.top-flex {
+	padding-top: .875em !important;
+	background-color: rgb(244, 244, 244);
+}
+
+div.ornament {
+	color: #566147 !important;
+	opacity: .5 !important;
+	margin-bottom: 1em;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Spectral', serif !important;
+	font-weight: 700;
+	color: #362526 !important;
+}
+
+tei-p, p, ul, li, tei-head {
+	font-family: 'Spectral', serif !important;
+	font-weight: 400;
+	letter-spacing: -.225px;
+	color: #362526 !important;
+}
+
+#main > div.sidebar.sticky > nav {
+	font-weight: 700;
+}
+
+tei-div[type="editorial-D"], tei-div[type="editorial-M"], tei-div[type="bibl"] {
+	font-size: .875em !important;
+	font-family: 'Spectral', serif !important;
+}
+
+tei-div[type="notes"] {
+/*	font-size: 104%; */
+	font-family: 'Spectral', serif !important;
+	color: #362526 !important;
+}
+
+.horizline {
+	border-top: thick #ccc69a !important;
+}
+
+a:link, a:active {
+	color: #3c5f73 !important;
+}
+
+a.pagination--pager:hover {
+	color: white !important;
+}
+
+/* adjusts apothecaries' inventory images' positioning */
+
+.page__content > p > a > img {
+	float: right!important;
+	margin-right: -30%!important;
+	max-width: 300px!important;
+	clear: none;
+}
+
+
+.page__content > table {
+
+}
+
+@media (max-width: 1280px) {
+	.page__content > p > a > img {
+		float: left!important;
+		margin-right: auto!important;
+		max-width: 100%!important;
+		min-width: 100%!important;
+		clear: both!important;
+	}
+	.page__content > table {
+		max-width: 100%!important;
+	}
+	.page__content > p {
+		clear: both;
+	}
+}

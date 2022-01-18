@@ -4,52 +4,57 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-158" part="N" org="uniform" sample="complete">
-        <head>N. 158 ALBERO DE INDIA</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 158 Albero de India</head>
+        <div type="name">
           <head>NOME</head>
-          <p part="N"> Albero d'India.</p>
+          <p> Albero d'India.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoe radice sparse legnose, son alberi di mediocre stature, et son simili a melegrani
+          <p> Suoe radice sparse legnose, son alberi di mediocre stature, et son simili a melegrani
             nelle suoe foglie ancora strette et lunghete.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nella India ci ritrovano.</p>
+          <p> Nella India ci ritrovano.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Stano sempre verdi per quello mi son stato deto da uno errante spagniolo degno di fede
+          <p> Stano sempre verdi per quello mi son stato deto da uno errante spagniolo degno di fede
             qual mi diede la mostra.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Luogho sciuto et calido.</p>
+          <p> Luogho sciuto et calido.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Son tenuto per sp. di melogranati da cui li ha veduti, et inteligenti ci sonno.</p>
+          <p> Son tenuto per sp. di melogranati da cui li ha veduti, et inteligenti ci sonno.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI</head>
-          <p part="N"> Per quel ho veduto io che son il legnio et la foglia, mi pare corisponder af deto
+          <p> Per quel ho veduto io che son il legnio et la foglia, mi pare corisponder af deto
             ingranato, non scio come sia il fruto et il resto.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> In questo albero li ucelli ne fanno nidi, Et la suoa scorza nel sapore son simil alla
+          <p> In questo albero li ucelli ne fanno nidi, Et la suoa scorza nel sapore son simil alla
             canela, nell'amaro ha del Zenzaro. Et nel odore a garofali, ma pero non è spetiaria
             dice il lib. primo 51 dell'Indie.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta sterile].</p>
+        <div type="editorial-D">
+          <p>Pianta sterile.</p>
         </div>
-      </div></TEI>
+      </body></text></TEI>

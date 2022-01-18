@@ -4,59 +4,64 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-108" part="N" org="uniform" sample="complete">
-        <head>N. 108 FRUTICE INCOGNITO</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000421966">[<hi>I. Vaccinium Vitis Idaea L.</hi>]</ref> <ref target="http://www.worldfloraonline.org/taxon/wfo-0000422209">[<hi>II. Vaccinium Myrtillus L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 108 Frutice Incognito</head>
+        <ab>[<hi>I. Vaccinium Vitis Idaea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421966"/> [<hi>II. Vaccinium Myrtillus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422209"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Incognito frutice - Uva d'Orso dal Anguillara - Loto da alcuni spetie questa seconda
+          <p> Incognito frutice - Uva d'Orso dal Anguillara - Loto da alcuni spetie questa seconda
             mostra Arctostaphilo da Greci — Vigna del Orso per l'Apenino - Vitis Idea da
             Theophrasto.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> · Due mostre ci sonno consimili. Et de lothi legi nel lib. primo purpureo k. 116.</p>
+          <p> · Due mostre ci sonno consimili. Et de lothi legi nel lib. primo purpureo k. 116.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N">L'altra mostra [II] simile ma le suoe foglie piui rotonde et all'inorno dentate.
+          <p>L'altra mostra [II] simile ma le suoe foglie piui rotonde et all'inorno dentate.
             Suoi fruti neri con semi dentro neri lungheti de imperfetta forma.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti bologniesi alti et in Romagnia. Et l'altra mostra di Levante.</p>
+          <p> Ne monti bologniesi alti et in Romagnia. Et l'altra mostra di Levante.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> A primavera rimette suoe frondi. Li fruti di Giugnio poi.</p>
+          <p> A primavera rimette suoe frondi. Li fruti di Giugnio poi.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 90 parla de uva d'orso, potria esser questo. Et l'altra mostra sonno
+          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 90 parla de uva d'orso, potria esser questo. Et l'altra mostra sonno
             molti che la ritira a specie di Loto.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p part="N"> Leggi di sopra. Ma che questa sia l'Uva di Orso di Galeno al 7 de medicamenti el ce da
+          <p> Leggi di sopra. Ma che questa sia l'Uva di Orso di Galeno al 7 de medicamenti el ce da
             fare perché lui dice havere frondi simili all'Arbuto et queste quasi rotonde.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Anche oggidì per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
+        <div type="editorial-D">
+          <p>Anche oggidì per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
             e persistenti e delle bacche rosse il volgo confonde sotto i nomi di uva d'orso, mirtillo rosso le due specie Arctostaphylos Uva-Ursi e Vaccinium Vitis-Idaea. Il Michiel
             però ebbe sospetto trattarsi di due piante differenti perché dopo avere scritto che
             quella qui figurata potrebb'essere l'Uva d'Orso dell'Anguillara aggiunge che essa ha le
             foglie quasi rotonde e non d'arbuto come dice Galeno. Ed avendo più tardi vista la
             pianta in fiore aggiunse nella diagnosi: «suoi fiori in corimbeti piccolini et
             bianchezzi».</p>
-          <p part="N">La prima figura è di pianta fiorita e fruttifera con a destra una foglia ed una bacca,
+          <p>La prima figura è di pianta fiorita e fruttifera con a destra una foglia ed una bacca,
             a sinistra un ramo fiorito della seconda pianta. Il Trago aveva già figurata la specie
             col nome Myrtillus exiguus.</p>
-          <p part="N">La seconda figura è un ramo fiorifero rozzamente disegnato].</p>
+          <p>La seconda figura è un ramo fiorifero rozzamente disegnato.</p>
         </div>
-      </div></TEI>
+      </body></text></TEI>

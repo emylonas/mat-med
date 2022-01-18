@@ -4,79 +4,84 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-159" part="N" org="uniform" sample="complete">
-        <head>N. 159 PEPE</head>
-        <ab part="N">[I. <hi>fittizia</hi>] <ref target="http://www.worldfloraonline.org/taxon/wfo-0000428869">[<hi>II. Xylopia aethiopica A. Rich.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 159 Pepe</head>
+        <ab>[I. <hi>fittizia</hi>] [<hi>II. Xylopia aethiopica A. Rich.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000428869"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Pepe, legi k. 73.</p>
+          <p> Pepe, legi k. 73.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> In ditto. Et questa altra con sylique di Hetiopica.</p>
+          <p> In ditto. Et questa altra con sylique di Hetiopica.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa radice pocha, suoi sarmenti che se invoglieno (<ptr target="#A-159-N1"/>)  come li volubili, ramosi come
+          <p> Suoa radice pocha, suoi sarmenti che se invoglieno <ptr target="#A-159-N1"/>  come li volubili, ramosi come
             viticelle, suoe frondi simil tra le mandole et il cedro, suoi pepi in racemi nel summo
-            de rami [I]. Et del Hetyopico demostro pur da driedo (<ptr target="#A-159-N2"/>) non vidi altro che uno mazzio
+            de rami [I]. Et del Hetyopico demostro pur da driedo <ptr target="#A-159-N2"/> non vidi altro che uno mazzio
             di silique simile a fasuoli de molte contenute da uno ramo, et credensi sia il nero di
-            <persName ref="#Serapione" instant="false" full="yes">Serapione</persName> [II].</p>
+            <persName ref="serapio-junior">Serapione</persName> [II].</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N">Leggi ut supra, ma questo io lo hebbi dal Ramusio et credo vene per quella istessa via
+          <p>Leggi ut supra, ma questo io lo hebbi dal Ramusio et credo vene per quella istessa via
             che hebbe anche l'ecc. Mathioli [II].</p>
         </div>
 
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="108"/>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Penso stia sempre verde, suoe frondi, li grappoli de Esta et maturati alle fin di
+          <p> Penso stia sempre verde, suoe frondi, li grappoli de Esta et maturati alle fin di
             setembre [I].</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Se inganorno li antiqui della forma di la pianta. Come hora la nova navigatione ha
+          <p> Se inganorno li antiqui della forma di la pianta. Come hora la nova navigatione ha
             posto in luce. Et se inganano de molti che si credeno ch'il Zelin di Serrapione sia il
             Carpesio, questa demostra suoe foglie non sonno come di Hedera come da molti della ditta
-            navigatione ho inteso essere ma bene se invoglieno comme questa (<ptr target="#A-159-N3"/>). Quello poi che
+            navigatione ho inteso essere ma bene se invoglieno comme questa <ptr target="#A-159-N3"/>. Quello poi che
             produce silique [II] son tenuto per il nero di Serrapione dunde dalla diversita de
             raporti et deti si possono veramente comprendere essere diverse forme di piante che lo
             produce. Et io ne ho veduto di tre specie, questa commune delle spetiarie [I], una di
             rotondo, liscio et maggiore qual l'hebbi dal Ramusio [II] et la terza mi naque da quella
             pianta demostra a k. 73 tenuto per il salvatico.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Legi ut supra da driedo et leggesi in <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Thomaso Porchacchi</ref> alla isola di Taprobana (3) a
+          <p> Legi ut supra da driedo et leggesi in <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Thomaso Porchacchi</ref> alla isola di Taprobana (3) a
             k. 96. Et l'fa ch el sia albero simil alla Hedera.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[La prima figura è una copia di quella del Mattioli il quale però dichiara di non aver
+        <div type="editorial-D">
+          <p>La prima figura è una copia di quella del Mattioli il quale però dichiara di non aver
             visto la pianta né verde né secca, ma di avere ricevuto il disegno da un Portoghese
             reduce dalle Indie.</p>
-          <p part="N">La seconda figura rappresenta solo alcuni frutti e, come dice l'autore, fu tratta da un
+          <p>La seconda figura rappresenta solo alcuni frutti e, come dice l'autore, fu tratta da un
             campione inviatogli dal Ramusio che avrebbe pur mandato il campione donde fu tratta la
             figura del Mattioli.</p>
-          <p part="N">Riguardo al pepe (Piper nigrum) il Michiel cortegge l'errore degli antichi i quali
+          <p>Riguardo al pepe (Piper nigrum) il Michiel cortegge l'errore degli antichi i quali
             credevano [201], seguiti in ciò da autori medievali [219] e contemporanei [126] che il
             pepe fosse un albero a foglie di ginepro; però l'unica cognizione giusta da lui
             sostituita è che il fusto è sarmentoso e rampicante. Nel resto egli pure erra, fidandosi
             dei rap porti inesatti dei viaggiatori e della figura di Mattioli. Qualche anno dopo
-            apparve la figura mediocre, ma tratta dal vero, di C. Acosta [2]]. -</p>
+            apparve la figura mediocre, ma tratta dal vero, di C. Acosta [2]. -</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-159-N1" n="1" anchored="true"> Si avvolgono.</note>
-          <note xml:id="A-159-N2" n="2" anchored="true"> Nella facciata retro.</note>
-          <note xml:id="A-159-N3" n="3" anchored="true"> * Il Porcacchi specifica cho col nome di Taprobana indica Sumatra e pon
+        <div type="notes">
+          <note xml:id="A-159-N1" n="1"> Si avvolgono.</note>
+          <note xml:id="A-159-N2" n="2"> Nella facciata retro.</note>
+          <note xml:id="A-159-N3" n="3"> * Il Porcacchi specifica cho col nome di Taprobana indica Sumatra e pon
             Ceylon; come del resto risulta dalla illustrazione cartografica. (Ed.). </note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

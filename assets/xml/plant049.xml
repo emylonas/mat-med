@@ -4,47 +4,52 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-049" part="N" org="uniform" sample="complete">
-        <head>N. 49 FICUS EGIPTIA</head>
-        <ab part="N"><ref target="http://www.worldfloraonline.org/taxon/wfo-0000690537">[<hi>Ficus Sycomorus L.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 49 Ficus Egiptia</head>
+        <ab>[<hi>Ficus Sycomorus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000690537"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Sicum morum da Latini et Ficus Egiptia overo meglio Cypria Sycaminum da Greci - Fico di
+          <p> Sicum morum da Latini et Ficus Egiptia overo meglio Cypria Sycaminum da Greci - Fico di
             Pharaone et Gieameiz in Soria.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Tre sonno gli sicomori dimandati questo di Egipto, quello di Cypri et il pseudo
+          <p> Tre sonno gli sicomori dimandati questo di Egipto, quello di Cypri et il pseudo
             fratesco tenuto per l'Ostrea Plinij [<ref type="internal" target="#A-050">N. 50</ref>].</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In <placeName ref="https://www.geonames.org/400665/rhodes.html" instant="false" full="yes">Caria</placeName> et <placeName ref="https://www.geonames.org/400665/rhodes.html" instant="false" full="yes">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
-            fruti ma de quivi non mi fezze fruto et lo manteni assa tempo. Et de il <placeName ref="https://www.geonames.org/146670/cyprus.html" instant="false" full="yes">Ciprio</placeName> ne
-            sonno anche in <placeName ref="https://www.geonames.org/260114/chania.html" instant="false" full="yes">Candia</placeName>.</p>
+          <p> In <placeName ref="https://www.geonames.org/400665/rhodes.html">Caria</placeName> et <placeName ref="https://www.geonames.org/400665/rhodes.html">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
+            fruti ma de quivi non mi fezze fruto et lo manteni assa tempo. Et de il <placeName ref="https://www.geonames.org/146670/cyprus.html">Ciprio</placeName> ne
+            sonno anche in <placeName ref="https://www.geonames.org/260114/chania.html">Candia</placeName>.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Come fanno li nostri de qui ma si grafiano e fichi.</p>
+          <p> Come fanno li nostri de qui ma si grafiano e fichi.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Quello Cyprio son simil a questo ma suoa foglia tira piui all'aolmo et il suo legno di
-            Oppio. (<ptr target="#A-049-N1"/>) Et credo che questo depinto sia il Cyprio et non quello de Egypto per farsi
+          <p> Quello Cyprio son simil a questo ma suoa foglia tira piui all'aolmo et il suo legno di
+            Oppio. <ptr target="#A-049-N1"/> Et credo che questo depinto sia il Cyprio et non quello de Egypto per farsi
             li fruti sopra e rami et non nel tronco come fa l'Egyptio.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta con uccelli che vanno a beccare i fichi. A sinistra una foglia in grandezza
+        <div type="editorial-D">
+          <p>Pianta con uccelli che vanno a beccare i fichi. A sinistra una foglia in grandezza
             naturale. La frase «si grafano i fichi, allude alla caprificazione di cui l'autore
-            ragiona più a lungo nella diagnosi].</p>
+            ragiona più a lungo nella diagnosi.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-049-N1" n="1" anchored="true"> Acer campestre.</note>
+        <div type="notes">
+          <note xml:id="A-049-N1" n="1"> Acer campestre.</note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

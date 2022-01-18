@@ -4,54 +4,59 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-106" part="N" org="uniform" sample="complete">
-        <head>N. 106 PALIURO DI AGATOCLE</head>
-        <ab part="N">[Zizyphus ...]</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 106 Paliuro di Agatocle</head>
+        <ab>[<hi>Zizyphus ...</hi>]</ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Paliuro di Agatocle - Connaron da Atheneo - Serica da Galeno Giugibe – Ziziphe.</p>
+          <p> Paliuro di Agatocle - Connaron da Atheneo - Serica da Galeno Giugibe – Ziziphe.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Sonno diversi li paliuri come sera chiarito.</p>
+          <p> Sonno diversi li paliuri come sera chiarito.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nasce in Alesandria. Et venne in Italia al tempo di Otavio Augusto portate da Affrica
+          <p> Nasce in Alesandria. Et venne in Italia al tempo di Otavio Augusto portate da Affrica
             come ci narra Plinio.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">- M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Al Anguilara</ref> k. 52 sonno diversi; quello di Atheneo di sentenza di Agathocle son
-            le Giugiole commune (<ptr target="#A-106-N1"/>) dice lui. Et il primo di Theophrasto son il 30 Ramno di
+          <p>- M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Al Anguilara</ref> k. 52 sonno diversi; quello di Atheneo di sentenza di Agathocle son
+            le Giugiole commune <ptr target="#A-106-N1"/> dice lui. Et il primo di Theophrasto son il 30 Ramno di
             Diascoride agiuntovi et son quel dal foli-<fw type="running-head" place="top">LIBRO
-              AZZURRO</fw><pb n="77"/> colo (<ptr target="#A-106-N2"/>). Et il secondo son le Giugiube salvatiche, ma Plinio
+              AZZURRO</fw><pb n="77"/> colo <ptr target="#A-106-N2"/>. Et il secondo son le Giugiube salvatiche, ma Plinio
             non intese come lui doveva le parole di Theophrasto ma pero sempre che stia quelle
             similitudine del nucleo simil a melegrani non puolsi esser le giugibe ma nel resto
             starebbe bene.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Stante la opp. del Anguilara questo paliuro son le giugibe commune che si mangiano
+          <p> Stante la opp. del Anguilara questo paliuro son le giugibe commune che si mangiano
             da S. Michel, et sonno molto malagevol da digerire et contrarie allo stomacho et son
             usate doppo Galeno ne compositi pettorali contra gli caldi humori et ne solutivi della
             colera con pocha et non buona consideratione come coppiosamente ne distingue il Mattiolo
             al cap. del Pruno. Galeno al ij de faculti.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Secondo lo Sprengel il xovapos di Ateneo Naucratide è Zizyphus Jujuba, specie indiana,
-            diversa da 2. vulgaris e da 2. Lotus (<ptr target="#A-106-N3"/>)].</p>
+        <div type="editorial-D">
+          <p>Secondo lo Sprengel il xovapos di Ateneo Naucratide è Zizyphus Jujuba, specie indiana,
+            diversa da 2. vulgaris e da 2. Lotus <ptr target="#A-106-N3"/>.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-106-N1" n="1" anchored="true"> Zisyphus vulgaris.</note>
-          <note xml:id="A-106-N2" n="2" anchored="true"> Paliunas australis (N. 119 di questo stesso libro).</note>
-          <note xml:id="A-106-N3" n="3" anchored="true"> * Il Michiel invece, seguendo l'Anguillara, lo identifica col 2. vulgaris;
+        <div type="notes">
+          <note xml:id="A-106-N1" n="1"> Zisyphus vulgaris.</note>
+          <note xml:id="A-106-N2" n="2"> Paliunas australis (N. 119 di questo stesso libro).</note>
+          <note xml:id="A-106-N3" n="3"> * Il Michiel invece, seguendo l'Anguillara, lo identifica col 2. vulgaris;
             nulla perd dice dell'originale da cui cavo la figura. (Ed.). </note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

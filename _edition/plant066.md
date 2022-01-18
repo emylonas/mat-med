@@ -1,12 +1,14 @@
 ---
-title: "N. 66 SAMBUCO SP.E"
-plant-name: "N. 66.E"
+title: "N. 66 Sambuco Sp.e"
+permalink: "/edition/plant066/"
+plant-name: "N. 66.e"
 plant-number: "066"
 plant-xml: "/assets/xml/plant066.xml"
 plant-img1: "/assets/img/plant066_verso.jpg"
 plant-img2: "/assets/img/plant066.jpg"
-plant-title: "N. 66 SAMBUCO SP.E"
-plant-taxon-link: "http://www.worldfloraonline.org/taxon/wfo-0000439333"
-plant-taxon-content: ""
+plant-title: "N. 66 Sambuco Sp.e"
+plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000439333"
+plant-kew-link: ""
+plant-taxon-content: "Sambucus racemosa L."
 layout: single-xml
 ---

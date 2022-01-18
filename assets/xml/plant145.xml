@@ -4,32 +4,37 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-145" part="N" org="uniform" sample="complete">
-        <head>N. 145 PERO CERVINO</head>
-        <ab part="N"><ref target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1">[<hi>Cotoneaster integerrima Medic.</hi>]</ref></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 145 Pero Cervino</head>
+        <ab>[<hi>Cotoneaster integerrima Medic.</hi>] <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:722536-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Pero cervino da Pugliesi - Chamemespilus Valerij Cordi.</p>
+          <p> Pero cervino da Pugliesi - Chamemespilus Valerij Cordi.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Varii sono le sorte di Peri. Et questi con l'arte delle varietà de inesti come anche
+          <p> Varii sono le sorte di Peri. Et questi con l'arte delle varietà de inesti come anche
             ne sonno de silvestri. et questa spetie tenuta ancor lei.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Da simplicisti son tenuta per spetie di perastro. Et m. <persName ref="#Guilandino" instant="false" full="yes">Marchio</persName> eccell. giardiniero in
+          <p> Da simplicisti son tenuta per spetie di perastro. Et m. <persName ref="guilandino-melchiorre">Marchio</persName> eccell. giardiniero in
             Padova tiene il sia il Chamemespilo di Valerio Cordi.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Guilandino qui citata è erronea perché il Chamaemespilus del <persName ref="#Cordo" instant="false" full="yes">Cordo</persName> è Pirus Chamaemespilus
+        <div type="editorial-D">
+          <p>Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Guilandino qui citata è erronea perché il Chamaemespilus del <persName ref="simone-da-cordo">Cordo</persName> è Pirus Chamaemespilus
             [115]. Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152].
             </p>
         </div>
-      </div></TEI>
+      </body></text></TEI>

@@ -4,45 +4,50 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-134" part="N" org="uniform" sample="complete">
-        <head>N. 134 SMILAX LEVIS DI CANDIA</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 134 Smilax Levis di Candia</head>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Smilax levis sp. di Candia da volg. - Malocociso de Damocrito - Volubile da Catone - Smilace
-            lissia dal Matthiolo - Dolichi da Galeno - Vvindenkraut (<ptr target="#A-134-N1"/>) Glate vvinden (<ptr target="#A-134-N2"/>) Vueisz glocken
+          <p> Smilax levis sp. di Candia da volg. - Malocociso de Damocrito - Volubile da Catone - Smilace
+            lissia dal Matthiolo - Dolichi da Galeno - Vvindenkraut <ptr target="#A-134-N1"/> Glate vvinden <ptr target="#A-134-N2"/> Vueisz glocken
             da Germani - Des phaseoles da Galli - Jeblech da Arabi - Cussus da Greci.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Varij sono li smilaci come da drieto appare k. 133.</p>
+          <p> Varij sono li smilaci come da drieto appare k. 133.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Di Candia l'hebbi et mi naque.</p>
+          <p> Di Candia l'hebbi et mi naque.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 290 dice che si fallano quelli che tengono che il Convolvolo sia la
-            similace lieve perché il fruto suo non son simil al lupino et si perde (<ptr target="#A-134-N3"/>) ogni anno, ne
+          <p>L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 290 dice che si fallano quelli che tengono che il Convolvolo sia la
+            similace lieve perché il fruto suo non son simil al lupino et si perde <ptr target="#A-134-N3"/> ogni anno, ne
             non fa l'effetto che narra Diascoride, ne non ha veduto lui piante che si convenga alla
             descretione delli antiqui, ne meno quella spetie di fasuol turchesco maculato, ne anche
-            quello di Napoli bianco, ne quello volgar da Lio (<ptr target="#A-134-N4"/>), ne quello fior di note demostro k.
+            quello di Napoli bianco, ne quello volgar da Lio <ptr target="#A-134-N4"/>, ne quello fior di note demostro k.
             11. Et k. 92 dice che il Malocociso de Damocrito son il Volubile di Catone et lo smilace
             lissia del Mathiolo.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Pianta sterile.</p>
-          <p part="N">Però nella diagnosi c'è la descrizione degli organi riproduttivi: «suoi fiori tra le
+        <div type="editorial-D">
+          <p>Pianta sterile.</p>
+          <p>Però nella diagnosi c'è la descrizione degli organi riproduttivi: «suoi fiori tra le
             frondi pendenti come in grappolini da quelli ci restavano suoe silique con suoi fagiuoli
             dentro neri con il segno bianco».</p>
-          <p part="N">Il Michiel mandò un campione di questa pianta all'Aldrovandi perché ne facesse parte al
-            <persName ref="#Ghini" instant="false" full="yes">Ghini</persName>, come risultò dalla poscritta alla lettera 14 Settembre 1553 ove la pianta ( <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="95"/> è chiamata «Similax
+          <p>Il Michiel mandò un campione di questa pianta all'Aldrovandi perché ne facesse parte al
+            <persName ref="ghini-luca">Ghini</persName>, come risultò dalla poscritta alla lettera 14 Settembre 1553 ove la pianta ( <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="95"/> è chiamata «Similax
             levis produce il seme come un fasuol ma nero. Notisi che nel vol. VII dell'Erbario
             Aldrovandi, c. 97 e 142 c'è una «Smilax levis ex Crela». Nella lettera 14 ottobre 1553
             il Michiel scrive all'Aldrovandi: «V. S. mi richiede per le sue un rampollo del Smilax
@@ -54,12 +59,12 @@
             a punto mi ha fatto il fen greco moderno (Ro. 199). Et V. S. sapia che la produce suoi
             fiori in grappoli tra le frondi sopra el fruto et son simili a quelli di genista et di
             colore anchora et le silique mai le ho possuto havere che li fiori dimostrano et poi ci
-            cascano et per esser tutti oramai cascati non ne mandò»]</p>
+            cascano et per esser tutti oramai cascati non ne mandò»</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-134-N1" n="1" anchored="true"> Windenkraut.</note>
-          <note xml:id="A-134-N2" n="2" anchored="true"> Glattwinden.</note>
-          <note xml:id="A-134-N3" n="3" anchored="true"> Perde i rami.</note>
-          <note xml:id="A-134-N4" n="4" anchored="true"> Lido di Venezia.</note>
+        <div type="notes">
+          <note xml:id="A-134-N1" n="1"> Windenkraut.</note>
+          <note xml:id="A-134-N2" n="2"> Glattwinden.</note>
+          <note xml:id="A-134-N3" n="3"> Perde i rami.</note>
+          <note xml:id="A-134-N4" n="4"> Lido di Venezia.</note>
         </div>
-      </div></TEI>
+      </body></text></TEI>

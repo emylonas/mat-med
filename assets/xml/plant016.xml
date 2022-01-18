@@ -4,38 +4,43 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader><div type="plant" xml:id="A-016" part="N" org="uniform" sample="complete">
-        <head>N. 16 ELO CAPOLI</head>
-        <ab part="N">[Not identified]</ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+        @type="alt" attribute to persName elements. 
+      </change>
+    </revisionDesc>
+  </teiHeader><text><body>
+        <head>N. 16 Elo Capoli</head>
+        <ab>[<hi>Not identified</hi>]</ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Elo Capoli da Spagnioli overo Indiani.</p>
+          <p> Elo Capoli da Spagnioli overo Indiani.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Hano qualche convenienzia et similitudine con quel albero dal'Uva che habbiamo in
+          <p> Hano qualche convenienzia et similitudine con quel albero dal'Uva che habbiamo in
             Italia, demostro quivi inanti <ref type="internal" target="#A-047">[N. 47]</ref>.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoe radice legnose, son albero grande di scura cortezzia suoe frondi et fruti hanno
+          <p> Suoe radice legnose, son albero grande di scura cortezzia suoe frondi et fruti hanno
             similitudine con l'Albero dal'Uva et son in ogni parte simil al Capoli otercas <ref type="internal" target="#A-092">[N. 92]</ref>
             se non che questo à el scorzio del Albero piui chiaro et li graspi de fruti piui
             longhi.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> L'hebbi depinto de Spagnia retrati nell'India come deto inanti <ref type="internal" target="#A-001">[N. 1]</ref>.</p>
+          <p> L'hebbi depinto de Spagnia retrati nell'India come deto inanti <ref type="internal" target="#A-001">[N. 1]</ref>.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">[Figura di albero con fiori verdastri e frutti di colori vari dal verde, al giallo ed
+        <div type="editorial-D">
+          <p>Figura di albero con fiori verdastri e frutti di colori vari dal verde, al giallo ed
             all'azzurro secondo i grappoli. Sull'albero vari uccelli, farfalle e bruchi; notevole
-            fra gli altri un pappagallo azzurro].</p>
+            fra gli altri un pappagallo azzurro.</p>
         </div>
-      </div></TEI>
+      </body></text></TEI>
