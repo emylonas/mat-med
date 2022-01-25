@@ -9,7 +9,7 @@ sidebar:
 ---
 # Early Modern Apothecary Shops
 
-The last step to necessary in order to obtain a medicine based derived from natural substances, was to process it in a professional laboratory – but remember that private kitchens were also a sort of home-laboratory for simple remedies.
+The last step necessary in order to obtain a medicine based derived from natural substances, was to process it in a professional laboratory – but remember that private kitchens were also a sort of home-laboratory for simple remedies.
 
 <img src="{{ site.baseurl }}/assets/img/16c_0_Italy_Issogne_16th_century.png" class="img-ctr" align="center"/>
 

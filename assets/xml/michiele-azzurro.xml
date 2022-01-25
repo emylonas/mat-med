@@ -169,9 +169,273 @@
     </listPerson>
     
     <listPlace>
+      <!--<place>
+        <placeName xml:id="testplace" ref="http://somethinggeonames">Canonical name</placeName>
+      </place>-->
       <place>
-        <p><placeName xml:id="testplace" ref="http://something"></placeName>
-        text about the place here</p>
+        <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzo</placeName>
+        <placeName type="alt">Abruzzio</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
+          xml:id="germany">Alemagnia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html" xml:id="aleppo"
+          >Aleppo</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3177545/dolomiti.html" xml:id="alps"
+          >Alpi</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3174726/alpi-liguri.html" xml:id="alpi-liguri"
+          >alpi di Liguria</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3174017/marano-lagunare.html" xml:id="marano-lagunare"
+          >Amarano</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/6255150/south-america.html" xml:id="america-m"
+          >America meridionale</placeName>
+        <placeName type="alt">India</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/747712/edirne.html" xml:id="edirne"
+          >Andernopoli</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html"
+          xml:id="apennino">Apennino</placeName>
+      </place>
+    <!--  <place>
+        <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html" xml:id="xx-2"
+          >monti de Italia dalla parte septentrional</placeName>
+      </place>-->
+      <place>
+        <placeName ref="https://www.geonames.org/3182982/appennines.html" xml:id="appennines"
+          >Appenines</placeName>
+        <placeName type="alt">Marca</placeName>
+      </place>
+      
+      <place>
+        <placeName ref="https://www.geonames.org/6957698/arabia.html" xml:id="arabia"
+          >Arabia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/264644/nomos-arkadias.html" xml:id="arcadia"
+          >Arcadia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/2219875/al-maghrib.html" xml:id="al-maghrib"
+          >Barbaria</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3218910/cadore.html" xml:id="cadore">Cadore</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/258763/crete.html" xml:id="crete">Candia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/260114/chania.html" xml:id="chania">Candia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/6697802/crete.html" xml:id="crete2">Candia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/322954/cappadocia.html" xml:id="cappadocia">Cappadocia</placeName>
+        <placeName type="alt">Cappedocia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/146670/cyprus.html" xml:id="cyprus">Cipri</placeName>
+        <placeName type="alt">Ciprio</placeName>
+        <!-- also had https://www.geonames.org/8410798/cyprus.html -->
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/260311/kefalonia-island.html" xml:id="kefalonia"
+          >Collophone</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/745044/istanbul.html" xml:id="istanbul"
+          >Costantinopoli</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/358048/damietta.html" xml:id="damietta"
+          >Damiata</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html" xml:id="friule">Friule</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/8378475/aegyptus.html" xml:id="egypt"
+          >Egipto</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/7910496/san-francesco-della-vigna.html" xml:id="san-francesco"
+          >San Francesco</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3017382/republic-of-france.html" xml:id="france"
+          >Gallia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/6542282/genova.html" xml:id="genoa">Genoa</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3175265/giudecca.html" xml:id="giudecca"
+          >Giudecca</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/390903/hellenic-republic.html" xml:id="greece"
+          >Grecia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/6672571/huancayo.html" xml:id="huancayo"
+          >Guaribilca</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="italia">Italia</placeName>
+      </place>
+      <place>
+        <placeName xml:id="india">India</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html" xml:id="spain"
+          >Ispagna</placeName>
+        <placeName type="alt">Ispagnia</placeName>
+      </place>
+      <place>
+        <placeName ref="http://www.geonames.org/3175397/istria.html" xml:id="istria">Istria</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3174731/porto-lignano.html" xml:id="lignano"
+          >Legnano</placeName>
+      </place>
+      <place>
+        <placeName xml:id="levant">Levante</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/8261119/lycie.html" xml:id="lycie">Licia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/8410801/lycia.html" xml:id="licia">Licia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/6951009/venice-lido.html" xml:id="venice"
+          >lito</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3174659/livorno.html" xml:id="livorno"
+          >Livorno</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3174618/lombardia.html" xml:id="lombardia">Lombardia</placeName>
+        <placeName type="alt">Lumbardia</placeName>
+      </place>
+       <place>
+        <placeName ref="https://www.geonames.org/3802102/mecoacan.html" xml:id="mecoacan">Mecoacan</placeName>
+        <placeName type="alt">Mechoacan</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/11592140/majella.html" xml:id="majella">Majella</placeName>
+        <placeName type="alt">Megella</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3996063/mexico.html" xml:id="mexico">Messico</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/8285551/mysie.html" xml:id="misie">Misia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3182460/monte-baldo.html" xml:id="monte-baldo">Monte Baldo</placeName>
+        <placeName type="alt">Monte Baldo sul Veronese</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3178053/monte-corno.html" xml:id="monte-corno">Monte
+          Corno</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/272103/lebanon.html" xml:id="lebanon">Monte
+          Libano</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/351820/jabal-musa.html" xml:id="sinai">Monte
+          Sinai</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3027940/massif-central.html" xml:id="xx-3">monti di
+          Francia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/350981/nubia.html" xml:id="nubia">Nubia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/8378691/ostia.html" xml:id="ostia">Ostia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3437598/republic-of-paraguay.html" xml:id="paraguay"
+          >Paraguay</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/255620/peloponnese.html" xml:id="peloponnese"
+          >Peloponese</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3170647/pisa.html" xml:id="pisa">Pisa</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/96998/tigris-river.html" xml:id="tigris"
+          >Phasitygre</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/2210246/tripolitania.html" xml:id="tripolitania"
+          >Phenice</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3169778/puglia.html" xml:id="puglia">Puglia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3112616/pyrenees.html" xml:id="pyrenees">Pyrreni</placeName>
+          <placeName type="alt">Pirenei</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/400665/rhodes.html" xml:id="rhodes">Rodi</placeName>
+        <placeName type="alt">Caria</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3169071/roma.html" xml:id="roma">Roma</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3937733/jauja.html" xml:id="jauja">Sausa</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/2523118/sicily.html" xml:id="sicilia">Sicilia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" xml:id="siria">Siria</placeName>
+        <placeName type="alt">Soria</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3190590/slavonia.html" xml:id="slavonia">Schiavonia</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/2210247/tripoli.html" xml:id="tripoli">Tripoli</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/298795/turkey.html" xml:id="turkey">Turchia</placeName>
+        <!-- was ref="https://www.geonames.org/10922502/mediterranean-region.html" -->
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/3172219/val-di-non.html" xml:id="val-di-non">Valle
+          Anania</placeName>
+      </place>
+      <place>
+        <placeName ref="zadar" xml:id="zadar">Zara</placeName>
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/8977899/cividale.html" xml:id="cividale">Zividal de
+          Bellun</placeName>
       </place>
     </listPlace>
   </standOff>
@@ -256,7 +520,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> De l'<placeName>India</placeName> in pittura fu portato questo insieme con altri 10
+          <p> De l'<placeName ref="india">India</placeName> in pittura fu portato questo insieme con altri 10
             alberi come quivi li
             vedereti alla Maestà Cesarea, dunde essendo orator alla Sua Maestà al'hora il clar.
             magnif. mess. <persName ref="#daMula">Marc'Antonio da Mulla</persName> et hora ill. et rev. benemerito cardinal <ptr target="#A-001-N3"/> ne
@@ -307,7 +571,7 @@
         <div type="editorial-D">
           <p>Il verso della pagina è bianco. Nel recto una figura incompletamente dipinta di ramo
             fruttifero. Il disegno completo colla nomenclatura è a <ref type="internal" target="#A-066">N. 66</ref>. Notiamo che il <persName ref="#Ghini">Ghini</persName>
-            a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> coltivava un <hi rendition="italic">Frutex incognitus</hi>
+            a <placeName ref="pisa">Pisa</placeName> coltivava un <hi rendition="italic">Frutex incognitus</hi>
             di cui dà la descrizione <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">[305]</ref> 
             che pare sia questa specie.</p>
         </div>
@@ -332,7 +596,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne luoghi asperi et frigidi monti, et in <placeName ref="https://www.geonames.org/3175397/istria.html">Istria</placeName> ne sonno.</p>
+          <p> Ne luoghi asperi et frigidi monti, et in <placeName ref="istria">Istria</placeName> ne sonno.</p>
         </div>
         <div type="exposure">
           <head>AMANO</head>
@@ -349,7 +613,7 @@
           <p>Il nome abruzzese <hi>molesso</hi> fu tratto dall'<persName ref="#Anguillara">Anguillara</persName> che a p. 80 dei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> 
             parlò di questa specie sotto i nomi <hi>Tinus</hi> e <foreign xml:lang="grc">Δάφνη
               ἀγρία</foreign>.</p>
-          <p>Nella lista delle piante coltivate a <placeName ref="https://www.geonames.org/3170647/pisa.html">Pisa</placeName> dal <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
+          <p>Nella lista delle piante coltivate a <placeName ref="pisa">Pisa</placeName> dal <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
             vocata; alij sui generis arborem esse putant».</p>
         </div>
         <div type="notes">
@@ -368,7 +632,7 @@
 
         <div type="name">
           <head>NOMI</head>
-          <p> Argavani che inferisse <ptr target="#A-004-N1"/> color pavonazio in <placeName ref="https://www.geonames.org/10922502/mediterranean-region.html">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
+          <p> Argavani che inferisse <ptr target="#A-004-N1"/> color pavonazio in <placeName ref="turkey">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
             Theophrasti da molti - Glans unguentaria <persName ref="#Mattioli">Matthioli</persName>.</p>
         </div>
         <div type="genus">
@@ -383,7 +647,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'hebbi dal eccell. sig. <persName ref="#Aldrovandi">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="https://www.geonames.org/3177545/dolomiti.html">Alpi</placeName>.</p>
+          <p> Io l'hebbi dal eccell. sig. <persName ref="#Aldrovandi">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="alps">Alpi</placeName>.</p>
         </div>
         <div type="reproduction"><head>GENERATIONE</head>
           <p> A me mi naque de suoi semi, ma propaginano anche.</p></div>
@@ -403,7 +667,7 @@
             effigie che si conosca perché le parole sul <persName ref="#Mattioli">Mattioli</persName> furono aggiunte più tardi. Perciò,
             dietro la testimonianza del nostro autore, possiamo dedurre che il primato della cono-
             scenza di questa specie spetta all'<persName ref="#Aldrovandi">Aldovrandi</persName>.</p>
-          <p>Il <persName ref="#Mattioli">Mattioli</persName> ne ricevette un disegno da <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> e più tardi un ramo fresco dal
+          <p>Il <persName ref="#Mattioli">Mattioli</persName> ne ricevette un disegno da <placeName ref="istanbul">Costantinopoli</placeName> e più tardi un ramo fresco dal
             <persName ref="#Cortuso">Cortuso</persName> sui quali fece la sua figura ed emise l'opinione che questa specie fosse l'
             <foreign xml:lang="grc">ὀστρύα</foreign> <ptr target="#A-004-N2"/> di Teofrasto per la somiglianza al
             frassino e la ghianda unguentaria per l'aspetto dei frutti; donde le critiche di
@@ -524,7 +788,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Molto vi regna in siepi et fossi de <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName> avilupandosi a quello li son acanto. Et ne
+          <p> Molto vi regna in siepi et fossi de <placeName ref="italia">Italia</placeName> avilupandosi a quello li son acanto. Et ne
             giardini ameni son adoperata per far porte et inbelire et coprir pergolate et muri.</p>
         </div>
         <div type="opinions">
@@ -566,7 +830,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti de <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName> et apresso agli horti nel nostro <placeName ref="https://www.geonames.org/6951009/venice-lido.html">lito</placeName> <ptr target="#A-007-N3"/> ne sonno in copia.</p>
+          <p> Ne monti de <placeName ref="italia">Italia</placeName> et apresso agli horti nel nostro <placeName ref="venice">lito</placeName> <ptr target="#A-007-N3"/> ne sonno in copia.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -606,8 +870,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Quella con foglie di Cipresso ma piui spinose viene de <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName>, l'altra per la
-            <placeName ref="https://www.geonames.org/3190590/slavonia.html">Schiavonia</placeName> ne sono <ptr target="#A-008-N3"/>.</p>
+          <p> Quella con foglie di Cipresso ma piui spinose viene de <placeName ref="abruzzo">Abruzzio</placeName>, l'altra per la
+            <placeName ref="slavonia">Schiavonia</placeName> ne sono <ptr target="#A-008-N3"/>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -667,11 +931,11 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/2210246/tripolitania.html">Phenice</placeName>, in <placeName ref="https://www.geonames.org/8410801/lycia.html">Licia</placeName>, in <placeName ref="https://www.geonames.org/3174659/livorno.html">Livorno</placeName> et a <placeName ref="https://www.geonames.org/8378691/ostia.html">Ostia</placeName> apresso a Roma ne son in quantità di
-            questo Phenicea. Et in <placeName ref="https://www.geonames.org/3175397/istria.html">Istria</placeName>, ma per esser simil a Genepri li tolghono in falò per
-            Genepri. In <placeName ref="https://www.geonames.org/146670/cyprus.html">Cipri</placeName> vengono in tanta procerita che cinque huomeni ci bisognia ad abraciare
-            il tronco et con altezza di 25 passa, ma gli optimi sonno in Africa, nel <placeName ref="https://www.geonames.org/272103/lebanon.html">monte Libano</placeName>  et
-            a <placeName ref="https://www.geonames.org/2210247/tripoli.html">Tripoli</placeName>de Soria.</p>
+          <p> In <placeName ref="tripolitania">Phenice</placeName>, in <placeName ref="licia">Licia</placeName>, in <placeName ref="livorno">Livorno</placeName> et a <placeName ref="ostia">Ostia</placeName> apresso a Roma ne son in quantità di
+            questo Phenicea. Et in <placeName ref="istria">Istria</placeName>, ma per esser simil a Genepri li tolghono in falò per
+            Genepri. In <placeName ref="cyprus">Cipri</placeName> vengono in tanta procerita che cinque huomeni ci bisognia ad abraciare
+            il tronco et con altezza di 25 passa, ma gli optimi sonno in Africa, nel <placeName ref="lebanon">monte Libano</placeName>  et
+            a <placeName ref="tripoli">Tripoli</placeName>de Soria.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -698,7 +962,7 @@
           <head>VIRTÙ</head>
           <p>Il Cedro tiene il suo legnio di eternita dunde li antiqui di lui ne faceano statue come
             fu la statua di Apoline Sosiano. Et nel tempio di Salamone si vegono maraviglie. In
-            <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> li usano per le navi ma no tiene chiodi et onto con oglio non intarla. Et son
+            <placeName ref="siria">Soria</placeName> li usano per le navi ma no tiene chiodi et onto con oglio non intarla. Et son
             calido et secho quasi nel terzio ordine. Et la suoa Ragia chiamata Cedria legesi in
             Diascoride... </p>
         </div>
@@ -748,7 +1012,7 @@
             (Ed.).</note>
           <note xml:id="A-009-N4" n="4">* La correzione fu fatta dal <persName ref="#Mattioli">Mattioli</persName>, come dice egli stesso <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">(ed. Valgrisi,
             1568, pag. 141)</ref>, valendosi di «uno essemplare d'un Dioscoride antico hauto in
-            <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> dal Sig. <persName>Antonio Cantacuzeno</persName>, gentilhomo di quella città, con il cui
+            <placeName ref="istanbul">Costantinopoli</placeName> dal Sig. <persName>Antonio Cantacuzeno</persName>, gentilhomo di quella città, con il cui
             testimonio sono io restato chiaro, che i Dioscoridi greci che vanno communemente attorno
             nelle librarie, sono tutti scorretti, ecc. (Ed.) </note>
         </div>
@@ -764,8 +1028,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Il piui eccellente in <placeName ref="https://www.geonames.org/8378475/aegyptus.html">Egipto</placeName> et vengono a noi con il viaggio de <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> et ne nasce in
-            Italia in molti luoghi nel <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html">Apennino</placeName> et in la <placeName ref="https://www.geonames.org/3182982/appennines.html">Marca</placeName>.</p>
+          <p> Il piui eccellente in <placeName ref="egypt">Egipto</placeName> et vengono a noi con il viaggio de <placeName ref="siria">Soria</placeName> et ne nasce in
+            Italia in molti luoghi nel <placeName ref="apennino">Apennino</placeName> et in la <placeName ref="#appennines">Marca</placeName>.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
@@ -801,8 +1065,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Ispagnia</placeName>, in <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germania</placeName> in quantità, et nelli giardini et finestre la esta[te] ne sonno in
-            quantità per la <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName>, dove [ha] preso il nome di Cissampelos.</p>
+          <p> In <placeName ref="spain">Ispagnia</placeName>, in <placeName ref="germany">Germania</placeName> in quantità, et nelli giardini et finestre la esta[te] ne sonno in
+            quantità per la <placeName ref="italia">Italia</placeName>, dove [ha] preso il nome di Cissampelos.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -880,7 +1144,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne sonno nei monti et vigne di <placeName ref="https://www.geonames.org/3169071/roma.html">Roma</placeName>.</p>
+          <p> Ne sonno nei monti et vigne di <placeName ref="roma">Roma</placeName>.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -1043,7 +1307,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Di Spagnia fu portata de qui, ma nasce nella Nova India alla Isola del <placeName ref="https://www.geonames.org/3802102/mecoacan.html">Mecoacan</placeName> dunde
+          <p> Di Spagnia fu portata de qui, ma nasce nella Nova India alla Isola del <placeName ref="mecoacan">Mecoacan</placeName> dunde
             Spagnioli li a posto nome dal luogho ci viene. Et sarà anche questo con errore posto
             come il resto non essendo Mecoacan.</p>
         </div>
@@ -1059,8 +1323,8 @@
         </div>
         <div type="editorial-D">
           <p>Pianta sterile; a parte una foglia in grandezza naturale. La passiflora trovasi la
-            prima volta ricordata dal poeta <persName ref="#Barca">Martino del Barco</persName> che la vide nel <placeName ref="https://www.geonames.org/3437598/republic-of-paraguay.html">Paraguay</placeName>. Da questo
-            codice apprendiamo che essa fu importata in <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Ispagna</placeName> donde il <persName ref="#Guilandino">Guilandino</persName> ottenne un
+            prima volta ricordata dal poeta <persName ref="#Barca">Martino del Barco</persName> che la vide nel <placeName ref="paraguay">Paraguay</placeName>. Da questo
+            codice apprendiamo che essa fu importata in <placeName ref="spain">Ispagna</placeName> donde il <persName ref="#Guilandino">Guilandino</persName> ottenne un
             campione che spedì al Michiel dopo averne levato i frutti per poter seminar la pianta
             nell'Orto botanico di Padova. Perciò la figura presente riuscì incompleta, non avendo
             <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="24"/> poi il <persName ref="#Guilandino">Guilandino</persName>
@@ -1071,8 +1335,8 @@
             Mechoacan, ma più tardi l'errore fu corretto, sia per opera dello stesso <persName ref="#Guilandino">Guilandino</persName>, sia
             per avere il Michiel ricevuto un campione del vero Mechoacan che trovasi ritratto al <ref type="internal" target="#A-161">N.
               161</ref>. Giustamente il Michiel dall'errore del nome specifico dedusse l'errore di
-            abitazione; difatti la patria della passiflora è l'<placeName ref="https://www.geonames.org/6255150/south-america.html">America meridionale</placeName>, non il <placeName ref="https://www.geonames.org/3996063/mexico.html">Messico</placeName>
-            cui appartiene la provincia di <placeName ref="https://www.geonames.org/3802102/mecoacan.html">Mechoacan</placeName>. Il nome di isola che qui dà il Michiel a
+            abitazione; difatti la patria della passiflora è l'<placeName ref="america-m">America meridionale</placeName>, non il <placeName ref="mexico">Messico</placeName>
+            cui appartiene la provincia di <placeName ref="mecoacan">Mechoacan</placeName>. Il nome di isola che qui dà il Michiel a
             quella provincia che è continentale è il risultato di un errore scusabile, date le
             cognizioni geografiche di quei tempi. Le prime terre scoperte in America (Lucaie,
             Antille) erano isole e coloro i quali non si occupavano particolarmente di geografia
@@ -1111,7 +1375,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> De la <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spagnia</placeName> depinti in <placeName ref="https://www.geonames.org/6255150/south-america.html">India</placeName> et trasportati li, et io li cavai da quelli.</p>
+          <p> De la <placeName ref="spain">Spagnia</placeName> depinti in <placeName ref="america-m">India</placeName> et trasportati li, et io li cavai da quelli.</p>
         </div>
         <div type="editorial-D">
           <p>Albero fruttifero con farfalle. </p>
@@ -1140,7 +1404,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In India nella valle et fonte <placeName ref="https://www.geonames.org/3937733/jauja.html">Sausa</placeName> al Tempio <placeName ref="https://www.geonames.org/6672571/huancayo.html">Guaribilca</placeName> et nel Bagnio Angoiaco vi
+          <p> In India nella valle et fonte <placeName ref="jauja">Sausa</placeName> al Tempio <placeName ref="huancayo">Guaribilca</placeName> et nel Bagnio Angoiaco vi
             core un fiume che fa una picciola valle oue sonno molti alberi di questo Moly ne piani
             et valle del Perù et nelle selve degli Andi.</p>
         </div>
@@ -1195,9 +1459,9 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, in <placeName ref="https://www.geonames.org/6697802/crete.html">Candia</placeName> et per <placeName>Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
+          <p> In <placeName ref="siria">Soria</placeName>, in <placeName ref="crete2">Candia</placeName> et per <placeName ref="levant">Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
             si vegono nelli pitteri in smartello <ptr target="#A-023-N2"/> che di <placeName ref="https://www.geonames.org/8410798/cyprus.html">Cipri</placeName> vengono mandati a noi. L'elleta
-            <ptr target="#A-023-N1"/> si ricoglie in <placeName ref="https://www.geonames.org/8285551/mysie.html">Misia</placeName> nell'Asia, et in <placeName ref="https://www.geonames.org/260311/kefalonia-island.html">Collophone</placeName> isola nel Jonie dunde vi sonno l'
+            <ptr target="#A-023-N1"/> si ricoglie in <placeName ref="misie">Misia</placeName> nell'Asia, et in <placeName ref="kefalonia">Collophone</placeName> isola nel Jonie dunde vi sonno l'
             Oraculo di Appoline.</p>
         </div>
         <div type="seasonality">
@@ -1237,14 +1501,14 @@
           <p>Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
             trovasi in altri convolvoli.</p>
           <p>Il Michiel ottenne la pianta di semi che accidentalmente si trovavano racchiusi nel
-            succo concreto di scammonea spedito da <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html">Aleppo</placeName> da <persName ref="#Cechin">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
+            succo concreto di scammonea spedito da <placeName ref="aleppo">Aleppo</placeName> da <persName ref="#Cechin">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-023-N1" n="1"> Avvolgono.</note>
           <note xml:id="A-023-N2" n="2"> Vasi da fiori di terraglia smaltata.</note>
           <note xml:id="A-023-N3" n="3"> Eletta,</note>
           <note xml:id="A-023-N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="#Anguillara">Anguillara</persName> ne fece nascere una
-            pianta da semi avuti di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="#Priuli">Lorenzo Priuli</persName>
+            pianta da semi avuti di <placeName ref="siria">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="#Priuli">Lorenzo Priuli</persName>
             a <placeName ref="https://www.geonames.org/6542281/padova.html">Padova</placeName> e <persName>Giulio Moderato</persName> a <placeName ref="https://www.geonames.org/6541863/rimini.html">Rimini</placeName>. </note>
         </div>
       </div>
@@ -1266,7 +1530,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Appresso a fossi in Italia. Et in <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html">Friule</placeName> ne sonno in quantità.</p>
+          <p> Appresso a fossi in Italia. Et in <placeName ref="friule">Friule</placeName> ne sonno in quantità.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -1298,7 +1562,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce ne argeni campi et giardini da per se per tutta <placeName ref="https://www.geonames.org/3174618/lombardia.html">Lombardia</placeName>.</p>
+          <p> Nasce ne argeni campi et giardini da per se per tutta <placeName ref="lombardia">Lombardia</placeName>.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -1365,7 +1629,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne sonno in boschi de <placeName ref="https://www.geonames.org/3174618/lombardia.html">Lombardia</placeName> della minor. Et del maggior in <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Alemagnia</placeName> et io nel mio
+          <p> Ne sonno in boschi de <placeName ref="lombardia">Lombardia</placeName> della minor. Et del maggior in <placeName ref="germany">Alemagnia</placeName> et io nel mio
             giardino per molti anni ne ho mantenuto uno.</p>
         </div>
         <div type="opinions">
@@ -1416,8 +1680,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti aspri caldi, alla <placeName ref="https://www.geonames.org/11592140/majella.html">Megella [Majella]</placeName> <ptr target="#A-030-N2"/>, nella <placeName ref="https://www.geonames.org/3172219/val-di-non.html">Valle Anania</placeName>, in <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName> et in Grecia
-            nel <placeName ref="https://www.geonames.org/255620/peloponnese.html">Peloponese</placeName>.</p>
+          <p> Ne monti aspri caldi, alla <placeName ref="majella">Megella [Majella]</placeName> <ptr target="#A-030-N2"/>, nella <placeName ref="val-di-non">Valle Anania</placeName>, in <placeName ref="abruzzo">Abruzzio</placeName> et in Grecia
+            nel <placeName ref="peloponnese">Peloponese</placeName>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -1494,7 +1758,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti et valli de <placeName ref="https://www.geonames.org/8977899/cividale.html">Zividal de Bellun</placeName>, ne monti et <placeName ref="https://www.geonames.org/3172219/val-di-non.html">valli di Annania nella
+          <p> Ne monti et valli de <placeName ref="cividale">Zividal de Bellun</placeName>, ne monti et <placeName ref="val-di-non">valli di Annania nella
             giuridicione di Trento</placeName> et in altri frigidi monti de Italia.</p>
         </div>
         <div type="opinions">
@@ -1610,7 +1874,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti di <placeName ref="https://www.geonames.org/3174618/lombardia.html">Lumbardia</placeName> non ci mancano et ne' giardini per intesser spaliere et anche si
+          <p> Ne monti di <placeName ref="lombardia">Lumbardia</placeName> non ci mancano et ne' giardini per intesser spaliere et anche si
             riduce in albero come ho fato io.</p>
         </div>
         <div type="exposure">
@@ -1646,7 +1910,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti frigidi nella <placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName>, in <placeName ref="https://www.geonames.org/3218910/cadore.html">Cadore</placeName> et in <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html">Friule</placeName>.</p>
+          <p> Ne monti frigidi nella <placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName>, in <placeName ref="cadore">Cadore</placeName> et in <placeName ref="friule">Friule</placeName>.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>
@@ -1686,7 +1950,7 @@
         <pb n="32"/>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne' <placeName ref="https://www.geonames.org/3027940/massif-central.html">monti di Francia</placeName>, <placeName ref="https://www.geonames.org/3182982/appennines.html">Italia</placeName> et <placeName ref="https://www.geonames.org/264644/nomos-arkadias.html">Arcadia</placeName> qualli sonno piui venenosi.</p>
+          <p> Ne' <placeName ref="xx-3">monti di Francia</placeName>, <placeName ref="appennines">Italia</placeName> et <placeName ref="arcadia">Arcadia</placeName> qualli sonno piui venenosi.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>
@@ -1769,7 +2033,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Plinio dice nascer in Scythiadi la del fiume <placeName ref="https://www.geonames.org/96998/tigris-river.html">Phasitygre</placeName> <ptr target="#A-039-N2"/> et nel Monte Scantro.
+          <p> Plinio dice nascer in Scythiadi la del fiume <placeName ref="tigris">Phasitygre</placeName> <ptr target="#A-039-N2"/> et nel Monte Scantro.
             <ptr target="#A-039-N3"/></p>
         </div>
         <div type="reproduction">
@@ -1814,8 +2078,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Il sig. ecc. M. <persName ref="#Ghini">Luca Ghyni</persName> mi disse esserne a <placeName ref="https://www.geonames.org/6542282/genova.html">Genoa</placeName> nel giardino del Principe Doria et
-            il francese <persName ref="#Belonio">Belonio</persName> detto mi disse esserne a <placeName ref="https://www.geonames.org/747712/edirne.html">Andernopoli</placeName>, qual mi diede de suoi ossini
+          <p> Il sig. ecc. M. <persName ref="#Ghini">Luca Ghyni</persName> mi disse esserne a <placeName ref="genoa">Genoa</placeName> nel giardino del Principe Doria et
+            il francese <persName ref="#Belonio">Belonio</persName> detto mi disse esserne a <placeName ref="edirne">Andernopoli</placeName>, qual mi diede de suoi ossini
             et li piantai et naquero 3 pedini.</p>
         </div>
         <div type="seasonality">
@@ -1924,7 +2188,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nel <placeName ref="https://www.geonames.org/351820/jabal-musa.html">Monte Sinai</placeName> mi disse el deto <persName ref="#Belonio">Belonio</persName> el qual mi diede de semi et mi naque in
+          <p> Nel <placeName ref="sinai">Monte Sinai</placeName> mi disse el deto <persName ref="#Belonio">Belonio</persName> el qual mi diede de semi et mi naque in
             quantità dunde la dispensai per de molti giardini de simplici che ancora si vedeno.</p>
         </div>
         <div type="seasonality">
@@ -2183,7 +2447,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
+          <p> Ne <placeName ref="apennino">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
             ne havevo uno molto ben formato et ne ho posto nel giardino in Padova del clar. cav.
             <persName ref="#MocenigoAlv-I">Mozenigo</persName>.</p>
         </div>
@@ -2224,9 +2488,9 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/400665/rhodes.html">Caria</placeName> et <placeName ref="https://www.geonames.org/400665/rhodes.html">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
-            fruti ma de quivi non mi fezze fruto et lo manteni assa tempo. Et de il <placeName ref="https://www.geonames.org/146670/cyprus.html">Ciprio</placeName> ne
-            sonno anche in <placeName ref="https://www.geonames.org/260114/chania.html">Candia</placeName>.</p>
+          <p> In <placeName ref="rhodes">Caria</placeName> et <placeName ref="rhodes">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
+            fruti ma de quivi non mi fezze fruto et lo manteni assa tempo. Et de il <placeName ref="cyprus">Ciprio</placeName> ne
+            sonno anche in <placeName ref="chania">Candia</placeName>.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -2315,7 +2579,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Dalla remota reggione dalla <placeName ref="https://www.geonames.org/350981/nubia.html">Nubia</placeName>.</p>
+          <p> Dalla remota reggione dalla <placeName ref="nubia">Nubia</placeName>.</p>
         </div>
         <div type="editorial-D">
           <p>È figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
@@ -2338,7 +2602,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> A <placeName ref="https://www.geonames.org/3182460/monte-baldo.html">Monte Baldo</placeName> sul veronese et in <placeName ref="https://www.geonames.org/3190590/slavonia.html">Schiavonia</placeName>.</p>
+          <p> A <placeName ref="monte-baldo">Monte Baldo</placeName> sul veronese et in <placeName ref="slavonia">Schiavonia</placeName>.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>
@@ -2400,9 +2664,9 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce in <placeName ref="https://www.geonames.org/322954/cappadocia.html">Cappedocia [= Cappadocia]</placeName> et <placeName ref="https://www.geonames.org/8261119/lycie.html">Licia</placeName> dice il testo de Dioscoride. Et di questo ne hebbi dalla
-            Megella [= Majella] de <placeName ref="https://www.geonames.org/3178053/monte-corno.html">Monte Corno</placeName>, nel contorno di <placeName ref="https://www.geonames.org/3186952/zadar.html">Zara</placeName> , et apresso a <placeName ref="https://www.geonames.org/3174017/marano-lagunare.html">Amarano</placeName> (<ptr target="A-054-N1"/>) nel bosco di
-            <placeName ref="https://www.geonames.org/3174731/porto-lignano.html">Legnano</placeName>. <ptr target="#A-054-N2"/> et nelle <placeName ref="https://www.geonames.org/3174726/alpi-liguri.html">alpi di Liguria</placeName> come dice il Brasavola.</p>
+          <p> Nasce in <placeName ref="cappadocia">Cappedocia [= Cappadocia]</placeName> et <placeName ref="licie">Licia</placeName> dice il testo de Dioscoride. Et di questo ne hebbi dalla
+            Megella [= Majella] de <placeName ref="monte-corno">Monte Corno</placeName>, nel contorno di <placeName ref="zadar">Zara</placeName> , et apresso a <placeName ref="marano-lagunare">Amarano</placeName> (<ptr target="A-054-N1"/>) nel bosco di
+            <placeName ref="lignano">Legnano</placeName>. <ptr target="#A-054-N2"/> et nelle <placeName ref="alpi-liguri">alpi di Liguria</placeName> come dice il Brasavola.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -2474,7 +2738,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Theophrasto dice esser albero familiare de <placeName ref="https://www.geonames.org/3112616/pyrenees.html">Pyrreni [Pirenei]</placeName> et questo dimostro l'hebbi di
+          <p> Theophrasto dice esser albero familiare de <placeName ref="pyrenees">Pyrreni [Pirenei]</placeName> et questo dimostro l'hebbi di
             Bolognia dal deto Aldrovandi.</p>
         </div>
         <div type="genus">
@@ -2593,7 +2857,7 @@
           <head>NOMI</head>
           <p>Anagyro da Greci et tutti li altri nomi notati indriedo al Egano <ref type="internal" target="#A-058">[N. 58]</ref> — Albero del
             fajuol da molti — Faba inversa da altri — Faba lupina da herbari dove si ritrova in
-            <placeName ref="https://www.geonames.org/3169778/puglia.html">Puglia</placeName>.</p>
+            <placeName ref="puglia">Puglia</placeName>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -2716,7 +2980,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/6957698/arabia.html">Arabia</placeName> et in <placeName ref="https://www.geonames.org/358048/damietta.html">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
+          <p> In <placeName ref="arabia">Arabia</placeName> et in <placeName ref="damietta">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -2803,7 +3067,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nelle rippe del <placeName ref="http://www.geonames.org/3175397/istria.html">Istria</placeName> tra sassi ne sonno in quantità, et per monti di Lombardia si
+          <p> Nelle rippe del <placeName ref="istria">Istria</placeName> tra sassi ne sonno in quantità, et per monti di Lombardia si
             trova.</p>
         </div>
         <div type="opinions">
@@ -2854,8 +3118,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p>Ne sonno in <placeName ref="https://www.geonames.org/2523118/sicily.html">Sicilia</placeName> qualli furno portati per il Mare Gionio <ptr target="#A-064-N1"/> et ne sonno qualche
-            uno in Italia, in <placeName ref="https://www.geonames.org/258763/crete.html">Candia</placeName> ne sonno in quantità, et io ne ho mantenuto uno nel mio
+          <p>Ne sonno in <placeName ref="sicilia">Sicilia</placeName> qualli furno portati per il Mare Gionio <ptr target="#A-064-N1"/> et ne sonno qualche
+            uno in Italia, in <placeName ref="crete">Candia</placeName> ne sonno in quantità, et io ne ho mantenuto uno nel mio
             giardineto.</p>
         </div>
         <div type="seasonality">
@@ -2924,7 +3188,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti de Italia ne sonno. Et li <placeName ref="https://www.geonames.org/7910496/san-francesco-della-vigna.html">frati zocolanti in San Francesco</placeName> nel suo
+          <p> Ne monti de Italia ne sonno. Et li <placeName ref="san-francesco">frati zocolanti in San Francesco</placeName> nel suo
             giardineto ne ha uno.</p>
         </div>
         <div type="opinions">
@@ -2960,7 +3224,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germania</placeName> et in <placeName ref="https://www.geonames.org/3182460/monte-baldo.html">Monte Baldo sul Veronese</placeName>.</p>
+          <p> In <placeName ref="germany">Germania</placeName> et in <placeName ref="monte-baldo">Monte Baldo sul Veronese</placeName>.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
@@ -2997,7 +3261,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Del India transportato per pittura nella <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spagnia</placeName>.</p>
+          <p> Del India transportato per pittura nella <placeName ref="spain">Spagnia</placeName>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -4576,7 +4840,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Vengono di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, portate a noi suoi rotondi fruti. Et di <placeName ref="https://www.geonames.org/2219875/al-maghrib.html">Barbaria</placeName>.</p>
+          <p> Vengono di <placeName ref="siria">Soria</placeName>, portate a noi suoi rotondi fruti. Et di <placeName ref="al-maghrib">Barbaria</placeName>.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>
@@ -4636,8 +4900,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti in <placeName ref="https://www.geonames.org/3175395/italian-republic.html">Italia</placeName> ne sonno. Et in <placeName ref="https://www.geonames.org/390903/hellenic-republic.html">Grecia</placeName> ancora. In paesi et luoghi frigidi in
-            <placeName ref="https://www.geonames.org/3017382/republic-of-france.html">Gallia</placeName>.</p>
+          <p> Ne monti in <placeName ref="italia">Italia</placeName> ne sonno. Et in <placeName ref="greece">Grecia</placeName> ancora. In paesi et luoghi frigidi in
+            <placeName ref="france">Gallia</placeName>.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -4666,7 +4930,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> L'hebbi de <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName>, ne luoghi maritimi et asperi che ne mangiano le capre.</p>
+          <p> L'hebbi de <placeName ref="abruzzo">Abruzzio</placeName>, ne luoghi maritimi et asperi che ne mangiano le capre.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -5225,7 +5489,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In Alesandria et <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> dunde sonno portate a noi.</p>
+          <p> In Alesandria et <placeName ref="siria">Soria</placeName> dunde sonno portate a noi.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -5523,7 +5787,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'hebbi della <placeName ref="https://www.geonames.org/11592140/majella.html">Megella [= Majella]</placeName> <ptr target="#A-117-N1"/>,</p>
+          <p> Io l'hebbi della <placeName ref="majella">Megella [= Majella]</placeName> <ptr target="#A-117-N1"/>,</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -6132,7 +6396,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Venghono dell'India dunde hanno preso il nome. Et ne ho havuto de <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> et se ne
+          <p> Venghono dell'India dunde hanno preso il nome. Et ne ho havuto de <placeName ref="siria">Soria</placeName> et se ne
             ritrovano nel pepe tondo.</p>
         </div>
         <div type="seasonality">
@@ -6615,7 +6879,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'hebbi di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, la condusse m. Cechin dal Angelo diligentissimo
+          <p> Io l'hebbi di <placeName ref="siria">Soria</placeName>, la condusse m. Cechin dal Angelo diligentissimo
             simplicista.</p>
         </div>
         <div type="seasonality">
@@ -6658,7 +6922,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p>L'hebbi di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> dal ditto M. Cechino.</p>
+          <p>L'hebbi di <placeName ref="siria">Soria</placeName> dal ditto M. Cechino.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -7144,7 +7408,7 @@
             naturale. Poca accuratezza nel disegno e nel colorito, mentre un secolo prima il <persName ref="#Rinio">Rinio</persName>
             avea dato a c. 98 del suo codice una bella figura di ramo fruttifero sotto il falso
             nome di faggio.</p>
-          <p>Degli alberi alla isola della <placeName ref="https://www.geonames.org/3175265/giudecca.html">Giudecca</placeName> qui nominati parla anche il <persName ref="#Belonio">Belon</persName>, soggiungendo che ivi la pianta chiamavasi Bagolaro, dimodochè se anche l'origine della parola è
+          <p>Degli alberi alla isola della <placeName ref="giudecca">Giudecca</placeName> qui nominati parla anche il <persName ref="#Belonio">Belon</persName>, soggiungendo che ivi la pianta chiamavasi Bagolaro, dimodochè se anche l'origine della parola è
             trentina, come asserisce il Michiel, essa ormai era usata a Venezia nel sec. XVI. È
             quindi singolare che il Boerio la abbia dimenticata nel suo Dizionario ove pur si trovano il verbo bagolar (tremolare) ed il sosta ivo bagolina indicante le mazze flessibili
             che si fanno col legno di quest'albero e che agitate nello spazio fanno vibrar l'aria,
