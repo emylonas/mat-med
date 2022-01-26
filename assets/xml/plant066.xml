@@ -33,7 +33,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germania</placeName> et in <placeName ref="https://www.geonames.org/3182460/monte-baldo.html">Monte Baldo sul Veronese</placeName>.</p>
+          <p> In <placeName ref="alemagnia">Germania</placeName> et in <placeName ref="monte-baldo">Monte Baldo sul Veronese</placeName>.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>

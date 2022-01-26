@@ -30,7 +30,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti frigidi nella <placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html">Alemagnia</placeName>, in <placeName ref="https://www.geonames.org/3218910/cadore.html">Cadore</placeName> et in <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html">Friule</placeName>.</p>
+          <p> Ne monti frigidi nella <placeName ref="">Alemagnia</placeName>, in <placeName ref="cadore">Cadore</placeName> et in <placeName ref="friule">Friule</placeName>.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>

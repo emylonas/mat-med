@@ -38,7 +38,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Vengono di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, portate a noi suoi rotondi fruti. Et di <placeName ref="https://www.geonames.org/2219875/al-maghrib.html">Barbaria</placeName>.</p>
+          <p> Vengono di <placeName ref="siria">Soria</placeName>, portate a noi suoi rotondi fruti. Et di <placeName ref="barbaria">Barbaria</placeName>.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>

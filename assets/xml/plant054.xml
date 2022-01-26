@@ -27,9 +27,9 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce in <placeName ref="https://www.geonames.org/322954/cappadocia.html">Cappedocia [= Cappadocia]</placeName> et <placeName ref="https://www.geonames.org/8261119/lycie.html">Licia</placeName> dice il testo de Dioscoride. Et di questo ne hebbi dalla
-            Megella [= Majella] de <placeName ref="https://www.geonames.org/3178053/monte-corno.html">Monte Corno</placeName>, nel contorno di <placeName ref="https://www.geonames.org/3186952/zadar.html">Zara</placeName> , et apresso a <placeName ref="https://www.geonames.org/3174017/marano-lagunare.html">Amarano</placeName> (<ptr target="A-054-N1"/>) nel bosco di
-            <placeName ref="https://www.geonames.org/3174731/porto-lignano.html">Legnano</placeName>. <ptr target="#A-054-N2"/> et nelle <placeName ref="https://www.geonames.org/3174726/alpi-liguri.html">alpi di Liguria</placeName> come dice il Brasavola.</p>
+          <p> Nasce in <placeName ref="cappadocia">Cappedocia [= Cappadocia]</placeName> et <placeName ref="">Licia</placeName> dice il testo de Dioscoride. Et di questo ne hebbi dalla
+            Megella [= Majella] de <placeName ref="monte-corno">Monte Corno</placeName>, nel contorno di <placeName ref="zara">Zara</placeName> , et apresso a <placeName ref="amarano">Amarano</placeName> (<ptr target="A-054-N1"/>) nel bosco di
+            <placeName ref="legnano">Legnano</placeName>. <ptr target="#A-054-N2"/> et nelle <placeName ref="alpi-di-liguria">alpi di Liguria</placeName> come dice il Brasavola.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>

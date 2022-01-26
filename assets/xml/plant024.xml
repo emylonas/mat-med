@@ -32,7 +32,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Appresso a fossi in Italia. Et in <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html">Friule</placeName> ne sonno in quantità.</p>
+          <p> Appresso a fossi in Italia. Et in <placeName ref="friule">Friule</placeName> ne sonno in quantità.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>

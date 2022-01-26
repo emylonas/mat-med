@@ -30,9 +30,9 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/400665/rhodes.html">Caria</placeName> et <placeName ref="https://www.geonames.org/400665/rhodes.html">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
-            fruti ma de quivi non mi fezze fruto et lo manteni assa tempo. Et de il <placeName ref="https://www.geonames.org/146670/cyprus.html">Ciprio</placeName> ne
-            sonno anche in <placeName ref="https://www.geonames.org/260114/chania.html">Candia</placeName>.</p>
+          <p> In <placeName ref="rodi">Caria</placeName> et <placeName ref="rodi">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
+            fruti ma de quivi non mi fezze fruto et lo manteni assa tempo. Et de il <placeName ref="cipri">Ciprio</placeName> ne
+            sonno anche in <placeName ref="candia">Candia</placeName>.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>

@@ -21,7 +21,7 @@
 
         <div type="name">
           <head>NOMI</head>
-          <p> Argavani che inferisse <ptr target="#A-004-N1"/> color pavonazio in <placeName ref="https://www.geonames.org/10922502/mediterranean-region.html">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
+          <p> Argavani che inferisse <ptr target="#A-004-N1"/> color pavonazio in <placeName ref="turchia">Turchia</placeName> - Seringa sp. da alcuni - Potulaca
             Theophrasti da molti - Glans unguentaria <persName ref="mattioli-pietro-andrea">Matthioli</persName>.</p>
         </div>
         <div type="genus">
@@ -36,7 +36,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Io l'hebbi dal eccell. sig. <persName ref="aldrovandi-ulisse">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="https://www.geonames.org/3177545/dolomiti.html">Alpi</placeName>.</p>
+          <p> Io l'hebbi dal eccell. sig. <persName ref="aldrovandi-ulisse">Ulisse Aldovrandi</persName> da Bolognia; nasse nelle <placeName ref="alpi">Alpi</placeName>.</p>
         </div>
         <div type="reproduction"><head>GENERATIONE</head>
           <p> A me mi naque de suoi semi, ma propaginano anche.</p></div>
@@ -56,7 +56,7 @@
             effigie che si conosca perché le parole sul <persName ref="mattioli-pietro-andrea">Mattioli</persName> furono aggiunte più tardi. Perciò,
             dietro la testimonianza del nostro autore, possiamo dedurre che il primato della cono-
             scenza di questa specie spetta all'<persName ref="aldrovandi-ulisse">Aldovrandi</persName>.</p>
-          <p>Il <persName ref="mattioli-pietro-andrea">Mattioli</persName> ne ricevette un disegno da <placeName ref="https://www.geonames.org/745044/istanbul.html">Costantinopoli</placeName> e più tardi un ramo fresco dal
+          <p>Il <persName ref="mattioli-pietro-andrea">Mattioli</persName> ne ricevette un disegno da <placeName ref="costantinopoli">Costantinopoli</placeName> e più tardi un ramo fresco dal
             <persName ref="cortuso-giacomo-antonio">Cortuso</persName> sui quali fece la sua figura ed emise l'opinione che questa specie fosse l'
             <foreign xml:lang="grc">ὀστρύα</foreign> <ptr target="#A-004-N2"/> di Teofrasto per la somiglianza al
             frassino e la ghianda unguentaria per l'aspetto dei frutti; donde le critiche di

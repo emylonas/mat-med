@@ -25,8 +25,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Il piui eccellente in <placeName ref="https://www.geonames.org/8378475/aegyptus.html">Egipto</placeName> et vengono a noi con il viaggio de <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName> et ne nasce in
-            Italia in molti luoghi nel <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html">Apennino</placeName> et in la <placeName ref="https://www.geonames.org/3182982/appennines.html">Marca</placeName>.</p>
+          <p> Il piui eccellente in <placeName ref="egipto">Egipto</placeName> et vengono a noi con il viaggio de <placeName ref="siria">Soria</placeName> et ne nasce in
+            Italia in molti luoghi nel <placeName ref="apennino">Apennino</placeName> et in la <placeName ref="appenines">Marca</placeName>.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>

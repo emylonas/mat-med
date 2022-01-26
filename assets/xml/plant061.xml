@@ -28,7 +28,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="https://www.geonames.org/6957698/arabia.html">Arabia</placeName> et in <placeName ref="https://www.geonames.org/358048/damietta.html">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
+          <p> In <placeName ref="arabia">Arabia</placeName> et in <placeName ref="damiata">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>

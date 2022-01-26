@@ -126,11 +126,20 @@ permalink: "/index-places/"
 layout: single
 ---</xsl:text>
                 
-                <xsl:for-each-group select="descendant::t:placeName" group-by=".">
+                <xsl:for-each-group select="descendant::t:placeName" group-by="@ref">
                     <xsl:sort select="current-grouping-key()"/>
                     <xsl:text>
-## </xsl:text><xsl:value-of select="current-grouping-key()"/>
-                    <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
+                        
+## [</xsl:text><xsl:value-of select="id(substring-after(current-grouping-key(),'#'))"/>](<xsl:value-of select="id(substring-after(current-grouping-key(),'#'))/@ref"/>)
+                    <!--<xsl:value-of select="current-grouping-key()"/>-->
+<xsl:for-each select="id(substring-after(current-grouping-key(),'#'))">
+    <xsl:if test="following-sibling::t:placeName[@type='alt']">Alternate Names: <xsl:for-each select="following-sibling::t:placeName"><xsl:value-of select="." /><xsl:if test="not(position() = last())"><xsl:text>; </xsl:text></xsl:if></xsl:for-each></xsl:if>
+                        
+<xsl:if test="following-sibling::t:note"><xsl:value-of select="following-sibling::t:note"/></xsl:if>
+</xsl:for-each>
+                    
+                    
+<xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
                         <xsl:text>
  - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant']/t:head"/><xsl:text>]({{ site.baseurl }}edition/plant</xsl:text><xsl:value-of select="substring-after(ancestor::t:div[@type='plant']/@xml:id, '-')"/><xsl:text>/) </xsl:text> 
                         <xsl:if test="count(current-group()) > 1">
@@ -152,6 +161,13 @@ layout: single
     
     <xsl:template match="t:persName">
         <xsl:element name="persName">
+            <xsl:attribute name="ref"><xsl:value-of select="lower-case(replace(id(substring-after(@ref,'#')),'[^a-zA-Z]+','-'))"/></xsl:attribute>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="t:placeName">
+        <xsl:element name="placeName">
             <xsl:attribute name="ref"><xsl:value-of select="lower-case(replace(id(substring-after(@ref,'#')),'[^a-zA-Z]+','-'))"/></xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>

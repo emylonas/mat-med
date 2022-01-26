@@ -32,8 +32,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Quella con foglie di Cipresso ma piui spinose viene de <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName>, l'altra per la
-            <placeName ref="https://www.geonames.org/3190590/slavonia.html">Schiavonia</placeName> ne sono <ptr target="#A-008-N3"/>.</p>
+          <p> Quella con foglie di Cipresso ma piui spinose viene de <placeName ref="abruzzo">Abruzzio</placeName>, l'altra per la
+            <placeName ref="schiavonia">Schiavonia</placeName> ne sono <ptr target="#A-008-N3"/>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>

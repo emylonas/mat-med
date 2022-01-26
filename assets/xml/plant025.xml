@@ -29,7 +29,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Nasce ne argeni campi et giardini da per se per tutta <placeName ref="https://www.geonames.org/3174618/lombardia.html">Lombardia</placeName>.</p>
+          <p> Nasce ne argeni campi et giardini da per se per tutta <placeName ref="lombardia">Lombardia</placeName>.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>

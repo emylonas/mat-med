@@ -29,7 +29,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> A <placeName ref="https://www.geonames.org/3182460/monte-baldo.html">Monte Baldo</placeName> sul veronese et in <placeName ref="https://www.geonames.org/3190590/slavonia.html">Schiavonia</placeName>.</p>
+          <p> A <placeName ref="monte-baldo">Monte Baldo</placeName> sul veronese et in <placeName ref="schiavonia">Schiavonia</placeName>.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>

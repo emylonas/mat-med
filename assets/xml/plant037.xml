@@ -31,7 +31,7 @@
         <pb n="32"/>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne' <placeName ref="https://www.geonames.org/3027940/massif-central.html">monti di Francia</placeName>, <placeName ref="https://www.geonames.org/3182982/appennines.html">Italia</placeName> et <placeName ref="https://www.geonames.org/264644/nomos-arkadias.html">Arcadia</placeName> qualli sonno piui venenosi.</p>
+          <p> Ne' <placeName ref="monti-di-francia">monti di Francia</placeName>, <placeName ref="appenines">Italia</placeName> et <placeName ref="arcadia">Arcadia</placeName> qualli sonno piui venenosi.</p>
         </div>
         <div type="reproduction">
           <head>GENERATIONE</head>

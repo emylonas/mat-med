@@ -26,8 +26,8 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti aspri caldi, alla <placeName ref="https://www.geonames.org/11592140/majella.html">Megella [Majella]</placeName> <ptr target="#A-030-N2"/>, nella <placeName ref="https://www.geonames.org/3172219/val-di-non.html">Valle Anania</placeName>, in <placeName ref="https://www.geonames.org/3183560/abruzzo.html">Abruzzio</placeName> et in Grecia
-            nel <placeName ref="https://www.geonames.org/255620/peloponnese.html">Peloponese</placeName>.</p>
+          <p> Ne monti aspri caldi, alla <placeName ref="majella">Megella [Majella]</placeName> <ptr target="#A-030-N2"/>, nella <placeName ref="valle-anania">Valle Anania</placeName>, in <placeName ref="abruzzo">Abruzzio</placeName> et in Grecia
+            nel <placeName ref="peloponese">Peloponese</placeName>.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
