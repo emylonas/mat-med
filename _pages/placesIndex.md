@@ -34,7 +34,8 @@ Alternate Names: Abruzzio
 ## [America meridionale](https://www.geonames.org/6255150/south-america.html)
                     
 Alternate Names: India
- - [N. 17 Cedriolo]({{ site.baseurl }}edition/plant017/) 
+ - [N. I Ciruelas Monteses]({{ site.baseurl }}edition/plant001/) 
+ - [N. 17 Cedriolo]({{ site.baseurl }}edition/plant017/) [2]
  - [N. 21 Ciruelas Incarnadas es Fruta]({{ site.baseurl }}edition/plant021/) 
                         
 ## [Apennino](https://www.geonames.org/3182970/appennino-settentrionale.html)
@@ -74,11 +75,6 @@ Alternate Names: Marca
 Alternate Names: Cappedocia
  - [N. 54 Licio Primo]({{ site.baseurl }}edition/plant054/) 
                         
-## [Candia](https://www.geonames.org/260114/chania.html)
-                    
-
- - [N. 49 Ficus Egiptia]({{ site.baseurl }}edition/plant049/) 
-                        
 ## [Chieti](https://www.geonames.org/3178796/chieti.html)
                     
 
@@ -92,12 +88,9 @@ Alternate Names: Cappedocia
 ## [Candia](https://www.geonames.org/258763/crete.html)
                     
 
- - [N. 64 Platano]({{ site.baseurl }}edition/plant064/) 
-                        
-## [Candia](https://www.geonames.org/6697802/crete.html)
-                    
-
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) 
+ - [N. 49 Ficus Egiptia]({{ site.baseurl }}edition/plant049/) 
+ - [N. 64 Platano]({{ site.baseurl }}edition/plant064/) 
                         
 ## [Cipri](https://www.geonames.org/146670/cyprus.html)
                     
@@ -115,7 +108,7 @@ Alternate Names: Ciprio
 
  - [N. 40 Frutes Citrio Simil]({{ site.baseurl }}edition/plant040/) 
                         
-## [Egipto](https://www.geonames.org/8378475/aegyptus.html)
+## [Egipto](https://www.geonames.org/357994/egypt.html)
                     
 
  - [N. IO Rus]({{ site.baseurl }}edition/plant010/) 
@@ -169,11 +162,6 @@ Alternate Names: Ciprio
 
  - [* N. 22 Moli Albero de India]({{ site.baseurl }}edition/plant022/) 
                         
-## [India]()
-                    
-
- - [N. I Ciruelas Monteses]({{ site.baseurl }}edition/plant001/) 
-                        
 ## [Costantinopoli](https://www.geonames.org/745044/istanbul.html)
                     
 
@@ -220,14 +208,10 @@ Alternate Names: Ciprio
 
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) 
                         
-## [Licia](https://www.geonames.org/8410801/lycia.html)
-                    
-
- - [N. 9 Cedro]({{ site.baseurl }}edition/plant009/) 
-                        
 ## []()
                     
 
+ - [N. 9 Cedro]({{ site.baseurl }}edition/plant009/) 
  - [N. 54 Licio Primo]({{ site.baseurl }}edition/plant054/) 
                         
 ## [Legnano](https://www.geonames.org/3174731/porto-lignano.html)

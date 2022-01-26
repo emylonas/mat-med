@@ -240,13 +240,7 @@
       <place>
         <placeName ref="https://www.geonames.org/258763/crete.html" xml:id="crete">Candia</placeName>
       </place>
-      <place>
-        <placeName ref="https://www.geonames.org/260114/chania.html" xml:id="chania">Candia</placeName>
-      </place>
-      <place>
-        <placeName ref="https://www.geonames.org/6697802/crete.html" xml:id="crete2">Candia</placeName>
-      </place>
-      <place>
+       <place>
         <placeName ref="https://www.geonames.org/322954/cappadocia.html" xml:id="cappadocia">Cappadocia</placeName>
         <placeName type="alt">Cappedocia</placeName>
       </place>
@@ -256,7 +250,6 @@
       <place>
         <placeName ref="https://www.geonames.org/146670/cyprus.html" xml:id="cyprus">Cipri</placeName>
         <placeName type="alt">Ciprio</placeName>
-        <!-- also had https://www.geonames.org/8410798/cyprus.html -->
       </place>
       <place>
         <placeName ref="https://www.geonames.org/260311/kefalonia-island.html" xml:id="kefalonia"
@@ -274,7 +267,7 @@
         <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html" xml:id="friule">Friule</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/8378475/aegyptus.html" xml:id="egypt"
+        <placeName ref="https://www.geonames.org/357994/egypt.html" xml:id="egypt"
           >Egipto</placeName>
       </place>
       <place>
@@ -327,10 +320,7 @@
       <place>
         <placeName ref="https://www.geonames.org/8261119/lycie.html" xml:id="lycie">Licia</placeName>
       </place>
-      <place>
-        <placeName ref="https://www.geonames.org/8410801/lycia.html" xml:id="licia">Licia</placeName>
-      </place>
-      <place>
+       <place>
         <placeName ref="https://www.geonames.org/6951009/venice-lido.html" xml:id="venice"
           >lito</placeName>
       </place>
@@ -529,7 +519,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> De l'<placeName ref="#india">India</placeName> in pittura fu portato questo insieme con altri 10
+          <p> De l'<placeName ref="#america-m">India</placeName> in pittura fu portato questo insieme con altri 10
             alberi come quivi li
             vedereti alla Maestà Cesarea, dunde essendo orator alla Sua Maestà al'hora il clar.
             magnif. mess. <persName ref="#daMula">Marc'Antonio da Mulla</persName> et hora ill. et rev. benemerito cardinal <ptr target="#A-001-N3"/> ne
@@ -938,7 +928,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="#tripolitania">Phenice</placeName>, in <placeName ref="#licia">Licia</placeName>, in <placeName ref="#livorno">Livorno</placeName> et a <placeName ref="#ostia">Ostia</placeName> apresso a Roma ne son in quantità di
+          <p> In <placeName ref="#tripolitania">Phenice</placeName>, in <placeName ref="#licie">Licia</placeName>, in <placeName ref="#livorno">Livorno</placeName> et a <placeName ref="#ostia">Ostia</placeName> apresso a Roma ne son in quantità di
             questo Phenicea. Et in <placeName ref="#istria">Istria</placeName>, ma per esser simil a Genepri li tolghono in falò per
             Genepri. In <placeName ref="#cyprus">Cipri</placeName> vengono in tanta procerita che cinque huomeni ci bisognia ad abraciare
             il tronco et con altezza di 25 passa, ma gli optimi sonno in Africa, nel <placeName ref="#lebanon">monte Libano</placeName>  et
@@ -1314,7 +1304,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Di Spagnia fu portata de qui, ma nasce nella Nova India alla Isola del <placeName ref="#mecoacan">Mecoacan</placeName> dunde
+          <p> Di Spagnia fu portata de qui, ma nasce nella <placeName ref="#america-m">Nova India</placeName> alla Isola del <placeName ref="#mecoacan">Mecoacan</placeName> dunde
             Spagnioli li a posto nome dal luogho ci viene. Et sarà anche questo con errore posto
             come il resto non essendo Mecoacan.</p>
         </div>
@@ -1466,7 +1456,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="#siria">Soria</placeName>, in <placeName ref="#crete2">Candia</placeName> et per <placeName ref="#levant">Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
+          <p> In <placeName ref="#siria">Soria</placeName>, in <placeName ref="#crete">Candia</placeName> et per <placeName ref="#levant">Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
             si vegono nelli pitteri in smartello <ptr target="#A-023-N2"/> che di <placeName ref="#https://www.geonames.org/8410798/cyprus.html">Cipri</placeName> vengono mandati a noi. L'elleta
             <ptr target="#A-023-N1"/> si ricoglie in <placeName ref="#misie">Misia</placeName> nell'Asia, et in <placeName ref="#kefalonia">Collophone</placeName> isola nel Jonie dunde vi sonno l'
             Oraculo di Appoline.</p>
@@ -2497,7 +2487,7 @@
           <head>LUOGHO</head>
           <p> In <placeName ref="#rhodes">Caria</placeName> et <placeName ref="#rhodes">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
             fruti ma de quivi non mi fezze fruto et lo manteni assa tempo. Et de il <placeName ref="#cyprus">Ciprio</placeName> ne
-            sonno anche in <placeName ref="#chania">Candia</placeName>.</p>
+            sonno anche in <placeName ref="#crete">Candia</placeName>.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
