@@ -30,7 +30,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> In Alesandria et <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName> dunde sonno portate a noi.</p>
+          <p part="N"> In Alesandria et <placeName ref="siria">Soria</placeName> dunde sonno portate a noi.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>

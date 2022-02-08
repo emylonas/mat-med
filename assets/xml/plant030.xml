@@ -26,8 +26,8 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti aspri caldi, alla <placeName ref="https://www.geonames.org/11592140/majella.html" instant="false" full="yes">Megella [Majella]</placeName> <ptr target="#A-030-N2"/>, nella <placeName ref="https://www.geonames.org/3172219/val-di-non.html" instant="false" full="yes">Valle Anania</placeName>, in <placeName ref="https://www.geonames.org/3183560/abruzzo.html" instant="false" full="yes">Abruzzio</placeName> et in Grecia
-            nel <placeName ref="https://www.geonames.org/255620/peloponnese.html" instant="false" full="yes">Peloponese</placeName>.</p>
+          <p part="N"> Ne monti aspri caldi, alla <placeName ref="majella">Megella [Majella]</placeName> <ptr target="#A-030-N2"/>, nella <placeName ref="valle-anania">Valle Anania</placeName>, in <placeName ref="abruzzo">Abruzzio</placeName> et in Grecia
+            nel <placeName ref="peloponese">Peloponese</placeName>.</p>
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>

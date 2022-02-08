@@ -33,7 +33,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti et valli de <placeName ref="https://www.geonames.org/8977899/cividale.html" instant="false" full="yes">Zividal de Bellun</placeName>, ne monti et <placeName ref="https://www.geonames.org/3172219/val-di-non.html" instant="false" full="yes">valli di Annania nella
+          <p part="N"> Ne monti et valli de <placeName ref="zividal-de-bellun">Zividal de Bellun</placeName>, ne monti et <placeName ref="valle-anania">valli di Annania nella
             giuridicione di Trento</placeName> et in altri frigidi monti de Italia.</p>
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">

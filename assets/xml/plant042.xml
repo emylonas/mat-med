@@ -29,7 +29,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Nel <placeName ref="https://www.geonames.org/351820/jabal-musa.html" instant="false" full="yes">Monte Sinai</placeName> mi disse el deto <persName ref="belon-pierre">Belonio</persName> el qual mi diede de semi et mi naque in
+          <p part="N"> Nel <placeName ref="monte-sinai">Monte Sinai</placeName> mi disse el deto <persName ref="belon-pierre">Belonio</persName> el qual mi diede de semi et mi naque in
             quantità dunde la dispensai per de molti giardini de simplici che ancora si vedeno.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">

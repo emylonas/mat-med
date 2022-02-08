@@ -38,7 +38,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Vengono di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName>, portate a noi suoi rotondi fruti. Et di <placeName ref="https://www.geonames.org/2219875/al-maghrib.html" instant="false" full="yes">Barbaria</placeName>.</p>
+          <p part="N"> Vengono di <placeName ref="siria">Soria</placeName>, portate a noi suoi rotondi fruti. Et di <placeName ref="barbaria">Barbaria</placeName>.</p>
         </div>
         <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>

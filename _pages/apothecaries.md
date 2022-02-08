@@ -9,9 +9,9 @@ sidebar:
 ---
 # Early Modern Apothecary Shops
 
-The last step to necessary in order to obtain a medicine based derived from natural substances, was to process it in a professional laboratory – but remember that private kitchens were also a sort of home-laboratory for simple remedies.
+The last step necessary in order to obtain a medicine based derived from natural substances, was to process it in a professional laboratory – but remember that private kitchens were also a sort of home-laboratory for simple remedies.
 
-<img src="{{ site.baseurl }}/assets/img/16c_0_Italy_Issogne_16th_century.png" class="img-ctr" align="center"/>
+<img src="{{ site.baseurl }}/assets/img/72dpi_fresco_all.jpg" class="img-ctr" align="center"/>
 
 A few among the many apothecaries and apothecary shops were crucial sites in the urban and social fabric of the city: physicians and other medical professionals, noblemen and civil servants, artisans, people of middling status and servants met there, asking for medicinal compounds processed according to recipes, for raw and semi-processed substances. Benches ran along the walls where people waited for their turn and chatted: pharmacies offered shelter for sociability and leisure, spaces to exchange news as well – and sometimes where political and religious heterodoxies matured.
 

@@ -32,7 +32,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne sonno in boschi de <placeName ref="https://www.geonames.org/3174618/lombardia.html" instant="false" full="yes">Lombardia</placeName> della minor. Et del maggior in <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" instant="false" full="yes">Alemagnia</placeName> et io nel mio
+          <p part="N"> Ne sonno in boschi de <placeName ref="lombardia">Lombardia</placeName> della minor. Et del maggior in <placeName ref="alemagnia">Alemagnia</placeName> et io nel mio
             giardino per molti anni ne ho mantenuto uno.</p>
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">

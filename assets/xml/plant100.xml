@@ -24,8 +24,8 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti in <placeName ref="https://www.geonames.org/3175395/italian-republic.html" instant="false" full="yes">Italia</placeName> ne sonno. Et in <placeName ref="https://www.geonames.org/390903/hellenic-republic.html" instant="false" full="yes">Grecia</placeName> ancora. In paesi et luoghi frigidi in
-            <placeName ref="https://www.geonames.org/3017382/republic-of-france.html" instant="false" full="yes">Gallia</placeName>.</p>
+          <p part="N"> Ne monti in <placeName ref="italia">Italia</placeName> ne sonno. Et in <placeName ref="grecia">Grecia</placeName> ancora. In paesi et luoghi frigidi in
+            <placeName ref="gallia">Gallia</placeName>.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>

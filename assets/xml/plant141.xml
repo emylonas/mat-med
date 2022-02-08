@@ -35,7 +35,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Io l'hebbi di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName>, la condusse m. Cechin dal Angelo diligentissimo
+          <p part="N"> Io l'hebbi di <placeName ref="siria">Soria</placeName>, la condusse m. Cechin dal Angelo diligentissimo
             simplicista.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">

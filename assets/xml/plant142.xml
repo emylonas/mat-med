@@ -36,7 +36,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N">L'hebbi di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName> dal ditto M. Cechino.</p>
+          <p part="N">L'hebbi di <placeName ref="siria">Soria</placeName> dal ditto M. Cechino.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>

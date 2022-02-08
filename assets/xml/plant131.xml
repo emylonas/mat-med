@@ -43,7 +43,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Venghono dell'India dunde hanno preso il nome. Et ne ho havuto de <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName> et se ne
+          <p part="N"> Venghono dell'India dunde hanno preso il nome. Et ne ho havuto de <placeName ref="siria">Soria</placeName> et se ne
             ritrovano nel pepe tondo.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">

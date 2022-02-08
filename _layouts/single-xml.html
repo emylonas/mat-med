@@ -91,7 +91,15 @@ layout: default
             ["[type=wfo][target]", ["<a href=\"$rw@target\">","</a>"]]
             ],
             "pb": ["[DeToni p. $@n]"],
-            "placeName": ["<a href=\"$rw@ref\" target=\"_blank\">","</a>"],
+            
+            "placeName": function(elt) {
+              let linkPre = '{{ site.baseurl }}index-places/#';
+              let linkName = elt.getAttribute("ref");
+              let link = document.createElement("a");
+              link.innerHTML = elt.innerHTML;
+              link.href = linkPre.concat(linkName);
+              return link;
+            },
             
             "persName": function(elt) {
               let linkPre = '{{ site.baseurl }}index-people/#';

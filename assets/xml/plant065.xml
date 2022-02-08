@@ -30,7 +30,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti de Italia ne sonno. Et li <placeName ref="https://www.geonames.org/7910496/san-francesco-della-vigna.html" instant="false" full="yes">frati zocolanti in San Francesco</placeName> nel suo
+          <p part="N"> Ne monti de Italia ne sonno. Et li <placeName ref="san-francesco">frati zocolanti in San Francesco</placeName> nel suo
             giardineto ne ha uno.</p>
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">

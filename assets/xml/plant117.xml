@@ -35,7 +35,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Io l'hebbi della <placeName ref="https://www.geonames.org/11592140/majella.html" instant="false" full="yes">Megella [= Majella]</placeName> <ptr target="#A-117-N1"/>,</p>
+          <p part="N"> Io l'hebbi della <placeName ref="majella">Megella [= Majella]</placeName> <ptr target="#A-117-N1"/>,</p>
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>

@@ -27,7 +27,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti d'<placeName ref="https://www.geonames.org/8354410/german-democratic-republic.html" instant="false" full="yes">Alemagnia</placeName> et .... <ptr target="#A-034-N1"/>.</p>
+          <p part="N"> Ne monti d'<placeName ref="">Alemagnia</placeName> et .... <ptr target="#A-034-N1"/>.</p>
         </div>
         <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>

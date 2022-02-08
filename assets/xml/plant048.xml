@@ -36,7 +36,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html" instant="false" full="yes">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
+          <p part="N"> Ne <placeName ref="apennino">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
             ne havevo uno molto ben formato et ne ho posto nel giardino in Padova del clar. cav.
             <persName ref="mocenigo-alvise-i">Mozenigo</persName>.</p>
         </div>

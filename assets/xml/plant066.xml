@@ -33,7 +33,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> In <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" instant="false" full="yes">Germania</placeName> et in <placeName ref="https://www.geonames.org/3182460/monte-baldo.html" instant="false" full="yes">Monte Baldo sul Veronese</placeName>.</p>
+          <p part="N"> In <placeName ref="alemagnia">Germania</placeName> et in <placeName ref="monte-baldo">Monte Baldo sul Veronese</placeName>.</p>
         </div>
         <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>

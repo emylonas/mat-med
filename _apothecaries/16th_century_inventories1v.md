@@ -48,7 +48,7 @@ img4r: "/assets/img/16c_inventory_anzolo_bergonin_4_recto.jpg"
       <td>l. 6</td>
     </tr>
     <tr>
-      <td>Molvere magistral del eccellente signor Gadaldino</td>
+      <td>Polvere magistral del eccellente signor Gadaldino</td>
       <td>l. 2</td>
     </tr>
     <tr>

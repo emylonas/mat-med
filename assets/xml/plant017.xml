@@ -32,7 +32,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Di Spagnia fu portata de qui, ma nasce nella Nova India alla Isola del <placeName ref="https://www.geonames.org/3802102/mecoacan.html" instant="false" full="yes">Mecoacan</placeName> dunde
+          <p part="N"> Di Spagnia fu portata de qui, ma nasce nella <placeName ref="america-meridionale">Nova India</placeName> alla Isola del <placeName ref="mecoacan">Mecoacan</placeName> dunde
             Spagnioli li a posto nome dal luogho ci viene. Et sarà anche questo con errore posto
             come il resto non essendo Mecoacan.</p>
         </div>
@@ -48,8 +48,8 @@
         </div>
         <div type="editorial-D" part="N" org="uniform" sample="complete">
           <p part="N">Pianta sterile; a parte una foglia in grandezza naturale. La passiflora trovasi la
-            prima volta ricordata dal poeta <persName ref="barca-centenera-mart-n-del-">Martino del Barco</persName> che la vide nel <placeName ref="https://www.geonames.org/3437598/republic-of-paraguay.html" instant="false" full="yes">Paraguay</placeName>. Da questo
-            codice apprendiamo che essa fu importata in <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html" instant="false" full="yes">Ispagna</placeName> donde il <persName ref="guilandino-melchiorre">Guilandino</persName> ottenne un
+            prima volta ricordata dal poeta <persName ref="barca-centenera-mart-n-del-">Martino del Barco</persName> che la vide nel <placeName ref="paraguay">Paraguay</placeName>. Da questo
+            codice apprendiamo che essa fu importata in <placeName ref="ispagna">Ispagna</placeName> donde il <persName ref="guilandino-melchiorre">Guilandino</persName> ottenne un
             campione che spedì al Michiel dopo averne levato i frutti per poter seminar la pianta
             nell'Orto botanico di Padova. Perciò la figura presente riuscì incompleta, non avendo
             <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="24"/> poi il <persName ref="guilandino-melchiorre">Guilandino</persName>
@@ -60,8 +60,8 @@
             Mechoacan, ma più tardi l'errore fu corretto, sia per opera dello stesso <persName ref="guilandino-melchiorre">Guilandino</persName>, sia
             per avere il Michiel ricevuto un campione del vero Mechoacan che trovasi ritratto al <ref type="internal" target="#A-161">N.
               161</ref>. Giustamente il Michiel dall'errore del nome specifico dedusse l'errore di
-            abitazione; difatti la patria della passiflora è l'<placeName ref="https://www.geonames.org/6255150/south-america.html" instant="false" full="yes">America meridionale</placeName>, non il <placeName ref="https://www.geonames.org/3996063/mexico.html" instant="false" full="yes">Messico</placeName>
-            cui appartiene la provincia di <placeName ref="https://www.geonames.org/3802102/mecoacan.html" instant="false" full="yes">Mechoacan</placeName>. Il nome di isola che qui dà il Michiel a
+            abitazione; difatti la patria della passiflora è l'<placeName ref="america-meridionale">America meridionale</placeName>, non il <placeName ref="messico">Messico</placeName>
+            cui appartiene la provincia di <placeName ref="mecoacan">Mechoacan</placeName>. Il nome di isola che qui dà il Michiel a
             quella provincia che è continentale è il risultato di un errore scusabile, date le
             cognizioni geografiche di quei tempi. Le prime terre scoperte in America (Lucaie,
             Antille) erano isole e coloro i quali non si occupavano particolarmente di geografia

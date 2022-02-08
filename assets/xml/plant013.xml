@@ -29,7 +29,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne sonno nei monti et vigne di <placeName ref="https://www.geonames.org/3169071/roma.html" instant="false" full="yes">Roma</placeName>.</p>
+          <p part="N"> Ne sonno nei monti et vigne di <placeName ref="roma">Roma</placeName>.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>

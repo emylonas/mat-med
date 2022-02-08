@@ -25,8 +25,8 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N">Ne sonno in <placeName ref="https://www.geonames.org/2523118/sicily.html" instant="false" full="yes">Sicilia</placeName> qualli furno portati per il Mare Gionio <ptr target="#A-064-N1"/> et ne sonno qualche
-            uno in Italia, in <placeName ref="https://www.geonames.org/258763/crete.html" instant="false" full="yes">Candia</placeName> ne sonno in quantità, et io ne ho mantenuto uno nel mio
+          <p part="N">Ne sonno in <placeName ref="sicilia">Sicilia</placeName> qualli furno portati per il Mare Gionio <ptr target="#A-064-N1"/> et ne sonno qualche
+            uno in Italia, in <placeName ref="candia">Candia</placeName> ne sonno in quantità, et io ne ho mantenuto uno nel mio
             giardineto.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">

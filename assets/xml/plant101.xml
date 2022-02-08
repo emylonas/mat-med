@@ -29,7 +29,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> L'hebbi de <placeName ref="https://www.geonames.org/3183560/abruzzo.html" instant="false" full="yes">Abruzzio</placeName>, ne luoghi maritimi et asperi che ne mangiano le capre.</p>
+          <p part="N"> L'hebbi de <placeName ref="abruzzo">Abruzzio</placeName>, ne luoghi maritimi et asperi che ne mangiano le capre.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
