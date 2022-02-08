@@ -30,7 +30,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti frigidi nella <placeName ref="">Alemagnia</placeName>, in <placeName ref="cadore">Cadore</placeName> et in <placeName ref="friule">Friule</placeName>.</p>
+          <p part="N"> Ne monti frigidi nella <placeName ref="">Alemagnia</placeName>, in <placeName ref="cadore">Cadore</placeName> et in <placeName ref="friuli">Friule</placeName>.</p>
         </div>
         <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>

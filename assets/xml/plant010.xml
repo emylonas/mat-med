@@ -25,8 +25,8 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Il piui eccellente in <placeName ref="egipto">Egipto</placeName> et vengono a noi con il viaggio de <placeName ref="siria">Soria</placeName> et ne nasce in
-            Italia in molti luoghi nel <placeName ref="apennino">Apennino</placeName> et in la <placeName ref="appenines">Marca</placeName>.</p>
+          <p part="N"> Il piui eccellente in <placeName ref="egitto">Egipto</placeName> et vengono a noi con il viaggio de <placeName ref="siria">Soria</placeName> et ne nasce in
+            Italia in molti luoghi nel <placeName ref="appennino-settentrionale">Apennino</placeName> et in la <placeName ref="">Marca</placeName>.</p>
         </div>
         <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>

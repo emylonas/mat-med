@@ -33,7 +33,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> In <placeName ref="alemagnia">Germania</placeName> et in <placeName ref="monte-baldo">Monte Baldo sul Veronese</placeName>.</p>
+          <p part="N"> In <placeName ref="germania">Germania</placeName> et in <placeName ref="monte-baldo">Monte Baldo sul Veronese</placeName>.</p>
         </div>
         <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>

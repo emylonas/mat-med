@@ -31,7 +31,7 @@
         <pb n="32"/>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Ne' <placeName ref="monti-di-francia">monti di Francia</placeName>, <placeName ref="appenines">Italia</placeName> et <placeName ref="arcadia">Arcadia</placeName> qualli sonno piui venenosi.</p>
+          <p part="N"> Ne' <placeName ref="monti-di-francia">monti di Francia</placeName>, <placeName ref="">Italia</placeName> et <placeName ref="arcadia">Arcadia</placeName> qualli sonno piui venenosi.</p>
         </div>
         <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>

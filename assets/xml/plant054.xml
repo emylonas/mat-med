@@ -28,8 +28,8 @@
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
           <p part="N"> Nasce in <placeName ref="cappadocia">Cappedocia [= Cappadocia]</placeName> et <placeName ref="">Licia</placeName> dice il testo de Dioscoride. Et di questo ne hebbi dalla
-            Megella [= Majella] de <placeName ref="monte-corno">Monte Corno</placeName>, nel contorno di <placeName ref="zara">Zara</placeName> , et apresso a <placeName ref="amarano">Amarano</placeName> (<ptr target="A-054-N1"/>) nel bosco di
-            <placeName ref="legnano">Legnano</placeName>. <ptr target="#A-054-N2"/> et nelle <placeName ref="alpi-di-liguria">alpi di Liguria</placeName> come dice il Brasavola.</p>
+            Megella [= Majella] de <placeName ref="monte-corno">Monte Corno</placeName>, nel contorno di <placeName ref="zara">Zara</placeName> , et apresso a <placeName ref="marano">Amarano</placeName> (<ptr target="A-054-N1"/>) nel bosco di
+            <placeName ref="lignano">Legnano</placeName>. <ptr target="#A-054-N2"/> et nelle <placeName ref="alpi-liguri">alpi di Liguria</placeName> come dice il Brasavola.</p>
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>

@@ -28,7 +28,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> In <placeName ref="arabia">Arabia</placeName> et in <placeName ref="damiata">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
+          <p part="N"> In <placeName ref="arabia">Arabia</placeName> et in <placeName ref="damietta">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>

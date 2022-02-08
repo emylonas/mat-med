@@ -27,7 +27,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Plinio dice nascer in Scythiadi la del fiume <placeName ref="phasitygre">Phasitygre</placeName> <ptr target="#A-039-N2"/> et nel Monte Scantro.
+          <p part="N"> Plinio dice nascer in Scythiadi la del fiume <placeName ref="kunar">Phasitygre</placeName> <ptr target="#A-039-N2"/> et nel Monte Scantro.
             <ptr target="#A-039-N3"/></p>
         </div>
         <div type="reproduction" part="N" org="uniform" sample="complete">

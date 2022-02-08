@@ -33,7 +33,7 @@
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
           <p part="N"> Quella con foglie di Cipresso ma piui spinose viene de <placeName ref="abruzzo">Abruzzio</placeName>, l'altra per la
-            <placeName ref="schiavonia">Schiavonia</placeName> ne sono <ptr target="#A-008-N3"/>.</p>
+            <placeName ref="slavonia">Schiavonia</placeName> ne sono <ptr target="#A-008-N3"/>.</p>
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>

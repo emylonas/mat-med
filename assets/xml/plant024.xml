@@ -32,7 +32,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Appresso a fossi in Italia. Et in <placeName ref="friule">Friule</placeName> ne sonno in quantità.</p>
+          <p part="N"> Appresso a fossi in Italia. Et in <placeName ref="friuli">Friule</placeName> ne sonno in quantità.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>

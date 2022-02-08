@@ -29,7 +29,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> A <placeName ref="monte-baldo">Monte Baldo</placeName> sul veronese et in <placeName ref="schiavonia">Schiavonia</placeName>.</p>
+          <p part="N"> A <placeName ref="monte-baldo">Monte Baldo</placeName> sul veronese et in <placeName ref="slavonia">Schiavonia</placeName>.</p>
         </div>
         <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>

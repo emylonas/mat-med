@@ -37,8 +37,8 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Il sig. ecc. M. <persName ref="ghini-luca">Luca Ghyni</persName> mi disse esserne a <placeName ref="genoa">Genoa</placeName> nel giardino del Principe Doria et
-            il francese <persName ref="belon-pierre">Belonio</persName> detto mi disse esserne a <placeName ref="andernopoli">Andernopoli</placeName>, qual mi diede de suoi ossini
+          <p part="N"> Il sig. ecc. M. <persName ref="ghini-luca">Luca Ghyni</persName> mi disse esserne a <placeName ref="genova">Genoa</placeName> nel giardino del Principe Doria et
+            il francese <persName ref="belon-pierre">Belonio</persName> detto mi disse esserne a <placeName ref="edirne">Andernopoli</placeName>, qual mi diede de suoi ossini
             et li piantai et naquero 3 pedini.</p>
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">

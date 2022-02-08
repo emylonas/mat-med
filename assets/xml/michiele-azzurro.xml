@@ -164,7 +164,7 @@
         <persName xml:id="Porta" ref="http://thesaurus.cerl.org/record/cnp01881034">Della Porta, Giambattista</persName>
       </person>
       <person>
-        <persName xml:id="Barca" ref="https://isni.org/isni/0000000118158998">Barca Centenera (Martín del)</persName>
+        <persName xml:id="Barca" ref="https://isni.org/isni/0000000118158998">Barca Centenera, Martín del</persName>
       </person>
     </listPerson>
     
@@ -178,7 +178,8 @@
       </place>
       <place>
         <placeName ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-          xml:id="germany">Alemagnia</placeName>
+          xml:id="germany">Germania</placeName>
+        <placeName type="alt">Alemagnia</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/7751512/hayy-ash-shahba.html" xml:id="aleppo"
@@ -190,35 +191,41 @@
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3174726/alpi-liguri.html" xml:id="alpi-liguri"
-          >alpi di Liguria</placeName>
+          >Alpi liguri</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3174017/marano-lagunare.html" xml:id="marano-lagunare"
-          >Amarano</placeName>
+          >Marano</placeName>
+        <placeName type="alt">Amarano</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/6255150/south-america.html" xml:id="america-m"
-          >America meridionale</placeName>
+          >America Latina</placeName>
         <placeName type="alt">India</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/747712/edirne.html" xml:id="edirne"
-          >Andernopoli</placeName>
+          >Edirne</placeName>
+        <placeName type="alt">Andernopoli</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html"
-          xml:id="apennino">Apennino</placeName>
+          xml:id="appennino">Appennino Settentrionale</placeName>
       </place>
     <!--  <place>
         <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html" xml:id="xx-2"
           >monti de Italia dalla parte septentrional</placeName>
       </place>-->
       <place>
-        <placeName ref="https://www.geonames.org/3182982/appennines.html" xml:id="appennines"
-          >Appenines</placeName>
+        <placeName ref="https://www.geonames.org/3165200/provincia-di-treviso.html=" xml:id="treviso"
+          >Treviso</placeName>
         <placeName type="alt">Marca</placeName>
       </place>
-      
+      <place>
+        <placeName ref="https://www.geonames.org/3182982/appennines.html" xml:id="appennini"
+          >Appennini</placeName>
+        
+      </place>
       <place>
         <placeName ref="https://www.geonames.org/6957698/arabia.html" xml:id="arabia"
           >Arabia</placeName>
@@ -232,7 +239,7 @@
           >Barbaria</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/2423193/bene.html" xml:id="bene">Benin nella Guinea</placeName>
+        <placeName ref="https://www.geonames.org/2423193/bene.html" xml:id="bene">Benin</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3218910/cadore.html" xml:id="cadore">Cadore</placeName>
@@ -248,12 +255,13 @@
         <placeName ref="https://www.geonames.org/3178796/chieti.html" xml:id="chieti">Chieti</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/146670/cyprus.html" xml:id="cyprus">Cipri</placeName>
+        <placeName ref="https://www.geonames.org/146670/cyprus.html" xml:id="cyprus">Cipro</placeName>
         <placeName type="alt">Ciprio</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/260311/kefalonia-island.html" xml:id="kefalonia"
-          >Collophone</placeName>
+          >Cefalonia</placeName>
+        <placeName type="alt">Collophone</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/745044/istanbul.html" xml:id="istanbul"
@@ -261,29 +269,29 @@
       </place>
       <place>
         <placeName ref="https://www.geonames.org/358048/damietta.html" xml:id="damietta"
-          >Damiata</placeName>
+          >Damietta</placeName>
+        <placeName type="alt">Damiata</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html" xml:id="friule">Friule</placeName>
+        <placeName ref="https://www.geonames.org/3176525/friuli-venezia-giulia.html" xml:id="friule">Friuli</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/357994/egypt.html" xml:id="egypt"
-          >Egipto</placeName>
+          >Egitto</placeName>
+        <placeName type="alt">Egipto</placeName>
       </place>
-      <place>
-        <placeName ref="https://www.geonames.org/7910496/san-francesco-della-vigna.html" xml:id="san-francesco"
-          >San Francesco</placeName>
-      </place>
+      
       <place>
         <placeName ref="https://www.geonames.org/3017382/republic-of-france.html" xml:id="france"
           >Gallia</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/6542282/genova.html" xml:id="genoa">Genoa</placeName>
+        <placeName ref="https://www.geonames.org/6542282/genova.html" xml:id="genoa">Genova</placeName>
+        <placeName type="alt">Genoa</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3175265/giudecca.html" xml:id="giudecca"
-          >Giudecca</placeName>
+          >Giudecca, isola</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/390903/hellenic-republic.html" xml:id="greece"
@@ -291,17 +299,16 @@
       </place>
       <place>
         <placeName ref="https://www.geonames.org/6672571/huancayo.html" xml:id="huancayo"
-          >Guaribilca</placeName>
+          >Huancayo</placeName>
+        <placeName type="alt">Guaribilca</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="italia">Italia</placeName>
       </place>
-      <place>
-        <placeName xml:id="india">India</placeName>
-      </place>
+     
       <place>
         <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html" xml:id="spain"
-          >Ispagna</placeName>
+          >Spagna</placeName>
         <placeName type="alt">Ispagnia</placeName>
       </place>
       <place>
@@ -312,7 +319,8 @@
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3174731/porto-lignano.html" xml:id="lignano"
-          >Legnano</placeName>
+          >Lignano</placeName>
+        <placeName type="alt">Legnano</placeName>
       </place>
       <place>
         <placeName xml:id="levant">Levante</placeName>
@@ -321,8 +329,9 @@
         <placeName ref="https://www.geonames.org/8261119/lycie.html" xml:id="lycie">Licia</placeName>
       </place>
        <place>
-        <placeName ref="https://www.geonames.org/6951009/venice-lido.html" xml:id="venice"
-          >lito</placeName>
+        <placeName ref="https://www.geonames.org/6951009/venice-lido.html" xml:id="venicelido"
+          >Lido, Venezia</placeName>
+         <placeName type="alt">Lito</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3174659/livorno.html" xml:id="livorno"
@@ -344,7 +353,8 @@
         <placeName ref="https://www.geonames.org/3996063/mexico.html" xml:id="mexico">Messico</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/8285551/mysie.html" xml:id="misie">Misia</placeName>
+        <placeName ref="https://www.geonames.org/8285551/mysie.html" xml:id="misie">Mysie</placeName>
+        <placeName type="alt">Misia</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3182460/monte-baldo.html" xml:id="monte-baldo">Monte Baldo</placeName>
@@ -354,7 +364,7 @@
         <placeName ref="https://www.geonames.org/3178053/monte-corno.html" xml:id="monte-corno">Monte Corno</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/272103/lebanon.html" xml:id="lebanon">Monte Libano</placeName>
+        <placeName ref="https://www.geonames.org/272103/lebanon.html" xml:id="lebanon">Monte Lebanon</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/351820/jabal-musa.html" xml:id="sinai">Monte Sinai</placeName>
@@ -377,38 +387,45 @@
       </place>
       <place>
         <placeName ref="https://www.geonames.org/255620/peloponnese.html" xml:id="peloponnese"
-          >Peloponese</placeName>
+          >Peloponeso</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3170647/pisa.html" xml:id="pisa">Pisa</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/96998/tigris-river.html" xml:id="tigris"
-          >Phasitygre</placeName>
+        <placeName ref="https://www.geonames.org/1135703/kunar.html" xml:id="tigris"
+          >Kunar</placeName>
+        <placeName type="alt">Phasitygre</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/2210246/tripolitania.html" xml:id="tripolitania"
-          >Phenice</placeName>
+        <placeName ref="https://www.geonames.org/8504928/phoenicia.html" xml:id="fenicia"
+          >Phoeniciae</placeName>
+        <placeName type="alt">Phenice</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3169778/puglia.html" xml:id="puglia">Puglia</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/3112616/pyrenees.html" xml:id="pyrenees">Pyrreni</placeName>
-          <placeName type="alt">Pirenei</placeName>
+        <placeName ref="https://www.geonames.org/3112616/pyrenees.html" xml:id="pyrenees">Pirenei</placeName>
+        <placeName type="alt">Pyrreni</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/6541863/rimini.html" xml:id="rimini">Rimini</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/400665/rhodes.html" xml:id="rhodes">Rodi</placeName>
-        <placeName type="alt">Caria</placeName>
+       
+      </place>
+      <place>
+        <placeName ref="https://www.geonames.org/8261116/carie.html" xml:id="caria">Caria</placeName>
+      
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3169071/roma.html" xml:id="roma">Roma</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/3937733/jauja.html" xml:id="jauja">Sausa</placeName>
+        <placeName ref="https://www.geonames.org/3937733/jauja.html" xml:id="jauja">Jauja</placeName>
+        <placeName type="alt">Sausa</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/2523118/sicily.html" xml:id="sicilia">Sicilia</placeName>
@@ -418,7 +435,8 @@
         <placeName type="alt">Soria</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/3190590/slavonia.html" xml:id="slavonia">Schiavonia</placeName>
+        <placeName ref="https://www.geonames.org/3190590/slavonia.html" xml:id="slavonia">Slavonia</placeName>
+        <placeName type="alt">Schiavonia</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/2210247/tripoli.html" xml:id="tripoli">Tripoli</placeName>
@@ -428,13 +446,15 @@
         <!-- was ref="https://www.geonames.org/10922502/mediterranean-region.html" -->
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/3172219/val-di-non.html" xml:id="val-di-non">Valle Anania</placeName>
+        <placeName ref="https://www.geonames.org/3172219/val-di-non.html" xml:id="val-di-non">Val di Non</placeName>
+        <placeName type="alt">Valle Anania</placeName>
       </place>
       <place>
         <placeName ref="zadar" xml:id="zadar">Zara</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/8977899/cividale.html" xml:id="cividale">Zividal de Bellun</placeName>
+        <placeName ref="https://www.geonames.org/8977899/cividale.html" xml:id="cividale">Cividale</placeName>
+        <placeName type="alt">Zividal de Bellun</placeName>
       </place>
     </listPlace>
   </standOff>
@@ -827,7 +847,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti de <placeName ref="#italia">Italia</placeName> et apresso agli horti nel nostro <placeName ref="#venice">lito</placeName> <ptr target="#A-007-N3"/> ne sonno in copia.</p>
+          <p> Ne monti de <placeName ref="#italia">Italia</placeName> et apresso agli horti nel nostro <placeName ref="#venicelido">Lito</placeName> <ptr target="#A-007-N3"/> ne sonno in copia.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -928,7 +948,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="#tripolitania">Phenice</placeName>, in <placeName ref="#licie">Licia</placeName>, in <placeName ref="#livorno">Livorno</placeName> et a <placeName ref="#ostia">Ostia</placeName> apresso a Roma ne son in quantità di
+          <p> In <placeName ref="#fenicia">Phenice</placeName>, in <placeName ref="#licie">Licia</placeName>, in <placeName ref="#livorno">Livorno</placeName> et a <placeName ref="#ostia">Ostia</placeName> apresso a Roma ne son in quantità di
             questo Phenicea. Et in <placeName ref="#istria">Istria</placeName>, ma per esser simil a Genepri li tolghono in falò per
             Genepri. In <placeName ref="#cyprus">Cipri</placeName> vengono in tanta procerita che cinque huomeni ci bisognia ad abraciare
             il tronco et con altezza di 25 passa, ma gli optimi sonno in Africa, nel <placeName ref="#lebanon">monte Libano</placeName>  et
@@ -1026,7 +1046,7 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> Il piui eccellente in <placeName ref="#egypt">Egipto</placeName> et vengono a noi con il viaggio de <placeName ref="#siria">Soria</placeName> et ne nasce in
-            Italia in molti luoghi nel <placeName ref="#apennino">Apennino</placeName> et in la <placeName ref="#appennines">Marca</placeName>.</p>
+            Italia in molti luoghi nel <placeName ref="#appennino">Apennino</placeName> et in la <placeName ref="#Treviso">Marca</placeName>.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
@@ -2444,7 +2464,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne <placeName ref="#apennino">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
+          <p> Ne <placeName ref="#appennino">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
             ne havevo uno molto ben formato et ne ho posto nel giardino in Padova del clar. cav.
             <persName ref="#MocenigoAlv-I">Mozenigo</persName>.</p>
         </div>
@@ -2485,7 +2505,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In <placeName ref="#rhodes">Caria</placeName> et <placeName ref="#rhodes">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
+          <p> In <placeName ref="#caria">Caria</placeName> et <placeName ref="#rhodes">Rodi</placeName> da quelli ne tragono grande utile per il continuo produr de suoi
             fruti ma de quivi non mi fezze fruto et lo manteni assa tempo. Et de il <placeName ref="#cyprus">Ciprio</placeName> ne
             sonno anche in <placeName ref="#crete">Candia</placeName>.</p>
         </div>
@@ -3185,7 +3205,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne monti de Italia ne sonno. Et li <placeName ref="#san-francesco">frati zocolanti in San Francesco</placeName> nel suo
+          <p> Ne' monti de Italia ne sonno. Et li frati zocolanti <persName ref="#SanFrancesco">in San Francesco</persName> nel suo
             giardineto ne ha uno.</p>
         </div>
         <div type="opinions">
