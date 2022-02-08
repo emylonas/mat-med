@@ -4,14 +4,14 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
@@ -19,34 +19,34 @@
         <head>N. 5 Atragene</head>
 
 
-        <ab>[<hi>Clematis Vitalba L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610926"/> <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:319145-2"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Clematis Vitalba L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610926"/> <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:319145-2"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Atragena Theophrasti - Vitison da volgari.</p>
+          <p part="N"> Atragena Theophrasti - Vitison da volgari.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Questa son simil alla vite bianca volgare descrita inanti <ref type="internal" target="#A-007">k. 7</ref> ma questo son maggiore
+          <p part="N"> Questa son simil alla vite bianca volgare descrita inanti <ref type="internal" target="#A-007">k. 7</ref> ma questo son maggiore
             assa[i] <ptr target="#A-005-N1"/>.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne sonno tenute ne giardini per intesser loggie et pergolate.</p>
+          <p part="N"> Ne sonno tenute ne giardini per intesser loggie et pergolate.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'ecc. M. <persName ref="alguillara-luigi">Alovise Anguillara</persName> protetore del copioso giardino de simplici della Ill.
+          <p part="N"> L'ecc. M. <persName ref="alguillara-luigi">Alovise Anguillara</persName> protetore del copioso giardino de simplici della Ill.
             Signoria nostra in Padova ne' suoi degni <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> a k. 301 dice non esser la Vite
             silvestre. Et a k. 81 dice esser la Vite alba depinta dal Eccell. <persName ref="fuchs-leonhart">Fuchsio</persName> per Vite nera.
           </p>
         </div>
-        <div type="editorial-D">
-          <p>Figura di pianta sterile arrampicata attorno ad una tettoia sostenuta da due
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Figura di pianta sterile arrampicata attorno ad una tettoia sostenuta da due
             colonne.</p>
-          <p> Trattandosi di pianta comune già figurata da altri e di un disegno e dipinto mediocre,
+          <p part="N"> Trattandosi di pianta comune già figurata da altri e di un disegno e dipinto mediocre,
             si sarebbe potuto omettere la trascrizione di questa pagina se essa non ci fornisse
             buone indicazioni sulla storia del codice.</p>
-          <p>Nelle «Oppinioni» l'<persName ref="alguillara-luigi">Anguillara</persName> è qualificato «protettore del giardino de simplici» cioè
+          <p part="N">Nelle «Oppinioni» l'<persName ref="alguillara-luigi">Anguillara</persName> è qualificato «protettore del giardino de simplici» cioè
             dell'Orto botanico di Padova ed è citata la sua opera sui Semplici, mentre alcune
             pagine più in là (<ref type="internal" target="#A-041">N. 41, 42 ecc.</ref>) è citato come custode dell'Orto <persName ref="guilandino-melchiorre">Melchiorre Guilandino</persName>. 
             Ora l'<persName ref="alguillara-luigi">Anguillara </persName>si dimise dalla carica nel 1561, anno in cui apparve alla luce
@@ -57,7 +57,7 @@
             circa venticinque anni <ptr target="#A-005-N3"/>.</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="15"/>
-          <p>Le particolarità scritte nel testo sull'Anguillara e sulla sua opera ci danno anche una
+          <p part="N">Le particolarità scritte nel testo sull'Anguillara e sulla sua opera ci danno anche una
             prova di più essere questo libro Azzurro il primo della serie, non già l'ultimo come
             ritenne il <persName ref="marsili-giovanni">Marsili</persName> quale, non sappiamo dietro quali indizi, ordinò l'opera cominciando
             col primo libro rosso, cui fece seguire il secondo rosso, il verde, il giallo,
@@ -66,7 +66,7 @@
             fatte, come si vedrà, in modo sommario: «L'Anguillara a k. ...» o «L'Anguillara k. ...» e
             così negli altri libri ed in questo stesso libro nelle pagine seguenti. Ne risulta
             evidente che le prime pagine del lavoro sono queste in cui la citazione è integrale.</p>
-          <p> Nella introduzione si parlò di una copia del libro dei «Semplici», di <persName ref="alguillara-luigi">Anguillara</persName> con
+          <p part="N"> Nella introduzione si parlò di una copia del libro dei «Semplici», di <persName ref="alguillara-luigi">Anguillara</persName> con
             annotazioni manoscritte del <persName ref="guilandino-melchiorre">Guilandino</persName> esistente alla Biblioteca Marciana. Alla pag. 301
             citata anche dal Michiel si trovano le seguenti parole: «Ma, se l'Atragene havesse i
             suoi frutti in racemi, come vuole Dioscoride, direi per le altre note rispondenti che
@@ -79,12 +79,12 @@
             81 identifica giustamente la vitalba colla vitis nigra del <persName ref="fuchs-leonhart">Fuchs</persName>. Il <persName ref="guilandino-melchiorre">Guilandino</persName> credette
             che l'<persName ref="alguillara-luigi">Anguillara</persName> identificasse l'atragene colla vite selvatica (<foreign xml:lang="grc">ἄμπελος αγρία</foreign>) di
             Dioscoride <ptr target="#A-005-N4"/>.</p>
-          <p>Il nome vernacolo <hi>vidisòn</hi> è tuttora vivo nel Veneto <ref type="bibl" target="http://id.sbn.it/bid/VIA0075631">[297]</ref></p>
+          <p part="N">Il nome vernacolo <hi>vidisòn</hi> è tuttora vivo nel Veneto <ref type="bibl" target="http://id.sbn.it/bid/VIA0075631">[297]</ref></p>
         </div>
-        <div type="notes">
-          <note xml:id="A-005-N1" n="1">* Assai. (Ed.).</note>
-          <note xml:id="A-005-N2" n="2"> V. prefazione al libro giallo.</note>
-          <note xml:id="A-005-N3" n="3"> Il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> ritiene che i libri sieno stati scritti nella prima metà
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-005-N1" n="1" anchored="true">* Assai. (Ed.).</note>
+          <note xml:id="A-005-N2" n="2" anchored="true"> V. prefazione al libro giallo.</note>
+          <note xml:id="A-005-N3" n="3" anchored="true"> Il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> ritiene che i libri sieno stati scritti nella prima metà
             del secolo. Nessuna prova potemmo trovare nel codice di quest'asserzione, a meno che
             non si ritenga tale l'indicazione della località di una pianta (<ref type="internal" target="#R1-055">Ro. I, 55</ref>) «in pie' de
             monti d'Austria a Tubinge». La città di Tubinga nel Württemberg appartenne all'Austria
@@ -98,7 +98,7 @@
             1554 parla del lavoro che fa il pittore per dipingergli le piante. Queste lettere fanno
             parte dei Ms. Aldrovandiani alla Biblioteca di Bologna, al N. 38. Tomo I, c. 175 e
             176.</note>
-          <note xml:id="A-005-N4" n="4">* I confronti, a pag. 301 dei Semplici, sono due. Oltre alle considerazioni,
+          <note xml:id="A-005-N4" n="4" anchored="true">* I confronti, a pag. 301 dei Semplici, sono due. Oltre alle considerazioni,
             qui messe in evidenza, per cui esclude l'identità fra atragene (vitalba) e vite
             selvatica, l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> espone, categoricamente, il suo giudizio negativo sull'identità
             di <foreign xml:lang="grc">ἄμπελος ἀγρὶα</foreign>(vite selvatica) di Dioscoride con <hi>Amara dulcis</hi> (v. più avanti al <ref type="internal" target="#A-124">N.

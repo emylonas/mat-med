@@ -4,52 +4,52 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 88 Acatia Seconda</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Acatia seconda da Diascoride - Aspalato da molti - Achanto da Theophrasto.</p>
+          <p part="N"> Acatia seconda da Diascoride - Aspalato da molti - Achanto da Theophrasto.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> De due sp. ne pone Diascoride.</p>
+          <p part="N"> De due sp. ne pone Diascoride.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoa radice legnosa rossignia et alquanto proffunda, son frutice sarmentoso armato di
+          <p part="N"> Suoa radice legnosa rossignia et alquanto proffunda, son frutice sarmentoso armato di
             pongenti spini et sotili. Il suo legnio rosseggia et denso. Suoe frondi sopra di picciol
             ramuscoli picciole rascontrate et finiscono in due, al gusto amare et simil a lentechie
             ma minore. Suoi fiori io no li ho veduti da qualli ci vengono suoi caratoli et semi
             simil a quelli de Carobe ma piu chiari di colore liscio, rotondo, alquanto stiaciato et
             finiscono in longo.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Nasce in Capedocia. In Candia dunde io ne hebbi et di molti anni mi naque ma con il
+          <p part="N"> Nasce in Capedocia. In Candia dunde io ne hebbi et di molti anni mi naque ma con il
             fredo si perde, et per diligentia grande che io li habbi usato non mi ha valso.</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p> Sole molto et caldo assa scampandola dal verno.</p>
+          <p part="N"> Sole molto et caldo assa scampandola dal verno.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> Rimanda abasso assa che si puol remeter et de suoi caratoli ancora.</p>
+          <p part="N"> Rimanda abasso assa che si puol remeter et de suoi caratoli ancora.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONE</head>
-          <p> Il <persName ref="belon-pierre">Belonio</persName>simplicista errante et suffitiente me diede de semi con nome di Acatia
+          <p part="N"> Il <persName ref="belon-pierre">Belonio</persName>simplicista errante et suffitiente me diede de semi con nome di Acatia
             seconda di Cappedocia. L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 36 narra de uno altro Aspalato rodioto el qual
             tiene che il legno aloe rodio sia il vero aspalato. Et di questa non ne fa mentione
             alcuna, ma molti savij la tengono questa pianta piu presto per Acatia seconda che per
@@ -57,11 +57,11 @@
             molto corrispondente per l'Aspalato. Vero è, che non havendo veduto de lui altro ch'il
             legnio el qual potrebonsi de legiero dargli l'odore io non scio afirmare.</p>
         </div>
-        <div type="editorial-D">
-          <p>La figura <ptr target="#A-088-N1"/> dell'albero sterile è in un cortile a porticato, con pavimento a quadri
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">La figura <ptr target="#A-088-N1"/> dell'albero sterile è in un cortile a porticato, con pavimento a quadri
             bianchi e rossi alla veneziana ed in riva al mare.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-088-N1" n="1"> * Fig. infelice, con le radici rappresentate fuori terra.(Ed.).</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-088-N1" n="1" anchored="true"> * Fig. infelice, con le radici rappresentate fuori terra.(Ed.).</note>
         </div>
       </body></text></TEI>

@@ -4,48 +4,48 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 99 Ben da Perfumieri</head>
-        <ab>[<hi>Moringa alata *an aptius M. pterigosperma Gaertner?</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000448146"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Moringa alata *an aptius M. pterigosperma Gaertner?</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000448146"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Ben da profumieri - Gianda unguentaria da Latini - Mirabolano et Balano mirepsico da
+          <p part="N"> Ben da profumieri - Gianda unguentaria da Latini - Mirabolano et Balano mirepsico da
             Greci.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Due spetie ne ponne Mesue l'uno fa il fruto grande et l'altro picciolo, il grande
+          <p part="N"> Due spetie ne ponne Mesue l'uno fa il fruto grande et l'altro picciolo, il grande
             triangulare come in nocciola l'altro come cece. Et in questo a k. 4.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoa radice legnosa et scura. Son albero mediocre di legno beretinazzio, suoe frondi
+          <p part="N"> Suoa radice legnosa et scura. Son albero mediocre di legno beretinazzio, suoe frondi
             sopra a ramuscoli rascontrate qualle finiscono in una come gensamini <ptr target="#A-099-N1"/> ma piccole
             lunghete, ma nelle cime suoe sonno come tolte via di maniera che paiono come rotonde
             <ptr target="#A-099-N2"/>, con gusto alquanto amaro, suoi fruti rotondi bianchi con suoa mandola grassa, amara
             et rotonda dentro.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Vengono di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, portate a noi suoi rotondi fruti. Et di <placeName ref="https://www.geonames.org/2219875/al-maghrib.html">Barbaria</placeName>.</p>
+          <p part="N"> Vengono di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName>, portate a noi suoi rotondi fruti. Et di <placeName ref="https://www.geonames.org/2219875/al-maghrib.html" instant="false" full="yes">Barbaria</placeName>.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p>De suoi rotondi nuclei mi son nato ma con il fredo il persi.</p>
+          <p part="N">De suoi rotondi nuclei mi son nato ma con il fredo il persi.</p>
         </div>
-        <div type="editorial-D">
-          <p>La pianta sorge sul pendio di un monte abitato ed è sterile, non avendone il Michiel
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">La pianta sorge sul pendio di un monte abitato ed è sterile, non avendone il Michiel
             potuto ottenere i frutti <ptr target="#A-099-N3"/>. Perciò egli, non avendo potuto conoscere l'opera dell'Acosta [2] la quale fu pubblicata due anni dopo la sua morte, credette, come generalmente si riteneva, che fossero frutti i semi. Era uso di sgusciare i semi od almeno
             troncar loro le ale quando si spedivano in Europa per economia di spazio, perciò il Michiel li chiama rotondi. Il <persName ref="rinio-benedetto">Rinio</persName> invece conobbe i semi della congenere M. aptera e li
             figurò come frutti sopra un albero fittizio a c. 375. Invece la presente figura, pur
@@ -59,23 +59,23 @@
             confert mihi sane displicet, est enim revera eius arboris folium myrti seu heliotropij
             folijs haud absimile, sicuti cum myrica nihil simile habet sed et arbor est procera quae
             unguentariam fert glandem, non ut myrica arbustum .</p>
-          <p>Il Mattioli che esaminò la figura copiata dal <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref>, vedendola si differente dalle
+          <p part="N">Il Mattioli che esaminò la figura copiata dal <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref>, vedendola si differente dalle
             descrizioni degli antichi, dubitò fosse fittizia <ptr target="#A-099-N4"/>, il che dimostra che, quando egli
             visitò <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="72"/> il giardino
             del Michiel, la pianta era ormai morta. Il Mattioli poi suppose che la Ghianda
             unguentaria fosse Syringa vulgaris, il che gli attirò le critiche del <persName ref="guilandino-melchiorre">Guilandino</persName> di cui
             parla il nostro autore al N. 4.</p>
-          <p>Malgrado la pubblicazione dell'opera di Acosta che dà la vera forma del frutto, la
+          <p part="N">Malgrado la pubblicazione dell'opera di Acosta che dà la vera forma del frutto, la
             credenza che il guscio seminale fosse il pericarpo continuò per oltre un secolo
             (43).</p>
-          <p>Come nota il Michiel, questa moringa era il dopobalavos dei Greci che, per la somiglianza del nome, fu a torto confuso [40] coi mirabolani degli Arabi di cui si parla
+          <p part="N">Come nota il Michiel, questa moringa era il dopobalavos dei Greci che, per la somiglianza del nome, fu a torto confuso [40] coi mirabolani degli Arabi di cui si parla
             al</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-099-N1" n="1"> Gelsomini.</note>
-          <note xml:id="A-099-N2" n="2"> Cioè smarginate · obcordate.</note>
-          <note xml:id="A-099-N3" n="3"> Lo stesso caso avvenne al Ghini (305).</note>
-          <note xml:id="A-099-N4" n="4"> «L'ecc. medico Andrea Marini... dipinge una pianta per la Ghianda unguentaria
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-099-N1" n="1" anchored="true"> Gelsomini.</note>
+          <note xml:id="A-099-N2" n="2" anchored="true"> Cioè smarginate · obcordate.</note>
+          <note xml:id="A-099-N3" n="3" anchored="true"> Lo stesso caso avvenne al Ghini (305).</note>
+          <note xml:id="A-099-N4" n="4" anchored="true"> «L'ecc. medico Andrea Marini... dipinge una pianta per la Ghianda unguentaria
             la quale dice baver havuta dal cl. M. Pier Antonio Michieli gentilhuomo venetiano molto
             differente in tutte le parti dall'altre dette di sopra. Ma non ho ragione con cui possa
             provare se sia vera o falsa questa figura. Il titolo che vi è scritto sopra so ben io

@@ -4,55 +4,55 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 141 Nil Spetie</head>
-        <ab>[<hi>Ipomoea purpurea Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Ipomoea purpurea Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Nil spetie da messer <persName ref="martinelli-francesco">Cechin</persName>, legi <ref type="internal" target="#A-142">k. 142</ref>.</p>
+          <p part="N"> Nil spetie da messer <persName ref="martinelli-francesco">Cechin</persName>, legi <ref type="internal" target="#A-142">k. 142</ref>.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Questo uno et il sequente l'altro, et se son endegi <ptr target="#A-141-N1"/> son diversi da gli Isati de
+          <p part="N"> Questo uno et il sequente l'altro, et se son endegi <ptr target="#A-141-N1"/> son diversi da gli Isati de
             Diascoride.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoa radice di coda sotil. Et di alcun valor. Son pianta che se invoglie <ptr target="#A-141-N2"/> et simil
+          <p part="N"> Suoa radice di coda sotil. Et di alcun valor. Son pianta che se invoglie <ptr target="#A-141-N2"/> et simil
             al fior di note [<ref type="internal" target="#A-011">N. 11</ref>]... Suoi fiori tra le frondi che nel suo venir apareno neri, ma
             più oltre non li ho veduti che sopragiunse el fredo et non si aperse...</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Io l'hebbi di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html">Soria</placeName>, la condusse m. Cechin dal Angelo diligentissimo
+          <p part="N"> Io l'hebbi di <placeName ref="https://www.geonames.org/163843/syrian-arab-republic.html" instant="false" full="yes">Soria</placeName>, la condusse m. Cechin dal Angelo diligentissimo
             simplicista.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> La seminai a primavera et mi naque. Et suoi fiori qui da noi de ottobrio a tal che non
+          <p part="N"> La seminai a primavera et mi naque. Et suoi fiori qui da noi de ottobrio a tal che non
             ci <ptr target="#A-141-N3"/> tempo poi di finir il resto <ptr target="#A-141-N4"/>.</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta con fiori in bottone morti, come appare dal color cinereo e come è già narrato
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta con fiori in bottone morti, come appare dal color cinereo e come è già narrato
             nel testo. Questa pianta americana era ormai naturalizzata in Oriente, perché il Michiel
             ricevette il campione dalla Siria a mezzo del Martinelli [Francesco Martinelli, speziale all'Angelo]. Sull'identificazione del Nil
             degli Arabi, vedi N. 11.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-141-N1" n="1"> Indachi.</note>
-          <note xml:id="A-141-N2" n="2"> Avvolge.</note>
-          <note xml:id="A-141-N3" n="3"> C'è.</note>
-          <note xml:id="A-141-N4" n="4"> Sbocciamento e fruttificazione. </note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-141-N1" n="1" anchored="true"> Indachi.</note>
+          <note xml:id="A-141-N2" n="2" anchored="true"> Avvolge.</note>
+          <note xml:id="A-141-N3" n="3" anchored="true"> C'è.</note>
+          <note xml:id="A-141-N4" n="4" anchored="true"> Sbocciamento e fruttificazione. </note>
         </div>
       </body></text></TEI>

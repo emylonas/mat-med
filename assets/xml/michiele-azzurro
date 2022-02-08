@@ -5,14 +5,14 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
@@ -48,8 +48,6 @@ plant
         plant003.xml--&gt; 
           
         
-      
-
       
 plant
         

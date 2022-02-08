@@ -4,51 +4,51 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 127 Mirto Latifolia</head>
-        <ab>[<hi>Myrtus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000248712"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Myrtus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000248712"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Mirto gentile latifolia da volgari. Li altri nomi se dirano alla sequente specie.</p>
+          <p part="N"> Mirto gentile latifolia da volgari. Li altri nomi se dirano alla sequente specie.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Di tre sp. mortina ne pose Catone. Candida, nera, et congiugale chiamasi hoggi
+          <p part="N"> Di tre sp. mortina ne pose Catone. Candida, nera, et congiugale chiamasi hoggi
             sativi, salvatici et latifolia. Io non dimostro la piu communa con foglie grande.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Quelli di Egipto sonno piui odorifferi, ne sonno in Toscana, Siena et in Romagnia, et
+          <p part="N"> Quelli di Egipto sonno piui odorifferi, ne sonno in Toscana, Siena et in Romagnia, et
             son dedicato a Venere in segnio di pace.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI</head>
-          <p> DELLA PIANTA Questa son specie di mirto che non si puol negare.</p>
+          <p part="N"> DELLA PIANTA Questa son specie di mirto che non si puol negare.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Gli profumieri de suoi fiori ne trae aqua lambicata odoriffera. Et del suo succhio se
+          <p part="N"> Gli profumieri de suoi fiori ne trae aqua lambicata odoriffera. Et del suo succhio se
             ne thrae vino et oglio. Et suoe chocoline (3) in vece di pepe da antiqui furno usate. Da
             il seme et frondi secche et polverizati et di questa polvere posta nel vino et beuto
             valle a velenati per fonghi et alla peste...</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fiorita. Nel testo l'autore dice: «suoi fiori tra le frondi verso la summita
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fiorita. Nel testo l'autore dice: «suoi fiori tra le frondi verso la summita
             bianchi piccioli di 7 fogline in ruosa di buono odore però nella figura i fiori
             ascellari trovansi a tutte le altezze ed hanno le corolle di cinque lobi.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-127-N3" n="3"> Bacche. </note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-127-N3" n="3" anchored="true"> Bacche. </note>
         </div>
       </body></text></TEI>

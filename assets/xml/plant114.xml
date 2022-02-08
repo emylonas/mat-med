@@ -4,42 +4,42 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 114 Pistachier</head>
-        <ab>[<hi>Pistacia vera L. ♀</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000393766"/></ab>
-        <div type="names">
+        <ab part="N">[<hi>Pistacia vera L. ♀</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000393766"/></ab>
+        <div type="names" part="N" org="uniform" sample="complete">
           <head>Nomi</head>
-          <p>Pistachier da volgari - Pistacia da Greci - Pisthoc, Fustech, Siusistach da Arabi - Fistucia
+          <p part="N">Pistachier da volgari - Pistacia da Greci - Pisthoc, Fustech, Siusistach da Arabi - Fistucia
             da Latini - Therebinto indiano da Theophrasto.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Sonno di molti che pongono per spetie di silvestro pistacchio il seguente
+          <p part="N"> Sonno di molti che pongono per spetie di silvestro pistacchio il seguente
             stafilodendro.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Son Arbore Surian <ptr target="#A-114-N1"/> et sonno de Giardini per Italia che ne custodiscono come il
+          <p part="N"> Son Arbore Surian <ptr target="#A-114-N1"/> et sonno de Giardini per Italia che ne custodiscono come il
             clar. M. Francesco Mauroceno nel suo vaghissimo giardino in Murano. Et ne sonno in
             Egipto.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p>De suoi fruti nati qui mi son nasciuto.</p>
+          <p part="N">De suoi fruti nati qui mi son nasciuto.</p>
         </div>
-        <div type="editorial-D">
-          <p>Figura di albero fiorito e fruttifero con scoiattoli che si arrampicano e ne man-
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Figura di albero fiorito e fruttifero con scoiattoli che si arrampicano e ne man-
             giano i semi. A parte due rami, uno con foglie e fiori, l'altro con foglie e frutti. In
             complesso le figure sono inferiori per bellezza a quelle del <persName ref="rinio-benedetto">Rinio</persName> (c. 176), ma più
             esatte nell'infiorescenza. I frutti della figura del Rinio appartengono alla varietà
@@ -51,7 +51,7 @@
             de Moresinis quas Murani habent, vidimus. Illuc me duxit Rev. Praesul Hieronymus
             Moresinus vir ingenti probitate insignis. In Syria propriae nascuntur et ex Syria
             recentes surculos praedicti nobiles afferri curarunt».</p>
-          <p>L'autore nostro ci avverte nel testo che il pistacchio era coltivato in altri giardini oltre il suo e quello del Morosini e ciò spiega il fatto della fruttificazione di
+          <p part="N">L'autore nostro ci avverte nel testo che il pistacchio era coltivato in altri giardini oltre il suo e quello del Morosini e ciò spiega il fatto della fruttificazione di
             questa pianta dioica, perché gl'individui maschi fornivano ai femminei il polline che,
             come l'esperienza dimostrò, può traversare gran distanze. Nulla ci dice qui Michiel
             della fecondazione artificiale che fu descritta si chiaramente un secolo dopo dal
@@ -63,18 +63,18 @@
             artificiale dovea venir naturalmente dall'osservare che non tutti i pistacchi dánno
             frutto il che portava ad imitare ciò che ormai si faceva nell'Egitto per le palme
             dattilifere e nella stessa Sicilia per i fichi <ptr target="#A-114-N3"/>.</p>
-          <p>Se il pistacchio nel Veneto era nel secolo XVI una pianta rara, al di là delle Alpi era
+          <p part="N">Se il pistacchio nel Veneto era nel secolo XVI una pianta rara, al di là delle Alpi era
             ancora meno conosciuto, tanto che un secolo dopo Michiel, lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray [63]</ref>, pur dandone
             la figura a pag. 19, dubita se sia il vero pistacchio ed a pag. 597 dà l'effigie
             dell'olmo colle parole: «Quos autem hic pingimus ramos Lutetiae Pistaciae nomine accepimus». E più curioso è il fatto che a pag. 59 vi è la descrizione dell'Ulmus con una
             figura inesatta che par fittizia!.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-114-N1" n="1"> Siriaco.</note>
-          <note xml:id="A-114-N2" n="2"> Sogliono in Sicilia fecondare ed ingravidare questa specie d'Arbore nel
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-114-N1" n="1" anchored="true"> Siriaco.</note>
+          <note xml:id="A-114-N2" n="2" anchored="true"> Sogliono in Sicilia fecondare ed ingravidare questa specie d'Arbore nel
             seguente modo: «Attendono che il Pistacchio femina habbia i fiori aperti ed all'hora...». Il Boccone descrive cinque differenti metodi di fecondazione artificiale, il che
             prova che l'invenzione aon datava da pochi anni.</note>
-          <note xml:id="A-114-N3" n="3"> II Boccone parla anche di queste due fecondazioni artificiali e dice che
+          <note xml:id="A-114-N3" n="3" anchored="true"> II Boccone parla anche di queste due fecondazioni artificiali e dice che
             quella dei pistacchi chiamasi a Girgenti turchiariase. </note>
         </div>
       </body></text></TEI>

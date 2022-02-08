@@ -4,57 +4,57 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 152 Oxiacanta</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Oxia Cantha da Greci Pirina et Pitiantha da alcuni — Acuta spina dal Ruelio.</p>
+          <p part="N"> Oxia Cantha da Greci Pirina et Pitiantha da alcuni — Acuta spina dal Ruelio.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Questo et k. 87 tenuto (2).</p>
+          <p part="N"> Questo et k. 87 tenuto (2).</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Io l'ebbi da Bolognia dal ecc. M. <persName ref="ghini-luca">Luca Ghino</persName>.</p>
+          <p part="N"> Io l'ebbi da Bolognia dal ecc. M. <persName ref="ghini-luca">Luca Ghino</persName>.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 57 dice non poter esser ma penso non haveva veduto il fruto di questo.
+          <p part="N">L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 57 dice non poter esser ma penso non haveva veduto il fruto di questo.
             Il Mathiolo vuole sia l'Amperlo vel Bagaija. Et altri tengono il Berberi con non scio
             che denon giudicio [N. 139]. </p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="104"/>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Si per il gusto come per la discretione che descrive Diascoride della Oxiachanta
+          <p part="N"> Si per il gusto come per la discretione che descrive Diascoride della Oxiachanta
             questo si conviene raggionevolmente.</p>
         </div>
-        <div type="editorial-D">
-          <p>Figura poco accurata di pianta fiorita e fruttifera. Nelle foglie non appaiono le
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Figura poco accurata di pianta fiorita e fruttifera. Nelle foglie non appaiono le
             minute dentature,</p>
-          <p>Nel testo il Michiel paragona la pianta al perastro che infatti è un congenere <ref type="internal" target="#A-145)">(N. 145)</ref> e le foglie a quelle
+          <p part="N">Nel testo il Michiel paragona la pianta al perastro che infatti è un congenere <ref type="internal" target="#A-145)">(N. 145)</ref> e le foglie a quelle
             dell'olivella o putana.</p>
-          <p>Si disse già <ref type="internal" target="#A-087)">[N. 87]</ref> come sia giusta l'identificazione qui
+          <p part="N">Si disse già <ref type="internal" target="#A-087)">[N. 87]</ref> come sia giusta l'identificazione qui
             data dal Michiel, mentre oggidì, seguendo Linneo, si chiama <hi>Oxyacantha</hi> il biancospino.
             E, siccome il Michiel ricevette la pianta dal Ghini, abbiamo la prova che l'Oxyacantha di quest'autore era C. Pyracantha, come già si riteneva probabile per la
             diagnosi che egli ne dà [303, 305] e dalle sue parole: «Dioscorides describens
             Oxyacantham dicet similis esse Pirastro». Pel Mattioli invece l'Oxyacantha era
             <hi>Crataegus oxyacantha</hi>.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-152-N2" n="2"> · Il testo veramente porta 85, certo per una svista. (Ed.).</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-152-N2" n="2" anchored="true"> · Il testo veramente porta 85, certo per una svista. (Ed.).</note>
         </div>
       </body></text></TEI>

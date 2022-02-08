@@ -4,46 +4,46 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 65 Sorbo Terminale</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016033"/>[<hi>Pirus torminalis Ehrh.</hi>]</ab>
-        <div type="name">
+        <ab part="N"><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016033"/>[<hi>Pirus torminalis Ehrh.</hi>]</ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Sorbe torminale da volgari - Crategus son il sorbe torminale Plinij - Milder Sperwerbaum,
+          <p part="N"> Sorbe torminale da volgari - Crategus son il sorbe torminale Plinij - Milder Sperwerbaum,
             Eschronsel da Germani <ptr target="#A-065-N1"/>.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Con nome di sorbe, oltra di questo son il domestico. Et de Crategon sono inanti k. 53
+          <p part="N"> Con nome di sorbe, oltra di questo son il domestico. Et de Crategon sono inanti k. 53
             uno altro albero.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne monti de Italia ne sonno. Et li <placeName ref="https://www.geonames.org/7910496/san-francesco-della-vigna.html">frati zocolanti in San Francesco</placeName> nel suo
+          <p part="N"> Ne monti de Italia ne sonno. Et li <placeName ref="https://www.geonames.org/7910496/san-francesco-della-vigna.html" instant="false" full="yes">frati zocolanti in San Francesco</placeName> nel suo
             giardineto ne ha uno.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> et altri k. 80 tiene che il Sorbo torminale di Plinio sia l'istesso che
+          <p part="N"> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> et altri k. 80 tiene che il Sorbo torminale di Plinio sia l'istesso che
             il Crategus di Theophrasto, ma le foglie non lo dimostrano se son questo che le hanno di
             Platano. </p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fiorita e fruttifera; a parte due ramoscelli, uno fiorito, l'altro fruttifero
             in grandezza naturale.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-065-N1" n="1">Nomi del sorbo comune.</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-065-N1" n="1" anchored="true">Nomi del sorbo comune.</note>
         </div>
       </body></text></TEI>
