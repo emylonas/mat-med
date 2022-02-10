@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 100 Betula</head>
-        <ab part="N">[<hi>Betula alba L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000330385"/></ab>
+        <ab part="N">[<hi>Betula alba L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000330385"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77167690-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Betula da Theophrasto - Biola et Belula in Italia - Birchen da Tedeschi.</p>

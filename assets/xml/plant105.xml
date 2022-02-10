@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 105 Lentisco</head>
-        <ab part="N">[<hi>Pistacia Lentiscus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000394118"/></ab>
+        <ab part="N">[<hi>Pistacia Lentiscus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000394118"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:70253-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Lentiscus da Latini - Schinus da Greci - Mescehe et Meseccha da Arabi - Stinchi da
@@ -69,7 +69,7 @@
             e, per errore di informazione, credette crescessero sul lentisco, mentre son proprie del
             terebinto e chiamansi volgarmente carrube di Giuda. Fa sorpresa il veder l'errore
             ripetuto in libri molto recenti (161).</p>
-          <p part="N">Pena e Lobelio (180) parlano dell'industria degli stecchini (dentiscalpia) di cui si
+          <p part="N">Pena e Lobelio [180] parlano dell'industria degli stecchini (dentiscalpia) di cui si
             parla e che era esercitata a Genova dai galeotti).</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">

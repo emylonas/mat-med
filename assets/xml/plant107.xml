@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 107 Cumara</head>
-        <ab part="N">[<hi>Arbutus Unedo L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000543204"/></ab>
+        <ab part="N">[<hi>Arbutus Unedo L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000543204"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326526-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Cumara nel Vesentin - Arbuto, Albatro, Corbezolo et Arbor fragaria da Latini - Comaron et
@@ -38,7 +38,7 @@
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p part="N"> - L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
+          <p part="N">L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
             vel andrachne sia l'Arbuto di Diascoride.</p>
         </div>
         <div type="properties" part="N" org="uniform" sample="complete">

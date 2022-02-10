@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 98 Oleandro</head>
-        <ab part="N">[<hi>Nerium Oleander L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000251577"/>.</ab>
+        <ab part="N">[<hi>Nerium Oleander L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000251577"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:80460-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Leandro da volgari - Nerion et Rododendrum da Greci - Oleander da Latini - Nereo da Arabi –
@@ -68,7 +68,7 @@
             leandro: «Flores quos interdum rubellos, interdum albos memini tum in hortis
             italicis, tum in maritimis» e la Historia Lugdunensis: «Nerium aliquot pinxit Lobelius
             Alore albo quale se vidisse ait Pena tum in hortis italicis, tum in maritimis.
-            Dall'<persName ref="alguillara-luigi">Anguillara</persName> abbiamo la testimonianza che dieci anni prima il leandro a fior bianco
+            Dall'<persName ref="anguillara-luigi">Anguillara</persName> abbiamo la testimonianza che dieci anni prima il leandro a fior bianco
             era per opera del Michiel divenuto comune nella nostra Penisola. Ecco le parole
             dell'insigne botanico a pag. 82 (17): «Enne di quello che fa il fiore bianco ma in
             tutto il resto poi sono simili. l'un e l'altro si ponno vedere nel vaghissimo giardino

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 108 Frutice Incognito</head>
-        <ab part="N">[<hi>I. Vaccinium Vitis Idaea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421966"/> [<hi>II. Vaccinium Myrtillus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422209"/></ab>
+        <ab part="N">[<hi>I. Vaccinium Vitis Idaea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421966"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261823-2"/> </ab> <ab part="N"> [<hi>II. Vaccinium Myrtillus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422209"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30006039-2"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Incognito frutice - Uva d'Orso dal Anguillara - Loto da alcuni spetie questa seconda

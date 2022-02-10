@@ -18,7 +18,7 @@ layout: single
  - [N. 62 Andracne]({{ site.baseurl }}edition/plant062/) [2]
  - [N. 64 Platano]({{ site.baseurl }}edition/plant064/) 
                    
-## [Alguillara, Luigi](https://www.treccani.it/enciclopedia/squalermo-luigi-detto-anguillara_%28Dizionario-Biografico%29/)
+## [Anguillara, Luigi](https://www.treccani.it/enciclopedia/squalermo-luigi-detto-anguillara_%28Dizionario-Biografico%29/)
 Alternate Names: Anguillara, Alvise
  - [N. 3 Lauro Silvestre]({{ site.baseurl }}edition/plant003/) 
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) [7]

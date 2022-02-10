@@ -20,7 +20,7 @@
         <ab part="N">[<hi>Clematis Flammula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000609903"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:709687-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p part="N"> Vite biacha <ptr target="#A-007-N1"/> da volgari - Clematite dal ecc. M. <persName ref="alguillara-luigi">Alovise Anguilara</persName> - Clematitis aspera
+          <p part="N"> Vite biacha <ptr target="#A-007-N1"/> da volgari - Clematite dal ecc. M. <persName ref="anguillara-luigi">Alovise Anguilara</persName> - Clematitis aspera
             dal ecc. M. <persName ref="ghini-luca">Luca Ghini</persName> - Flamula Jovis da volgari - Ciclamino Secondo da il <persName ref="ryff-walther-hermann">Gualtieri</persName> -
             Epigetin da alcuni Phylacrion da Egyptij - Ambuxum da Romani.</p>
         </div>
@@ -39,7 +39,7 @@
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
           <p part="N"> Parmi vengha assa bene con il Ciclamino Secondo et non son oppinion de il <persName ref="ryff-walther-hermann">Gualtieri</persName>
-            perché dimostra sia altra pianta. Et M. <persName ref="alguillara-luigi">Aloise Anguilara</persName> [a] k. 301 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> vole sia
+            perché dimostra sia altra pianta. Et M. <persName ref="anguillara-luigi">Aloise Anguilara</persName> [a] k. 301 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> vole sia
             la Clematite et l'ecc. M. <persName ref="ghini-luca">Luca Ghini</persName> tiene sia la <hi>Clematitis aspera</hi>. Et de molti
             inganatosi pensorno che fusse quella spezie commune de volubili produce la campanella
             bianca.</p>

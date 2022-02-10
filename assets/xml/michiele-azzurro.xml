@@ -37,7 +37,7 @@
         <persName type="alt">Wieland, Melchior</persName>
       </person>
       <person>
-        <persName xml:id="Anguillara" ref="https://www.treccani.it/enciclopedia/squalermo-luigi-detto-anguillara_%28Dizionario-Biografico%29/">Alguillara, Luigi</persName>
+        <persName xml:id="Anguillara" ref="https://www.treccani.it/enciclopedia/squalermo-luigi-detto-anguillara_%28Dizionario-Biografico%29/">Anguillara, Luigi</persName>
         <persName type="alt">Anguillara, Alvise</persName>
       </person>
       <person>
@@ -4334,7 +4334,8 @@
 
       <div type="plant" xml:id="A-089">
         <head>N. 89 Acatia</head>
-        <ab>[<hi>Calycotome spinosa Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213263"/></ab>
+        <ab>[<hi>Calycotome spinosa Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213263"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:127578-3
+          "/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Acatia prima da Diascoride - Alcarthi da Arabi - Acantho da Theophrasto - Sethim da molti - 
@@ -4386,7 +4387,7 @@
 
       <div type="plant" xml:id="A-090">
         <head>N. 90 Charance</head>
-        <ab>[<hi>Momordica Balsamina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000376910"/></ab>
+        <ab>[<hi>Momordica Balsamina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000376910"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:293397-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Charancia da volgari - Balsamina da latini et Pomum mirabile dal Trago - Merveille zioè
@@ -4436,7 +4437,7 @@
 
       <div type="plant" xml:id="A-091">
         <head>N. 91 Brionia</head>
-        <ab>[<hi>Bryonia dioica Jacq. ...</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000572974"/></ab>
+        <ab>[<hi>Bryonia dioica Jacq. ...</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000572974"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77200692-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Vite alba, Viticella et Brionia da Latini - Zucha salvatica da volgari - Fesera, Fea vel
@@ -4575,7 +4576,7 @@
 
       <div type="plant" xml:id="A-095">
         <head>N. 95 Storace</head>
-        <ab>[<hi>Styrax officinale L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000492654"/></ab>
+        <ab>[<hi>Styrax officinale L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000492654"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327052-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Storax da Latini - Melachac da Arabi - Sigia da Greci - Calamita da volgari il suo
@@ -4665,14 +4666,14 @@
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
-          <p> – Sempre in ogni staggion non perde foglia.</p>
+          <p>Sempre in ogni staggion non perde foglia.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Fu oppinione che uno ramo porto il clar. M. Lorenzo Tiepolo essendo consolo fusse
+          <p> Fu oppinione che uno ramo portò il clar. M. Lorenzo Tiepolo essendo consolo fusse
             il vero balsamo. Il seme suo chiamato carpobalsamo son molto differente di quello delle
-            spetiarie et anche il legno suo chiamato Xilobalsamo che dimostrano non son il vero
-            percioche manca di tutte le qualita che ci conviene.</p>
+            spetiarie et anche il legno suo chiamato xilobalsamo che dimostrano non son il vero
+            percioché manca di tutte le qualità che ci conviene.</p>
         </div>
         <div type="disagreements">
           <head>DISPARERI</head>
@@ -4680,20 +4681,20 @@
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
-          <p> Il Balsamo si cava dal tronco del albero intacandolo l'Esta, di agratissimo odore. Et
+          <p> Il Balsamo si cava dal tronco del albero intacandolo l'esta' [= estate], di agratissimo odore. Et
             son calido et secco nel secondo ordine et odoriffero et valeno in molti poteri come si
-            legge in Diasc. lib. primo cap. 18. Galeno al 6. de faculta di simpl. Plinio lib.
-            12.25 Giustino Istorico lib. 26 Theophrasto lib. 9.6. Et di l'albero Gonconas ne cavano
+            legge in Diasc. lib. primo cap. 18, Galeno al 6. de Facultà di simpl., Plinio lib.
+            12.25, Giustino Istorico lib. 26, Theophrasto lib. 9.6. Et di l'albero Gonconas ne cavano
             balsamo bastardo qual ha buon odore et arde come la midola del Pino come ci narra el
-            p. <ptr target="#A-096-N1"/> libro delle Indie 47.</p>
+            <ptr target="#A-096-N1"/> primo libro delle Indie 47.</p>
         </div>
         <div type="editorial-D">
           <p>(Pianta fruttifera a foglie piccole ovali, frutti a grappoli pendenti <ptr target="#A-096-N2"/>.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-096-N1" n="1"> * Questa citazione del primo libro è certo una svista; doveva essere [77] «libro II, k. 47». (Ed.).</note>
+          <note xml:id="A-096-N1" n="1"> * Questa citazione del «primo libro» è certo una svista; doveva essere [77] «libro II, k. 47». (Ed.).</note>
           <note xml:id="A-096-N2" n="2"> * La molto vaga indicazione circa il ramo portato dal Tiepolo e lo
-            sfavorevole accenno alla genuinità del legno «che dimostrano, si acoordano con
+            sfavorevole accenno alla genuinità del legno «che dimostrano, si accordano con
             l'opinione del Mattioli (ed. 1568, p. 67) che in Italia a quel tempo non giungesse,
             nonché la pianta, nemmeno la droga vera. È lecito perciò il dubbio che la figura sia più
             che altro modellata sulla descrizione, come non originali sono tutte le notizie e
@@ -4703,7 +4704,7 @@
 
       <div type="plant" xml:id="A-097">
         <head>N. 97 Visco</head>
-        <ab>[<hi>Viscum album L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000424722"/></ab>
+        <ab>[<hi>Viscum album L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000424722"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:300881-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Visco da volgari - Pania in Toscana - Quercino il migliore tenuto <ptr target="#A-097-N1"/> - Stelin in Euboea
@@ -4761,7 +4762,7 @@
 
       <div type="plant" xml:id="A-098">
         <head>N. 98 Oleandro</head>
-        <ab>[<hi>Nerium Oleander L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000251577"/>.</ab>
+        <ab>[<hi>Nerium Oleander L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000251577"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:80460-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Leandro da volgari - Nerion et Rododendrum da Greci - Oleander da Latini - Nereo da Arabi –
@@ -4919,7 +4920,7 @@
 
       <div type="plant" xml:id="A-100">
         <head>N. 100 Betula</head>
-        <ab>[<hi>Betula alba L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000330385"/></ab>
+        <ab>[<hi>Betula alba L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000330385"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77167690-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Betula da Theophrasto - Biola et Belula in Italia - Birchen da Tedeschi.</p>
@@ -4944,7 +4945,7 @@
 
       <div type="plant" xml:id="A-101">
         <head>N. 101 Barba Iovis</head>
-        <ab>[<hi>Anthyllis Barba-Jovis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/></ab>
+        <ab>[<hi>Anthyllis Barba-Jovis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:474645-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Barba Jovis in Italia - Impia Plinij da molti - Herba Herculis vel Honades, idest
@@ -4952,7 +4953,7 @@
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> Se Impia questa et nel primo libro rosso k. 102.</p>
+          <p> Se Impia questa et nel primo Libro Rosso k. 102.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
@@ -4981,7 +4982,7 @@
             suo succhio mescolato con late et vino de la impia son contra l'angine.</p>
         </div>
         <div type="editorial-D">
-          <p>(Pianta fiorita. Nella diagnosi l'autore dice: «picciol frondi nel ordine del gensa-
+          <p>Pianta fiorita. Nella diagnosi l'autore dice: «picciol frondi nel ordine del gensa-
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="73"/> min et ogni
             ramuscolo par una sol fronda», sospettando così trattarsi di una foglia composta.</p>
           <p>Dopo il Michiel e l'Anguillara parlò di questa specie Gaspare Bauhin che la trovo
@@ -4990,7 +4991,7 @@
             avea dato (pag. 83), perd non ne fu ancora soddisfatto <ptr target="#A-101-N4"/>, Perciò non conoscendosi che
             la descrizione vaga di Bauhin <ptr target="#A-101-N5"/> e le figure imperfette di Chabray vi furono dubbi
             sulla identificazione della Barba Jovis prima di Anguillara [315] che ora la figura del
-            Michiel permette di accertare).</p>
+            Michiel permette di accertare.</p>
         </div>
         <div type="notes">
           <note xml:id="A-101-N1" n="1"> Helichrysum Stoechas, lib. Ro. I, 324, e Ve. 90. H. Slouchas è il Barba Tovis
@@ -5004,7 +5005,7 @@
 
       <div type="plant" xml:id="A-102">
         <head>N. 102 Casia Solutiva</head>
-        <ab>[<hi>Cassia Fistula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000163802"/></ab>
+        <ab>[<hi>Cassia Fistula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000163802"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cassia solutiva et siliqua de Egipto - da Latini Cassia nera - da il Greco Atuario.</p>
@@ -5100,7 +5101,7 @@
 
       <div type="plant" xml:id="A-104">
         <head>N. 104 Terebinto</head>
-        <ab>[<hi>Pistacia Terebinthus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000393769"/></ab>
+        <ab>[<hi>Pistacia Terebinthus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000393769"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:70274-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Therebintum et Albotin da Greci - Botin da Arabi - Arbor grani viridis da Latini - Scalegnia
@@ -5163,7 +5164,7 @@
 
       <div type="plant" xml:id="A-105">
         <head>N. 105 Lentisco</head>
-        <ab>[<hi>Pistacia Lentiscus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000394118"/></ab>
+        <ab>[<hi>Pistacia Lentiscus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000394118"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:70253-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Lentiscus da Latini - Schinus da Greci - Mescehe et Meseccha da Arabi - Stinchi da
@@ -5215,7 +5216,7 @@
             e, per errore di informazione, credette crescessero sul lentisco, mentre son proprie del
             terebinto e chiamansi volgarmente carrube di Giuda. Fa sorpresa il veder l'errore
             ripetuto in libri molto recenti (161).</p>
-          <p>Pena e Lobelio (180) parlano dell'industria degli stecchini (dentiscalpia) di cui si
+          <p>Pena e Lobelio [180] parlano dell'industria degli stecchini (dentiscalpia) di cui si
             parla e che era esercitata a Genova dai galeotti).</p>
         </div>
         <div type="notes">
@@ -5227,7 +5228,7 @@
 
       <div type="plant" xml:id="A-106">
         <head>N. 106 Paliuro di Agatocle</head>
-        <ab>[<hi>Zizyphus ...</hi>]</ab>
+        <ab>[<hi>Zizyphus ...</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0000430303"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:719213-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Paliuro di Agatocle - Connaron da Atheneo - Serica da Galeno Giugibe – Ziziphe.</p>
@@ -5273,7 +5274,7 @@
 
       <div type="plant" xml:id="A-107">
         <head>N. 107 Cumara</head>
-        <ab>[<hi>Arbutus Unedo L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000543204"/></ab>
+        <ab>[<hi>Arbutus Unedo L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000543204"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326526-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cumara nel Vesentin - Arbuto, Albatro, Corbezolo et Arbor fragaria da Latini - Comaron et
@@ -5294,7 +5295,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> - L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
+          <p>L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
             vel andrachne sia l'Arbuto di Diascoride.</p>
         </div>
         <div type="properties">
@@ -5323,7 +5324,7 @@
 
       <div type="plant" xml:id="A-108">
         <head>N. 108 Frutice Incognito</head>
-        <ab>[<hi>I. Vaccinium Vitis Idaea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421966"/> [<hi>II. Vaccinium Myrtillus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422209"/></ab>
+        <ab>[<hi>I. Vaccinium Vitis Idaea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421966"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261823-2"/> </ab> <ab> [<hi>II. Vaccinium Myrtillus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422209"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30006039-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Incognito frutice - Uva d'Orso dal Anguillara - Loto da alcuni spetie questa seconda
@@ -5402,7 +5403,7 @@
         <div type="notes">
           <note xml:id="A-109-N1" n="1"> * L'interesse che può avere questa pianta - se, come pare, esaminata o
             comunicata dall'Anguillara – più che nella supposta corrispondenza col testo di
-            Nicandro (questo autore npuxd, verso 676 la nomina senza nessuna indicazione, e solo il
+            Nicandro (questo autore Θεριακά, verso 676 la nomina senza nessuna indicazione, e solo il
             suo commentatore la dice vagamente simile al pino), sta nella possibilità che
             rappresenti quella specie che l'aAnguillara osservò a Sebonico, e che le fg. disegnate
             nettamente aciculari, insieme con l'accenno al legno e ai frutti, farebbero supporte una

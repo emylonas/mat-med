@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 97 Visco</head>
-        <ab part="N">[<hi>Viscum album L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000424722"/></ab>
+        <ab part="N">[<hi>Viscum album L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000424722"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:300881-2"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N">Visco da volgari - Pania in Toscana - Quercino il migliore tenuto <ptr target="#A-097-N1"/> - Stelin in Euboea

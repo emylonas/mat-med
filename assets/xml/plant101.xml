@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 101 Barba Iovis</head>
-        <ab part="N">[<hi>Anthyllis Barba-Jovis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/></ab>
+        <ab part="N">[<hi>Anthyllis Barba-Jovis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:474645-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Barba Jovis in Italia - Impia Plinij da molti - Herba Herculis vel Honades, idest
@@ -25,7 +25,7 @@
         </div>
         <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p part="N"> Se Impia questa et nel primo libro rosso k. 102.</p>
+          <p part="N"> Se Impia questa et nel primo Libro Rosso k. 102.</p>
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
@@ -54,7 +54,7 @@
             suo succhio mescolato con late et vino de la impia son contra l'angine.</p>
         </div>
         <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">(Pianta fiorita. Nella diagnosi l'autore dice: «picciol frondi nel ordine del gensa-
+          <p part="N">Pianta fiorita. Nella diagnosi l'autore dice: «picciol frondi nel ordine del gensa-
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="73"/> min et ogni
             ramuscolo par una sol fronda», sospettando così trattarsi di una foglia composta.</p>
           <p part="N">Dopo il Michiel e l'Anguillara parlò di questa specie Gaspare Bauhin che la trovo
@@ -63,7 +63,7 @@
             avea dato (pag. 83), perd non ne fu ancora soddisfatto <ptr target="#A-101-N4"/>, Perciò non conoscendosi che
             la descrizione vaga di Bauhin <ptr target="#A-101-N5"/> e le figure imperfette di Chabray vi furono dubbi
             sulla identificazione della Barba Jovis prima di Anguillara [315] che ora la figura del
-            Michiel permette di accertare).</p>
+            Michiel permette di accertare.</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
           <note xml:id="A-101-N1" n="1" anchored="true"> Helichrysum Stoechas, lib. Ro. I, 324, e Ve. 90. H. Slouchas è il Barba Tovis

@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant107_verso.jpg"
 plant-img2: "/assets/img/plant107.jpg"
 plant-title: "N. 107 Cumara"
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000543204"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326526-1"
 plant-taxon-content: "Arbutus Unedo L."
 layout: single-xml
 ---
