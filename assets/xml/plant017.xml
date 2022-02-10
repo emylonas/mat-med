@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 17 Cedriolo</head>
-        <ab part="N">[<hi>Passiflora coerulea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000479867"/></ab>
+        <ab part="N">[<hi>Passiflora caerulea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000479867"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321949-2"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Mecoacan <ptr target="#A-017-N1"/> da Spagnioli — Cedriolo vel Cocomero sp.</p>
@@ -32,7 +32,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N"> Di Spagnia fu portata de qui, ma nasce nella <placeName ref="america-latina">Nova India</placeName> alla Isola del <placeName ref="mecoacan">Mecoacan</placeName> dunde
+          <p part="N"> Di Spagnia fu portata de qui, ma nasce nella <placeName ref="america-meridionale">Nova India</placeName> alla Isola del <placeName ref="mecoacan">Mecoacan</placeName> dunde
             Spagnioli li a posto nome dal luogho ci viene. Et sarà anche questo con errore posto
             come il resto non essendo Mecoacan.</p>
         </div>
@@ -60,7 +60,7 @@
             Mechoacan, ma più tardi l'errore fu corretto, sia per opera dello stesso <persName ref="guilandino-melchiorre">Guilandino</persName>, sia
             per avere il Michiel ricevuto un campione del vero Mechoacan che trovasi ritratto al <ref type="internal" target="#A-161">N.
               161</ref>. Giustamente il Michiel dall'errore del nome specifico dedusse l'errore di
-            abitazione; difatti la patria della passiflora è l'<placeName ref="america-latina">America meridionale</placeName>, non il <placeName ref="messico">Messico</placeName>
+            abitazione; difatti la patria della passiflora è l'<placeName ref="america-meridionale">America meridionale</placeName>, non il <placeName ref="messico">Messico</placeName>
             cui appartiene la provincia di <placeName ref="mecoacan">Mechoacan</placeName>. Il nome di isola che qui dà il Michiel a
             quella provincia che è continentale è il risultato di un errore scusabile, date le
             cognizioni geografiche di quei tempi. Le prime terre scoperte in America (Lucaie,

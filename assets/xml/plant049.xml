@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 49 Ficus Egiptia</head>
-        <ab part="N">[<hi>Ficus Sycomorus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000690537"/></ab>
+        <ab part="N">[<hi>Ficus Sycomorus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000690537"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853797-1"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Sicum morum da Latini et Ficus Egiptia overo meglio Cypria Sycaminum da Greci - Fico di

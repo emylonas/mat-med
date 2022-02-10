@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 37 Taso</head>
-        <ab part="N">[<hi>Taxus baccata L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000408637"/></ab>
+        <ab part="N">[<hi>Taxus baccata L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000408637"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:306036-2"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Nasso da volgari - Tasso da Romani - Smilace et Thymion da alcuni.</p>

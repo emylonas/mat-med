@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 27 Fusaria, Stonber</head>
-        <ab part="N">[<hi>Euonymus Europaeus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000681728"/></ab>
+        <ab part="N">[<hi>Euonymus Europaeus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000681728"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:160876-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N">Evonimo da Theophrasto - Fusaria latini - Barete da preti da vuolgari - Stomber <ptr target="#A-027-N1"/> da
@@ -37,7 +37,7 @@
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p part="N"> Da simplicisti sonno tenuti per l'Evonimo di Theophrasto lib. 3 cap. ultimo. Et
+          <p part="N"> Da simplicisti sonno tenuti per l'Euonimo di Theophrasto lib. 3 cap. ultimo. Et
             l'eccell. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 81 tiene anchora lui.</p>
         </div>
         <div type="properties" part="N" org="uniform" sample="complete">

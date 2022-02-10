@@ -17,10 +17,10 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 51 Cuciophoron</head>
-        <ab part="N"><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
+        <ab part="N">[<hi>Hyphaene Thebaica Mart.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:667540-1"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p part="N"> Cuciophoron da <persName ref="theophrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="plinius-caecilius-secundus-gaius">Plinio</persName>.</p>
+          <p part="N">Cuciophoron da <persName ref="theophrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="plinius-caecilius-secundus-gaius">Plinio</persName>.</p>
         </div>
         <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>

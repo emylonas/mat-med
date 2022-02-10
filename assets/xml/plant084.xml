@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 84 Tragio</head>
-        <ab part="N">[<hi>Hypericum hircinum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000727735"/></ab>
+        <ab part="N">[<hi>Hypericum hircinum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000727735"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:433491-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Tragio da Diascoride.</p>

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 58 Anagiro, Egano</head>
-        <ab part="N"><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000214693"/>[<hi>Cytisus Laburnum L.</hi>]</ab>
+        <ab part="N"> [<hi>Cytisus Laburnum L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000214693"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:501428-1"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Anagyros, Acapon et Agnocopon da Greci Egano da Rustici Acoron da alcuni et Giegano da

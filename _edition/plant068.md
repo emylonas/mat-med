@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant068.jpg"
 plant-title: "N. 68 Quahuxilots"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Not identified"
 layout: single-xml
 ---

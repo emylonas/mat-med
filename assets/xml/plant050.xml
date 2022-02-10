@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 50 Seco Moro Fratesco</head>
-        <ab part="N">[<hi>Melia Azedarach L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000450150"/></ab>
+        <ab part="N">[<hi>Melia Azedarach L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000450150"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:578949-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Sico moro fratesco et albero di lagrime di Santo Agioppo vel Job da volgari - Ostrin

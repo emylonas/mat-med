@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 79 Canela</head>
-        <ab part="N">[<hi>*Cinnamomum zeylanicum Nees</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000605543"/></ab>
+        <ab part="N">[<hi>*Cinnamomum zeylanicum Nees</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000605543"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463752-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Canella da volgari - Cinamomo da molti avegna che altro ci sia il Cinamomo - Cassia
@@ -57,7 +57,7 @@
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p part="N">Il Mattiolo tiene et altri simplicisti degni che la Cassia con doi ss de Greci sia .la
+          <p part="N">Il Mattiolo tiene, et altri simplicisti degni, che la Cassia con doi ss de Greci sia la
             volgar canela. Et Galeno dice che la canella si <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="57"/> transforma in Cinamomo. Et la Cassia fistula non è la
             Casia solutiva, ma questa non sera <ptr target="#A-079-N6"/> già quella descrive Diascoride sarmentosa con
             foglie di pepe, ma pero questa depinta al gusto di la foglia non puol negar che non sia
@@ -72,7 +72,7 @@
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
           <note xml:id="A-079-N1" n="1" anchored="true">
-            <foreign xml:id="grc">κασσία</foreign>.</note>
+            <foreign xml:id="grc">Kασσία</foreign>.</note>
           <note xml:id="A-079-N2" n="2" anchored="true"> Punica Granatum.</note>
           <note xml:id="A-079-N3" n="3" anchored="true"> Libro.</note>
           <note xml:id="A-079-N4" n="4" anchored="true"> Motir.</note>

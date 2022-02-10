@@ -17,9 +17,10 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 34 Chameceraso</head>
+        <ab part="N">*[<hi>Lonicera xylosteum L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149194-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p part="N"> Chameceraso da volg.</p>
+          <p part="N">Chameceraso da volg.</p>
         </div>
         <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>

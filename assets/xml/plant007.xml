@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 7 Vite Bianca Vulgare</head>
-        <ab part="N">[<hi>Clematis Flammula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000609903"/></ab>
+        <ab part="N">[<hi>Clematis Flammula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000609903"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:709687-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Vite biacha <ptr target="#A-007-N1"/> da volgari - Clematite dal ecc. M. <persName ref="alguillara-luigi">Alovise Anguilara</persName> - Clematitis aspera

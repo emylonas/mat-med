@@ -36,7 +36,7 @@ Alternate Names: Abruzzio
 
  - [N. 4 Albero Incognito]({{ site.baseurl }}edition/plant004/) 
                         
-## [America Latina](https://www.geonames.org/6255150/south-america.html)
+## [America Meridionale](https://www.geonames.org/6255150/south-america.html)
                     
 Alternate Names: India
  - [N. I Ciruelas Monteses]({{ site.baseurl }}edition/plant001/) 
@@ -302,7 +302,7 @@ Alternate Names: Monte Baldo sul Veronese
 
  - [N. 17 Cedriolo]({{ site.baseurl }}edition/plant017/) 
                         
-## [Peloponeso](https://www.geonames.org/255620/peloponnese.html)
+## [Peloponneso](https://www.geonames.org/255620/peloponnese.html)
                     
 
  - [N. 30 Chamelea]({{ site.baseurl }}edition/plant030/) 

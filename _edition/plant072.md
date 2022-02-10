@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant072_verso.jpg"
 plant-img2: "/assets/img/plant072.jpg"
 plant-title: "N. 72 Alimo de Crateua"
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000400715"
-plant-kew-link: ""
-plant-taxon-content: "Rhododendron hirsutum L."
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326360-2"
+plant-taxon-content: "Rhododendron hirsutum L.]"
 layout: single-xml
 ---

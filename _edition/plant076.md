@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant076_verso.jpg"
 plant-img2: "/assets/img/plant076.jpg"
 plant-title: "N. 76 Tilia Femina"
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000457451"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:835277-1"
 plant-taxon-content: "Tilia cordata Mill."
 layout: single-xml
 ---

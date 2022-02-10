@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant067_verso.jpg"
 plant-img2: "/assets/img/plant067.jpg"
 plant-title: "N. 67 Cacao Blanco"
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000458440"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2"
 plant-taxon-content: "Theobroma Cacao L."
 layout: single-xml
 ---

@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 45 Chico Capolt</head>
-        <ab part="N">[<hi>Achras Sapota L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000294988"/></ab>
+        <ab part="N">[<hi>Achras Sapota L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000294988"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:152641-2"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Chico capolt <ptr target="#A-045-N1"/> da Indiani over Spagnioli.</p>

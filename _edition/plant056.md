@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant056_verso.jpg"
 plant-img2: "/assets/img/plant056.jpg"
 plant-title: "N. 56 Suber Th."
 plant-wfo-link: " http://www.worldfloraonline.org/taxon/wfo-0000293451"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296785-1"
 plant-taxon-content: "Quercus Suber L."
 layout: single-xml
 ---

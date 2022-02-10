@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 59 Anagiro</head>
-        <ab part="N"><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000211883"/>[<hi>Anagyris foetida L.</hi>]</ab>
+        <ab part="N">[<hi>Anagyris foetida L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000211883"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473968-1"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N">Anagyro da Greci et tutti li altri nomi notati indriedo al Egano <ref type="internal" target="#A-058">[N. 58]</ref> — Albero del

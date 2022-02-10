@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant084_verso.jpg"
 plant-img2: "/assets/img/plant084.jpg"
 plant-title: "N. 84 Tragio"
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000727735"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:433491-1"
 plant-taxon-content: "Hypericum hircinum L."
 layout: single-xml
 ---

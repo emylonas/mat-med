@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 52 Macaleb</head>
-        <ab part="N"><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/>[<hi>Prunus Mahaleb L.</hi>]</ab>
+        <ab part="N">[<hi>Prunus Mahaleb L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:729931-1"/></ab>
   
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>

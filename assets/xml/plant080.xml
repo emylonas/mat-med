@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 80 Mamai Albero de India</head>
-        <ab part="N">[<hi>Mammea americana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000375040"/></ab>
+        <ab part="N">[<hi>Mammea americana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000375040"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428743-1"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Mamaj da Indiani.</p>

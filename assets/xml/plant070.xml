@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 70 Aparine</head>
-        <ab part="N"><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000968296"/>[<hi>Galium Aparine L.</hi>]</ab>
+        <ab part="N">[<hi>Galium Aparine L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000968296"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30007294-2"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Aparine da Latini Speronela da volgari — Omphalocarpon, Ixon et Philantropon da Greci

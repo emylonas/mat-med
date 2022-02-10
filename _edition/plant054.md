@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant054.jpg"
 plant-title: "N. 54 Licio Primo"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Not identified"
 layout: single-xml
 ---

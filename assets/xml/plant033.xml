@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 33 Laureola</head>
-        <ab part="N">[<hi>Daphne Laureola L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637701"/></ab>
+        <ab part="N">[<hi>Daphne Laureola L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637701"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:831270-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>Nomi</head>
           <p part="N"> Laureola et Lauraginem da Romani et vuolgari - Chamae-daphne et Daphnitem da Greci –

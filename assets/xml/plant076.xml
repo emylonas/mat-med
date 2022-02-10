@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 76 Tilia Femina</head>
-        <ab part="N">[<hi>Tilia cordata Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000457451"/></ab>
+        <ab part="N">[<hi>Tilia cordata Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000457451"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:835277-1"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Thilia femina dal <persName ref="fuchs-leonhart">Fuchsio</persName> - Phylira da Greci - Tilia da Latini et officini - Linden da

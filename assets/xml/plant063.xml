@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 63 Scotanus</head>
-        <ab part="N"><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
+        <ab part="N">[<hi>Rhus Cotinus L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69498-1"/> </ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Scotanus da Latini et Plinio - Cotino da Greci - Albero dal penacchio da volgari - Rosa per
@@ -31,7 +31,7 @@
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p part="N"> <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 85 tiene per il scatano di Plinio. Et li tentori usano li bastoni de
+          <p part="N"> <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara k. 85</ref> tiene per il scatano di Plinio. Et li tentori usano li bastoni de
             suoe radice per far purpura Plinio 16.19. Io credo che le <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298"> Pandette [di Matteo Silvatico]</ref> cap. 226 de Dulb
             confunda il scotano che si conzia li corami con il platano sequente.</p>
         </div>
@@ -52,7 +52,7 @@
           <p part="N">La presente figura è di albero fruttifero sorgente in un paesaggio di collina; a parte
             un ramoscello fruttifero. Il Michiel non conobbe i fiori e mise in dubbio se tali <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="47"/> fossero i lunghi
             peduncoli sterili e pelosi, come si apprende dalle sue frasi: «nel summo de rami viene
-            diremo fiori che si restano poi una folta panocchia et chioma». ... «di Maggio suoi
+            diremo fiori che si restano poi una folta panocchia et chioma». ... «di maggio suoi
             fiori over penacchi».</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">

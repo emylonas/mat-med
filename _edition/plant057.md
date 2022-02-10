@@ -9,6 +9,6 @@ plant-img2: "/assets/img/plant057.jpg"
 plant-title: "N. 57 Hebano"
 plant-wfo-link: ""
 plant-kew-link: ""
-plant-taxon-content: ""
+plant-taxon-content: "Not identified"
 layout: single-xml
 ---
