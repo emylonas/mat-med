@@ -200,7 +200,7 @@
       </place>
       <place>
         <placeName ref="https://www.geonames.org/6255150/south-america.html" xml:id="america-m"
-          >America Latina</placeName>
+          >America Meridionale</placeName>
         <placeName type="alt">India</placeName>
       </place>
       <place>
@@ -387,7 +387,7 @@
       </place>
       <place>
         <placeName ref="https://www.geonames.org/255620/peloponnese.html" xml:id="peloponnese"
-          >Peloponeso</placeName>
+          >Peloponneso</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3170647/pisa.html" xml:id="pisa">Pisa</placeName>
@@ -792,7 +792,7 @@
 
       <div type="plant" xml:id="A-006">
         <head>N. 6 Vite Nera Vulgare</head>
-        <ab>[<hi>Clematis Viticella L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610944"/></ab>
+        <ab>[<hi>Clematis Viticella L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610944"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:710196-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Vite nera da volgari - Clematide altera da Diascoride - Philacrion da Egiptij - Epigetin da
@@ -830,7 +830,7 @@
 
       <div type="plant" xml:id="A-007">
         <head>N. 7 Vite Bianca Vulgare</head>
-        <ab>[<hi>Clematis Flammula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000609903"/></ab>
+        <ab>[<hi>Clematis Flammula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000609903"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:709687-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Vite biacha <ptr target="#A-007-N1"/> da volgari - Clematite dal ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> - Clematitis aspera
@@ -1037,7 +1037,7 @@
 
       <div type="plant" xml:id="A-010">
         <head>N. IO Rus</head>
-        <ab>[<hi>Rhus Coriaria L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000402784"/></ab>
+        <ab>[<hi>Rhus Coriaria L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000402784"/>ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:70477-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Sumacho da volgari - Rhus et Risquitin, Eritbro da Greci - Pianta da cuoia pur da volgari
@@ -1067,7 +1067,7 @@
 
       <div type="plant" xml:id="A-011">
         <head>N. II Smilace Lisia</head>
-        <ab>[<hi>Ipomoea hederacea Jacq.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000747944"/></ab>
+        <ab>[<hi>Ipomoea hederacea Jacq.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000747944"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1071575-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Fior di notte a Napoli - Smilace liscia celeste, Viteal et Volubile medio da volgari -
@@ -1118,7 +1118,7 @@
 
       <div type="plant" xml:id="A-012">
         <head>N. 12 Ligustro</head>
-        <ab>[<hi>Ligustrum vulgare L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-000081598"/></ab>
+        <ab>[<hi>Ligustrum vulgare L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-000081598"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610130-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Ligustrum da Latini - Conastrello da volgari - Guistrico da Toscani - Olivela et Chambroscene
@@ -1149,7 +1149,7 @@
 
       <div type="plant" xml:id="A-013">
         <head>N. 13 Putana vel Olivela</head>
-        <ab>[<hi>Rhamnus Alaternus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000462513"/></ab>
+        <ab>[<hi>Rhamnus Alaternus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000462513"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:718169-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Olivela, Putana vel Phylirea in Roma - Faulbauim da Germani.</p>
@@ -1224,7 +1224,7 @@
 
       <div type="plant" xml:id="A-015">
         <head>N. 15 Chieregini</head>
-        <ab>[<hi>Cardiospermum Halicacabum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000587875"/></ab>
+        <ab>[<hi>Cardiospermum Halicacabum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000587875"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:782206-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Halicacabo pelegrin da Latini Chiereghini et Fratonzelli da volgari - Chairella a Napoli -
@@ -1309,7 +1309,7 @@
 
       <div type="plant" xml:id="A-017">
         <head>N. 17 Cedriolo</head>
-        <ab>[<hi>Passiflora coerulea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000479867"/></ab>
+        <ab>[<hi>Passiflora caerulea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000479867"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321949-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Mecoacan <ptr target="#A-017-N1"/> da Spagnioli — Cedriolo vel Cocomero sp.</p>
@@ -1446,13 +1446,13 @@
         </div>
         <div type="editorial-D">
           <p>Albero a fg. opposte in serie numerose sui rami, sparse di frutti verdi, poco più
-            grandi delle ig. tubercolati (?) umbilicati. -</p>
+            grandi delle ig. tubercolati (?) umbilicati.</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-023">
         <head>N. 23 Scamonea</head>
-        <ab>[<hi>Convolvolus Scammonia L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001298534"/></ab>
+        <ab>[<hi>Convolvulus Scammonia L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001298534"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:266929-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Scamonea da volg. - Scambonia radix da alcuni - Colophonia Dactylion da altri -
@@ -1532,7 +1532,7 @@
 
       <div type="plant" xml:id="A-024">
         <head>N. 24 Vite Nera, Tamaro</head>
-        <ab>[<hi>Tamus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000568332"/></ab>
+        <ab>[<hi>Tamus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000568332"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:20005752-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Tamaro et Vite nera volgari - Brionia nigra et Ampellos melena <ptr target="#A-024-N1"/> da Latini - Chironion
@@ -1567,7 +1567,7 @@
 
       <div type="plant" xml:id="A-025">
         <head>N. 25 Centunculo</head>
-        <ab>[<hi>Polygonum Convolvulus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000489602"/></ab>
+        <ab>[<hi>Polygonum Convolvulus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000489602"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:103354-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Centunculo da Plinio - Clematide sp. da molti Greci.</p>
@@ -1631,7 +1631,7 @@
 
       <div type="plant" xml:id="A-027">
         <head>N. 27 Fusaria, Stonber</head>
-        <ab>[<hi>Euonymus Europaeus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000681728"/></ab>
+        <ab>[<hi>Euonymus Europaeus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000681728"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:160876-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Evonimo da Theophrasto - Fusaria latini - Barete da preti da vuolgari - Stomber <ptr target="#A-027-N1"/> da
@@ -1651,7 +1651,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Da simplicisti sonno tenuti per l'Evonimo di Theophrasto lib. 3 cap. ultimo. Et
+          <p> Da simplicisti sonno tenuti per l'Euonimo di Theophrasto lib. 3 cap. ultimo. Et
             l'eccell. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 81 tiene anchora lui.</p>
         </div>
         <div type="properties">
@@ -1688,7 +1688,7 @@
 
       <div type="plant" xml:id="A-030">
         <head>N. 30 Chamelea</head>
-        <ab>[<hi>Daphne oleaefolia Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637792"/></ab>
+        <ab>[<hi>Daphne oleaefolia Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637792"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:831357-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Chamelea, Pyrosachium et Heraclion da Greci - Blyram et Coccognidium da altri - Citocacium
@@ -1725,7 +1725,7 @@
 
       <div type="plant" xml:id="A-031">
         <head>N. 31 Chame Timelea spe.</head>
-        <ab>[<hi>Daphne Cneorum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637544"/></ab>
+        <ab>[<hi>Daphne Cneorum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637544"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:831193-1"/></ab>
         <div type="name">
           <head>Nomi</head>
           <p>Chame Thymelea in Bolognia Etolio da Euboici <ptr target="#A-031-N1"/> Lino da alcuni perché si rasembra al
@@ -1759,7 +1759,7 @@
 
       <div type="plant" xml:id="A-032">
         <head>N. 32 Piper Montan</head>
-        <ab>[<hi>Daphne Mezereum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637755"/></ab>
+        <ab>[<hi>Daphne Mezereum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637755"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:831294-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Piper montan da rustici - Mezereo da Arabi - Chameleam, Thymelea, Pyros Achnen <ptr target="#A-032-N1"/>,
@@ -1804,7 +1804,7 @@
 
       <div type="plant" xml:id="A-033">
         <head>N. 33 Laureola</head>
-        <ab>[<hi>Daphne Laureola L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637701"/></ab>
+        <ab>[<hi>Daphne Laureola L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000637701"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:831270-1"/></ab>
         <div type="name">
           <head>Nomi</head>
           <p> Laureola et Lauraginem da Romani et vuolgari - Chamae-daphne et Daphnitem da Greci –
@@ -1851,9 +1851,10 @@
 
       <div type="plant" xml:id="A-034">
         <head>N. 34 Chameceraso</head>
+        <ab>*[<hi>Lonicera xylosteum L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149194-1"/></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Chameceraso da volg.</p>
+          <p>Chameceraso da volg.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -1880,7 +1881,7 @@
 
       <div type="plant" xml:id="A-035">
         <head>N. 35 Rosa Senis</head>
-        <ab>[<hi>Philadelphus coronarius L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000465348"/></ab>
+        <ab>[<hi>Philadelphus coronarius L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000465348"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:792194-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Rosa Senis da volg. - Et Seringa.</p>
@@ -1914,7 +1915,7 @@
 
       <div type="plant" xml:id="A-036">
         <head>N. 36 Abete</head>
-        <ab>[<hi>Abies alba Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000510976"/></ab>
+        <ab>[<hi>Abies alba Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000510976"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60468511-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Abete da Latini Avezzo da volg. et Avedin.</p>
@@ -1953,7 +1954,7 @@
 
       <div type="plant" xml:id="A-037">
         <head>N. 37 Taso</head>
-        <ab>[<hi>Taxus baccata L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000408637"/></ab>
+        <ab>[<hi>Taxus baccata L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000408637"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:306036-2"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Nasso da volgari - Tasso da Romani - Smilace et Thymion da alcuni.</p>
@@ -2003,7 +2004,7 @@
 
       <div type="plant" xml:id="A-038">
         <head>N. 38 Pezzo</head>
-        <ab>[<hi>Picea excelsa Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000482527"/></ab>
+        <ab>[<hi>Picea excelsa Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000482527"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77172071-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Pezzo da volgari.</p>
@@ -2109,7 +2110,7 @@
             caldo. </p>
         </div>
         <div type="editorial-D">
-          <p> [Pianta sterile; a parte una foglia in grandezza naturale e due assi del frutto.</p>
+          <p> Pianta sterile; a parte una foglia in grandezza naturale e due assi del frutto.</p>
         </div>
         <div type="notes">
           <note xml:id="A-040-N1" n="1">Pietro Belon.</note>
@@ -2120,7 +2121,7 @@
 
       <div type="plant" xml:id="A-041">
         <head>N. 41 Vircitosica</head>
-        <ab>[<hi>Cynanchum Vincetoxicum Pers.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000633726"/></ab>
+        <ab>[<hi>Cynanchum Vincetoxicum Pers.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000633726"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:102810-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Asclepias da Latini - Vincitosica da volgari – Cission et Cissophilon da Greci -
@@ -2142,8 +2143,8 @@
         </div>
         <div type="editorial-D">
           <p>Nella copia del <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">libro dei Semplici</ref>  di <persName ref="#Anguillara">Anguillara</persName> esistente alla Biblioteca Marciana di
-            Venezia l'articolo «Polirizo di Plinio» a pag. 213 ha sottosegnate a penna le parole di
-            niun odore riguardanti le radici ed in margine trovasi la seguente nota manoscritta:
+            Venezia l'articolo «Polirizo di Plinio» a pag. 213 ha sottosegnate a penna le parole «di
+            niun odore» riguardanti le radici ed in margine trovasi la seguente nota manoscritta:
             «Ergo non est polyrrhizos quia Plinius omnium Aristolochiarum odores medicatos esse
             affirmat. Ego polyrthizon interpretor pro vulgari Vincetoxico». La figura del Michiel e
             questa glossa manoscritta ci fanno comprendere che la specie dall'Anguillara ritenuta
@@ -2255,7 +2256,7 @@
 
       <div type="plant" xml:id="A-043">
         <head>N. 43 Asclepias de Francia</head>
-        <ab>[<hi>Cynanchum nigrum Pers.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000633390"/></ab>
+        <ab>[<hi>Cynanchum nigrum Pers.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000633390"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1088174-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Asclepias da volgari - Periplocada come pianta che se invilupa da Greci - Apocino da
@@ -2345,7 +2346,7 @@
 
       <div type="plant" xml:id="A-045">
         <head>N. 45 Chico Capolt</head>
-        <ab>[<hi>Achras Sapota L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000294988"/></ab>
+        <ab>[<hi>Achras Sapota L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000294988"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:152641-2"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Chico capolt <ptr target="#A-045-N1"/> da Indiani over Spagnioli.</p>
@@ -2385,7 +2386,7 @@
 
       <div type="plant" xml:id="A-046">
         <head>N. 46 Frutice Incognito</head>
-        <ab>[<hi>Lonicera alpigena L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000359767"/></ab>
+        <ab>[<hi>Lonicera alpigena L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000359767"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:148836-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Frutice incognito ritrovato dal Piloto - Corno femina da molti.</p>
@@ -2420,7 +2421,7 @@
 
       <div type="plant" xml:id="A-047">
         <head>N. 47 Albero da l'Uva</head>
-        <ab>[<hi>Prunus Padus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001008273"/></ab>
+        <ab>[<hi>Prunus Padus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001008273"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:730076-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Albero dall'uva da volgari - Bedusa da molti studenti.</p>
@@ -2445,7 +2446,7 @@
 
       <div type="plant" xml:id="A-048">
         <head>N. 48 Agrifolio</head>
-        <ab>[<hi>Ilex Aquifolium L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000729203"/></ab>
+        <ab>[<hi>Ilex Aquifolium L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000729203"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:83051-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Agrifolio da volgari – Lothos, Mella, Agrifolium, Locrus et Sidra da Greci - Paliuro da
@@ -2492,7 +2493,7 @@
 
       <div type="plant" xml:id="A-049">
         <head>N. 49 Ficus Egiptia</head>
-        <ab>[<hi>Ficus Sycomorus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000690537"/></ab>
+        <ab>[<hi>Ficus Sycomorus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000690537"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853797-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Sicum morum da Latini et Ficus Egiptia overo meglio Cypria Sycaminum da Greci - Fico di
@@ -2531,7 +2532,7 @@
 
       <div type="plant" xml:id="A-050">
         <head>N. 50 Seco Moro Fratesco</head>
-        <ab>[<hi>Melia Azedarach L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000450150"/></ab>
+        <ab>[<hi>Melia Azedarach L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000450150"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:578949-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Sico moro fratesco et albero di lagrime di Santo Agioppo vel Job da volgari - Ostrin
@@ -2581,10 +2582,10 @@
 
       <div type="plant" xml:id="A-051">
         <head>N. 51 Cuciophoron</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/>[<hi>Hyphaene Thebaica Mart.</hi>]</ab>
+        <ab>[<hi>Hyphaene Thebaica Mart.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:667540-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Cuciophoron da <persName ref="#Theofrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="#Plinius">Plinio</persName>.</p>
+          <p>Cuciophoron da <persName ref="#Theofrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="#Plinius">Plinio</persName>.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
@@ -2607,7 +2608,7 @@
 
       <div type="plant" xml:id="A-052">
         <head>N. 52 Macaleb</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/>[<hi>Prunus Mahaleb L.</hi>]</ab>
+        <ab>[<hi>Prunus Mahaleb L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001013325"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:729931-1"/></ab>
   
         <div type="name">
           <head>NOMI</head>
@@ -2641,6 +2642,7 @@
 
       <div type="plant" xml:id="A-053">
         <head>N. 53 Crategon</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Crategon da <persName ref="#Theofrastus">Theophrasto</persName> - Sambucus aquaticus motomorum, Piè de Occha dal vulgo - Aquifolio
@@ -2671,6 +2673,7 @@
 
       <div type="plant" xml:id="A-054">
         <head>N. 54 Licio Primo</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Licio primo da Dioscoride - Pixacantha.</p>
@@ -2703,6 +2706,7 @@
 
       <div type="plant" xml:id="A-055">
         <head>N. 55 Licio Secondo Indiano</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Licio secondo indiano da Diascoride Lonchite da altri Aspalato da molti li nomi
@@ -2741,7 +2745,7 @@
 
       <div type="plant" xml:id="A-056">
         <head>N. 56 Suber Th.</head>
-        <ab>[<hi>Quercus Suber L.</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/></ab>
+        <ab>[<hi>Quercus Suber L.</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296785-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Suber da Theophrasto et dal Gaza.</p>
@@ -2777,6 +2781,7 @@
 
       <div type="plant" xml:id="A-057">
         <head>N. 57 Hebano</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Hebano da volg. latini Abnus, Ebus, Ebibirius da Arabi.</p>
@@ -2812,7 +2817,7 @@
 
       <div type="plant" xml:id="A-058">
         <head>N. 58 Anagiro, Egano</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000214693"/>[<hi>Cytisus Laburnum L.</hi>]</ab>
+        <ab> [<hi>Cytisus Laburnum L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000214693"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:501428-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Anagyros, Acapon et Agnocopon da Greci Egano da Rustici Acoron da alcuni et Giegano da
@@ -2869,7 +2874,7 @@
 
       <div type="plant" xml:id="A-059">
         <head>N. 59 Anagiro</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000211883"/>[<hi>Anagyris foetida L.</hi>]</ab>
+        <ab>[<hi>Anagyris foetida L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000211883"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473968-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p>Anagyro da Greci et tutti li altri nomi notati indriedo al Egano <ref type="internal" target="#A-058">[N. 58]</ref> — Albero del
@@ -2946,6 +2951,7 @@
 
       <div type="plant" xml:id="A-060">
         <head>N. 60 Prunus Theo.</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cocigia Plinij - Prunus Theophrasti <ptr target="#A-060-N1"/>.</p>
@@ -2986,6 +2992,7 @@
 
       <div type="plant" xml:id="A-061">
         <head>N. 61 Zarnab</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Zarnab da <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298">le Pandette [di Matteo Silvatico]</ref>.</p>
@@ -3026,6 +3033,7 @@
 
       <div type="plant" xml:id="A-062">
         <head>N. 62 Andracne</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Andrachne da Plinio - Portulaca da Theophrasto.</p>
@@ -3075,7 +3083,7 @@
 
       <div type="plant" xml:id="A-063">
         <head>N. 63 Scotanus</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/>[<hi>Rhus Cotinus L.</hi>]</ab>
+        <ab>[<hi>Rhus Cotinus L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000402779"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69498-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Scotanus da Latini et Plinio - Cotino da Greci - Albero dal penacchio da volgari - Rosa per
@@ -3089,7 +3097,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 85 tiene per il scatano di Plinio. Et li tentori usano li bastoni de
+          <p> <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara k. 85</ref> tiene per il scatano di Plinio. Et li tentori usano li bastoni de
             suoe radice per far purpura Plinio 16.19. Io credo che le <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298"> Pandette [di Matteo Silvatico]</ref> cap. 226 de Dulb
             confunda il scotano che si conzia li corami con il platano sequente.</p>
         </div>
@@ -3110,7 +3118,7 @@
           <p>La presente figura è di albero fruttifero sorgente in un paesaggio di collina; a parte
             un ramoscello fruttifero. Il Michiel non conobbe i fiori e mise in dubbio se tali <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="47"/> fossero i lunghi
             peduncoli sterili e pelosi, come si apprende dalle sue frasi: «nel summo de rami viene
-            diremo fiori che si restano poi una folta panocchia et chioma». ... «di Maggio suoi
+            diremo fiori che si restano poi una folta panocchia et chioma». ... «di maggio suoi
             fiori over penacchi».</p>
         </div>
         <div type="notes">
@@ -3127,7 +3135,7 @@
 
       <div type="plant" xml:id="A-064">
         <head>N. 64 Platano</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000487086"/>[<hi>Platanus orientalis L.</hi>]</ab>
+        <ab>[<hi>Platanus orientalis L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000487086"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685873-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Platano over Suffire da Greci - Dulb, Dulbo over Baccam da Arabi - Palma Christi in
@@ -3192,7 +3200,7 @@
 
       <div type="plant" xml:id="A-065">
         <head>N. 65 Sorbo Terminale</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016033"/>[<hi>Pirus torminalis Ehrh.</hi>]</ab>
+        <ab>[<hi>Pirus torminalis Ehrh.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016033"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77164867-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Sorbe torminale da volgari - Crategus son il sorbe torminale Plinij - Milder Sperwerbaum,
@@ -3225,7 +3233,7 @@
 
       <div type="plant" xml:id="A-066">
         <head>N. 66 Sambuco Sp.e</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/>[<hi>Sambucus racemosa L.</hi>]</ab>
+        <ab>[<hi>Sambucus racemosa L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30056767-2"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Sambucus silvestris Trago - Acten, Dendronarctu, hoc est Arborem ursi, da altri –
@@ -3265,7 +3273,7 @@
 
       <div type="plant" xml:id="A-067">
         <head>N. 67 Cacao Blanco</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000458440"/>[<hi>Theobroma Cacao L.</hi>]</ab>
+        <ab>[<hi>Theobroma Cacao L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000458440"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cacao blanco da Indiani overo Spagnioli.</p>
@@ -3314,6 +3322,7 @@
 
       <div type="plant" xml:id="A-068">
         <head>N. 68 Quahuxilots</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p> Quahuxilots es fruta come pepero e comese corido <ptr target="#A-068-N1"/> o asado da Indiani overo da
@@ -3322,7 +3331,7 @@
         <div type="shape">
           <head>FORMA</head>
           <p> Suoe radici grosse et profunde. Son albero grande et grosso di colore variato, suoe
-            frondi per el piu vengono come l'Anagiro ma maggiori. Suoi fruti paiono Cucumeri ma piu
+            frondi per el più vengono come l'Anagiro ma maggiori. Suoi fruti paiono cucumeri ma più
             oblonghi di colore che nel verde gialegia, suoi fiori che doveva dir prima in lunghe
             campanele di color verdeci et dentro azuri.</p>
         </div>
@@ -3336,10 +3345,10 @@
             detti «candicanti» <ptr target="#A-068-N2"/>.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-068-N1" n="1"> Corido dev'essere trascrizione errata di cocido». (Ed.).</note>
+          <note xml:id="A-068-N1" n="1"> Corido dev'essere trascrizione errata di «cocido». (Ed.).</note>
           <note xml:id="A-068-N2" n="2"> * È notevole, in quasi tutta questa descrizione, la coincidenza con la figura
             del Codice ancbe nei particolari; inoltre l'accenno al frutto crudo coclovo predulci a
-            conferma anche l'indicazione (Noni) comese cocido o asado». (Ed.). 7</note>
+            conferma anche l'indicazione (Noni) «comese cocido o asado». (Ed.). 7</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="50"/>
@@ -3347,6 +3356,7 @@
 
       <div type="plant" xml:id="A-069">
         <head>N. 69 Ciruelas Amarillas Comunes es Fruta</head>
+        <ab>[<hi>Not identified</hi>]</ab>
         <div type="name">
           <head>NOMI</head>
           <p>Ciruelas amarilas communes es fruta da Indiani overo Spagnioli.</p>
@@ -3372,7 +3382,7 @@
 
       <div type="plant" xml:id="A-070">
         <head>N. 70 Aparine</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000968296"/>[<hi>Galium Aparine L.</hi>]</ab>
+        <ab>[<hi>Galium Aparine L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000968296"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30007294-2"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Aparine da Latini Speronela da volgari — Omphalocarpon, Ixon et Philantropon da Greci
@@ -3399,7 +3409,7 @@
 
       <div type="plant" xml:id="A-071">
         <head>N. 71 Madre Silva</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000359853"/>[<hi>Lonicera Caprifolium</hi>]</ab>
+        <ab>[<hi>Lonicera Caprifolium</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000359853"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:148670-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Stribonio da Latini Mater silva, Barba de Becho da volgari Polium Veneris da Magi
@@ -3441,7 +3451,7 @@
 
       <div type="plant" xml:id="A-072">
         <head>N. 72 Alimo de Crateua</head>
-        <ab><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000400715"/>[<hi>Rhododendron hirsutum L.</hi>]</ab>
+        <ab>[<hi>Rhododendron hirsutum L.]</hi><ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000400715"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326360-2"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Alimo da Crateua - Mirto agreste da rustici - Cneoro dal Mathiolo.</p>
@@ -3489,7 +3499,7 @@
 
       <div type="plant" xml:id="A-073">
         <head>N. 73 Pepe Tondo</head>
-        <ab>[<hi>Ribes nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405161"/></ab>
+        <ab>[<hi>Ribes nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405161"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:792873-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Pepe tondo Pepe da Greci et Latini Falfel da Arabici Pimenta del rabo da Portogesi
@@ -3574,7 +3584,7 @@
 
       <div type="plant" xml:id="A-074">
         <head>N. 74 Ribes Menor</head>
-        <ab>[<hi>Ribes rubrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405218"/></ab>
+        <ab>[<hi>Ribes rubrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405218"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:792965-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Ribes da volgari et Latini et Mauritani ancora - Johansz treublin et Beerlin <ptr target="#A-074-N1"/> da
@@ -3616,7 +3626,7 @@
 
       <div type="plant" xml:id="A-075">
         <head>N. 75 Corniolo</head>
-        <ab>[<hi>Cornus mas L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000924760"/></ab>
+        <ab>[<hi>Cornus mas L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000924760"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:271612-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Corniolo da volgari - Cranea, Cran et Carmu da Greci - Canium vel Cornicellium da
@@ -3660,7 +3670,7 @@
 
       <div type="plant" xml:id="A-076">
         <head>N. 76 Tilia Femina</head>
-        <ab>[<hi>Tilia cordata Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000457451"/></ab>
+        <ab>[<hi>Tilia cordata Mill.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000457451"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:835277-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Thilia femina dal <persName ref="#Fuchs">Fuchsio</persName> - Phylira da Greci - Tilia da Latini et officini - Linden da
@@ -3709,7 +3719,7 @@
 
       <div type="plant" xml:id="A-077">
         <head>N. 77 Opulo</head>
-        <ab>[<hi>Acer monspessulanum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000514593"/></ab>
+        <ab>[<hi>Acer monspessulanum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000514593"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:781402-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Opulo.</p>
@@ -3724,7 +3734,7 @@
 
       <div type="plant" xml:id="A-078">
         <head>N. 78 Garofali</head>
-        <ab>[<hi>Eugenia caryophyllata Thunbg.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000956730"/></ab>
+        <ab>[<hi>Eugenia caryophyllata Thunbg.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000956730"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601421-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Garofali orientali volgarmente - Harmufel da Arabi.</p>
@@ -3794,7 +3804,7 @@
 
       <div type="plant" xml:id="A-079">
         <head>N. 79 Canela</head>
-        <ab>[<hi>*Cinnamomum zeylanicum Nees</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000605543"/></ab>
+        <ab>[<hi>*Cinnamomum zeylanicum Nees</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000605543"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463752-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Canella da volgari - Cinamomo da molti avegna che altro ci sia il Cinamomo - Cassia
@@ -3834,7 +3844,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p>Il Mattiolo tiene et altri simplicisti degni che la Cassia con doi ss de Greci sia .la
+          <p>Il Mattiolo tiene, et altri simplicisti degni, che la Cassia con doi ss de Greci sia la
             volgar canela. Et Galeno dice che la canella si <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="57"/> transforma in Cinamomo. Et la Cassia fistula non è la
             Casia solutiva, ma questa non sera <ptr target="#A-079-N6"/> già quella descrive Diascoride sarmentosa con
             foglie di pepe, ma pero questa depinta al gusto di la foglia non puol negar che non sia
@@ -3849,7 +3859,7 @@
         </div>
         <div type="notes">
           <note xml:id="A-079-N1" n="1">
-            <foreign xml:id="grc">κασσία</foreign>.</note>
+            <foreign xml:id="grc">Kασσία</foreign>.</note>
           <note xml:id="A-079-N2" n="2"> Punica Granatum.</note>
           <note xml:id="A-079-N3" n="3"> Libro.</note>
           <note xml:id="A-079-N4" n="4"> Motir.</note>
@@ -3860,7 +3870,7 @@
 
       <div type="plant" xml:id="A-080">
         <head>N. 80 Mamai Albero de India</head>
-        <ab>[<hi>Mammea americana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000375040"/></ab>
+        <ab>[<hi>Mammea americana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000375040"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428743-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Mamaj da Indiani.</p>
@@ -3893,7 +3903,7 @@
 
       <div type="plant" xml:id="A-081">
         <head>N. 81 Noce Moscata</head>
-        <ab>[<hi>*Myristica fragrans Houtt.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000447317"/></ab>
+        <ab>[<hi>*Myristica fragrans Houtt.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000447317"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:586076-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Noce moscata da volgari - Nux miristica da Latini- Jeuzbaue da Arabi et Sistose,
@@ -4008,7 +4018,7 @@
 
       <div type="plant" xml:id="A-082">
         <head>N. 82 Noce de India</head>
-        <ab>[<hi>Cocos nucifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000903570"/></ab>
+        <ab>[<hi>Cocos nucifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000903570"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:666160-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Noce de India volgarmente - Neregil, Jeumedi da Arabi - Nux magna da Latini - Chitorin da
@@ -4042,7 +4052,7 @@
             cap. 54 <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Thomaso Porcacchi</ref>k. 93.</p>
         </div>
         <div type="editorial-D">
-          <p>(L'albero è fittizio con foglie ovali, larghe, penninervie, di cui una è figurata a
+          <p>L'albero è fittizio con foglie ovali, larghe, penninervie, di cui una è figurata a
             parte e con frutti sparsi. Sopra di esso s'arrampicano una scimia e due quadrupedi. A
             parte un frutto privato dell'epicarpo, poco ben disegnato.</p>
           <p>A quei tempi si spiegava il magnetismo terrestre, ammettendo l'esistenza nelle viscere
@@ -4061,7 +4071,7 @@
 
       <div type="plant" xml:id="A-083">
         <head>N. 83 Agno Casto</head>
-        <ab>[<hi>Vitex Agnus-Castus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000332916"/></ab>
+        <ab>[<hi>Vitex agnus-castus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000332916"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:865568-1"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Agno casto da volgari - Salice marino et Alesandrina, Arbor Abraz et Agnus castus da
@@ -4115,7 +4125,7 @@
 
       <div type="plant" xml:id="A-084">
         <head>N. 84 Tragio</head>
-        <ab>[<hi>Hypericum hircinum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000727735"/></ab>
+        <ab>[<hi>Hypericum hircinum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000727735"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:433491-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Tragio da Diascoride.</p>
@@ -4145,10 +4155,9 @@
           <note xml:id="A-084-N1" n="1"> Giallo </note>
         </div>
       </div>
-
-
       <div type="plant" xml:id="A-085">
         <head>N. 85 Persea</head>
+        <ab>*[<hi>Prunus Persica (L.) Batsh]</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001005418"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1212858-2"/> </ab>
         <div type="name">
           <head>NOMI</head>
           <p> Persea da Theophrasto.</p>
@@ -4178,7 +4187,7 @@
 
       <div type="plant" xml:id="A-086">
         <head>N. 86 Azarolo</head>
-        <ab>[<hi>Crataegus Azarolus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000988173"/></ab>
+        <ab>[<hi>Crataegus Azarolus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000988173"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324722-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Lazaroli da volgari - Mespili genus da Latini - Aronia da molti - Zaror et Gubera da Arabi -
