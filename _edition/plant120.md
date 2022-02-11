@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant120_verso.jpg"
 plant-img2: "/assets/img/plant120.jpg"
 plant-title: "N. 120 Colutea"
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000213683"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:486805-1"
 plant-taxon-content: "Colutea arborescens L."
 layout: single-xml
 ---

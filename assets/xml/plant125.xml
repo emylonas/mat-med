@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 125 Jaruma Albero de India</head>
-        <ab part="N">[<hi>Cecropia palmata Willd.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000592293"/>.</ab>
+        <ab part="N">[<hi>Cecropia palmata Willd.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000592293"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850949-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Jaruma <ptr target="#A-125-N1"/> alboro de India.</p>
@@ -50,6 +50,6 @@
           <note xml:id="A-125-N2" n="2" anchored="true"> * È, inoltre, in contraddizione con l'habitat e con lo stesso nome Jaruma,
             che corrisponderebbero alla <hi>Cecropia peltata</hi>: perché la forma delle foglie
             nettamente palmate se esatta, sarebbe caratteristica della C. palmata, propria non
-            delle Antille ma del continente. (Ed.).</note>
+            delle Antille ma del continente. (Ed.)</note>
         </div>
       </body></text></TEI>

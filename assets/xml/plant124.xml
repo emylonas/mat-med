@@ -17,11 +17,11 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 124 Solano Aquatico</head>
-        <ab part="N">[<hi>Solanum Dulcamara L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001027661"/></ab>
+        <ab part="N">[<hi>Solanum Dulcamara L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001027661"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:285213-2"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Solano aquatico da molti - Amara dulcis da Germani - Ciclaminus altera dal Dodonei -
-            perperam Solanum rubrum da alcuni - Vacinium dal ecc. Alpago - Vite salvatica dal
+            perperam Solanum rubrum da alcuni - Vacinium dal Ecc. Alpago - Vite salvatica dal
             Mattiolo.</p>
         </div>
         <div type="genus" part="N" org="uniform" sample="complete">
@@ -45,7 +45,7 @@
             fiorito.</p>
           <p part="N">Il Michiel mise questa specie nel presente libro perché rampicante, ma avvertì esservi
             altri Solanum a fusto eretto che egli si proponeva descrivere nei libri seguenti, come
-            infatti egli fece nel primo libro rosso NN. 63, 69 e nel libro verde NN. 63, 64, 207. Il
+            infatti egli fece nel primo Libro Rosso NN. 63, 69 e nel libro verde NN. 63, 64, 207. Il
             nome S. rubrum che erroneamente, secondo il Michiel, si dava a questa specie pel colore delle bacche, spetta invece alla var. villosum di S. nigrum che ha pure le bacche
             rosse.</p>
 

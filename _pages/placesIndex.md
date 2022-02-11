@@ -249,7 +249,7 @@ Alternate Names: Lumbardia
                     
 Alternate Names: Megella
  - [N. 30 Chamelea]({{ site.baseurl }}edition/plant030/) 
- - [N. 117 Ramno Primo b.o]({{ site.baseurl }}edition/plant117/) 
+ - [N. 117 Ramno primo Bianco]({{ site.baseurl }}edition/plant117/) 
                         
 ## [Marano](https://www.geonames.org/3174017/marano-lagunare.html)
                     

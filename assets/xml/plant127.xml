@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 127 Mirto Latifolia</head>
-        <ab part="N">[<hi>Myrtus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000248712"/></ab>
+        <ab part="N">[<hi>Myrtus communis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000248712"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Mirto gentile latifolia da volgari. Li altri nomi se dirano alla sequente specie.</p>
@@ -25,7 +25,7 @@
         <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
           <p part="N"> Di tre sp. mortina ne pose Catone. Candida, nera, et congiugale chiamasi hoggi
-            sativi, salvatici et latifolia. Io non dimostro la piu communa con foglie grande.</p>
+            sativi, salvatici et latifolia. Io non dimostro la più commune con foglie grande.</p>
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>

@@ -17,12 +17,12 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 115 Stafilodendro</head>
-        <ab part="N">[<hi>Staphylea pinnata L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000493112"/></ab>
+        <ab part="N">[<hi>Staphylea pinnata L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000493112"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:785263-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p part="N"> Staphilodendron da Plinio Avelana indica da volgari Ornello in Romagnia Bim per
-            nusdelin <ptr target="#A-115-N1"/> et Pinpernusz da Germani Lagrime di Giopo <ptr target="#A-115-N2"/> in Abruzzio Pistachier
-            salvatico in molti luoghi Arbor vitis dal Anguilara Nux vesicaria dal Trago.</p>
+          <p part="N"> Staphilodendron da Plinio - Avelana indica da volgari - Ornello in Romagnia - Bim per
+            nusdelin <ptr target="#A-115-N1"/> et Pinpernusz da Germani - Lagrime di Giopo <ptr target="#A-115-N2"/> in Abruzzio - Pistachier
+            salvatico in molti luoghi - Arbor vitis dal Anguilara - Nux vesicaria dal Trago.</p>
         </div>
         <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>

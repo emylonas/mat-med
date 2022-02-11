@@ -64,6 +64,6 @@
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
           <note xml:id="A-082-N1" n="1" anchored="true"> Pane.</note>
-          <note xml:id="A-082-N2" n="2" anchored="true">* Madagascar. (Ed.).</note>
+          <note xml:id="A-082-N2" n="2" anchored="true">* Madagascar. (Ed.)</note>
         </div>
       </body></text></TEI>

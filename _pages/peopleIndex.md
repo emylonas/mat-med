@@ -41,7 +41,7 @@ Alternate Names: Anguillara, Alvise
  - [N. 95 Storace]({{ site.baseurl }}edition/plant095/) 
  - [N. 98 Oleandro]({{ site.baseurl }}edition/plant098/) 
  - [N. 115 Stafilodendro]({{ site.baseurl }}edition/plant115/) 
- - [N. 117 Ramno Primo b.o]({{ site.baseurl }}edition/plant117/) 
+ - [N. 117 Ramno primo Bianco]({{ site.baseurl }}edition/plant117/) 
  - [N. 118 Ramno Bianco]({{ site.baseurl }}edition/plant118/) 
  - [N. 126 Tithimalo Dendroide]({{ site.baseurl }}edition/plant126/) 
  - [N. 144 Aria]({{ site.baseurl }}edition/plant144/) 
@@ -150,7 +150,7 @@ Alternate Names: Cortusius, Jacobus Antonius; Cortusi, Jacopo Antonio
  - [N. 58 Anagiro, Egano]({{ site.baseurl }}edition/plant058/) 
  - [N. 73 Pepe Tondo]({{ site.baseurl }}edition/plant073/) 
  - [N. 87 Spin Bianco]({{ site.baseurl }}edition/plant087/) 
- - [N. IIO SEBESTE SP.]({{ site.baseurl }}edition/plant110/) 
+ - [N. IIO SEBESTE SPETIE]({{ site.baseurl }}edition/plant110/) 
  - [N. 134 Smilax Levis di Candia]({{ site.baseurl }}edition/plant134/) 
  - [N. 152 Oxiacanta]({{ site.baseurl }}edition/plant152/) 
                    
@@ -187,7 +187,7 @@ Medico veneziano (m. 1563), possessore di un giardino botanico privato nel sesti
 ## [Marsili, Giovanni](https://www.treccani.it/enciclopedia/giovanni-marsili_%28Dizionario-Biografico%29/)
 
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) 
- - [N. IIO SEBESTE SP.]({{ site.baseurl }}edition/plant110/) 
+ - [N. IIO SEBESTE SPETIE]({{ site.baseurl }}edition/plant110/) 
                    
 ## [Mattioli, Pietro Andrea](https://www.treccani.it/enciclopedia/pietro-andrea-mattioli_(Dizionario-Biografico))
 

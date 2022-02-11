@@ -17,13 +17,13 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 121 Genesta</head>
-        <ab part="N">[I. <hi>Spartium Junceum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213405"/> [II. <hi>Genista radiata Scop.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213761"/></ab>
+        <ab part="N">[I. <hi>Spartium Junceum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213405"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:519057-1"/> </ab> <ab part="N">[II. <hi>Genista radiata Scop.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213761"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:496291-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p part="N"> Genesta da volgari Balsilex da Latini Spartum Diascoride Spargamo et Mirche da Arabi
-            et Ambrahinch Sparto et genesta da Romani Lobon et Lygon da alcuni Garneginst et Genest
-            <ptr target="#A-121-N1"/> Capistron di arbore et Tamnos alcuni Mirica Sucha Bernestra <ptr target="#A-121-N2"/> da Sclavoni Viburnio
-            spetie di Genesta Vavorna in Calabria Ginst et Genist da Germani Du Genet da Galli.</p>
+          <p part="N"> Genesta da volgari - Balsilex da Latini - Spartum Diascoride, Spargamo et Mirche da Arabi
+            et Ambrahinch Sparto et genesta da Romani - Lobon et Lygon da alcuni - Garneginst et Genest
+            <ptr target="#A-121-N1"/> - Capistron di arbore et Tamnos - alcuni Mirica - Sucha Bernestra <ptr target="#A-121-N2"/> da Sclavoni - Viburnio
+            spetie di Genesta - Vavorna in Calabria - Ginst et Genist da Germani - Du Genet da Galli.</p>
         </div>
         <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
@@ -39,7 +39,7 @@
         </div>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p part="N"> Quando son il fior et silique non ha foglie che son l'april et Maggio.</p>
+          <p part="N"> Quando son il fior et silique non ha foglie che son l'april et maggio.</p>
         </div>
         <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
@@ -58,9 +58,9 @@
           <head>VIRTÙ</head>
           <p part="N"> In Assia <ptr target="#A-121-N8"/> di essa ne fanno lini per rette <ptr target="#A-121-N9"/> da pescare. Usasi la pianta tutta ne
             medicine et le pecchie si godeno de suoi fiori. Et legendo gli Autori vedreti suoi
-            valori. In Plinio lib. 24, cap. 9 Diascoride lib. 4, cap. 139 Galeno 8 de simplicibus
-            Pandette cap. 281 et 282 Serapione lib. de simplicibus Simon ianuensis et Mundinus in
-            suis sinonomis Et in Galeno 6 Sim. Phar. cap. de Genestrella Et dicesi che li fiori
+            valori. In Plinio lib. 24, cap. 9 - Diascoride lib. 4, cap. 139 - Galeno 8 de Simplicibus -
+            Pandette cap. 281 et 282 - Serapione lib. de Simplicibus - Simon Ianuensis et Mundinus in
+            suis sinonomis. - Et in Galeno 6 Sim. Phar. cap. de Genestrella. Et dicesi che li fiori
             reduti <ptr target="#A-121-N10"/> in polvere et freschi mangiati provocano il vomito. Et spinge li spiriti
             alli indemoniati.</p>
         </div>
@@ -88,6 +88,6 @@
           <note xml:id="A-121-N7" n="7" anchored="true"> La seconda qui figurata.</note>
           <note xml:id="A-121-N8" n="8" anchored="true"> Asia.</note>
           <note xml:id="A-121-N9" n="9" anchored="true"> Reti.</note>
-          <note xml:id="A-121-N10" n="10" anchored="true"> * Reduti = ridotti. (Ed.). </note>
+          <note xml:id="A-121-N10" n="10" anchored="true"> * Reduti = ridotti. (Ed.) </note>
         </div>
       </body></text></TEI>

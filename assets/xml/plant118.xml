@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 118 Ramno Bianco</head>
-        <ab part="N">[<hi>Hippophaë rhamnoides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000723743"/></ab>
+        <ab part="N">[<hi>Hippophaë rhamnoides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000723743"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:323851-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Rhamno bianco secondo da volgari.</p>
