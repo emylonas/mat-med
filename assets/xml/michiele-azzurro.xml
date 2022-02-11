@@ -259,6 +259,11 @@
         <placeName type="alt">Ciprio</placeName>
       </place>
       <place>
+        <placeName ref="https://www.geonames.org/3657509/guayaquil.html=Guaiaquil">Guayaquil [Ecuador]</placeName>
+          <placeName type="alt">Guaiaquil</placeName>
+      </place>
+      
+      <place>
         <placeName ref="https://www.geonames.org/260311/kefalonia-island.html" xml:id="kefalonia"
           >Cefalonia</placeName>
         <placeName type="alt">Collophone</placeName>
@@ -6468,14 +6473,14 @@
         <div type="shape">
           <head>FORMA</head>
           <p> Suoe radici legniose proffunde intricate in se medesime et foltamente, non grosse et
-            scorziute, nasce in gran coppia a guisa de Rovi et per li suoi germogli manda fuora
+            scorziute, nasce in gran coppia a guisa de rovi et per li suoi germogli manda fuora
             quasi da ogni parte de rami picciole fogline sopra a ramuscoli lunghi che credo se
             invilupano.</p>
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In molte parte dell'India se ne ritrova ma la migliore nell'Isola di Puna et nel
-            teritorio di Guaiaquil cita. Et nell'Isola de Argento in grande quantità.</p>
+          <p> In molte parte dell'India se ne ritrova ma la migliore nell'isola di Puna et nel
+            teritorio di <placeName ref="#Guaiaquil">Guaiaquil</placeName> cità. Et nell'Isola de Argento in grande quantità.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
