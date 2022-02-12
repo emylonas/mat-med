@@ -231,6 +231,11 @@ Speziale piacentino.
 
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) 
                    
+## [Ramusio, Giovanni Battista](https://www.treccani.it/enciclopedia/giovanni-battista-ramusio_%28Dizionario-Biografico%29/)
+
+ - [N. 98 Oleandro]({{ site.baseurl }}edition/plant098/) 
+ - [N. 159 Pepe]({{ site.baseurl }}edition/plant159/) 
+                   
 ## [Rinio, Benedetto](https://data.cerl.org/thesaurus/cnp01365502)
 Alternate Names: Rinius, Benedictus
  - [N. 7 Vite Bianca Vulgare]({{ site.baseurl }}edition/plant007/) 

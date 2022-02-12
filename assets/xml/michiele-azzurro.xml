@@ -166,6 +166,9 @@
       <person>
         <persName xml:id="Barca" ref="https://isni.org/isni/0000000118158998">Barca Centenera, Martín del</persName>
       </person>
+      <person>
+        <persName xml:id="Ramusio" ref="https://www.treccani.it/enciclopedia/giovanni-battista-ramusio_%28Dizionario-Biografico%29/">Ramusio, Giovanni Battista</persName>
+      </person>
     </listPerson>
     
     <listPlace>
@@ -4783,7 +4786,7 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> In luoghi ameni acquosi, et nelle maremme, alle rippe del Lago di Garda et nelle
-            maremme di Siena. In Candia ancora et de il bianco dunde io l'hebbi dal Ramusio et de
+            maremme di Siena. In Candia ancora et de il bianco dunde io l'hebbi dal <persName ref="#Ramusio">Ramusio</persName> et de
             una pianta io ho impito <ptr target="#A-098-N1"/> tutti li giardini de Italia.</p>
         </div>
         <div type="reproduction">
@@ -4879,7 +4882,7 @@
         </div>
         <div type="editorial-D">
           <p>La pianta sorge sul pendio di un monte abitato ed è sterile, non avendone il Michiel
-            potuto ottenere i frutti <ptr target="#A-099-N3"/>. Perciò egli, non avendo potuto conoscere l'opera dell'Acosta [2] la quale fu pubblicata due anni dopo la sua morte, credette, come generalmente si riteneva, che fossero frutti i semi. Era uso di sgusciare i semi od almeno
+            potuto ottenere i frutti <ptr target="#A-099-N3"/>. Perciò egli, non avendo potuto conoscere l'opera dell'Acosta <ref type="bibl" target=" http://id.sbn.it/bid/BVEE000143">[2]</ref> la quale fu pubblicata due anni dopo la sua morte, credette, come generalmente si riteneva, che fossero frutti i semi. Era uso di sgusciare i semi od almeno
             troncar loro le ale quando si spedivano in Europa per economia di spazio, perciò il Michiel li chiama rotondi. Il <persName ref="#Rinio">Rinio</persName> invece conobbe i semi della congenere M. aptera e li
             figurò come frutti sopra un albero fittizio a c. 375. Invece la presente figura, pur
             avendo delle imperfezioni nella divisione delle foglie simili a quelle della figura
@@ -5467,13 +5470,13 @@
             quasi indigena nel Veronese, nel Mantovano, presso Belluno <ptr target="#A-110-N3"/>.</p>
           <p>Contemporaneo al Michiel il Mattioli riceveva campioni da Costantinopoli sotto il nome
             di «Dattero di Trebisonda», e dava pur una figura della pianta. Nel 1635 l'albero era
-            notato fra le piante cospicue dell'orto botanico di Pisa [262].</p>
+            notato fra le piante cospicue dell'orto botanico di Pisa <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="80"/>
           <p>Un secolo dopo il Michiel lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> ne diede una figura poco esatta per la forma dei
             frutti, ritraendola da una pianta fatta nascere a Montbéliard con semi provenienti da
             Padova <ptr target="#A-110-N4"/>. </p>
-          <p>Due secoli dopo il Michiel il Miller (178) si procurava semi pur da Padova e diffondeva così la pianta in Inghilterra non riuscendo però a farla fruttificare, come si
+          <p>Due secoli dopo il Michiel, il Miller <ref type="bibl" target="http://id.sbn.it/bid/RMSE004471">[178 ma 200]</ref> si procurava semi pur da Padova e diffondeva così la pianta in Inghilterra non riuscendo però a farla fruttificare, come si
             scorge dalla figura da lui lasciata. Nella descrizione egli dice che la si crede
             originaria d'Italia ma che, dietro migliori informazioni, egli la suppone importata
             dalla Mauritania ove trovasi spontanea.</p>
@@ -5481,21 +5484,21 @@
             che a merito del <persName ref="#Marsili">Marsili</persName> fu ristaurata. Il Miller parla di due vecchi alberi di
             Diospyrus Lotus che ai suoi tempi (1771) vivevano all'Orto botanico di Padova. Uno è
             quello piantato dal Michiel e veduto dal Falloppio verso la metà del sec. XVI, l'altro
-            fu piantato oltre un secolo dopo dal Viali, Ambedue le piante hanno ormai subito la
-            sorte comune [266].</p>
+            fu piantato oltre un secolo dopo dal Viali. Ambedue le piante hanno ormai subito la
+            sorte comune <ref type="bibl" target=" http://id.sbn.it/bid/MIL0659478">[266]</ref>.</p>
           <p>Nella diagnosi il Michiel dice che i frutti sono gialli, ma nella figura vi sono rami a
             frutti gialli e rami a frutti azzurri, i quali ultimi probabilmente furono aggiunti
             dopo, quando l'autore riconobbe esistere le due varietà di colore. È notevole il fatto
-            che in alcuni libri moderni si ponga come carattere specifico ora l'una [26], ora
-            l'altra tinta [153]. Avendo avuto agio di esaminare lungo tempo la pianta, il Michiel fu
+            che in alcuni libri moderni si ponga come carattere specifico ora l'una <ref type="bibl" target=" http://id.sbn.it/bid/CFI0031769">[26]</ref>, ora
+            l'altra tinta <ref type="bibl" target=" https://data.cerl.org/istc/ig00109000">[153]</ref>. Avendo avuto agio di esaminare lungo tempo la pianta, il Michiel fu
             in grado di perfezionare le sue conoscenze intorno ad essa, ma si limitò a far gli
             emendamenti nella figura, dimenticandosi di correggere la diagnosi. Una riprova la
             abbiamo nei fiori che nel testo son chiamati «verdi» e nella figura furono tinti in
             bruniccio.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-110-N1" n="1"> · Il Codice porta chiaramente scritto angusto; è certo pero che il Michiel
-            allude alla specie che Plinio (XV, 129) chiama: rogia, quae coepit Augusta appellari.
+          <note xml:id="A-110-N1" n="1">* Il Codice porta chiaramente scritto angusto; è certo pero che il Michiel
+            allude alla specie che Plinio (XV, 129) chiama: <hi>regia, quae coepit Augusta appellari</hi>.
             (Ed.)</note>
           <note xml:id="A-110-N2" n="2"> Volendo.</note>
           <note xml:id="A-110-N3" n="3"> Nella villa di Cusighe vegeta una pianta la quale, malgrado il clima montano
@@ -7159,7 +7162,7 @@
             del Michiel. I frutti sono ovoidi, giallo-dorati con fasce longitudinali brune. Il
             <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref>, il quale copiò la maggior parte delle figure dal Michiel, copiò quella del
             tamarindo dal Rinio, come egli stesso avverte.</p>
-          <p> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta [2]. -</p>
+          <p> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta <ref type="bibl" target=" http://id.sbn.it/bid/BVEE000143">[2]</ref>. -</p>
         </div>
       </div>
 
@@ -7607,7 +7610,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p>Leggi ut supra, ma questo io lo hebbi dal Ramusio et credo vene per quella istessa via
+          <p>Leggi ut supra, ma questo io lo hebbi dal <persName ref="#Ramusio">Ramusio</persName> et credo vene per quella istessa via
             che hebbe anche l'ecc. Mathioli [II].</p>
         </div>
 
@@ -7615,7 +7618,7 @@
         <pb n="108"/>
         <div type="seasonality">
           <head>TEMPO</head>
-          <p> Penso stia sempre verde, suoe frondi, li grappoli de Esta et maturati alle fin di
+          <p> Penso stia sempre verde, suoe frondi, li grappoli de esta[te] et maturati alle fin di
             setembre [I].</p>
         </div>
         <div type="opinions">
@@ -7633,7 +7636,7 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p> Legi ut supra da driedo et leggesi in <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Thomaso Porchacchi</ref> alla isola di Taprobana (3) a
-            k. 96. Et l'fa ch el sia albero simil alla Hedera.</p>
+            k. 96. Et l'fa ch el sia albero simil alla hedera.</p>
         </div>
         <div type="editorial-D">
           <p>La prima figura è una copia di quella del Mattioli il quale però dichiara di non aver
@@ -7643,11 +7646,11 @@
             campione inviatogli dal Ramusio che avrebbe pur mandato il campione donde fu tratta la
             figura del Mattioli.</p>
           <p>Riguardo al pepe (Piper nigrum) il Michiel cortegge l'errore degli antichi i quali
-            credevano [201], seguiti in ciò da autori medievali [219] e contemporanei [126] che il
+            credevano <ref type="bibl" target="http://id.sbn.it/bid/CUB0508798">[219 ma 220]</ref>, seguiti in ciò da autori medievali <ref type="bibl" target="http://id.sbn.it/bid/MILE026339">[201]</ref> e contemporanei <ref type="bibl" target="http://id.sbn.it/bid/TO01377010">[126]</ref> che il
             pepe fosse un albero a foglie di ginepro; però l'unica cognizione giusta da lui
             sostituita è che il fusto è sarmentoso e rampicante. Nel resto egli pure erra, fidandosi
             dei rap porti inesatti dei viaggiatori e della figura di Mattioli. Qualche anno dopo
-            apparve la figura mediocre, ma tratta dal vero, di C. Acosta [2]. -</p>
+            apparve la figura mediocre, ma tratta dal vero, di C. Acosta <ref type="bibl" target=" http://id.sbn.it/bid/BVEE000143">[2]</ref>. -</p>
         </div>
         <div type="notes">
           <note xml:id="A-159-N1" n="1"> Si avvolgono.</note>

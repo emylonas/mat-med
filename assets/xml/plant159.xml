@@ -36,7 +36,7 @@
         </div>
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p part="N">Leggi ut supra, ma questo io lo hebbi dal Ramusio et credo vene per quella istessa via
+          <p part="N">Leggi ut supra, ma questo io lo hebbi dal <persName ref="ramusio-giovanni-battista">Ramusio</persName> et credo vene per quella istessa via
             che hebbe anche l'ecc. Mathioli [II].</p>
         </div>
 
@@ -44,7 +44,7 @@
         <pb n="108"/>
         <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p part="N"> Penso stia sempre verde, suoe frondi, li grappoli de Esta et maturati alle fin di
+          <p part="N"> Penso stia sempre verde, suoe frondi, li grappoli de esta[te] et maturati alle fin di
             setembre [I].</p>
         </div>
         <div type="opinions" part="N" org="uniform" sample="complete">
@@ -62,7 +62,7 @@
         <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
           <p part="N"> Legi ut supra da driedo et leggesi in <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Thomaso Porchacchi</ref> alla isola di Taprobana (3) a
-            k. 96. Et l'fa ch el sia albero simil alla Hedera.</p>
+            k. 96. Et l'fa ch el sia albero simil alla hedera.</p>
         </div>
         <div type="editorial-D" part="N" org="uniform" sample="complete">
           <p part="N">La prima figura è una copia di quella del Mattioli il quale però dichiara di non aver
@@ -72,11 +72,11 @@
             campione inviatogli dal Ramusio che avrebbe pur mandato il campione donde fu tratta la
             figura del Mattioli.</p>
           <p part="N">Riguardo al pepe (Piper nigrum) il Michiel cortegge l'errore degli antichi i quali
-            credevano [201], seguiti in ciò da autori medievali [219] e contemporanei [126] che il
+            credevano <ref type="bibl" target="http://id.sbn.it/bid/CUB0508798">[219 ma 220]</ref>, seguiti in ciò da autori medievali <ref type="bibl" target="http://id.sbn.it/bid/MILE026339">[201]</ref> e contemporanei <ref type="bibl" target="http://id.sbn.it/bid/TO01377010">[126]</ref> che il
             pepe fosse un albero a foglie di ginepro; però l'unica cognizione giusta da lui
             sostituita è che il fusto è sarmentoso e rampicante. Nel resto egli pure erra, fidandosi
             dei rap porti inesatti dei viaggiatori e della figura di Mattioli. Qualche anno dopo
-            apparve la figura mediocre, ma tratta dal vero, di C. Acosta [2]. -</p>
+            apparve la figura mediocre, ma tratta dal vero, di C. Acosta <ref type="bibl" target=" http://id.sbn.it/bid/BVEE000143">[2]</ref>. -</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
           <note xml:id="A-159-N1" n="1" anchored="true"> Si avvolgono.</note>
