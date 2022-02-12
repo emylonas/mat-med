@@ -20,7 +20,7 @@
         <ab part="N">[I. <hi>Fittizia</hi>] [<hi>II. Xylopia aethiopica A. Rich.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000428869"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:76056-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p part="N"> Pepe, legi k. 73.</p>
+          <p part="N"> Pepe, legi <ref type="internal" target="#A-050">k. 73</ref>.</p>
         </div>
         <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
@@ -37,7 +37,7 @@
         <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
           <p part="N">Leggi ut supra, ma questo io lo hebbi dal <persName ref="ramusio-giovanni-battista">Ramusio</persName> et credo vene per quella istessa via
-            che hebbe anche l'ecc. Mathioli [II].</p>
+            che hebbe anche l'ecc. <persName ref="mattioli-pietro-andrea">Mathioli</persName> [II].</p>
         </div>
 
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
@@ -53,11 +53,11 @@
             posto in luce. Et se inganano de molti che si credeno ch'il Zelin di Serrapione sia il
             Carpesio, questa demostra suoe foglie non sonno come di Hedera come da molti della ditta
             navigatione ho inteso essere ma bene se invoglieno comme questa <ptr target="#A-159-N3"/>. Quello poi che
-            produce silique [II] son tenuto per il nero di Serrapione dunde dalla diversita de
+            produce silique [II] son tenuto per il nero di Serrapione dunde dalla diversità de
             raporti et deti si possono veramente comprendere essere diverse forme di piante che lo
             produce. Et io ne ho veduto di tre specie, questa commune delle spetiarie [I], una di
             rotondo, liscio et maggiore qual l'hebbi dal Ramusio [II] et la terza mi naque da quella
-            pianta demostra a k. 73 tenuto per il salvatico.</p>
+            pianta demostra a <ref type="internal" target="#A-073">k. 73</ref> tenuto per il salvatico.</p>
         </div>
         <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>

@@ -18,7 +18,7 @@
   </teiHeader><text><body>
         <head>N. II2 Guaico</head>
         <div type="editorial-S" part="N" org="uniform" sample="complete">
-          <ab part="N"> [<hi>Guaiacum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-4000016293"/></ab>
+          <ab part="N"> [<hi>Guaiacum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-4000016293"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:873252-1"/></ab>
         </div>
           <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>

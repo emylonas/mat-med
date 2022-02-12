@@ -169,6 +169,13 @@
       <person>
         <persName xml:id="Ramusio" ref="https://www.treccani.it/enciclopedia/giovanni-battista-ramusio_%28Dizionario-Biografico%29/">Ramusio, Giovanni Battista</persName>
       </person>
+      <person>
+        <persName xml:id="Falloppia" ref="https://www.treccani.it/enciclopedia/gabriele-falloppia_(Dizionario-Biografico)">Falloppia, Gabriele</persName>
+      </person>
+      <person>
+        <persName xml:id="Barbarigo" ref="https://www.treccani.it/enciclopedia/antonio-barbarigo_%28Dizionario-Biografico%29/">Da Mula, Marcantonio</persName>
+      </person>
+      
     </listPerson>
     
     <listPlace>
@@ -210,6 +217,7 @@
         <placeName ref="https://www.geonames.org/747712/edirne.html" xml:id="edirne"
           >Edirne</placeName>
         <placeName type="alt">Andernopoli</placeName>
+        <placeName type="alt">Adrianopoli</placeName>
       </place>
       <place>
         <placeName ref="https://www.geonames.org/3182970/appennino-settentrionale.html"
@@ -5060,15 +5068,15 @@
             questa pagina parla anche della xxola che i Latini trascrivevano pur cassia <ptr target="#A-102-N5"/> e che
             era un'erba usata per ghirlande (cassia coronaria dei Romani) chiamata da Igino
             xvéopov. Per le lunghe questioni sull'identificazione del cneoro può vedersi il
-            Mattioli <ptr target="#A-102-N6"/>,</p>
+            Mattioli <ptr target="#A-102-N6"/>.</p>
           <p>La presente specie fu chiamata dai Greci bizantini <foreign xml:lang="grc">γλυκοκάλαμος</foreign> (canna dolce) come trovasi in Nicola Mirepsico (201 p. 49
             (Ed.) e più tardi usurpo il nome di cassia per la somiglianza dei suoi legumi
             cilindrici e legnosi colla scorza rotolata dell'antica <foreign xml:lang="grc">κασσία</foreign> (Cinnamomum Cassia) ora chiamata cassia lignea. Questo errore
             insinuato dagli Arabi fu però riconosciuto da vari semplicisti, p. e. dal <persName ref="#Rinio">Rinio</persName> che però
             a c. 322 dà una figura fittizia della Cassia fistula ed a c. 437 pur parlando della
-            cassia lignea non ne da alcuna figura.</p>
+            cassia lignea non ne dà alcuna figura.</p>
           <p>Della presente figura del Michiel fece copia il <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879">Marini [197]</ref> cui si attribuisce il primato della iconografia [276]. Donde l'abbia tratta il Michiel non sappiamo perché egli
-            non dice espressamente di aver coltivato la pianta; notiamo che il Brasavola suo contemporaneo vide la pianta stessa coltivata nell'orto dei Comaro a Murano).</p>
+            non dice espressamente di aver coltivato la pianta; notiamo che il Brasavola suo contemporaneo vide la pianta stessa coltivata nell'orto dei Cornaro a Murano.</p>
         </div>
         <div type="notes">
           <note xml:id="A-102-N1" n="1"> Cardiolo o gardtolo diminutivo di carato è veramente il nome veneziano del
@@ -5136,7 +5144,7 @@
         <div type="location">
           <head>LUOGHO</head>
           <p> In Syria grandi e neri. Nel Monte Ida di Trogia <ptr target="#A-104-N4"/>. In Macedonia ma picciol. In
-            Damasco sonno grandi. Nel Monte di Castel trento. Nel Monte Baldo. Et io ne ho custodito
+            Damasco sonno grandi. Nel Monte di Castel Trento. Nel Monte Baldo. Et io ne ho custodito
             uno di Cypri. Ne sonno in Schiavonia, in Toscana et in Abruzzio.</p>
         </div>
         <div type="editorial-D">
@@ -5155,8 +5163,8 @@
           <p>Del terebinto trovasi campione nell'Erbario Aldrovandi, Vol. II, 99.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-104-N1" n="1"> L'Anguillara scrisse: «Chjamasi il Terebintho in Abruzzio nel Contado di
-            Rocca Scalegna Trivente voce alquanto corrotta da Terebintho». Il Michiel credette
+          <note xml:id="A-104-N1" n="1"> L'Anguillara scrisse: «Chiamasi il Terebintho in Abruzzio, nel Contado di
+            Rocca Scalegna Trivente, voce alquanto corrotta da Terebintho». Il Michiel credette
             che il villaggio abruzzese si chiamasse puramente Rocca e trascrisse Scalegna Trivento
             come nome della pianta, corrompendo ulteriormente Trivente in Trinonte.</note>
           <note xml:id="A-104-N2" n="2"> A Roma.</note>
@@ -5265,17 +5273,17 @@
             da S. Michel, et sonno molto malagevol da digerire et contrarie allo stomacho et son
             usate doppo Galeno ne compositi pettorali contra gli caldi humori et ne solutivi della
             colera con pocha et non buona consideratione come coppiosamente ne distingue il Mattiolo
-            al cap. del Pruno. Galeno al ij de faculti.</p>
+            al cap. del Pruno. Galeno al II de Facult[tatibus].</p>
         </div>
         <div type="editorial-D">
-          <p>Secondo lo Sprengel il xovapos di Ateneo Naucratide è Zizyphus Jujuba, specie indiana,
-            diversa da 2. vulgaris e da 2. Lotus <ptr target="#A-106-N3"/>.</p>
+          <p>Secondo lo Sprengel il <foreign xml:lang="grc">κόνναρος</foreign> di Ateneo Naucratide è <hi>Zizyphus Jujuba</hi>, specie indiana,
+            diversa da <hi>Z. vulgaris</hi> e da <hi>Z. lotus</hi> <ptr target="#A-106-N3"/>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-106-N1" n="1"> Zisyphus vulgaris.</note>
           <note xml:id="A-106-N2" n="2"> Paliunas australis (N. 119 di questo stesso libro).</note>
-          <note xml:id="A-106-N3" n="3"> * Il Michiel invece, seguendo l'Anguillara, lo identifica col 2. vulgaris;
-            nulla perd dice dell'originale da cui cavo la figura. (Ed.) </note>
+          <note xml:id="A-106-N3" n="3"> * Il Michiel invece, seguendo l'Anguillara, lo identifica col <hi>Z. vulgaris</hi>;
+            nulla però dice dell'originale da cui cavò la figura. (Ed.) </note>
         </div>
       </div>
 
@@ -5317,7 +5325,7 @@
             da foglia. Il disegno delle foglie non compete certo con quello che troviamo nel <persName ref="#Rinio">Rinio</persName> a
             c. 330, ma la figura del Michiel è più completa ed esatta, comprendendo fiori e frutti a
             tutti i gradi di maturità ed aggregati come lo sono in natura.</p>
-          <p>Il nome qui citato del dialetto vicentino è corruzione del xdu.zcos di Teofrasto.</p>
+          <p>Il nome qui citato del dialetto vicentino è corruzione del <foreign xml:lang="grc">κόμαρος</foreign> di Teofrasto.</p>
         </div>
         <div type="notes">
           <note xml:id="A-107-N1" n="1"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
@@ -5340,7 +5348,7 @@
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> · Due mostre ci sonno consimili. Et de lothi legi nel lib. primo purpureo k. 116.</p>
+          <p> Due mostre ci sonno consimili. Et de lothi legi nel lib. primo purpureo k. 116.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
@@ -5468,7 +5476,7 @@
             il nome di Guaiaco patavino sotto il quale essa fu conosciuta fino al cadere del secolo
             XVIII. E quell'Orto fu il centro dal quale pianta si sparse in modo da essere oggidì
             quasi indigena nel Veronese, nel Mantovano, presso Belluno <ptr target="#A-110-N3"/>.</p>
-          <p>Contemporaneo al Michiel il Mattioli riceveva campioni da Costantinopoli sotto il nome
+          <p>Contemporaneo al Michiel, il Mattioli riceveva campioni da Costantinopoli sotto il nome
             di «Dattero di Trebisonda», e dava pur una figura della pianta. Nel 1635 l'albero era
             notato fra le piante cospicue dell'orto botanico di Pisa <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
@@ -5529,7 +5537,7 @@
           <head>TEMPO</head>
           <p>Mi naque de suoi semi et mi pare sempre stia verde ma pero non lo afermo perché mi
             morse <ptr target="#A-111-N2"/> con il grande fredo. Suoi fruti io ho sentito che nascono molti insieme in
-            cima e' rami come in panocchia et me lo disse il Falopia.</p>
+            cima e' rami come in panocchia et me lo disse il <persName ref="#Falloppia">Falopia</persName>.</p>
         </div>
         <div type="editorial-D">
           <p>Pianta fruttifera sorgente in un prato con figure di uomini nudi e di animali. A parte
@@ -5544,15 +5552,15 @@
             riguardato specie di pruno: «nunc vero non ubique familiares, sed raris admodum hortis
             et viridarijs virent» e non ne dà alcuna figura, mentre in quella del 1568 dice: «Ma
             hora non so io che s'habbino i Sebesteni in verun horto d'Italia. Fummene mandato un
-            ramo seccho con i frutti dal clarissimo medico M. Gabriele Falloppia di Padova, di cui è
-            qui la figura». D'altra parte il <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini [197]</ref> che copiò la presente figura del Michiel ne scrive: «si Myxorum (Sebesten arabes vocant) plantam ad vivam effigiem
+            ramo seccho con i frutti dal clarissimo medico m. <persName ref="#Falloppia">Gabriele Falloppia</persName> di Padova, di cui è
+            qui la figura». D'altra parte il <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini [176 ma 197]</ref> che copiò la presente figura del Michiel ne scrive: «si Myxorum (Sebesten arabes vocant) plantam ad vivam effigiem
             expressam ostenderemus, quam nemo hactenus, quod equidem sciam, monstravit, eius nobis
             sicut et aliorum multorum copiam fecit insignis vir probitate ac meritis Petrus Antonius
             Michaelius, quem antea saepe nominavimus.</p>
           <p>Rammentando ciò che dicemmo altrove, che il presente Codice fu cominciato intorno al
             1561, tenendo presente altresì che il Marini pubblicò l'opera sua nel 1562 e facendo gli
             opportuni confronti delle asserzioni dei tre autori, possiamo trarre le conseguenze:
-            1° Il primato della conoscenza della specie spetta al Falloppio; 2° Il primato
+            1° Il primato della conoscenza della specie spetta al <persName ref="#Falloppia">Falloppio</persName>; 2° Il primato
             dell'iconografia spetta al Michiel.</p>
         </div>
         <div type="notes">
@@ -5564,7 +5572,7 @@
       <div type="plant" xml:id="A-112">
         <head>N. II2 Guaico</head>
         <div type="editorial-S">
-          <ab> [<hi>Guaiacum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-4000016293"/></ab>
+          <ab> [<hi>Guaiacum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-4000016293"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:873252-1"/></ab>
         </div>
           <div type="name">
           <head>NOMI</head>
@@ -5989,7 +5997,7 @@
         </div>
         <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p>Il Sparto non sempre porta foglie dunde = <fw type="running-head" place="top">LIBRO
+          <p>Il Sparto non sempre porta foglie dunde <fw type="running-head" place="top">LIBRO
             AZZURRO</fw><pb n="87"/> Diascoride lo vide senza et si penso <ptr target="#A-121-N5"/> che non le facessi
             come le fa. Et questa son la istessa da lui scritta <ptr target="#A-121-N6"/>. Et l'altra mostra alpina son
             anchor lei specie di sparto <ptr target="#A-121-N7"/></p>
@@ -5997,7 +6005,7 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p> In Assia <ptr target="#A-121-N8"/> di essa ne fanno lini per rette <ptr target="#A-121-N9"/> da pescare. Usasi la pianta tutta ne
-            medicine et le pecchie si godeno de suoi fiori. Et legendo gli Autori vedreti suoi
+            medicine et le pecchie si godeno de suoi fiori. Et legendo gli autori vedreti suoi
             valori. In Plinio lib. 24, cap. 9 - Diascoride lib. 4, cap. 139 - Galeno 8 de Simplicibus -
             Pandette cap. 281 et 282 - Serapione lib. de Simplicibus - Simon Ianuensis et Mundinus in
             suis sinonomis. - Et in Galeno 6 Sim. Phar. cap. de Genestrella. Et dicesi che li fiori
@@ -7493,8 +7501,8 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Molti si credono che il Cipro Albero sia il volg. Ligustro, come il Corollario del
-            Barbaro et anche lo stesso Plinio acena di dubito come l'<persName ref="#Anguillara">Anguilara</persName> prudente ci manifesta
+          <p> Molti si credono che il Cipro Albero sia il volg. Ligustro, come il <ref type="http://id.sbn.it/bid/PUVE030738">Corollario del Barbaro</ref>
+            et anche lo stesso <ref type="http://id.sbn.it/bid/MILE002311">Plinio</ref> acena di dubito come l'<persName ref="#Anguillara">Anguilara</persName> prudente ci manifesta
             nelli suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 59, non esser il Ligustro el Cypero.</p>
         </div>
         <div type="editorial-D">
@@ -7538,7 +7546,7 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p> Il sugo o polvere de suoe foglie sonno mirabile a doglia de denti et a non lasciarli
-            marcir, ma li fanno neri. Come si legge nel libro secondo delle Indie k. 116.</p>
+            marcir, ma li fanno neri. Come si legge nel <ref type="bibl" target="http://id.sbn.it/bid/TO0E019412">libro secondo delle Indie k. 116</ref>.</p>
         </div>
         <div type="editorial-D">
           <p>Pianta sterile.</p>
@@ -7581,8 +7589,8 @@
         <div type="properties">
           <head>VIRTÙ</head>
           <p> In questo albero li ucelli ne fanno nidi, Et la suoa scorza nel sapore son simil alla
-            canela, nell'amaro ha del Zenzaro. Et nel odore a garofali, ma pero non è spetiaria
-            dice il lib. primo 51 dell'Indie.</p>
+            canela, nell'amaro ha del zenzaro. Et nel odore a garofali, ma però non è spetiaria
+            dice <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">il lib. primo 51 dell'Indie</ref>.</p>
         </div>
         <div type="editorial-D">
           <p>Pianta sterile.</p>
@@ -7594,7 +7602,7 @@
         <ab>[I. <hi>Fittizia</hi>] [<hi>II. Xylopia aethiopica A. Rich.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000428869"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:76056-1"/></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Pepe, legi k. 73.</p>
+          <p> Pepe, legi <ref type="internal" target="#A-050">k. 73</ref>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -7611,7 +7619,7 @@
         <div type="location">
           <head>LUOGHO</head>
           <p>Leggi ut supra, ma questo io lo hebbi dal <persName ref="#Ramusio">Ramusio</persName> et credo vene per quella istessa via
-            che hebbe anche l'ecc. Mathioli [II].</p>
+            che hebbe anche l'ecc. <persName ref="#Mattioli">Mathioli</persName> [II].</p>
         </div>
 
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
@@ -7627,11 +7635,11 @@
             posto in luce. Et se inganano de molti che si credeno ch'il Zelin di Serrapione sia il
             Carpesio, questa demostra suoe foglie non sonno come di Hedera come da molti della ditta
             navigatione ho inteso essere ma bene se invoglieno comme questa <ptr target="#A-159-N3"/>. Quello poi che
-            produce silique [II] son tenuto per il nero di Serrapione dunde dalla diversita de
+            produce silique [II] son tenuto per il nero di Serrapione dunde dalla diversità de
             raporti et deti si possono veramente comprendere essere diverse forme di piante che lo
             produce. Et io ne ho veduto di tre specie, questa commune delle spetiarie [I], una di
             rotondo, liscio et maggiore qual l'hebbi dal Ramusio [II] et la terza mi naque da quella
-            pianta demostra a k. 73 tenuto per il salvatico.</p>
+            pianta demostra a <ref type="internal" target="#A-073">k. 73</ref> tenuto per il salvatico.</p>
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
@@ -7665,16 +7673,16 @@
         <ab>[<hi>Quercus coccifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000290191"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295963-1"/></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Grana para tenir da Spagnioli Cocus baphica, Granum infectorium da Greci et Latini
-            Carmen, Kermes da Arabi Scharlach ber <ptr target="#A-160-N1"/> da Tedeschi Vermillon da Francesi Chervach da
+          <p> Grana para tenir da Spagnioli - Cocus baphica, Granum infectorium da Greci et Latini -
+            Carmen, Kermes da Arabi - Scharlach ber <ptr target="#A-160-N1"/> da Tedeschi - Vermillon da Francesi - Chervach da
             Dalmati.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
           <p> Di Grana sara questo arbusto. Et sonno varie spetie la produce, quella che dice
             Diascoride nascer nelle quercie, et della pimpinella ancora. Una altra spetie si porta
-            novamente dalle Indie occidentali che potria esser quella pungente ho dimostro nel libro
-            giallo a k. 144.</p>
+            novamente dalle Indie occidentali che potria esser quella pungente ho dimostro nel Libro
+            Giallo a k. 144.</p>
         </div>
         <div type="shape">
           <head>FORMA</head>
@@ -7685,8 +7693,8 @@
         <div type="location">
           <head>LUOGHO</head>
           <p>Io di questo arbusto ne hebbi uno ramo secho et insieme <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="109"/> la discretione con queste parole quivi
-            scrite dal Cl.mo M. Antonio Barbarigo fu bailo a Costantinopoli. Et disse nascerne verso
-            Andernopoli <ptr target="#A-160-N2"/> ne boschi loro. Et questa potria esser quella che narra Plinio nascere
+            scrite dal cl.mo M. <persName ref="#Barbarigo">Antonio Barbarigo</persName> fu bailo a Costantinopoli. Et disse nascerne verso
+            <placeName ref="#edirne">Andernopoli</placeName> <ptr target="#A-160-N2"/> ne boschi loro. Et questa potria esser quella che narra <ref type="http://id.sbn.it/bid/MILE002311">Plinio</ref> nascere
             in Aphrica et quella di Diascoride che nasce nelle quercie in Cilicia, ne sonno anchora
             in Boemia et Polonia.</p>
         </div>
@@ -7713,15 +7721,15 @@
         <div type="editorial-D">
           <p>Pianta con foglie e cogli insetti parassiti (Coccus Ilicis) collocati alle ascelle
             foliari, dietro l'idea che fossero frutti, idea che troveremo ribadita al N. 144 del
-            libro giallo colle parole: «di fruti di granna ci nasce benché in quel libro il Michiel
+            Libro Giallo colle parole: «di fruti di granna ci nasce benché in quel libro il Michiel
             mostri di sapere che quei corpi rossi lasciati a sé producono insetti. Questo errore
-            durò a lungo, benché un contemporaneo del Michiel [208] li qualificasse giustamente come
+            durò a lungo, benché un contemporaneo del Michiel <ref type="bibl" target="http://id.sbn.it/bid/PUV0756418">[208]</ref> li qualificasse giustamente come
             animaletti ed ancora prima di lui tali li ritenesse il popolo, chiamandoli vermi,
             donde la parola vermiglio indicante il colore. Altri due contemporanei del Michiel, il
             Pena ed il Lobelio asserirono che la grana non era né frutto, né seme, ma «excrementum
             ilicis» che poi si trasforma in moscerini, assimilandola alle galle, come più tardi
             fece il Fagon. <ref type="bibl" target="http://id.sbn.it/bid/BVEE003707">Durante [111]</ref> li chiamò bacche.</p>
-          <p>Nel commento alla figura di questa stessa pianta al N. 144 del libro giallo si parlerà
+          <p>Nel commento alla figura di questa stessa pianta al N. 144 del Libro Giallo si parlerà
             delle tre piante coccifere di <persName ref="#Anguillara">Anguillara</persName> e della loro identificazione. Qui l'autore
             parla di un'altra specie di grana tintoria, di cui parla anche il Mattioli, proveniente
             dalle Indie occidentali che è la cocciniglia (Coccus Cacti) ma mostra di non conoscere
@@ -7732,13 +7740,13 @@
           <p>La figura data in questa pagina è inferiore a quella del <persName ref="#Rinio">Rinio</persName> c. 172, ma superiore a
             quella molto infelice che diede, un secolo dopo il Michiel, lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> [63]. Che la
             pianta fosse poco diffusa abbiamo la prova in ciò che nel secolo XVII era notata fra le
-            più cospicue dell'Orto botanico di Pisa [262].</p>
+            più cospicue dell'Orto botanico di Pisa <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</p>
           <div type="notes">
             <note xml:id="A-160-N1" n="1"> Beere = bacca da scarlatto.</note>
             <note xml:id="A-160-N2" n="2"> Adrianopoli.</note>
             <note xml:id="A-160-N3" n="3"> Non continua.</note>
             <note xml:id="A-160-N4" n="4"> E non pungente l'ho posto qui.</note>
-            <note xml:id="A-160-N5" n="5"> Cioè alla fine del libro giallo.</note>
+            <note xml:id="A-160-N5" n="5"> Cioè alla fine del Libro Giallo.</note>
           </div>
         </div>
       </div>
@@ -7748,7 +7756,7 @@
         <ab>[<hi>Ipomaea Jalapa </hi> Coxe] <ref type="kew" target="https://www.ipni.org/n/269109-1"/></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Scamonea spetie da molti - Otra manera di li Mechoacan - altri nomi di Scamonea legi a k. 23. </p>
+          <p> Scamonea spetie da molti - Otra manera di li Mechoacan - altri nomi di Scamonea legi a <ref type="internal" target="#A-023">k. 23</ref>. </p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="110"/>
         </div>
@@ -7774,17 +7782,17 @@
           <p>Come avverte l'autore, la pianta crebbe nel suo giardino ma non potè fiorire e perciò la figura è di pianta sterile; a parte, una figura di foglia in grandezza naturale
             e fra le pagine un campione di foglia disseccata.</p>
           <p>Sebbene incompleta, la figura ha il merito d'esser la prima in ordine storico. Quasi
-            contemporanea è la descrizione della radice fatta da Monardes [179 bis], segue poi la
-            figura di <ref type="bibl" target="http://id.sbn.it/bid/PUVE000060"> Hernandez [132 ma 148]</ref> <ptr target="#A-161-N3"/>. Pisone e Marcgravio [196] effigiarono come Mechoacan la
+            contemporanea è la descrizione della radice fatta da <ref type="bibl" target="http://id.sbn.it/bid/BVEE005885">Monardes [179 bis]</ref>, segue poi la
+            figura di Hernandez <ref type="bibl" target="http://id.sbn.it/bid/RMLE001355">[132]</ref> <ptr target="#A-161-N3"/>. Pisone e Marcgravio [196] effigiarono come Mechoacan la
             specie brasiliana Piptostegia Pisonis, quindi a torto lo Sprengel dà a loro il primato
             dell'iconografia del vero Mechoacan.</p>
-          <p>Da principio l'autore avea ricevuto dal Guilandino col nome di Mechoacan la passiflora
+          <p>Da principio l'autore avea ricevuto dal <persName ref="#Guilandino">Guilandino</persName> col nome di Mechoacan la passiflora
               <ref type="internal" target="#A-017)">[N. 17]</ref>, ma poi lo Guilandino riconobbe l'errore.</p>
         </div>
         <div type="notes">
           <note xml:id="A-161-N1" n="1"> In bianco.</note>
           <note xml:id="A-161-N2" n="2"> La pianta non li fece.</note>
-          <note xml:id="A-161-N3" n="3"> Hernandez la figurò fiorita sotto il nome <hi>Tacuache</hi> (* vol. I, pag. 164 - Ed.)..</note>
+          <note xml:id="A-161-N3" n="3"> Hernandez la figurò fiorita sotto il nome <hi>Tacuache</hi> <ref type="bibl" target="http://id.sbn.it/bid/PUVE000060">(* vol. I, pag. 164 - Ed.)</ref>.</note>
         </div>
       </div>
 

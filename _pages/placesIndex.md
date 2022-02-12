@@ -119,8 +119,9 @@ Alternate Names: Damiata
                         
 ## [Edirne](https://www.geonames.org/747712/edirne.html)
                     
-Alternate Names: Andernopoli
+Alternate Names: Andernopoli; Adrianopoli
  - [N. 40 Frutes Citrio Simil]({{ site.baseurl }}edition/plant040/) 
+ - [N. 160 Grana]({{ site.baseurl }}edition/plant160/) 
                         
 ## [Egitto](https://www.geonames.org/357994/egypt.html)
                     

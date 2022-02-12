@@ -47,16 +47,16 @@
             da S. Michel, et sonno molto malagevol da digerire et contrarie allo stomacho et son
             usate doppo Galeno ne compositi pettorali contra gli caldi humori et ne solutivi della
             colera con pocha et non buona consideratione come coppiosamente ne distingue il Mattiolo
-            al cap. del Pruno. Galeno al ij de faculti.</p>
+            al cap. del Pruno. Galeno al II de Facult[tatibus].</p>
         </div>
         <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Secondo lo Sprengel il xovapos di Ateneo Naucratide è Zizyphus Jujuba, specie indiana,
-            diversa da 2. vulgaris e da 2. Lotus <ptr target="#A-106-N3"/>.</p>
+          <p part="N">Secondo lo Sprengel il <foreign xml:lang="grc">κόνναρος</foreign> di Ateneo Naucratide è <hi>Zizyphus Jujuba</hi>, specie indiana,
+            diversa da <hi>Z. vulgaris</hi> e da <hi>Z. lotus</hi> <ptr target="#A-106-N3"/>.</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
           <note xml:id="A-106-N1" n="1" anchored="true"> Zisyphus vulgaris.</note>
           <note xml:id="A-106-N2" n="2" anchored="true"> Paliunas australis (N. 119 di questo stesso libro).</note>
-          <note xml:id="A-106-N3" n="3" anchored="true"> * Il Michiel invece, seguendo l'Anguillara, lo identifica col 2. vulgaris;
-            nulla perd dice dell'originale da cui cavo la figura. (Ed.) </note>
+          <note xml:id="A-106-N3" n="3" anchored="true"> * Il Michiel invece, seguendo l'Anguillara, lo identifica col <hi>Z. vulgaris</hi>;
+            nulla però dice dell'originale da cui cavò la figura. (Ed.) </note>
         </div>
       </body></text></TEI>

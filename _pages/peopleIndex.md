@@ -49,6 +49,10 @@ Alternate Names: Anguillara, Alvise
  - [N. 156 Ciprus]({{ site.baseurl }}edition/plant156/) 
  - [N. 160 Grana]({{ site.baseurl }}edition/plant160/) 
                    
+## [Da Mula, Marcantonio](https://www.treccani.it/enciclopedia/antonio-barbarigo_%28Dizionario-Biografico%29/)
+
+ - [N. 160 Grana]({{ site.baseurl }}edition/plant160/) 
+                   
 ## [Barbaro, Ermolao](https://www.treccani.it/enciclopedia/ermolao-barbaro_%28Dizionario-Biografico%29/)
 
  - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) [2]
@@ -124,6 +128,10 @@ Alternate Names: Cortusius, Jacobus Antonius; Cortusi, Jacopo Antonio
 
  - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) 
                    
+## [Falloppia, Gabriele](https://www.treccani.it/enciclopedia/gabriele-falloppia_(Dizionario-Biografico))
+
+ - [N. 111 Sebeste di Levante]({{ site.baseurl }}edition/plant111/) [3]
+                   
 ## [Fuchs, Leonhart](https://data.cerl.org/thesaurus/cnp01878059)
 
  - [N. 5 Atragene]({{ site.baseurl }}edition/plant005/) [2]
@@ -171,6 +179,7 @@ Alternate Names: Wieland, Melchior
  - [N. 99 Ben da Perfumieri]({{ site.baseurl }}edition/plant099/) 
  - [N.136 Carober Salvatico]({{ site.baseurl }}edition/plant136/) 
  - [N. 145 Pero Cervino]({{ site.baseurl }}edition/plant145/) 
+ - [N. 161 Otra Manera de Mecoacan]({{ site.baseurl }}edition/plant161/) 
                    
 ## [Liberale, Giorgio](http://thesaurus.cerl.org/record/cnp01095089)
 
@@ -205,6 +214,7 @@ Medico veneziano (m. 1563), possessore di un giardino botanico privato nel sesti
  - [N. 42 Asclepias]({{ site.baseurl }}edition/plant042/) 
  - [N. 53 Crategon]({{ site.baseurl }}edition/plant053/) 
  - [N. 73 Pepe Tondo]({{ site.baseurl }}edition/plant073/) 
+ - [N. 159 Pepe]({{ site.baseurl }}edition/plant159/) 
                    
 ## [Mocenigo, Alvise I](https://www.treccani.it/enciclopedia/alvise-mocenigo_res-f80f7ef1-d924-11e0-8aa7-d5ce3506d72e_%28Dizionario-Biografico%29/)
 

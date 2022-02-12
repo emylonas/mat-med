@@ -36,7 +36,7 @@
           <head>TEMPO</head>
           <p part="N">Mi naque de suoi semi et mi pare sempre stia verde ma pero non lo afermo perché mi
             morse <ptr target="#A-111-N2"/> con il grande fredo. Suoi fruti io ho sentito che nascono molti insieme in
-            cima e' rami come in panocchia et me lo disse il Falopia.</p>
+            cima e' rami come in panocchia et me lo disse il <persName ref="falloppia-gabriele">Falopia</persName>.</p>
         </div>
         <div type="editorial-D" part="N" org="uniform" sample="complete">
           <p part="N">Pianta fruttifera sorgente in un prato con figure di uomini nudi e di animali. A parte
@@ -51,15 +51,15 @@
             riguardato specie di pruno: «nunc vero non ubique familiares, sed raris admodum hortis
             et viridarijs virent» e non ne dà alcuna figura, mentre in quella del 1568 dice: «Ma
             hora non so io che s'habbino i Sebesteni in verun horto d'Italia. Fummene mandato un
-            ramo seccho con i frutti dal clarissimo medico M. Gabriele Falloppia di Padova, di cui è
-            qui la figura». D'altra parte il <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini [197]</ref> che copiò la presente figura del Michiel ne scrive: «si Myxorum (Sebesten arabes vocant) plantam ad vivam effigiem
+            ramo seccho con i frutti dal clarissimo medico m. <persName ref="falloppia-gabriele">Gabriele Falloppia</persName> di Padova, di cui è
+            qui la figura». D'altra parte il <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini [176 ma 197]</ref> che copiò la presente figura del Michiel ne scrive: «si Myxorum (Sebesten arabes vocant) plantam ad vivam effigiem
             expressam ostenderemus, quam nemo hactenus, quod equidem sciam, monstravit, eius nobis
             sicut et aliorum multorum copiam fecit insignis vir probitate ac meritis Petrus Antonius
             Michaelius, quem antea saepe nominavimus.</p>
           <p part="N">Rammentando ciò che dicemmo altrove, che il presente Codice fu cominciato intorno al
             1561, tenendo presente altresì che il Marini pubblicò l'opera sua nel 1562 e facendo gli
             opportuni confronti delle asserzioni dei tre autori, possiamo trarre le conseguenze:
-            1° Il primato della conoscenza della specie spetta al Falloppio; 2° Il primato
+            1° Il primato della conoscenza della specie spetta al <persName ref="falloppia-gabriele">Falloppio</persName>; 2° Il primato
             dell'iconografia spetta al Michiel.</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
