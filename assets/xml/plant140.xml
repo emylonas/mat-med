@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 140 Ericha</head>
-        <ab part="N">[I <hi>Erica carnea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000671633"/> [II <hi>Calluna vulgaris Hull</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000580837"/> [III <hi>Empetrum nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000667231"/></ab>
+        <ab part="N">[I <hi>Erica carnea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000671633"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:332092-2"/> </ab> <ab part="N">[II <hi>Calluna vulgaris Hull</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000580837"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327305-1"/> </ab> <ab part="N">[III <hi>Empetrum nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000667231"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30371508-2"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Erice da Greci Erica da Lat. - Neid <ptr target="#A-140-N1"/> da Germ. - Bnere da Galeno - Grione da paesani verso

@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant137_verso.jpg"
 plant-img2: "/assets/img/plant137.jpg"
 plant-title: "N. 137 Ribes Sp."
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000422807"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326268-2"
 plant-taxon-content: "Viburnum Opulus L."
 layout: single-xml
 ---

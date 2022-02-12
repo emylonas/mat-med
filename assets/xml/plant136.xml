@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N.136 Carober Salvatico</head>
-        <ab part="N">[<hi>Cercis Siliquastrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213642"/></ab>
+        <ab part="N">[<hi>Cercis Siliquastrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213642"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:485691-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Charober salvatico da volgari - Arbor Giuda da Latini - Fanfalugo da molti - Acatia prima
@@ -56,7 +56,7 @@
             od inesatte. Il Mattioli, come è detto nel testo, fu riprovato da Melchiorre Gui-
             landino per aver fatto una figura di pianta spinosa <ptr target="#A-136-N3"/> dietro un campione ricevuto da
             Costantinopoli, mentre la pianta era frequente in Italia come apprendiamo dal Michiel ed
-            in Francia ed in Ispagna, come apprendiamo da Pena e Lobelio [162] <ptr target="#A-136-N4"/>. Un secolo dopo
+            in Francia ed in <placeName ref="spagna">Ispagna<placeName ref="spagna">Ispagnia</placeName></placeName>, come apprendiamo da Pena e Lobelio [162] <ptr target="#A-136-N4"/>. Un secolo dopo
             lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> diede, col nome «Arbor Iudaica» una figura con fiori e frutti, ma senza
             foglie, benché avesse coltivata la pianta a Montbéliard e l'avesse osservata in vari
             giardini.</p>

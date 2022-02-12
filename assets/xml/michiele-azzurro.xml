@@ -315,6 +315,7 @@
         <placeName ref="https://www.geonames.org/2510769/kingdom-of-spain.html" xml:id="spain"
           >Spagna</placeName>
         <placeName type="alt">Ispagnia</placeName>
+        <placeName type="alt">Spagnia</placeName>
       </place>
       <place>
         <placeName ref="http://www.geonames.org/3175397/istria.html" xml:id="istria">Istria</placeName>
@@ -635,7 +636,7 @@
           <p>Il nome abruzzese <hi>molesso</hi> fu tratto dall'<persName ref="#Anguillara">Anguillara</persName> che a p. 80 dei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> 
             parlò di questa specie sotto i nomi <hi>Tinus</hi> e <foreign xml:lang="grc">Δάφνη
               ἀγρία</foreign>.</p>
-          <p>Nella lista delle piante coltivate a <placeName ref="#pisa">Pisa</placeName> dal <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">(305)</ref> c'è «Laurus sylvestris Tinus
+          <p>Nella lista delle piante coltivate a <placeName ref="#pisa">Pisa</placeName> dal <persName ref="#Ghini">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">[305]</ref> c'è «Laurus sylvestris Tinus
             vocata; alij sui generis arborem esse putant».</p>
         </div>
         <div type="notes">
@@ -4004,7 +4005,7 @@
             di cui sopra.</p>
           <p>La frase del Michiel sull'isola di Zebu «in mezo al camin del mondo andando per la via
             delle Isole» cioè per la via del Pacifico seminato di arcipelaghi (come fecero la prima
-            volta i navigli di Magellano partiti da Sanlucar di Barrameda in Ispagna) si connette
+            volta i navigli di Magellano partiti da Sanlucar di Barrameda in <placeName ref="#spain">Ispagna</placeName>) si connette
             alla divisione dei due emisferi di cui il commento al N. 99 del libro giallo. </p>
         </div>
         <div type="notes">
@@ -4641,7 +4642,7 @@
             Francosco della Vigna. L'Aldrovandi la raccolse e la conservo col nome Stirar nel suo
             Erbario, Vol. II, 91, La raccolse più tardi nella campagna di Tivoli il Benincasa
             prefetto dell'Orto botanico di Pisa o la pianto nell'Orto stesso fra il 1992 e il 1595.
-            Ancora nel 1635 era riguardata una delle piante più cospicue dell'Orto [262].</note>
+            Ancora nel 1635 era riguardata una delle piante più cospicue dell'Orto <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</note>
         </div>
       </div>
 
@@ -6512,13 +6513,13 @@
 
       <div type="plant" xml:id="A-133">
         <head>N. 133 Smilace Aspera</head>
-        <ab>[<hi>Smilax aspera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000740704"/></ab>
+        <ab>[<hi>Smilax aspera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000740704"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:541279-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p>Smilace aspera, Hedera spinosa et rovo canino da volgari - Smilax aspera da Latini
              - Epatitis, Lynchanthemon et Cynosbaton da <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="94"/> molti Greci - Anicetum, Heliophiton et Diticon da varij
-             - Anatolicon et Helide da alquanti - Vyste da Egypti Mergina da Ramani - Radia da gli hetrusij - 
-            <ptr target="#A-133-N1"/> Groszstechend et Scharpffvvinde <ptr target="#A-133-N2"/> da Germani - Volubilis acuta da molti - Stracia
+             - Anatolicon et Helide da alquanti - Vyste da Egypti Mergina da Ramani - Radia da gli Hetrusij 
+            <ptr target="#A-133-N1"/> - Groszstechend et Scharpffvvinde <ptr target="#A-133-N2"/> da Germani - Volubilis acuta da molti - Stracia
             brache in molti luoghi - Smirnas, Dialca da molti.</p>
         </div>
         <div type="genus">
@@ -6539,7 +6540,7 @@
           <p>Pianta fiorita e fruttifera.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-133-N1" n="1"> Etruschi,</note>
+          <note xml:id="A-133-N1" n="1"> Etruschi.</note>
           <note xml:id="A-133-N2" n="2"> Scharfwinde = vilucchio pungente.</note>
           <note xml:id="A-133-N3" n="3"> Venne.</note>
         </div>
@@ -6580,16 +6581,16 @@
             <persName ref="#Ghini">Ghini</persName>, come risultò dalla poscritta alla lettera 14 Settembre 1553 ove la pianta ( <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="95"/> è chiamata «Similax
             levis produce il seme come un fasuol ma nero. Notisi che nel vol. VII dell'Erbario
             Aldrovandi, c. 97 e 142 c'è una «Smilax levis ex Crela». Nella lettera 14 ottobre 1553
-            il Michiel scrive all'Aldrovandi: «V. S. mi richiede per le sue un rampollo del Smilax
+            il Michiel scrive all'Aldrovandi: «V.S. mi richiede per le sue un rampollo del Smilax
             levis et così la obedisco di quello io ho perché veramente in queste temperie piui
             frigide per molti governi et carezze ch'io li habbi usato mai mi ha passato questo
             termine ne più oltre non ho veduto, anzi ma (mai) più mi ha fatto il grappolo di fiori
             se non sto anno come vedrà V. S. et le molti anni che ogni volta semino di maniere che
             l'hard perso, per non havere più semi, come molte piante mi fa il medesimo et il medemo
-            a punto mi ha fatto il fen greco moderno (Ro. 199). Et V. S. sapia che la produce suoi
+            a punto mi ha fatto il fen greco moderno [Ro. 199]. Et V. S. sapia che la produce suoi
             fiori in grappoli tra le frondi sopra el fruto et son simili a quelli di genista et di
             colore anchora et le silique mai le ho possuto havere che li fiori dimostrano et poi ci
-            cascano et per esser tutti oramai cascati non ne mandò»</p>
+            cascano et per esser tutti oramai cascati non ne mandò».</p>
         </div>
         <div type="notes">
           <note xml:id="A-134-N1" n="1"> Windenkraut.</note>
@@ -6602,7 +6603,7 @@
 
       <div type="plant" xml:id="A-135">
         <head>N. 135 Spin Cerbin</head>
-        <ab>[<hi>Rhamnus cathartica L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000460239"/></ab>
+        <ab>[<hi>Rhamnus cathartica L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000460239"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:718256-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Spin cerbin da volgari - Spina cervina da Latini - Spino merlo da Italiani - Burgam spinam
@@ -6640,7 +6641,7 @@
 
       <div type="plant" xml:id="A-136">
         <head>N.136 Carober Salvatico</head>
-        <ab>[<hi>Cercis Siliquastrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213642"/></ab>
+        <ab>[<hi>Cercis Siliquastrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213642"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:485691-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Charober salvatico da volgari - Arbor Giuda da Latini - Fanfalugo da molti - Acatia prima
@@ -6679,7 +6680,7 @@
             od inesatte. Il Mattioli, come è detto nel testo, fu riprovato da Melchiorre Gui-
             landino per aver fatto una figura di pianta spinosa <ptr target="#A-136-N3"/> dietro un campione ricevuto da
             Costantinopoli, mentre la pianta era frequente in Italia come apprendiamo dal Michiel ed
-            in Francia ed in Ispagna, come apprendiamo da Pena e Lobelio [162] <ptr target="#A-136-N4"/>. Un secolo dopo
+            in Francia ed in <placeName ref="#spain">Ispagna<placeName ref="#spain">Ispagnia</placeName></placeName>, come apprendiamo da Pena e Lobelio [162] <ptr target="#A-136-N4"/>. Un secolo dopo
             lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> diede, col nome «Arbor Iudaica» una figura con fiori e frutti, ma senza
             foglie, benché avesse coltivata la pianta a Montbéliard e l'avesse osservata in vari
             giardini.</p>
@@ -6707,7 +6708,7 @@
 
       <div type="plant" xml:id="A-137">
         <head>N. 137 Ribes Sp.</head>
-        <ab>[<hi>Viburnum Opulus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422807"/></ab>
+        <ab>[<hi>Viburnum Opulus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422807"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326268-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Ribes maggiore da volgari - Mauritani da Latini - Johansztetublin <ptr target="#A-137-N1"/> et beerlin da
@@ -6737,7 +6738,7 @@
             bianchi simil al sambuco ma la prima mano intorno sonno maggiori, odorifferi, vaghi, e
             nella figura pel colore che ne' secondi è giallognolo e non colse l'altro carattere ben
             più importante degli organi riproduttori che in altri punti del codice sono
-            contemplati (Gi. 120, Ro. 194 e 241, Ve. 17). Nella stessa figura è trascurato un
+            contemplati [Gi. 120, Ro. 194 e 241, Ve. 17]. Nella stessa figura è trascurato un
             carattere frequentissimo, quello delle glandole peziolari.</p>
         </div>
         <div type="notes">
@@ -6749,7 +6750,7 @@
 
       <div type="plant" xml:id="A-138">
         <head>N. 138 Lantana</head>
-        <ab>[<hi>Viburnum Lantana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421166"/></ab>
+        <ab>[<hi>Viburnum Lantana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421166"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326265-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Lantana da volgari - Fluida da Greci - Entiscle nella Valle Amania - Kleinere Mälbaum da
@@ -6797,7 +6798,7 @@
 
       <div type="plant" xml:id="A-139">
         <head>N. 139 Berberi</head>
-        <ab>[<hi>Berberis vulgaris L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000564027"/></ab>
+        <ab>[<hi>Berberis vulgaris L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000564027"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328527-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Berberi da Latini et volgari - Paisselbeer <ptr target="#A-139-N1"/>, Saurich <ptr target="#A-139-N2"/>, Erbsel et Versich da
@@ -6838,7 +6839,7 @@
         <div type="notes">
           <note xml:id="A-139-N1" n="1"> Preisselsbeere.</note>
           <note xml:id="A-139-N2" n="2"> Säuerlich = acidulo.</note>
-          <note xml:id="A-139-N3" n="3"> * Nomi tedeschi ricavati dal FUCSIUS (<hi>De historia stirpium</hi>, p. 542).
+          <note xml:id="A-139-N3" n="3"> * Nomi tedeschi ricavati dal Fuchsius (<hi>De historia stirpium</hi>, p. 542).
             (Ed.)</note>
           <note xml:id="A-139-N4" n="4"> <hi>Ribes Grossularia</hi>.</note>
           <note xml:id="A-139-N5" n="5"> Bruoli.</note>
@@ -6849,7 +6850,7 @@
 
       <div type="plant" xml:id="A-140">
         <head>N. 140 Ericha</head>
-        <ab>[I <hi>Erica carnea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000671633"/> [II <hi>Calluna vulgaris Hull</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000580837"/> [III <hi>Empetrum nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000667231"/></ab>
+        <ab>[I <hi>Erica carnea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000671633"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:332092-2"/> </ab> <ab>[II <hi>Calluna vulgaris Hull</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000580837"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327305-1"/> </ab> <ab>[III <hi>Empetrum nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000667231"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30371508-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Erice da Greci Erica da Lat. - Neid <ptr target="#A-140-N1"/> da Germ. - Bnere da Galeno - Grione da paesani verso
@@ -6891,7 +6892,7 @@
 
       <div type="plant" xml:id="A-141">
         <head>N. 141 Nil Spetie</head>
-        <ab>[<hi>Ipomoea purpurea Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/></ab>
+        <ab>[<hi>Ipomoea purpurea Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30043043-2"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Nil spetie da messer <persName ref="#Cechin">Cechin</persName>, legi <ref type="internal" target="#A-142">k. 142</ref>.</p>
@@ -6965,7 +6966,7 @@
         </div>
         <div type="properties">
           <head>VIRTÙ</head>
-          <p> L'Endego de qui leggi nel primo libro rosso k. 224, 225.</p>
+          <p> L'Endego de qui leggi nel primo Libro Rosso k. 224, 225.</p>
         </div>
         <div type="editorial-D">
           <p>Dal testo si comprende che la pianta crebbe nel giardino del Michiel ma non giunse a
@@ -6979,7 +6980,7 @@
 
       <div type="plant" xml:id="A-143">
         <head>N. 143 Alimo</head>
-        <ab>[<hi>Atriplex portulacoides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000556480"/></ab>
+        <ab>[<hi>Atriplex portulacoides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000556480"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:164072-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Alimo da Greci Sandalida da Candioti Molochia da Arabi et Atriplice marino Damasonium
@@ -7016,7 +7017,7 @@
 
       <div type="plant" xml:id="A-144">
         <head>N. 144 Aria</head>
-        <ab>[<hi>Pirus Aria Ehrh.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016017"/></ab>
+        <ab>[<hi>Pirus Aria Ehrh.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016017"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:721579-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Aria Theophrasti - Matallo quasi metalo per suoa durezza nell'Apenino.</p>
@@ -7036,7 +7037,7 @@
           <p>Poco dopo il Michiel la specie venne figurata da Pena e Lobelio.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-144-N1" n="1"> Tratto dall'Anguillara.</note>
+          <note xml:id="A-144-N1" n="1">Tratto dall'Anguillara.</note>
         </div>
       </div>
 
@@ -7059,14 +7060,14 @@
         </div>
         <div type="editorial-D">
           <p>Pianta fruttifera; a parte una foglia in grandezza naturale. L'opinione del Guilandino qui citata è erronea perché il Chamaemespilus del <persName ref="#Cordo">Cordo</persName> è Pirus Chamaemespilus
-            [115]. Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152].
+            [115]. Più giustamente il Michiel lo avvicinò all'agazzino come leggesi al N. 152.
             </p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-146">
         <head>N. 146 Aspalato</head>
-        <ab>[<hi>Genista aspalathoides Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213311"/></ab>
+        <ab>[<hi>Genista aspalathoides Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213311"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:495905-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Aspalathus, Erysisceptron da Greci Sphagnion, Phasganon da altri Dyaxylon da Syri.</p>
@@ -7158,21 +7159,21 @@
             del Michiel. I frutti sono ovoidi, giallo-dorati con fasce longitudinali brune. Il
             <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref>, il quale copiò la maggior parte delle figure dal Michiel, copiò quella del
             tamarindo dal Rinio, come egli stesso avverte.</p>
-          <p> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta (2). -</p>
+          <p> Una figura imperfetta, ma tratta dal vero è quella di C. Acosta [2]. -</p>
         </div>
       </div>
 
       <div type="plant" xml:id="A-148">
         <head>N. 148 Citiso</head>
-        <ab><hi>[Medicago arborea L.]</hi></ab>
+        <ab>[<hi>Medicago arborea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000213419"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:506064-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Cytiso, li altri nomi a k. 116 nel libro primo rosso.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
-          <p> In ditto (1).</p>
-        </div>
+          <p> In ditto [1].</p>
+        </div> 
         <div type="shape">
           <head>FORMA</head>
           <p> Suoa radice et tronchi legnosi et son albero non molto grande et ramoso. Suoe frondi
@@ -7209,7 +7210,7 @@
 
       <div type="plant" xml:id="A-149">
         <head>N. 149 Frangola</head>
-        <ab> [<hi>Lonicera Xylosteum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/></ab>
+        <ab> [<hi>Lonicera Xylosteum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149194-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Frangola da Boemi.</p>
@@ -7260,6 +7261,7 @@
 
       <div type="plant" xml:id="A-152">
         <head>N. 152 Oxiacanta</head>
+        <ab> [<hi>Cotoneaster Phyracantha Spach</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0001008214"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:730611-1"/></ab> 
         <div type="name">
           <head>NOMI</head>
           <p> Oxia Cantha da Greci Pirina et Pitiantha da alcuni — Acuta spina dal Ruelio.</p>
@@ -7298,7 +7300,7 @@
             <hi>Crataegus oxyacantha</hi>.</p>
         </div>
         <div type="notes">
-          <note xml:id="A-152-N2" n="2"> · Il testo veramente porta 85, certo per una svista. (Ed.)</note>
+          <note xml:id="A-152-N2" n="2">Il testo veramente porta 85, certo per una svista. (Ed.)</note>
         </div>
       </div>
 
@@ -7386,7 +7388,7 @@
             incogniti a noi.</p>
         </div>
         <div type="editorial-D">
-          <p>(Fu disegnata dapprima una foglia ingiallita (145 mm. X45) mm. e poi un albero col
+          <p>Fu disegnata dapprima una foglia ingiallita (145 mm. X45) mm. e poi un albero col
             tronco mozzo alto e con rami fogliosi. Ben distinte in tutte le foglie le tre ner-
             vature longitudinali.</p>
         </div>
@@ -7404,7 +7406,7 @@
 
       <div type="plant" xml:id="A-155">
         <head>N. 155 Loto</head>
-        <ab>[<hi>Celtis australis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000593422"/></ab>
+        <ab>[<hi>Celtis australis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000593422"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850999-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Loto tenuto da molti Bagolaro a Trento Perlaro nel Veronese Celtis da Latini Almez
@@ -7586,7 +7588,7 @@
 
       <div type="plant" xml:id="A-159">
         <head>N. 159 Pepe</head>
-        <ab>[I. <hi>fittizia</hi>] [<hi>II. Xylopia aethiopica A. Rich.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000428869"/></ab>
+        <ab>[I. <hi>Fittizia</hi>] [<hi>II. Xylopia aethiopica A. Rich.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000428869"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:76056-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Pepe, legi k. 73.</p>
@@ -7657,7 +7659,7 @@
 
       <div type="plant" xml:id="A-160">
         <head>N. 160 Grana</head>
-        <ab>[<hi>Quercus coccifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000290191"/></ab>
+        <ab>[<hi>Quercus coccifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000290191"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295963-1"/></ab>
         <div type="name">
           <head>NOMI</head>
           <p> Grana para tenir da Spagnioli Cocus baphica, Granum infectorium da Greci et Latini
@@ -7740,10 +7742,10 @@
 
       <div type="plant" xml:id="A-161">
         <head>N. 161 Otra Manera de Mecoacan</head>
-        <ab>[<hi>Ipomaea Jalapa Coxe</hi>] <ref type="kew" target="https://www.ipni.org/n/269109-1"/></ab>
+        <ab>[<hi>Ipomaea Jalapa </hi> Coxe] <ref type="kew" target="https://www.ipni.org/n/269109-1"/></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Scamonea spetie da molti li altri nomi di Scamonea legi a k. 23. </p>
+          <p> Scamonea spetie da molti - Otra manera di li Mechoacan - altri nomi di Scamonea legi a k. 23. </p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="110"/>
         </div>
@@ -7755,7 +7757,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Dalle Indie di Mechoacan. Et per via di Spagnia l'hebbi.</p>
+          <p> Dalle Indie di <placeName ref="#mecoacan">Mechoacan</placeName>. Et per via di <placeName ref="#spain">Spagnia</placeName> l'hebbi.</p>
         </div>
         <div type="seasonality">
           <head>TEMPO</head>
@@ -7779,8 +7781,7 @@
         <div type="notes">
           <note xml:id="A-161-N1" n="1"> In bianco.</note>
           <note xml:id="A-161-N2" n="2"> La pianta non li fece.</note>
-          <note xml:id="A-161-N3" n="3"> Hernandez la figurò fiorita sotto il nome Tacuache («vol. I, pag. 164»
-            Ed.).</note>
+          <note xml:id="A-161-N3" n="3"> Hernandez la figurò fiorita sotto il nome <hi>Tacuache</hi> (* vol. I, pag. 164 - Ed.)..</note>
         </div>
       </div>
 

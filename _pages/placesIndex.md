@@ -265,6 +265,7 @@ Alternate Names: Amarano
                     
 Alternate Names: Mechoacan
  - [N. 17 Cedriolo]({{ site.baseurl }}edition/plant017/) [2]
+ - [N. 161 Otra Manera de Mecoacan]({{ site.baseurl }}edition/plant161/) 
                         
 ## [Messico](https://www.geonames.org/3996063/mexico.html)
                     
@@ -373,11 +374,14 @@ Alternate Names: Schiavonia
                         
 ## [Spagna](https://www.geonames.org/2510769/kingdom-of-spain.html)
                     
-Alternate Names: Ispagnia
+Alternate Names: Ispagnia; Spagnia
  - [N. II Smilace Lisia]({{ site.baseurl }}edition/plant011/) 
  - [N. 17 Cedriolo]({{ site.baseurl }}edition/plant017/) 
  - [N. 21 Ciruelas Incarnadas es Fruta]({{ site.baseurl }}edition/plant021/) 
  - [N. 67 Cacao Blanco]({{ site.baseurl }}edition/plant067/) 
+ - [N. 81 Noce Moscata]({{ site.baseurl }}edition/plant081/) 
+ - [N.136 Carober Salvatico]({{ site.baseurl }}edition/plant136/) [2]
+ - [N. 161 Otra Manera de Mecoacan]({{ site.baseurl }}edition/plant161/) 
                         
 ## [Kunar](https://www.geonames.org/1135703/kunar.html)
                     

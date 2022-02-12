@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant135_verso.jpg"
 plant-img2: "/assets/img/plant135.jpg"
 plant-title: "N. 135 Spin Cerbin"
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0000460239"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:718256-1"
 plant-taxon-content: "Rhamnus cathartica L."
 layout: single-xml
 ---

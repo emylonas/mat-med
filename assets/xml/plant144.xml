@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 144 Aria</head>
-        <ab part="N">[<hi>Pirus Aria Ehrh.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016017"/></ab>
+        <ab part="N">[<hi>Pirus Aria Ehrh.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016017"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:721579-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Aria Theophrasti - Matallo quasi metalo per suoa durezza nell'Apenino.</p>
@@ -37,6 +37,6 @@
           <p part="N">Poco dopo il Michiel la specie venne figurata da Pena e Lobelio.</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-144-N1" n="1" anchored="true"> Tratto dall'Anguillara.</note>
+          <note xml:id="A-144-N1" n="1" anchored="true">Tratto dall'Anguillara.</note>
         </div>
       </body></text></TEI>

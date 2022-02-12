@@ -17,13 +17,13 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 133 Smilace Aspera</head>
-        <ab part="N">[<hi>Smilax aspera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000740704"/></ab>
+        <ab part="N">[<hi>Smilax aspera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000740704"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:541279-1"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N">Smilace aspera, Hedera spinosa et rovo canino da volgari - Smilax aspera da Latini
              - Epatitis, Lynchanthemon et Cynosbaton da <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="94"/> molti Greci - Anicetum, Heliophiton et Diticon da varij
-             - Anatolicon et Helide da alquanti - Vyste da Egypti Mergina da Ramani - Radia da gli hetrusij - 
-            <ptr target="#A-133-N1"/> Groszstechend et Scharpffvvinde <ptr target="#A-133-N2"/> da Germani - Volubilis acuta da molti - Stracia
+             - Anatolicon et Helide da alquanti - Vyste da Egypti Mergina da Ramani - Radia da gli Hetrusij 
+            <ptr target="#A-133-N1"/> - Groszstechend et Scharpffvvinde <ptr target="#A-133-N2"/> da Germani - Volubilis acuta da molti - Stracia
             brache in molti luoghi - Smirnas, Dialca da molti.</p>
         </div>
         <div type="genus" part="N" org="uniform" sample="complete">
@@ -44,7 +44,7 @@
           <p part="N">Pianta fiorita e fruttifera.</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-133-N1" n="1" anchored="true"> Etruschi,</note>
+          <note xml:id="A-133-N1" n="1" anchored="true"> Etruschi.</note>
           <note xml:id="A-133-N2" n="2" anchored="true"> Scharfwinde = vilucchio pungente.</note>
           <note xml:id="A-133-N3" n="3" anchored="true"> Venne.</note>
         </div>

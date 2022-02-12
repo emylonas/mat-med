@@ -17,6 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 152 Oxiacanta</head>
+        <ab part="N"> [<hi>Cotoneaster Phyracantha Spach</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0001008214"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:730611-1"/></ab> 
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Oxia Cantha da Greci Pirina et Pitiantha da alcuni — Acuta spina dal Ruelio.</p>
@@ -55,6 +56,6 @@
             <hi>Crataegus oxyacantha</hi>.</p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-152-N2" n="2" anchored="true"> · Il testo veramente porta 85, certo per una svista. (Ed.)</note>
+          <note xml:id="A-152-N2" n="2" anchored="true">Il testo veramente porta 85, certo per una svista. (Ed.)</note>
         </div>
       </body></text></TEI>

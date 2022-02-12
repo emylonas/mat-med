@@ -8,7 +8,7 @@ plant-img1: "/assets/img/plant144_verso.jpg"
 plant-img2: "/assets/img/plant144.jpg"
 plant-title: "N. 144 Aria"
 plant-wfo-link: "http://www.worldfloraonline.org/taxon/wfo-0001016017"
-plant-kew-link: ""
+plant-kew-link: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:721579-1"
 plant-taxon-content: "Pirus Aria Ehrh."
 layout: single-xml
 ---

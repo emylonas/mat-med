@@ -17,7 +17,7 @@
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 141 Nil Spetie</head>
-        <ab part="N">[<hi>Ipomoea purpurea Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/></ab>
+        <ab part="N">[<hi>Ipomoea purpurea Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30043043-2"/></ab>
         <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
           <p part="N"> Nil spetie da messer <persName ref="martinelli-francesco">Cechin</persName>, legi <ref type="internal" target="#A-142">k. 142</ref>.</p>
