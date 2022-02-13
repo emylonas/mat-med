@@ -72,11 +72,10 @@
         </div>
         <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p part="N">Son calide et secche nel fin del secondo grado, stiticano et fanno buon fiato come el
-            Mattiolo ne dechiara de molte doti et virtù al cap. delle noci. Et nel pre alegato libro
-            secondo del India <ref type="bibl" target="http://id.sbn.it/bid/RMLE007917">Corolario</ref> del <persName ref="barbaro-ermolao">Barbaro</persName> cap. 773 al cap. de Ballanus myrepsica Avicenna
-            ij. canon diiij, li. ij, C. DIX. Galeno al 7 Sim. phar. Diascoride libro primo. cap.
-            112-101. Nelli <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Isolani de Thomaso Porcacchi</ref> alla Malucche a k. 99.</p>
+          <p part="N">Son calide et secche nel fin del secondo grado, stiticano et fanno buon fiato come come <ref type="bibl" target=" http://id.sbn.it/bid/RMLE007083"> el Mattiolo</ref> ne ne dechiara de molte doti et virtù al cap. delle noci. Et nel prealegato [= pre-citato] <ref type="bibl" target="http://id.sbn.it/bid/TO0E019412"> libro
+              secondo del India</ref> — <ref type="bibl" target="http://id.sbn.it/bid/PUVE030738">Corolario del Barbaro</ref> cap. 773, al capitolo de Ballanus myrepsica — <ref type="bibl" target="http://id.sbn.it/bid/MILE002540">Avicenna
+                ij. Canon diiij, li. ij, c. DIX</ref>. — Galeno al 7 Sim. Phar. — Diascoride libro primo, capitolo
+            112, 101. Nelli <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Isolani de Thomaso Porcacchi</ref> alla Malucche a k. 99.</p>
         </div>
         <div type="editorial-D" part="N" org="uniform" sample="complete">
           <p part="N">Pianta fittizia con foglie spinose di agrifoglio come è annunziato nel testo e coi
@@ -116,7 +115,7 @@
           <p part="N">La frase del Michiel sull'isola di Zebu «in mezo al camin del mondo andando per la via
             delle Isole» cioè per la via del Pacifico seminato di arcipelaghi (come fecero la prima
             volta i navigli di Magellano partiti da Sanlucar di Barrameda in <placeName ref="spagna">Ispagna</placeName>) si connette
-            alla divisione dei due emisferi di cui il commento al N. 99 del libro giallo. </p>
+            alla divisione dei due emisferi di cui il commento al N. 99 del libro Giallo. </p>
         </div>
         <div type="notes" part="N" org="uniform" sample="complete">
           <note xml:id="A-081-N1" n="1" anchored="true"> Elce.</note>
@@ -124,8 +123,8 @@
           <note xml:id="A-081-N3" n="3" anchored="true"> Ternate.</note>
           <note xml:id="A-081-N4" n="4" anchored="true"> Motir.</note>
           <note xml:id="A-081-N5" n="5" anchored="true"> Zebu.</note>
-          <note xml:id="A-081-N6" n="6" anchored="true"> Diminutivo di Ménega (Domenica) forse per la figarina di donna che si usa
-            dipingere nel vano fra le due spade. Il nomo di battesimo Domenica era usitatissimo al
+          <note xml:id="A-081-N6" n="6" anchored="true"> Diminutivo di Dénega (Domenica) forse per la figurina di donna che si usa
+            dipingere nel vano fra le due spade. Il nome di battesimo Domenica era usitatissimo al
             tempo della Repubblica. </note>
         </div>
       </body></text></TEI>

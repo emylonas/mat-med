@@ -55,8 +55,7 @@ Alternate Names: Anguillara, Alvise
                    
 ## [Barbaro, Ermolao](https://www.treccani.it/enciclopedia/ermolao-barbaro_%28Dizionario-Biografico%29/)
 
- - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) [2]
- - [N. 81 Noce Moscata]({{ site.baseurl }}edition/plant081/) 
+ - [N. 12 Ligustro]({{ site.baseurl }}edition/plant012/) 
                    
 ## [Barca Centenera, Martín del](https://isni.org/isni/0000000118158998)
 
