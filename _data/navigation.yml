@@ -21,6 +21,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+#gardens sidebar
+gardens:
+  - title: "Gardens in Venice"
+    children:
+ 
+      - title: San Giorgio Maggiore
+        url:  /gardens/sgiorgiom/
+
 #apothecaries sidebar
 apothecaries:
   - title: Apothecaries

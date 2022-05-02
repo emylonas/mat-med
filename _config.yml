@@ -293,6 +293,9 @@ collections:
   apothecaries:
     output: true
     permalink: /:collection/:path/
+  gardens:
+    output: true
+    permalink: /collection/:path/
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -342,3 +345,13 @@ defaults:
       share: false
       sidebar:
         nav: "apothecaries"
+ # _gardens
+  - scope:
+      path: "_gardens"
+      type: gardens
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      sidebar:
+        nav: "gardens"

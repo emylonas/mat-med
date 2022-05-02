@@ -8,6 +8,7 @@
             <xd:p><xd:b>Author:</xd:b> elli</xd:p>
             <xd:p>Script to output each plant in a file by itself, and also to create a
                 corresponding md file </xd:p>
+            <xd:p>Create people and place indices</xd:p>
         </xd:desc>
     </xd:doc>
     

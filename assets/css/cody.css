@@ -36,7 +36,7 @@ div#TEI {
     /*  these styles are for handling the inventory pages in the apothecary section
      *  The thumbnail navigation at the top is a flex-box so that we can include a bit of text 
      *  under the thumbnail image. 
-     *  how do we handle the side by send image and text? Tried flex but it didn't work well so la
+     *  how do we handle the side by send image and text? Tried flex but it didn't work well so later.
 	    */
 	
 	div.thumb-nav {
