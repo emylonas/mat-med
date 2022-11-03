@@ -25,15 +25,51 @@ main:
 gardens:
   - title: "Gardens in Venice"
     children:
- 
+
       - title: San Giorgio Maggiore
         url:  /gardens/sgiorgiom/
+      - title: Mocenigo Palace and Gardens
+        url:  /gardens/aa/
+      - title: Nani Palace and Garden
+        url:  /gardens/bb/
+      - title: Dandolo Garden
+        url:  /gardens/xx/
+      - title: Trevisan Palace and Garden
+        url:  /gardens/xx/
+      - title: Redentore Gardens
+        url:  /gardens/xx/
+      - title: Casino Cattaneo
+        url:  /gardens/xx/
+      - title: Corner Palace and Garden (Murano)
+        url:  /gardens/xx/
+      - title: Morosini Garden
+        url:  /gardens/xx/
+      - title: Grimani Garden (near St. Chiara)
+        url:  /gardens/xx/
+      - title: Mocenigo Garden
+        url:  /gardens/xx/
+      - title: Trevisan
+        url:  /gardens/xx/
+      - title: Navagero
+        url:  /gardens/xx/
+      - title: San Giobbe
+        url:  /gardens/xx/
+      - title: Benedetto Redaldi
+        url:  /gardens/xx/
+      - title: Pietro Bosello
+        url:  /gardens/xx/
+      - title: Francesco Testa
+        url:  /gardens/xx/
+        sublinks:
+          title: foo
+          url: /gardens/xx
+
 
 #apothecaries sidebar
 apothecaries:
   - title: Apothecaries
     children:
- 
+
       - title: 15th Century Apothecary Shop
         url:  /apothecaries/15th_century/
       - title: 16th Century Apothecary Shop

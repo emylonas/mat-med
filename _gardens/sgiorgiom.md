@@ -18,9 +18,13 @@ SGM-Merian: "/assets/img/SGM-Meriani.jpg"
 
 <figure><img src="{{ page.SGM-Barbari | relative_url }}" class="img-ctr" align="center"/></figure>
 
-The island of San Giorgio Maggiore, opposite piazza San Marco, has housed the Benedictines since 982 CE.
+San Giorgio Maggiore island, opposite piazza San Marco, housed the Benedictines since 982 CE.
 
-In the fifteenth century the Benedictines cultivated local aromatic herbs and pumpkins, cabbages, spinach and endive in their garden; but already in the early sixteenth century there is evidence of the enlargement of the garden itself, where a section was allocated to the cultivation of olive trees. 
+<a href="{{ site.baseurl }}gardens/sgiorgiom-expansion//">Enlargement of the Garden</a> | <a href="{{ site.baseurl }}gardens/sgiorgiom-lab/">Apothecary Laboratory</a> | <a href="{{ site.baseurl }}gardens/sgiorgiom-balm/">Olive Oil Balm and Ingredients</a>
+
+<!-- The island of San Giorgio Maggiore, opposite piazza San Marco, has housed the Benedictines since 982 CE.
+
+In the fifteenth century the Benedictines cultivated local aromatic herbs and pumpkins, cabbages, spinach and endive in their garden; but already in the early sixteenth century there is evidence of the enlargement of the garden itself, where a section was allocated to the cultivation of olive trees.
 
 <figure><img src="{{ page.SGM-13-1529 | relative_url }}" class="img-ctr" align="center"/><figcaption><strong>ASV, San Giorgio Maggiore, b. 13</strong>,  1529
 <br/>
@@ -46,33 +50,31 @@ Here there is a sample of the recipe ingredients, some of which (\*) are now ack
 * **leaves of** abrotanum (Artemisia abrotanum L.\*), wormwood (Artemisia absinthium L.*) etc.
 * **roots of** gentian (Gentiana L.\*), peony (Paeonia L.*) etc.
 * **seeds** of purslane (Portulaca L.), horseradish (Raphanus L.) etc.
-* **And more:** laurel berries* (Laurus nobilis L.\*), ginger (<span style="color: #9932CC">Zingiber officinale</span>\*), carnations and cloves (<span style="color: #9932CC">Syzygium aromaticum L.</span>\*); <span style="color: #9932CC">cinnamon (Cinnamomum verum J.Presl</span>\*), nutmeg (<span style="color: #9932CC">Myristica fragrans Hott.</span>), saffron (Crocus sativus L.*) etc.; 
+* **And more:** laurel berries* (Laurus nobilis L.\*), ginger (<span style="color: #9932CC">Zingiber officinale</span>\*), carnations and cloves (<span style="color: #9932CC">Syzygium aromaticum L.</span>\*); <span style="color: #9932CC">cinnamon (Cinnamomum verum J.Presl</span>\*), nutmeg (<span style="color: #9932CC">Myristica fragrans Hott.</span>), saffron (Crocus sativus L.*) etc.;
 * **four animal ingredients** (earthworms, powder of deer antlers, bull's gall, red corals); **two compound medicines** (theriac and mastic oil from Pistacia lentiscus L.*, resin), and in small quantities also stone oil (petroleum, at the time common in pharmacopoeia).
 
 Non-local plants/herbs (<span style="color: #9932CC">violet color</span>), animal and mineral substances were bought in the bustling Venetian market by the Monastery apothecary shop, as we can see from many 16th- and 17th-century purchase notes.
 
 <div class="thumb-nav">
 <span class="thumb-nav-p" style="width: 45%; font-size: 75%; margin-right: 20px"><img class="thumb-menu" src="{{ page.SGM-30-1550 | relative_url }}"/>
-<br/><br/><strong>ASV, San Giorgio Maggiore, b. 30</strong>, August 21 1550<br/> 
+<br/><br/><strong>ASV, San Giorgio Maggiore, b. 30</strong>, August 21 1550<br/>
 San Giorgio Monastery also bought exotic substances from local merchants for other Benedictines, such as for the San Paolo Monastery in Rome: zenzero (ginger), cannella fina (cinnamon), zafran (saffron), macis (nutmeg), and many others that were not ingredients for the Balm of Santa Giustina – like galanga (<span style="color: #9932CC">Alpinia galanga Willd</span>.* from Asia) etc. </span>
 <span class="thumb-nav-p" style="width: 45%;  font-size: 75%"><img class="thumb-menu" src="{{ page.SGM-30-1641  | relative_url }}"/>
-<br/><br/><br/><strong>ASV, San Giorgio Maggiore, b. 30</strong>, May 12 1641<br/> 
+<br/><br/><br/><strong>ASV, San Giorgio Maggiore, b. 30</strong>, May 12 1641<br/>
 Purchase note for the San Giorgio apothecary shop, listing many exotic or just non-local ingredients for the Balm of Santa Giustina: corno di cervo (deer antler), macis fina (nutmeg), canella fina (cinnamon), garrofoli fini (carnations), zafaran de Toschana (saffron from Tuscany), corrali rossi (red corals).</span>
 </div>
 
 Certainly the San Giorgio Maggiore garden grew peony, purslane, abrotanum, wormwood etc. and many other medicinal herbs.
 In a letter sent in 1575 by the physician [Melchiorre Guilandino](/xml-minimal/index-people/#guilandino-melchiorre) to his friend and patient Alvise Mocenigo, he relates that the friars had so many Arum plants (see [wild calla lily]( https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328149-2)).
 
-“Il modo, che si tene in darla, & suo remedio, potrà V.M. legger nel Matthioli in capite [*Arum*](http://id.sbn.it/bid/RLZE023006]). Io non ho pronta la polvere, & a farla mi bisogneria esser costà nell’horto di frati di S. Giorgio della bella fabrica nova, dove si ritrova tanta copia di Arum che basterìa per infiammar la gola a tutta Venetia” 
+“Il modo, che si tene in darla, & suo remedio, potrà V.M. legger nel Matthioli in capite [*Arum*](http://id.sbn.it/bid/RLZE023006]). Io non ho pronta la polvere, & a farla mi bisogneria esser costà nell’horto di frati di S. Giorgio della bella fabrica nova, dove si ritrova tanta copia di Arum che basterìa per infiammar la gola a tutta Venetia”
 (Milano, Biblioteca Ambrosiana, Cod. G 273, n. 69)
 
-Roots, leaves and berries of *Arum L*., extremely hot, once cooked or pulverised were used to treat sore throats and coughs, and externally as a gout poultice. Now Arum L. 
+Roots, leaves and berries of *Arum L*., extremely hot, once cooked or pulverised were used to treat sore throats and coughs, and externally as a gout poultice. Now Arum L.
 is used in herbal medicine and homeopathic medicine.
 
 The olive trees were uprooted in 1797 to make way for the Slavonian (Croatian) troops.
 
 
-## Learn more: 
-- Elisa M. Cappelletti, Giuseppe Maggioni, “L’Oglio di Santa Giustina”, in *La spezieria. Medicamenti e arte farmaceutica nel Veneto dal Cinquecento ad oggi* (Padova: Antilia, 2002), pp. 81-107, with lists and identification of the ingredients for the Paduan recipe.
-
-
+## Learn more:
+- Elisa M. Cappelletti, Giuseppe Maggioni, “L’Oglio di Santa Giustina”, in *La spezieria. Medicamenti e arte farmaceutica nel Veneto dal Cinquecento ad oggi* (Padova: Antilia, 2002), pp. 81-107, with lists and identification of the ingredients for the Paduan recipe. -->
