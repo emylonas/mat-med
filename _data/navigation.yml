@@ -60,9 +60,6 @@ gardens:
         url:  /gardens/xx/
       - title: Francesco Testa
         url:  /gardens/xx/
-        sublinks:
-          title: foo
-          url: /gardens/xx
 
 
 #apothecaries sidebar
