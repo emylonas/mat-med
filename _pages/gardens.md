@@ -19,107 +19,214 @@ sidebar:
 
 <!-- San Giorgio Maggiore -->
  <a href="{{ site.baseurl }}gardens/sgiorgiom/">
-   <circle cx="2050" cy="1700" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-   <circle cx="2050" cy="1700" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-   <text x="2100" y="1720" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">San Giorgio Maggiore</text>
+   <circle cx="2050" cy="1700" class="svg-outer" />
+   <circle cx="2050" cy="1700" class="svg-inner" />
+   <text x="2100" y="1720" class="svg-map-label">San Giorgio Maggiore</text>
  </a>
 
-<!-- Murano - Mocenigo -->
+ <!-- **************** Murano **************** -->
+
+ <!-- Murano - Girolamo Corner -->
+ <a href="{{ site.baseurl }}gardens/girolamo/">
+   <circle cx="2200" cy="352" class="svg-outer" />
+   <circle cx="2200" cy="352" class="svg-inner" />
+   <text x="2250" y="372" class="svg-map-label">Girolamo Corner</text>
+ </a>
+
+ <!-- Murano - Grimani Family (St. Chiara) -->
+ <a href="https://venicelover.com/san_giorgio_maggiore.html">
+   <circle cx="2340" cy="535" class="svg-outer" />
+   <circle cx="2340" cy="535" class="svg-inner" />
+   <text x="2300" y="555" style="text-anchor:end" class="svg-map-label">Grimani Family</text>
+ </a>
+
+ <!-- Murano - Mocenigo Family-->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="2380" cy="535" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="2380" cy="535" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="2430" y="595" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Mocenigo Garden</text>
+  <circle cx="2380" cy="535" class="svg-outer" />
+  <circle cx="2380" cy="535" class="svg-inner" />
+  <text x="2430" y="595"  class="svg-map-label">Mocenigo Family</text>
 </a>
 
-<!-- Murano - Morosini -->
+<!-- Murano - Pietry and Francesco Morosini -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="2365" cy="475" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="2365" cy="475" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="2325" y="495" font-size="55" font-family="'Verdana', sans-serif" text-anchor="end" fill="black">Morosini Garden</text>
+  <circle cx="2365" cy="475" class="svg-outer" />
+  <circle cx="2365" cy="475" class="svg-inner" />
+  <text x="2325" y="495"  style="text-anchor:end" class="svg-map-label">Pietro and Francesco Morosini</text>
 </a>
 
-<!-- Murano - Grimani Garden (St. Chiara) -->
+<!-- Murano - Andrea Navagero -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="2340" cy="535" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="2340" cy="535" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="2300" y="555" font-size="55" font-family="'Verdana', sans-serif" text-anchor="end" fill="black">Grimani Garden</text>
+  <circle cx="2425" cy="490" class="svg-outer" />
+  <circle cx="2425" cy="490" class="svg-inner" />
+  <text x="2475" y="515" class="svg-map-label">Andrea Navagero</text>
 </a>
 
-<!-- Murano - Corner Palace and Gardent -->
+<!-- Murano - Palazzo Trevisan -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="2200" cy="352" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="2200" cy="352" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="2250" y="372" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Corner Palace & Garden</text>
+  <circle cx="2400" cy="450" class="svg-outer" />
+  <circle cx="2400" cy="450" class="svg-inner" />
+  <text x="2450" y="450" class="svg-map-label">Palazzo Trevisan</text>
 </a>
 
-<!-- Murano - Trevisan -->
+<!-- **************** Giudecca **************** -->
+
+<!-- Giudecca - Mocenigo Family-->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="2400" cy="450" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="2400" cy="450" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="2450" y="450" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Trevisan Garden</text>
+  <circle cx="1350" cy="1825" class="svg-outer" />
+  <circle cx="1350" cy="1825" class="svg-inner" />
+  <text x="1400" y="1845" class="svg-map-label">Mocenigo Family</text>
 </a>
 
-<!-- Murano - Navagero -->
+<!-- Giudecca - Nani Family-->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="2425" cy="490" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="2425" cy="490" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="2475" y="515" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Navagero Garden</text>
+  <circle cx="1460" cy="1780" class="svg-outer" />
+  <circle cx="1460" cy="1780" class="svg-inner" />
+  <text x="1510" y="1790" class="svg-map-label">Nani Family</text>
 </a>
 
-<!-- Giudecca - Dandolo -->
+<!-- Giudecca - Andrea Dandolo -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="1560" cy="1875" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="1560" cy="1875" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="1610" y="1895" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Dandolo Garden</text>
+  <circle cx="1560" cy="1875" class="svg-outer" />
+  <circle cx="1560" cy="1875" class="svg-inner" />
+  <text x="1610" y="1895" class="svg-map-label">Andrea Dandolo</text>
 </a>
 
-<!-- Giudecca - Nani -->
+<!-- Giudecca - Casino Cattaneo -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="1460" cy="1780" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="1460" cy="1780" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="1510" y="1790" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Nani Gardens & Palace</text>
-</a>
-
-<!-- Giudecca - Mocenigo -->
-<a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="1350" cy="1825" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="1350" cy="1825" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="1400" y="1845" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Mocenigo Garden & Palace</text>
+  <!-- <circle cx="80" cy="1495" class="svg-outer" />
+  <circle cx="80" cy="1495" class="svg-inner" /> -->
+  <text x="80" y="1495" font-size="55" font-family="'Helvetica', sans-serif" text-anchor="start" fill="black">⬅︎ Casino Cattaneo</text>
 </a>
 
 <!-- Giudecca - Redentore -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="525" cy="1800" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="525" cy="1800" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="575" y="1820" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Redentore Garden</text>
+  <circle cx="525" cy="1800" class="svg-outer" />
+  <circle cx="525" cy="1800" class="svg-inner" />
+  <text x="575" y="1820" class="svg-map-label">Redentore Garden</text>
 </a>
+
+<!-- Giudecca - Trevisan Family -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="270" cy="1775" class="svg-outer" />
+  <circle cx="270" cy="1775" class="svg-inner" />
+  <text x="260" y="1740" class="svg-map-label">Trevisan Family</text>
+</a>
+
+<!-- **************** Venice San Giobbe **************** -->
 
 <!-- S. Giobbe - Francesco Testa -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="720" cy="510" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="720" cy="510" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="770" y="530" font-size="55" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Francesco Testa Garden</text>
+  <circle cx="720" cy="510" class="svg-outer" />
+  <circle cx="720" cy="510" class="svg-inner" />
+  <text x="770" y="530" class="svg-map-label">Francesco Testa Garden</text>
 </a>
 
 <!-- S. Giobbe - Pietro Bosello -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="730" cy="470" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="730" cy="470" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="780" y="490" font-size="55" font-weight="200" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Pietro Bosello Garden</text>
+  <circle cx="730" cy="470" class="svg-outer" />
+  <circle cx="730" cy="470" class="svg-inner" />
+  <text x="780" y="490" class="svg-map-label">Pietro Bosello Garden</text>
 </a>
 
 <!-- S. Giobbe - San Giobbe -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="625" cy="475" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="625" cy="475" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="575" y="500" font-size="55" font-weight="200" font-family="'Verdana', sans-serif" text-anchor="end" fill="black">San Giobbe Gardens</text>
+  <circle cx="625" cy="475" class="svg-outer" />
+  <circle cx="625" cy="475" class="svg-inner" />
+  <text x="575" y="500" class="svg-map-label">San Giobbe Gardens</text>
 </a>
 
 <!-- S. Giobbe - Benedetto Redaldi -->
 <a href="https://venicelover.com/san_giorgio_maggiore.html">
-  <circle cx="700" cy="435" r="25" style="fill:none;stroke:yellow;stroke-width:4;opacity=.6" />
-  <circle cx="700" cy="435" r="10" style="fill:green;stroke:green;stroke-width:6;opacity=.6" />
-  <text x="750" y="455" font-size="55" font-weight="200" font-family="'Verdana', sans-serif" text-anchor="start" fill="black">Benedetto Redaldi Gardens</text>
+  <circle cx="700" cy="435" class="svg-outer" />
+  <circle cx="700" cy="435" class="svg-inner" />
+  <text x="750" y="400" font-size="55" class="svg-map-label">Benedetto Redaldi Gardens</text>
+</a>
+
+
+<!-- **************** Venice  **************** -->
+
+<!-- Alessandro Vittoria alla Pieta -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="2290" cy="1135" class="svg-outer" />
+  <circle cx="2290" cy="1135" class="svg-inner" />
+  <text x="2340" y="1155" class="svg-map-label">Alessandro Vittoria</text>
+</a>
+
+<!-- Carmelitani -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="555" cy="580" class="svg-outer" />
+  <circle cx="555" cy="580" class="svg-inner" />
+  <text x="605" y="600" class="svg-map-label">??Carmelitani</text>
+</a>
+
+<!-- Foscarini ai Carmini -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="390" cy="830" class="svg-outer" />
+  <circle cx="390" cy="830" class="svg-inner" />
+  <text x="440" y="850" font-size="55" class="svg-map-label">Foscarini Family</text>
+</a>
+
+<!-- Erizzo Family -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="1670" cy="670" class="svg-outer" />
+  <circle cx="1670" cy="670" class="svg-inner" />
+  <text x="1720" y="690" font-size="55" class="svg-map-label">Erizzo Family</text>
+</a>
+
+<!-- Giovanni Beni -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="475" cy="905" class="svg-outer" />
+  <circle cx="475" cy="905" class="svg-inner" />
+  <text x="425" y="925" class="svg-map-label">Giovanni Benni</text>
+</a>
+
+<!-- Lorenzo Patarol -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="1200" cy="430" class="svg-outer" />
+  <circle cx="1200" cy="430" class="svg-inner" />
+  <text x="1250" y="450" font-size="55" class="svg-map-label">Lorenzo Patarol</text>
+</a>
+
+<!-- Pietro Antonio Michiel -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="515" cy="955" class="svg-outer" />
+  <circle cx="515" cy="955" class="svg-inner" />
+  <text x="565" y="975" font-size="55" class="svg-map-label">Pietro Antonio Michiel</text>
+</a>
+
+<!-- S. Domenico Monastery -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="3255" cy="1335" class="svg-outer" />
+  <circle cx="3255" cy="1335" class="svg-inner" />
+  <text x="3305" y="1355" font-size="55" class="svg-map-label">S. Domenico Monastery</text>
+</a>
+
+<!-- S. Francesco della Vigna -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="2500" cy="900" class="svg-outer" />
+  <circle cx="2500" cy="900" class="svg-inner" />
+  <text x="2550" y="920" font-size="55" class="svg-map-label">S. Francesco della Vigna</text>
+</a>
+
+<!-- Contarini Family Madonna dell'Orto -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="1435" cy="495" class="svg-outer" />
+  <circle cx="1435" cy="495" class="svg-inner" />
+  <text x="1485" y="515" font-size="55" class="svg-map-label">Contarini Family (Madonna dell'Orto)</text>
+</a>
+
+<!-- Contarini Family S. Samuel -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="745" cy="910" class="svg-outer" />
+  <circle cx="745" cy="910" class="svg-inner" />
+  <text x="795" y="930" font-size="55" class="svg-map-label">Contarini Family (S. Samuel)</text>
+</a>
+
+<!-- Ziliolo Family -->
+<a href="https://venicelover.com/san_giorgio_maggiore.html">
+  <circle cx="990" cy="970" class="svg-outer" />
+  <circle cx="990" cy="970" class="svg-inner" />
+  <text x="980" y="1040" font-size="55" class="svg-map-label">Ziliolo Family </text>
 </a>
 
 </svg>

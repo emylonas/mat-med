@@ -2,3 +2,37 @@
     float: none;
     width: 100%;
 }
+
+/* SVG css  */
+
+.svg-inner {
+ fill:green;
+ stroke:green;
+ stroke-width:6;
+ opacity=.6;
+ r: 10;
+}
+
+.svg-outer {
+  fill: none;
+  stroke: #98fb98;
+  stroke-width: 4;
+  opacity: .6;
+  r: 25;
+}
+
+.svg-map-label {
+  font-size: 55px;
+  font-family: 'Verdana', sans-serif;
+  text-anchor: start;
+  fill: black;
+  visibility: hidden;
+}
+
+.svg-outer:hover ~ .svg-map-label {
+  visibility: visible;
+}
+
+.svg-inner:hover ~ .svg-map-label {
+  visibility: visible;
+}

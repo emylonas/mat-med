@@ -23,42 +23,80 @@ main:
 
 #gardens sidebar
 gardens:
-  - title: "Gardens in Venice"
+
+  - title: "Murano Island"
     children:
 
-      - title: San Giorgio Maggiore
-        url:  /gardens/sgiorgiom/
-      - title: Mocenigo Palace and Gardens
-        url:  /gardens/aa/
-      - title: Nani Palace and Garden
+      - title: Girolamo Corner
+        url:  /gardens/girolamo/
+      - title: Grimani Family
         url:  /gardens/bb/
-      - title: Dandolo Garden
+      - title: Mocenigo Family
         url:  /gardens/xx/
-      - title: Trevisan Palace and Garden
+      - title: Pietro and Francesco Morosini
         url:  /gardens/xx/
-      - title: Redentore Gardens
+      - title: Andrea Navagero
+        url:  /gardens/xx/
+      - title: Palazzo Trevisan
+        url:  /gardens/xx/
+
+  - title: "Giudecca Island"
+    children:
+
+      - title: Mocenigo Family
+        url:  /gardens/aa/
+      - title: Nani Family
+        url:  /gardens/bb/
+      - title: Andrea Dandolo
+        url:  /gardens/xx/
+      - title: Trevisan Family
         url:  /gardens/xx/
       - title: Casino Cattaneo
         url:  /gardens/xx/
-      - title: Corner Palace and Garden (Murano)
+      - title: Redentore Gardens
+        url: /gardens/xx
+
+  - title: "San Giorgio Maggiore Island"
+    children:
+      - title: San Giorgio Monastery, OSB
+        url:  /gardens/sgiorgiom/
+
+  - title: "Venice"
+    children:
+
+      - title: Amadi Family
         url:  /gardens/xx/
-      - title: Morosini Garden
-        url:  /gardens/xx/
-      - title: Grimani Garden (near St. Chiara)
-        url:  /gardens/xx/
-      - title: Mocenigo Garden
-        url:  /gardens/xx/
-      - title: Trevisan
-        url:  /gardens/xx/
-      - title: Navagero
-        url:  /gardens/xx/
-      - title: San Giobbe
-        url:  /gardens/xx/
-      - title: Benedetto Redaldi
+      - title: Giovanni Beni
         url:  /gardens/xx/
       - title: Pietro Bosello
         url:  /gardens/xx/
+      - title: Contarini Family (Madonna dell’Orto)
+        url:  /gardens/xx/
+      - title: Contarini Family (S. Samuel)
+        url:  /gardens/xx/
+      - title: S. Domenico Monastery, OP
+        url:  /gardens/xx/
+      - title: Erizzo Family, later Morosini Family
+        url:  /gardens/xx/
+      - title: Foscarini Family, ai Carmini
+        url:  /gardens/xx/
+      - title: S. Francesco della Vigna, OFM
+        url:  /gardens/xx/
+      - title: San Giobbe Monastery, OFMCap
+        url:  /gardens/xx/
+      - title: Pietro Antonio Michiel
+        url: /gardens/xx/
+      - title: Giulio Nuzio, ai Carmini
+        url:  /gardens/xx/
+      - title: Lorenzo Patarol
+        url:  /gardens/xx/
+      - title: Benedetto Redaldi
+        url:  /gardens/xx/
       - title: Francesco Testa
+        url:  /gardens/xx/
+      - title: Alessandro Vittoria
+        url:  /gardens/xx/
+      - title: Ziliolo Family
         url:  /gardens/xx/
 
 
