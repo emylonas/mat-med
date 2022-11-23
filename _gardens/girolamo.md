@@ -14,10 +14,16 @@ girolamo-map-overview: "/assets/img/dBarbari-thumb.png"
 <figure><img src="{{ page.girolamo-map-overview | relative_url }}" align="right"/></figure>
 
 
-### location
+### Location
 
+This garden was located ...
 
 ### History
 
+This was the garden of the Girolamo family...
 
 ### Herbs
+
+It had lots of herbs.
+
+### References
