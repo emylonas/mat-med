@@ -10,31 +10,17 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#LOCAL -- should be obsolete
-#  theme                    : "minimal-mistakes-jekyll"
-#  theme                    : "minimal-mistakes"
-  minimal_mistakes_skin    : "aqua"  # air", "aqua", "contrast", "dark", "dirt", neon", # "mint", "plum", "sunrise"
-#  url                      : ""
-#  baseurl                  : ""
-
 # GITHUB REMOTE THEME
-  remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-#  minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-#  url                      : "https://emylonas.github.io"
-  baseurl                  : "/xml-minimal"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url                      : "https://emylonas.github.io"
+baseurl                  : "/xml-minimal/"
 
 # THEME-SETTINGS-RECLAIM
 # theme                    : "minimal-mistakes-jekyll"
 # minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # url                      : "http://cody.digitalscholarship.brown.edu"
 # baseurl                  : "/minxml/"
-
-# THEME-SETTINGS-OTHER
-#theme                    : "minimal-mistakes-jekyll"
-#remote_theme             : "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-#url                      : ""
-#baseurl                  : "/"
 
 # Site Settings
 locale                   : "en-US"
@@ -248,10 +234,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-kramdown
-  - jekyll-kramdown-parser-gfm
-  - jekyll-algolia
-  - jekyll-faraday
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -260,10 +242,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-kramdown
-  - jekyll-kramdown-parser-gfm
-  - jekyll-algolia
-  - jekyll-faraday
 
 
 # Archives
