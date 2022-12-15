@@ -34,7 +34,7 @@ tei-div[type="plant"] > tei-head {
 
 
 /* All other head elements */
- tei-head {
+ tei-body > tei-head {
     display: block;
     font-weight: bold;
     font-size: 1.2em;

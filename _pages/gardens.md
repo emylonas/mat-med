@@ -13,9 +13,9 @@ sidebar:
 
 {{ site.baseurl }}assets/img/72dpi_fresco_all.jpg-->
 <div>
-  <svg id="bar" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 4000 2000">
+  <svg id="map-points" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 4000 2000">
 
- <image id="foo" width="100%" height="100%" xlink:href="{{ site.baseurl }}assets/img/VProject-all.png"/>
+ <image id="Vmap" width="100%" height="100%" xlink:href="{{ site.baseurl }}assets/img/VProject-all.png"/>
 
 <!-- San Giorgio Maggiore -->
  <a href="{{ site.baseurl }}gardens/sgiorgiom/">

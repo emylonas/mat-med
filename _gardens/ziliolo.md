@@ -2,25 +2,24 @@
 Title: "Ziliolo Family"
 permalink: "/gardens/ziliolo/"
 layout: single
-map-detail: "/assets/img/ziliolo-detail.jpg"
-
-
+name-stub: ziliolo
+map-detail: "/assets/img/g-ziliolo-det.png"
+map-overview: "/assets/img/Venice-thumb.png"
 ---
 
 ## Ziliolo Family
 
-<figure><img src="{{ page.map-detail | relative_url }}" class="img-ctr" align="center"/><figcaption>Detail of campo St. Angelo from de Barberi map.</figcaption></figure>
+<figure><img src="{{ site.baseurl }}assets/img/g-{{ page.name-stub }}-det.png" class="img-ctr" float="left"/></figure>
 
-<!-- <figure><img src="{{ page.girolamo-map-overview | relative_url }}" align="right"/></figure> -->
-
+<figure width="10%"><img width="10%" src="{{ page.map-overview | relative_url }}" float="right"/></figure>
 
 ### Location
 
-The location of this garden is unknown, but the palazzo of the Ziliolo family was located in the campo S. Angelo.
+This garden was located ...
 
 ### Description
 
-This was the garden of the Ziliolo family...
+This was the garden ...
 
 ### Herbs
 

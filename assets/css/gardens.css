@@ -36,3 +36,24 @@
 .svg-inner:hover ~ .svg-map-label {
   visibility: visible;
 }
+
+/* position thumb on garden detail */
+
+/* .parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+} */
+
+/* .g-det {
+  position: ;
+  border: 1px solid #000000;
+} */
+
+.g-thumb {
+  position: absolute;
+  top: 0;
+  left: 80%;
+  border: 2px solid #000000;
+  width="10%"
+}

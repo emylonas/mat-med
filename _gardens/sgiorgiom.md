@@ -18,17 +18,13 @@ SGM-Merian: "/assets/img/SGM-Meriani.jpg"
 
 <figure><img src="{{ page.SGM-Barbari | relative_url }}" class="img-ctr" align="center"/></figure>
 
-San Giorgio Maggiore island, opposite piazza San Marco, housed the Benedictines since 982 CE.
+San Giorgio Maggiore island, situated opposite the piazza San Marco and close to the larger Giudecca, housed the Benedictines since 982 CE, and was also home to a vegetable garden.
 
-<a href="{{ site.baseurl }}gardens/sgiorgiom-expansion//">Enlargement of the Garden</a> | <a href="{{ site.baseurl }}gardens/sgiorgiom-lab/">Apothecary Laboratory</a> | <a href="{{ site.baseurl }}gardens/sgiorgiom-balm/">Olive Oil Balm and Ingredients</a>
+In the fifteenth century the monastery cultivated much of the surrounding land with pumpkins and cabbages, spinach, endive and local aromatic herbs. But soon other plant species began to be cultivated, at first olive trees and then officinal plants.
 
-<!-- The island of San Giorgio Maggiore, opposite piazza San Marco, has housed the Benedictines since 982 CE.
+<a href="{{ site.baseurl }}gardens/sgiorgiom-1/">The Garden in the Early Modern Age</a> | <a href="{{ site.baseurl }}gardens/sgiorgiom-2/">The Apothecary Shop and Laboratory</a> | <a href="{{ site.baseurl }}gardens/sgiorgiom-3/">The Balsamic Oil and its Herbs</a>
 
-In the fifteenth century the Benedictines cultivated local aromatic herbs and pumpkins, cabbages, spinach and endive in their garden; but already in the early sixteenth century there is evidence of the enlargement of the garden itself, where a section was allocated to the cultivation of olive trees.
-
-<figure><img src="{{ page.SGM-13-1529 | relative_url }}" class="img-ctr" align="center"/><figcaption><strong>ASV, San Giorgio Maggiore, b. 13</strong>,  1529
-<br/>
-Drawing of the enlargement of a corner of the garden in front of the island of Giudecca. Presumably the cultivation of olive trees ran all around the Monastery: ‘loco de li olivari.’</figcaption></figure>
+<!--
 
 At the same time the Monastery started to run an annexed apothecary shop, whose maintenance and supply costs are recorded until its suppression (1806).
 

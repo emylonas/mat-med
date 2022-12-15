@@ -3,7 +3,7 @@ Title: "Girolamo Corner"
 permalink: "/gardens/girolamo/"
 layout: single
 map-detail: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg"
-map-overview: "/assets/img/dBarbari-thumb.png"
+map-overview: "/assets/img/Venice-thumb.png"
 
 ---
 
@@ -20,7 +20,7 @@ This garden was located ...
 
 ### Description
 
-This was the garden of the Girolamo family...
+This was the garden ...
 
 ### Herbs
 

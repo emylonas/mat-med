@@ -11,7 +11,7 @@ body {
 /* accents top area for desktop views */
 @media only screen and (min-width: 750px) {
 	div.masthead {
-		background-image: url(/xml-minimal/assets/img/topbannerbackgroundcrop2b.jpg);
+		background-image: url(/mat-med/assets/img/topbannerbackgroundcrop2b.jpg);
 		background-position-y: center;
 		background-position-x: right!important;
 		background-size: cover;
@@ -37,7 +37,7 @@ body {
 
 #site-nav a, .nav__items a {
 	font-family: 'Work Sans', sans-serif !important;
-	font-size: 85%;
+	font-size: 115%;
 	color: #566147 !important;
 	padding: .5em;
 	opacity: 1;
@@ -80,9 +80,10 @@ h1, h2, h3, h4, h5 {
 	color: #362526 !important;
 }
 
-tei-p, p, ul, li, tei-head {
+tei-p, p, ul, li {
 	font-family: 'Spectral', serif !important;
 	font-weight: 400;
+	font-size: .8em;
 	letter-spacing: -.225px;
 	color: #362526 !important;
 }

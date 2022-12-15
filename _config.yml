@@ -14,7 +14,7 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 url                      : "https://emylonas.github.io"
-baseurl                  : "/xml-minimal/"
+baseurl                  : "/mat-med/"
 
 # THEME-SETTINGS-RECLAIM
 # theme                    : "minimal-mistakes-jekyll"
@@ -28,7 +28,7 @@ title                    : "Materia Medica Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sabrina Minuzzi"
-description              : "Early Modern Herbs in Venice"
+description              : "Herbs in Early Modern Venice"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
