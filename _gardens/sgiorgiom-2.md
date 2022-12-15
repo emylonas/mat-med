@@ -16,22 +16,22 @@ SGM-calestani: "/assets/img/g-sgm-calestani.jpg"
 SGM-discorsi: "/assets/img/g-sgm-discorsi_costa.jpg"
 SGM-dioscoridesGk: "/assets/img/g-sgm-Greek_Dioscorides.jpg"
 SGM-luminare: "/assets/img/g-sgm-luminare_maius.jpg"
-SGM-mattioli:  "/assets/img/g-sgm-mattioli_1604.png"
+SGM-mattioli:  "/assets/img/g-sgm-mattioli_1604.jpg"
 SGM-mesue: "/assets/img/g-sgm-mesue.png"
 SGM-opusPandectarum:  "/assets/img/g-sgm-opus_pandectarum.jpg"
 SGM-fornelli: "/assets/img/g-sgm-fornelli.jpg"
 
 ---
 
-## The Apothecary Shop and Laboratory (San Giorgio Maggiore)
+## The Apothecary Shop and Laboratory
 
 ### 1. Setting up of the Laboratory
 
-Early in the 16th century, the Benedictines of the S. Giorgio Monastery started running an annexed apothecary shop, whose maintenance and supply costs are recorded until its suppression in 1806. [EM: From this documentation, we are able to learn ]
+Documents in the Venice State Archives show that already in the first decades of the 16th century, the Benedictines of the Monastery of St. George had begun to run an adjoining apothecary shop. The maintenance and supply costs of this were recorded until the suppression of the monastery in 1806. The oldest document is a receipt from 1529 for the purchase of some equipment for the apothecary's shop, which was therefore already in operation at that time.
 
 <div style="display:flex;align-items:top;justify-content:space-between"><figure style="flex:3;margin-bottom:.5em;margin-top:0;max-width:70%"><img src="{{ page.SGM-receipt | relative_url }}" class="img-ctr" align="center"/>
 <figcaption><strong>ASV, San Giorgio Maggiore, b. 26</strong>, 1529<br/>
-Bill for the purchase of of a kiln mouth for alembics, with associated round cover stone </figcaption>
+Bill for the purchase of a kiln mouth for alembics, with associated round cover stone </figcaption>
 </figure>
 <img src="{{ page.SGM-alembicH | relative_url}}" style="flex:1;max-width:26%;align-self:flex-start;"/>
 </div>
@@ -42,11 +42,11 @@ Per la piettra tonda sopra il ditto, de piedi n° 4 in tondo, grossa oncie 3 in 
 
 <p >In Antonio de Sgobbis' famous 17th-century pharmacopoeia book, two engravings illustrate the variety of ovens and alembics that an apothecary could have at the time. The oven marked H (center of second row) is the closest model to the one described in the document shown above.</p>
 
-<div class="thumb-nav">
-<span class="thumb-nav-p" style="width: 48%; font-size: 75%; margin-right: 20px"><a href="{{ page.SGM-alembics1 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-alembics1 | relative_url }}"/></a>
+<div style="display:flex;justify-content:space-around;">
+<span style="flex:1;max-width:30%;font-size:.75em;color:#3f6c98;font-family: Georgia,Times,serif;"><a href="{{ page.SGM-alembics1 | relative_url }}" class="image-popup"><img src="{{ page.SGM-alembics1 | relative_url }}"/></a>
 <br/><br/>
 Examples of alembics from the 16th c. </span>
-<span class="thumb-nav-p" style="width: 48%;  font-size: 75%"><a href="{{ page.SGM-alembics2 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-alembics2  | relative_url }}"/></a><br/><br/>
+<span style="flex:1;max-width:30%;font-size:.75em;color:#3f6c98;font-family: Georgia,Times,serif;"><a href="{{ page.SGM-alembics2 | relative_url }}" class="image-popup"><img src="{{ page.SGM-alembics2  | relative_url }}"/></a><br/><br/>
 Examples of ovens from the 16th c. </span>
 </div>
 <br/>
@@ -55,7 +55,7 @@ Examples of ovens from the 16th c. </span>
 
 The oldest inventory of the Benedictines’ apothecary shop, which lists the substances possessed, the equipment, and finally the workshop books, dates back to 1629.
 
-<div class="thumb-nav">
+<!-- <div class="thumb-nav">
 <span class="thumb-nav-p"><a href="{{ page.SGM-inventory1 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-inventory1 | relative_url }}"/></a>
 </span>
 <span class="thumb-nav-p"><a href="{{ page.SGM-inventory2 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-inventory2 | relative_url }}"/></a>
@@ -70,11 +70,27 @@ The oldest inventory of the Benedictines’ apothecary shop, which lists the sub
 </span>
 <br/>
 <figcaption>ASV, S. Giorgio Maggiore, b. 26, Inventario 1629</figcaption>
+</div> -->
+<div style="display:flex;justify-content:space-around;">
+<span style="flex:1;max-width:10%;"><a href="{{ page.SGM-inventory1 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-inventory1 | relative_url }}"/></a>
+</span>
+<span  style="flex:1;max-width:10%;"><a href="{{ page.SGM-inventory2 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-inventory2 | relative_url }}"/></a>
+</span>
+<span style="flex:2;max-width:20%;"><a href="{{ page.SGM-inventory3 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-inventory3 | relative_url }}"/></a>
+</span>
+<span style="flex:2;max-width:20%;"><a href="{{ page.SGM-inventory4 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-inventory4 | relative_url }}"/></a>
+</span>
+<span style="flex:2;max-width:20%;"><a href="{{ page.SGM-inventory5 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-inventory5 | relative_url }}"/></a>
+</span>
+<span style="flex:1;max-width:10%;"><a href="{{ page.SGM-inventory6 | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-inventory6 | relative_url }}"/></a>
+</span>
 </div>
+
+<div style="margin-top:.1em"><figcaption>ASV, S. Giorgio Maggiore, b. 26, Inventario 1629</figcaption></div>
 
 The apothecary shop in S. Giorgio Maggiore had three stills, one of which was reserved for the distillation of aqua-vitae, four bronze mortars, one lead mortar and one stone mortar. A very well-equipped laboratory indeed!
 
-### 3.	Books for use of the Apothecary Laboratory
+### 3.	Books for use in the Apothecary Laboratory
 
 At the end of the 1629 inventory, the titles of the books used for the laboratory are also listed: the “Libri della spetiaria”, which were indispensable guides for the handling of simples and the composition of medicines.
 <!-- →➡︎➜ -->
@@ -97,7 +113,7 @@ Within the scope of the more traditional pharmacopoeia falls the Latin Mesue, a 
 But there is no shortage of the most recent pharmacopoeia texts either: the contemporary Dispensarium by the Tours physician Nicole Prévost, Girolamo Calestani's up-to-date Osservationi and the Avvertimenti nelle compositioni de' medicamenti per vso della spetiaria by Georg Melich, one of the greatest representatives of chemical pharmacy in Venice.
 
 
-<div class="thumb-nav">
+<div class="thumb-nav" style="margin-bottom:30px">
 <span class="thumb-nav-p"><a href="{{ page.SGM-mattioli | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-mattioli | relative_url }}"/></a>
 </span>
 <span class="thumb-nav-p"><a href="{{ page.SGM-dioscoridesGk | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-dioscoridesGk | relative_url }}"/></a>
@@ -115,5 +131,5 @@ But there is no shortage of the most recent pharmacopoeia texts either: the cont
 <span class="thumb-nav-p"><a href="{{ page.SGM-luminare | relative_url }}" class="image-popup"><img class="thumb-menu" src="{{ page.SGM-luminare | relative_url }}"/></a>
 </span>
 </div>
-<br/><br/>
+
 <a href="{{ site.baseurl }}gardens/sgiorgiom-1/">The Garden in the Early Modern Age</a> | The Apothecary Shop and Laboratory | <a href="{{ site.baseurl }}gardens/sgiorgiom-3/">The Balsamic Oil and its Herbs</a>

@@ -4,15 +4,14 @@ permalink: "/gardens/ziliolo/"
 layout: single
 name-stub: ziliolo
 map-detail: "/assets/img/g-ziliolo-det.png"
-map-overview: "/assets/img/Venice-thumb.png"
+map-overview: "/assets/img/g-venice-thumb.jpg"
 ---
 
 ## Ziliolo Family
-
-<figure><img src="{{ site.baseurl }}assets/img/g-{{ page.name-stub }}-det.png" class="img-ctr" float="left"/></figure>
-
-<figure width="10%"><img width="10%" src="{{ page.map-overview | relative_url }}" float="right"/></figure>
-
+<div style="display:flex;flex-flow:column;">
+<img src="{{ site.baseurl }}assets/img/g-{{ page.name-stub }}-det.png" style="margin:0;"/>
+<img style="max-width:30%;margin:15px 0 0 auto" src="{{ page.map-overview | relative_url }}"/>
+</div>
 ### Location
 
 This garden was located ...

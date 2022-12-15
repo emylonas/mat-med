@@ -88,6 +88,13 @@ tei-p, p, ul, li {
 	color: #362526 !important;
 }
 
+.archive li, ul {
+		font-family: 'Spectral', serif !important;
+		font-weight: 400;
+		letter-spacing: -.225px;
+		color: #362526 !important;
+}
+
 #main > div.sidebar.sticky > nav {
 	font-weight: 700;
 }

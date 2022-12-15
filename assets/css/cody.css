@@ -12,9 +12,9 @@ div#TEI {
 		animation-delay: 0.15s;
 		}
 
-		.page__content p,.page__content li,.page__content dl {
+		/* .page__content p,.page__content li,.page__content dl {
 			font-size:.8em
-		}
+		} */
 
 	/* Hide scrollbar for Chrome, Safari and Opera */
 	.sidebar.sticky::-webkit-scrollbar {
