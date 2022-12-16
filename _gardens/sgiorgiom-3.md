@@ -24,7 +24,7 @@ The main ingredient of the ointment of S. Giorgio was the oil produced from the 
 
 The _Balsamic Oil of S. Giorgio Maggiore_ was obtained by macerating about 60 substances in olive oil, mostly local herbs - that the Benedictines cultivated in their vegetable garden and in other gardens in Venice and in the Terraferma - and a few exotic vegetables, that they purchased from druggists and spices merchants.
 
-<a href="{{ page.SGM-collage | relative_url }}" class="image-popup"><img src="{{ page.SGM-collage | relative_url }}" class="img-ctr" style="width:%"/></a>
+<a href="{{ page.SGM-collage | relative_url }}" class="image-popup"><img src="{{ page.SGM-collage | relative_url }}" style="max-width:80%!important;float:unset!important;margin-right:auto!important;"/></a>
 
 The following is a sample of the ingredients of S. Giorgio Balsamic oil, some of which (marked with * ) are now acknowledged by the European Medical Agency (EMA) as having medicinal properties. Non-local plants/herbs are marked by two asterisks (**).
 
