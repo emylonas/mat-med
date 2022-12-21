@@ -35,9 +35,17 @@ body {
 	height: 1.5px !important;
 }
 
-#site-nav a, .nav__items a {
+#site-nav a {
 	font-family: 'Work Sans', sans-serif !important;
-	font-size: 115%;
+	font-size: 95%;
+	color: #566147 !important;
+	padding: .5em;
+	opacity: 1;
+}
+
+.nav__items a {
+	font-family: 'Work Sans', sans-serif !important;
+	font-size: 100%;
 	color: #566147 !important;
 	padding: .5em;
 	opacity: 1;
@@ -80,13 +88,27 @@ h1, h2, h3, h4, h5 {
 	color: #362526 !important;
 }
 
-tei-p, p, ul, li {
+.page__content p, .page__content li, .page__content dl {
+    font-size: .8em;
+}
+
+tei-p, p {
 	font-family: 'Spectral', serif !important;
 	font-weight: 400;
 	font-size: .8em;
 	letter-spacing: -.225px;
 	color: #362526 !important;
 }
+
+ul, li {
+	font-family: 'Spectral', serif !important;
+	font-weight: 400;
+	/* font-size: .8em; */
+	letter-spacing: -.225px;
+	color: #362526 !important;
+}
+
+
 
 .archive li, ul {
 		font-family: 'Spectral', serif !important;

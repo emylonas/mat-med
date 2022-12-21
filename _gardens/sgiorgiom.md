@@ -17,7 +17,13 @@ SGM-Merian: "/assets/img/SGM-Meriani.jpg"
 ## The Garden on the Island of San Giorgio Maggiore
 
 <figure><img src="{{ page.SGM-Barbari | relative_url }}" class="img-ctr" align="center"/></figure>
-
+<!-- .g-thumb {
+  position: absolute;
+  top: 0;
+  left: 80%;
+  border: 2px solid #000000;
+  width="10%"
+} -->
 San Giorgio Maggiore island, situated opposite the piazza San Marco and close to the larger Giudecca, housed the Benedictines since 982 CE, and was also home to a vegetable garden.
 
 In the fifteenth century the monastery cultivated much of the surrounding land with pumpkins and cabbages, spinach, endive and local aromatic herbs. But soon other plant species began to be cultivated, at first olive trees and then officinal plants.

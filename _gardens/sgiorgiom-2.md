@@ -40,7 +40,7 @@ Bill for the purchase of a kiln mouth for alembics, with associated round cover 
 Per la piettra tonda sopra il ditto, de piedi n° 4 in tondo, grossa oncie 3 in quattro, spianada di sotto et di sopra monta L. 33 s. —  Per la condotta [trasporto] della sopraditta roba monta L. 2 s. 10”</p>
 </blockquote>
 
-<p >In Antonio de Sgobbis' famous 17th-century pharmacopoeia book, two engravings illustrate the variety of ovens and alembics that an apothecary could have at the time. The oven marked H (center of second row) is the closest model to the one described in the document shown above.</p>
+<p>In Antonio de Sgobbis' famous 17th-century pharmacopoeia book, two engravings illustrate the variety of ovens and alembics that an apothecary could have at the time. The oven marked H (center of second row) is the closest model to the one described in the document shown above.</p>
 
 <div style="display:flex;justify-content:space-around;">
 <span style="flex:1;max-width:30%;font-size:.75em;color:#3f6c98;font-family: Georgia,Times,serif;"><a href="{{ page.SGM-alembics1 | relative_url }}" class="image-popup"><img src="{{ page.SGM-alembics1 | relative_url }}"/></a>
