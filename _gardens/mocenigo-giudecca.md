@@ -1,29 +1,16 @@
 ---
-Title: "Girolamo Corner"
-permalink: "/gardens/girolamo/"
+Title: "Mocenigo (Giudecca)"
+permalink: "/gardens/mocenigo-giudecca/"
 layout: single
-map-detail: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg"
+map-detail: "/assets/img/g-mocenigo-giudecca-det.png"
 map-overview: "/assets/img/Venice-thumb.png"
 
 ---
 
-## Girolamo Corner, near the Campo S. Bernardo
+## Mocenigo Family, on Giudecca Island
 
-<figure><img src="{{ page.map-detail | absolute_url }}" class="img-ctr" align="center"/></figure>
-
-<figure><img src="{{ page.map-overview | relative_url }}" align="right"/></figure>
-
-
-### Location
-
-This garden was located ...
+<figure><img src="{{ page.map-detail | relative_url }}" class="img-ctr" align="center"/></figure>
 
 ### Description
 
-This was the garden ...
-
-### Herbs
-
-It had lots of herbs.
-
-### References
+\[Work in Progress\]

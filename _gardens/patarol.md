@@ -1,18 +1,15 @@
 ---
-Title: "Girolamo Corner"
-permalink: "/gardens/girolamo/"
+Title: "Patarol"
+permalink: "/gardens/patarol/"
 layout: single
-map-detail: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg"
+map-detail: "/assets/img/g-patarol-det.png"
 map-overview: "/assets/img/Venice-thumb.png"
 
 ---
 
-## Girolamo Corner, near the Campo S. Bernardo
+## The Gardens of Lorenzo Patarol
 
-<figure><img src="{{ page.map-detail | absolute_url }}" class="img-ctr" align="center"/></figure>
-
-<figure><img src="{{ page.map-overview | relative_url }}" align="right"/></figure>
-
+<figure><img src="{{ page.map-detail | relative_url }}" class="img-ctr" align="center"/></figure>
 
 ### Location
 

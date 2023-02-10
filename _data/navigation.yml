@@ -24,6 +24,11 @@ main:
 #gardens sidebar
 gardens:
 
+  - title: "San Giorgio Maggiore Island"
+    children:
+      - title: San Giorgio Monastery, OSB
+        url:  /gardens/sgiorgiom/
+
   - title: "Murano Island"
     children:
 
@@ -48,18 +53,13 @@ gardens:
       - title: Nani Family
         url:  /gardens/nani/
       - title: Andrea Dandolo
-        url:  /gardens/Dandolo/
+        url:  /gardens/dandolo/
       - title: Trevisan Family
         url:  /gardens/trevisan-giudecca/
       - title: Casino Cattaneo
         url:  /gardens/casino/
       - title: Redentore Gardens
         url: /gardens/redentore/
-
-  - title: "San Giorgio Maggiore Island"
-    children:
-      - title: San Giorgio Monastery, OSB
-        url:  /gardens/sgiorgiom/
 
   - title: "Venice"
     children:

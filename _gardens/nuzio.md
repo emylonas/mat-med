@@ -1,29 +1,16 @@
 ---
-Title: "Girolamo Corner"
-permalink: "/gardens/girolamo/"
+Title: "Nuzio"
+permalink: "/gardens/nuzio/"
 layout: single
-map-detail: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg"
+map-detail: "/assets/img/g-nuzio-det.png"
 map-overview: "/assets/img/Venice-thumb.png"
 
 ---
 
-## Girolamo Corner, near the Campo S. Bernardo
+## The Gardens of Giulio Nuzio, ai Carmini
 
-<figure><img src="{{ page.map-detail | absolute_url }}" class="img-ctr" align="center"/></figure>
-
-<figure><img src="{{ page.map-overview | relative_url }}" align="right"/></figure>
-
-
-### Location
-
-This garden was located ...
+<figure><img src="{{ page.map-detail | relative_url }}" class="img-ctr" align="center"/></figure>
 
 ### Description
 
-This was the garden ...
-
-### Herbs
-
-It had lots of herbs.
-
-### References
+\[Work in Progress\]

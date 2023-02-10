@@ -7,21 +7,12 @@ map-detail: "/assets/img/g-ziliolo-det.png"
 map-overview: "/assets/img/g-venice-thumb.jpg"
 ---
 
-## Ziliolo Family
+## The Gardens of the Ziliolo Family
 <div style="display:flex;flex-flow:column;">
 <img src="{{ site.baseurl }}assets/img/g-{{ page.name-stub }}-det.png" style="margin:0;"/>
-<img style="max-width:30%;margin:15px 0 0 auto" src="{{ page.map-overview | relative_url }}"/>
 </div>
-### Location
-
-This garden was located ...
-
 ### Description
 
-This was the garden ...
+The location of this garden is uncertain, but it is known that the palazzo of the Ziliolo family was in the campo S. Angelo.
 
-### Herbs
-
-It had lots of herbs.
-
-### References
+\[Work in Progress\]

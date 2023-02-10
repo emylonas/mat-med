@@ -14,7 +14,7 @@ The Venetians were always trying to wrest land from the waters, especially by cr
 
 <figure><img src="{{ page.SGM-13-1529 | relative_url }}" class="img-ctr" align="center"/><figcaption><strong>ASV, San Giorgio Maggiore, b. 13</strong>,  1529
 <br/>
-In the plan above, the olive trees ‘loco de li olivari’ are outside the cross hatched monastery wall (Note that south is at the top of the drawing)</figcaption></figure>
+In the plan above, the olive trees ‘loco de li olivari’ are outside the cross hatched monastery wall. Note that south is at the top of the drawing, which has been shaded to indicate the olive grove (green) and the water (blue).</figcaption></figure>
 
 <img src="{{ page.SGM-olivetree | relative_url}}" style="float:left;max-width:20%;vertical-align:middle;margin-right:30px"/>In the fifteenth century the Benedictines cultivated local aromatic herbs and pumpkins, cabbages, spinach and endive in their garden; but already in the early sixteenth century there is evidence of the expansion of the garden itself, where a section was allocated to the cultivation of olive trees.
 

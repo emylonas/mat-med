@@ -1,29 +1,18 @@
 ---
-Title: "Girolamo Corner"
-permalink: "/gardens/girolamo/"
+Title: "Erizzo Family"
+permalink: "/gardens/erizzo/"
 layout: single
-map-detail: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg"
+map-detail: "/assets/img/g-erizzo-det.png"
 map-overview: "/assets/img/Venice-thumb.png"
 
 ---
 
-## Girolamo Corner, near the Campo S. Bernardo
+## Erizzo Family, later Morosini Family
 
-<figure><img src="{{ page.map-detail | absolute_url }}" class="img-ctr" align="center"/></figure>
-
-<figure><img src="{{ page.map-overview | relative_url }}" align="right"/></figure>
-
-
-### Location
-
-This garden was located ...
+<figure><img src="{{ page.map-detail | relative_url }}" class="img-ctr" align="center"/></figure>
 
 ### Description
 
-This was the garden ...
+The map shows the location of the garden in the mid 16th c. By the middle of the 17th century, it no longer existed. 
 
-### Herbs
-
-It had lots of herbs.
-
-### References
+\[Work in Progress\]

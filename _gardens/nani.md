@@ -1,29 +1,17 @@
 ---
-Title: "Girolamo Corner"
-permalink: "/gardens/girolamo/"
+Title: "Nani Family"
+permalink: "/gardens/nani/"
 layout: single
-map-detail: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg"
-map-overview: "/assets/img/Venice-thumb.png"
-
+name-stub: nani
+map-detail: "/assets/img/g-nani-det.png"
+map-overview: "/assets/img/g-venice-thumb.jpg"
 ---
 
-## Girolamo Corner, near the Campo S. Bernardo
-
-<figure><img src="{{ page.map-detail | absolute_url }}" class="img-ctr" align="center"/></figure>
-
-<figure><img src="{{ page.map-overview | relative_url }}" align="right"/></figure>
-
-
-### Location
-
-This garden was located ...
+## The Gardens of the Nani Family
+<div style="display:flex;flex-flow:column;">
+<img src="{{ site.baseurl }}assets/img/g-{{ page.name-stub }}-det.png" style="margin:0;"/>
+</div>
 
 ### Description
 
-This was the garden ...
-
-### Herbs
-
-It had lots of herbs.
-
-### References
+\[Work in Progress\]
