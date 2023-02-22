@@ -13,4 +13,7 @@ map-overview: "/assets/img/Venice-thumb.png"
 
 ### Description
 
+The Palazzo Trevisan gardens are visible, slightly to the north of the Navagero
+garden.
+
 \[Work in Progress\]

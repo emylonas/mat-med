@@ -16,13 +16,11 @@ This was an apothecary shop that served the few inhabitants of a mountainous are
 While Venetian apothecary shops specialised exclusively in medicines, in the fresco at Challant Castle, not only medicinal products appear, but also confectionery and food spices, wax products (for lighting and other uses), votive offerings depicting body parts, sponges, toys etc.
 In fact, hanging from the fourth shelf on hooks are: white and coloured wax torches, wax candles, wicks for torches, sponges and cylinders of melted sulphur tied with string, large red and green blocks of wax for seals, worked with Savoy coats of arms; a small saddled horse (_ex voto_ for St. Egidio), a human figure and a wax leg (_ex voto_ for the healing of a person and a limb).
 
-A woman is shopping with the shop assistant, while a boy, in the right-hand corner of the scene, is pounding substances in a mortar - an operation usually carried out in the adjacent workshop or in the backroom.
-
-Medicinal waters and oils are displayed on the shelves.
+A woman is shopping with the shop assistant, while a boy, in the right-hand corner of the scene, is pounding substances in a mortar - an operation usually carried out in the adjacent workshop or in the backroom. Medicinal waters and oils are displayed on the shelves.
 
 ### Bottom shelf
 
-The 18 faience vessels on the bottom-most shelf contain the following (infusions?? distillations?)
+The 18 faience vessels on the bottom-most shelf contain distilled waters.
 <figure><img src="{{ site.baseurl }}assets/img/a-shelf1-jars1.jpg" /><figcaption>Detail showing faience vessels on the left hand side of the bottom shelf </figcaption></figure>
 * Aqua boraginis:  Water of <a href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:113618-1" target="_blank">Borago officinalis L.</a>
 * Aqua rosarum: Rose Water - <a href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:732569-1" target="_blank">Rosa Gallica L.</a>
@@ -43,30 +41,27 @@ The 18 faience vessels on the bottom-most shelf contain the following (infusions
 * Aqua feniculi: Fennel Water - <a href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:40005-1" target="_blank">Foeniculum Mill.</a>
 * Aqua berberie: Barberry Water - <a href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328526-2" target="_blank">Berberis L.</a>  
 [cfr. <a href="https://pubmed.ncbi.nlm.nih.gov/30637820/" target="_blank">Berberine and barberry (Berberis vulgaris): A clinical review</a>
-* Aqua vite
+* Aqua vite: <a href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325876-2">Vite L.</a>
 * Aqua valeriane: Valerian Water - <a href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:860012-1" target="_blank">Valeriana officinalis L.</a>
 
 ### Second Shelf
 
-The second shelf holds 8 amphorae of oils: Oleum rosatum the first one, followed by jars with jams and preserves including
-* alkermes
-* conserva rosacea
-* conserva olivarum
-* conserva rosarum
-* conserva pomorum
-
 <figure><img src="{{ site.baseurl }}assets/img/a-shelf2-amphorae.jpg" /><figcaption>Detail showing eight amphorae on the left hand side of the second shelf </figcaption></figure>
+The second shelf holds eight amphorae of oils on the left side. The first is labelled Oleum rosatum.
 
 <figure><img src="{{ site.baseurl }}assets/img/a-shelf2-jars.jpg" /><figcaption>Detail showing eight jars on the right hand side of the second shelf</figcaption></figure>
+<!-- <figure style="float:right;max-width:40%;vertical-align:middle;margin-left:30px; border-style:solid;border-color:black;border-width:thin;"><img src="{{ site.baseurl }}assets/img/a-alkermes-recipe.jpg" /><figcaption>Alkermes recipe in <em>Lessico farmaceutico-chimico</em></figcaption></figure> -->
+On the right side of the second shelf are jars with jams and preserves.
 
-For the recipe for alkermes syrup, see Capello, _Lessico farmaceutico-chimico_, p. 52, _Confezion Alchermes_ a base di sciroppo di cocciniglia
-based on cochineal syrup
+* Alkermes  For the recipe for alkermes syrup “a base di sciroppo di cocciniglia” (based on cochineal syrup), see Capello, _Lessico farmaceutico-chimico_, p. 52, _Confezion Alchermes_
+* Conserva rosacea
+* Conserva olivarum
+* Conserva rosarum
+* Conserva pomorum
 
-### Third Shelf
-The third shelf has a number of large wooden boxes with an oblong, oval shape
+Hanging from the fourth shelf on hooks are: white and coloured wax torches, wax candles, wicks for torches, sponges and cylinders of melted sulphur tied with string, large red and green blocks of wax for seals, worked with Savoy coats of arms; a small saddled horse (ex voto for St. Egidio), a human figure and a wax leg (ex voto for the healing of a person and a limb).
 
 ### Fourth Shelf
 
-The top shelf holds round boxes and wooden crates. These are lined on the inside with paper and contain herbs, roots, spices, seeds, pills, trocis (troches? lozenges?), sugar, resin, etc.
-
 <figure><img src="{{ site.baseurl }}assets/img/a-shelf4-det.jpg" /><figcaption>Detail showing paper lined boxes on the top shelf </figcaption></figure>
+The top shelf holds round boxes and wooden crates. These are lined on the inside with paper and contain herbs, roots, spices, seeds, pills, trocis (troches? lozenges?), sugar, resin, etc.

@@ -11,9 +11,6 @@ map-overview: "/assets/img/Venice-thumb.png"
 
 <figure><img src="{{ page.map-detail | relative_url }}" class="img-ctr" align="center"/></figure>
 
-<figure><img src="{{ page.map-overview | relative_url }}" align="right"/></figure>
-
-
 ### Description
 
 The location of this garden is uncertain.
