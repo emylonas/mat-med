@@ -30,7 +30,7 @@ identifications.
     [https://github.com/emylonas/mat-med/blob/main/assets/xml/michiele-azzurro.xml](https://www.google.com/url?q=https://github.com/emylonas/mat-med/blob/main/assets/xml/michiele-azzurro.xml&sa=D&source=editors&ust=1677537176548315&usg=AOvVaw3gp7h3-5MFyzkSegp7UfJN)
 -   Mat Med TEI customization:
     [https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_MatMed.rng](https://www.google.com/url?q=https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_MatMed.rng&sa=D&source=editors&ust=1677537176548985&usg=AOvVaw1wKGh3DCHjqwf0AmUpGHBj)
--   ODD file for generating the TEI customization:
+-   ODD file for generating the TEI customization: [https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_simplePrint-matMed.odd](https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_simplePrint-matMed.odd)
 
 Currently the *Libro Azzurro* has been encoded, and it is possible
 to automatically generate indices of people and places that are
