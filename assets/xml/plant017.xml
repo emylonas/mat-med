@@ -4,50 +4,50 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 17 Cedriolo</head>
-        <ab part="N">[<hi>Passiflora caerulea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000479867"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321949-2"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Passiflora caerulea L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000479867"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321949-2"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Mecoacan <ptr target="#A-017-N1"/> da Spagnioli — Cedriolo vel Cocomero sp.</p>
+          <p> Mecoacan <ptr target="#A-017-N1"/> da Spagnioli — Cedriolo vel Cocomero sp.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa radice grosseta pallida, suoi sarmentosi rami che se invoglie <ptr target="#A-017-N2"/> nodati et da
+          <p> Suoa radice grosseta pallida, suoi sarmentosi rami che se invoglie <ptr target="#A-017-N2"/> nodati et da
             ogni nodo suoi caprioli <ptr target="#A-017-N3"/> con una fronde per nodo in sete parti per el piui divise
             simil al pentafillon giallezzie et amare, suoi semi simili alla scamonea <ref type="internal" target="#A-023">[N. 23]</ref> per
             quello mi disse el <persName ref="guilandino-melchiorre">Guilandini</persName>. Et la vide poi meglio che la gli naque et li fezze li
             frutti l'hanno 1570 ma non mi disse la forma di essi e che non si maturorno.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Di Spagnia fu portata de qui, ma nasce nella <placeName ref="america-meridionale">Nova India</placeName> alla Isola del <placeName ref="mecoacan">Mecoacan</placeName> dunde
+          <p> Di Spagnia fu portata de qui, ma nasce nella <placeName ref="america-meridionale">Nova India</placeName> alla Isola del <placeName ref="mecoacan">Mecoacan</placeName> dunde
             Spagnioli li a posto nome dal luogho ci viene. Et sarà anche questo con errore posto
             come il resto non essendo Mecoacan.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Penso sia vivace suoe radice. Et l'esta[te] son frondose et eminente serpendo sopra a quel
+          <p> Penso sia vivace suoe radice. Et l'esta[te] son frondose et eminente serpendo sopra a quel
             li son acanto et invogliendosi.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Il supra deto <persName ref="guilandino-melchiorre">Guilandini</persName> mi disse esser il Mecoacan, poi mi scrisse haversi errato. Et
+          <p> Il supra deto <persName ref="guilandino-melchiorre">Guilandini</persName> mi disse esser il Mecoacan, poi mi scrisse haversi errato. Et
             che era spezie di Cedriolo over Cocomero.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta sterile; a parte una foglia in grandezza naturale. La passiflora trovasi la
+        <div type="editorial-D">
+          <p>Pianta sterile; a parte una foglia in grandezza naturale. La passiflora trovasi la
             prima volta ricordata dal poeta <persName ref="barca-centenera-mart-n-del">Martino del Barco</persName> che la vide nel <placeName ref="paraguay">Paraguay</placeName>. Da questo
             codice apprendiamo che essa fu importata in <placeName ref="spagna">Ispagna</placeName> donde il <persName ref="guilandino-melchiorre">Guilandino</persName> ottenne un
             campione che spedì al Michiel dopo averne levato i frutti per poter seminar la pianta
@@ -56,7 +56,7 @@
             spediti altri campioni quando gli riusci di avere individui fioriti e fruttiferi. Si
             limitò a scrivere al Michiel che i frutti avevano forma di cetrioli, senza dir nulla dei
             fiori che pur sono tanto singolari.</p>
-          <p part="N">Dal testo apprendiamo che la passiflora fu creduta, sulla fede del <persName ref="guilandino-melchiorre">Guilandino</persName>, il
+          <p>Dal testo apprendiamo che la passiflora fu creduta, sulla fede del <persName ref="guilandino-melchiorre">Guilandino</persName>, il
             Mechoacan, ma più tardi l'errore fu corretto, sia per opera dello stesso <persName ref="guilandino-melchiorre">Guilandino</persName>, sia
             per avere il Michiel ricevuto un campione del vero Mechoacan che trovasi ritratto al <ref type="internal" target="#A-161">N.
               161</ref>. Giustamente il Michiel dall'errore del nome specifico dedusse l'errore di
@@ -67,11 +67,11 @@
             Antille) erano isole e coloro i quali non si occupavano particolarmente di geografia
             spesso credevano isole anche altre terre in realtà continentali. <ptr target="#A-017-N4"/></p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-017-N1" n="1" anchored="true"> * La parola «Mecoacan» è cancellata. (Ed.)</note>
-          <note xml:id="A-017-N2" n="2" anchored="true"> Si avvolgono.</note>
-          <note xml:id="A-017-N3" n="3" anchored="true"> Viticci. "</note>
-          <note xml:id="A-017-N4" n="4" anchored="true"> Chi non fosse disposto a scusare simili errori, pensi che in pieno secolo XIX
+        <div type="notes">
+          <note xml:id="A-017-N1" n="1"> * La parola «Mecoacan» è cancellata. (Ed.)</note>
+          <note xml:id="A-017-N2" n="2"> Si avvolgono.</note>
+          <note xml:id="A-017-N3" n="3"> Viticci. "</note>
+          <note xml:id="A-017-N4" n="4"> Chi non fosse disposto a scusare simili errori, pensi che in pieno secolo XIX
             vi fu chi si presentò come azionista per l'impresa del taglio dell'isola di Svezia (<hi>fle
               de Suède</hi>). Si trattava dell'istmo di Suez.</note>
         </div>

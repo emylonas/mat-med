@@ -4,51 +4,51 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 126 Tithimalo Dendroide</head>
-        <ab part="N">[<hi>Euphorbia dendroides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000961698"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:346252-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Euphorbia dendroides L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000961698"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:346252-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Thytimalus dendroides et petreo da Latini - Leptophyllon et Pterophytes da Greci -
+          <p> Thytimalus dendroides et petreo da Latini - Leptophyllon et Pterophytes da Greci -
             Tithymalo albero da volgari</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Varie sonno le spetie delli Tithimali come nelli altri libri vedrete.</p>
+          <p> Varie sonno le spetie delli Tithimali come nelli altri libri vedrete.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nasse ne mine et tra sassi, ne son a Corphu dunde io ne hebbi, nelle maremme di
+          <p> Nasse ne mine et tra sassi, ne son a Corphu dunde io ne hebbi, nelle maremme di
             Nappoli de Reame <ptr target="#A-126-N1"/>, in Toscana et per la Liguria tra Nizza et Savona, et nel contorno
             di Marsiglia.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Quasi sempre mantien suoe frondi. Li fruti di giugno et luglio con il seme poi.</p>
+          <p> Quasi sempre mantien suoe frondi. Li fruti di giugno et luglio con il seme poi.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Il Dodonei penso non l'habbi veduto alla demostracione che lui fa.</p>
+          <p> Il Dodonei penso non l'habbi veduto alla demostracione che lui fa.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Servonsi nel medesimo modo il suo seme che gli altri et sonno delle medesime virtu
+          <p>Servonsi nel medesimo modo il suo seme che gli altri et sonno delle medesime virtu
             anche come si legge nel primo libro rosso k. 177 et il platifilo de larghe foglie per
             esser volgare non lo figurai et legesi nel dito libro.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fertile; a parte un rametto fiorito e fruttifero. Le località di Toscana, Liguria e Marsiglia son prese dall'<persName ref="anguillara-luigi">Anguillara</persName> che vi rinvenne la pianta. Ma siccome oggidi
+        <div type="editorial-D">
+          <p>Pianta fertile; a parte un rametto fiorito e fruttifero. Le località di Toscana, Liguria e Marsiglia son prese dall'<persName ref="anguillara-luigi">Anguillara</persName> che vi rinvenne la pianta. Ma siccome oggidi
             
             (1) Il <persName ref="bonato-giuseppe-antonio">Bonato</persName> trascrisse erroneamente Saruma. 
             (2) * È, inoltre, in contraddizione con
@@ -68,14 +68,14 @@
             sotto [93]: * «Tithymalus dendroides ex Codice caesareo» e la stessa descrizione è
             presa dal <persName ref="belon-pierre">Belonio</persName> e dà dimensioni esagerate alla pianta <ptr target="#A-126-N3"/>.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-126-N1" n="1" anchored="true"> La nostra Napoli era così chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
+        <div type="notes">
+          <note xml:id="A-126-N1" n="1"> La nostra Napoli era così chiamata per distinguerla da Napoli di Romania (oggidi Nauplia in
             Grecia) che formò parte del dominii veneti. Ia località è presa dal Mattioli che vide la
             pianta nelle maremme, poco dopo oltrepassato il confine tra lo Stato Pontificio ed il
             Regno di Napoli, partendo da Terracina.</note>
-          <note xml:id="A-126-N2" n="2" anchored="true"> Gasp. Bauhin che chiama la specie Tithymalus myrtifolius arboreus vi aggiunge
+          <note xml:id="A-126-N2" n="2"> Gasp. Bauhin che chiama la specie Tithymalus myrtifolius arboreus vi aggiunge
             nella sinonimia: an Tithymalus petraeus Anguillarae?</note>
-          <note xml:id="A-126-N3" n="3" anchored="true"> Si dubitò se la specie presente fosse il titimalo petreo di Anguillara perché
+          <note xml:id="A-126-N3" n="3"> Si dubitò se la specie presente fosse il titimalo petreo di Anguillara perché
             questo autore la dice «alta come un huomo che sia ben grande», dandole una statura cui
             essa può eccezionalmente giungere. Il Dodoneo così ne parla: «Bellonius vero ad
             duorum hominum altitudinem crescere et caudicem habere crassitudine cruris humani

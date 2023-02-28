@@ -4,57 +4,57 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 40 Frutes Citrio Simil</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <div type="name">
           <head>NOMI</head>
-          <p part="N">Frutex citrio similis da simplicisti.</p>
+          <p>Frutex citrio similis da simplicisti.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Per haver similitudine nelle foglie con li melli cedri son chiamato con questo nome,
+          <p> Per haver similitudine nelle foglie con li melli cedri son chiamato con questo nome,
             son poi il Cedro de Monte Libano simil a Ginepro [<ref type="internal" target="#A-009">N. 9</ref>].</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoe radice scure et legnose, suo tronco palido non molto grosso et son frutice che
+          <p> Suoe radice scure et legnose, suo tronco palido non molto grosso et son frutice che
             rimandano abasso, suoe frondi grossete, lustre, liscie, di bellissimo verde lunghe et
             larghe doi dita, simil al melo cedro ma minore come il lauro, suoi fiori per quel mi
             disse un erante simplicista francese <ptr target="#A-040-N1"/> sonno azuri, suoi fruti io non li ho veduti ma
             li suoi nuclei et ossi sonno nella rotondità apuntiti simil a quelli delle Cerase ma
             oblonghi, involti in nera cartilagine et come pertugiata et apuntata.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Il sig. ecc. M. <persName ref="ghini-luca">Luca Ghyni</persName> mi disse esserne a <placeName ref="genova">Genoa</placeName> nel giardino del Principe Doria et
+          <p> Il sig. ecc. M. <persName ref="ghini-luca">Luca Ghyni</persName> mi disse esserne a <placeName ref="genova">Genoa</placeName> nel giardino del Principe Doria et
             il francese <persName ref="belon-pierre">Belonio</persName> detto mi disse esserne a <placeName ref="edirne">Andernopoli</placeName>, qual mi diede de suoi ossini
             et li piantai et naquero 3 pedini.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> In ogni staggion verdeggia.</p>
+          <p> In ogni staggion verdeggia.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N">Per quello ho possuto comprendere dali nati miei desiderano luogho solsticio et
+          <p>Per quello ho possuto comprendere dali nati miei desiderano luogho solsticio et
             caldo. </p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N"> Pianta sterile; a parte una foglia in grandezza naturale e due assi del frutto.</p>
+        <div type="editorial-D">
+          <p> Pianta sterile; a parte una foglia in grandezza naturale e due assi del frutto.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-040-N1" n="1" anchored="true">Pietro Belon.</note>
+        <div type="notes">
+          <note xml:id="A-040-N1" n="1">Pietro Belon.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="34"/>

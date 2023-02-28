@@ -50,7 +50,6 @@
       <person>
         <persName xml:id="Aldrovandi" ref="https://www.treccani.it/enciclopedia/ulisse-aldrovandi_(Dizionario-Biografico)">Aldrovandi, Ulisse</persName>
       </person>
-
       <person>
         <persName xml:id="Mattioli" ref="https://www.treccani.it/enciclopedia/pietro-andrea-mattioli_(Dizionario-Biografico)">Mattioli, Pietro Andrea</persName>
       </person>
@@ -65,17 +64,14 @@
         <persName type="alt">Cortusius, Jacobus Antonius</persName>
         <persName type="alt">Cortusi, Jacopo Antonio</persName>
       </person>
-      <person>
-        <persName xml:id="Pasqualigo">Pasqualigo, Filippo</persName>
-      </person>
-      <person>
+       <person>
         <persName xml:id="Cesalpino" ref="https://www.treccani.it/enciclopedia/andrea-cesalpino_%28Dizionario-Biografico%29/">Cesalpino, Andrea</persName>
       </person>
       <person>
         <persName xml:id="Belonio" ref="https://data.cerl.org/thesaurus/cnp01320254">Belon, Pierre</persName>
       </person>
       <person>
-        <persName xml:id="Dasilico" ref="https://data.cerl.org/thesaurus/cnp00399447">Rauwolf, Leonhard</persName>
+        <persName xml:id="Rauwolf" ref="https://data.cerl.org/thesaurus/cnp00399447">Rauwolf, Leonhard</persName> <persName type="alt">Dasilicos</persName>
       </person>
       <person>
         <persName xml:id="Bonato" ref="https://marciana.venezia.sbn.it/immagini-possessori/1140-bonato-giuseppe-antonio">Bonato, Giuseppe Antonio</persName>
@@ -87,7 +83,7 @@
         <persName xml:id="Virgilio" ref="https://isni.org/isni/0000000430695667">Vergilius Maro, Publius</persName>
       </person>
       <person>
-        <persName xml:id="Gualtiero" ref="http://thesaurus.cerl.org/record/cnp01319119">Ryff, Walther Hermann</persName>
+        <persName xml:id="Ryff" ref="http://thesaurus.cerl.org/record/cnp01319119">Ryff, Walther Hermann</persName> <persName type="alt">Gualtieri</persName>
       </person>
       <person>
         <persName xml:id="Barbaro" ref="https://www.treccani.it/enciclopedia/ermolao-barbaro_%28Dizionario-Biografico%29/">Barbaro, Ermolao</persName>
@@ -102,19 +98,16 @@
         <persName xml:id="Priuli" ref="https://www.treccani.it/enciclopedia/lorenzo-priuli_%28Dizionario-Biografico%29/">Priuli, Lorenzo</persName>
       </person>
       <person>
-        <persName xml:id="Moderato" ref="...">Moderato, Liberale</persName>
+        <persName xml:id="Moderato">Moderato, Liberale</persName>
       </person>
       <person>
         <persName xml:id="Gesner" ref="http://thesaurus.cerl.org/record/cnp01317315">Gesner, Conrad</persName>
       </person>
       <person>
-        <persName xml:id="Alpago">Alpago, Agostino</persName>
-      </person>
-      <person>
       <persName xml:id="Passamonte">Passamonte, Michele</persName> <note>Speziale piacentino.</note>
       </person>
       <person>
-        <p><persName xml:id="Trevisan">Trevisan, Bernardino</persName>  (1506-1583). Studiò filosofia e medicina e si specializzò in botanica.</p>
+        <persName xml:id="Trevisan">Trevisan, Bernardino</persName> <note> (1506-1583). Studiò filosofia e medicina e si specializzò in botanica.</note>
       </person>
       <person>
         <persName xml:id="Clusius" ref="http://thesaurus.cerl.org/record/cnp01302790">Clusius, Carolus</persName>
@@ -138,11 +131,12 @@
         <persName xml:id="BemboT">Bembo, Torquato</persName> <note>(1525-1595)  Figlio naturale del cardinal Pietro Bembo, possedeva uno dei giardini più belli del padovano</note>
       </person>
       <person>
-        <p><persName xml:id="Cechin">Martinelli, Francesco</persName> Speziale attivo a Venezia all'insegna dell'Angelo, chiamato Cechin (o Cecchin) all'Angelo</p>
+        <persName xml:id="Martinelli">Martinelli, Francesco</persName> 
+          <persName type="alt">Cechin dal Angelo</persName> <note>Speziale attivo a Venezia all'insegna dell'Angelo, chiamato Cechin (o Cecchin) all'Angelo</note>
       </person>
       <person>
-        <persName xml:id="Cordo" ref="https://www.treccani.it/enciclopedia/simone-da-genova_%28Dizionario-Biografico%29/">Simone da Cordo</persName>
-          <persName>Simon a Cordo</persName>
+        <persName xml:id="Cordo" ref="https://www.treccani.it/enciclopedia/simone-da-genova_%28Dizionario-Biografico%29/"> Cordo, Simone</persName>
+          <persName type="alt">Simon a Cordo</persName>
         <persName type="alt">Simone da Genova</persName>
       </person>
       <person> 
@@ -161,7 +155,7 @@
         <persName xml:id="Durante" ref="https://www.treccani.it/enciclopedia/castore-durante_(Dizionario-Biografico)">Durante, Castore</persName>
       </person>
       <person>
-        <persName xml:id="Porta" ref="http://thesaurus.cerl.org/record/cnp01881034">Della Porta, Giambattista</persName>
+        <persName xml:id="DellaPorta" ref="http://thesaurus.cerl.org/record/cnp01881034">Della Porta, Giambattista</persName>
       </person>
       <person>
         <persName xml:id="Barca" ref="https://isni.org/isni/0000000118158998">Barca Centenera, Martín del</persName>
@@ -173,7 +167,19 @@
         <persName xml:id="Falloppia" ref="https://www.treccani.it/enciclopedia/gabriele-falloppia_(Dizionario-Biografico)">Falloppia, Gabriele</persName>
       </person>
       <person>
-        <persName xml:id="Barbarigo" ref="https://www.treccani.it/enciclopedia/antonio-barbarigo_%28Dizionario-Biografico%29/">Da Mula, Marcantonio</persName>
+        <persName xml:id="Barbarigo" ref="https://www.treccani.it/enciclopedia/antonio-barbarigo_%28Dizionario-Biografico%29/">Barbarigo, Antonio</persName>
+      </person>
+      <person>
+        <persName xml:id="Pasqualigo" ref="http://viaf.org/viaf/289809522">Pasqualigo, Filippo</persName>
+      </person>
+      <person>
+        <persName xml:id="Alpago">Alpago, Agostino</persName><note>Physician in Treviso, see Luigi Alpago Novello, 'Agostino Alpago botanico bellunese del cinquecento', <title>Archivio storico di Belluno, Feltre e Cadore</title>, a. XI, 1937, pp. 841-849</note>
+      </person>
+      <person>
+        <persName xml:id="Tolomei">Tolomei, Antonio</persName> <note>Semplicista francese (Tholomé, Antoine?) che inviava piante a Michiel, attivo fra Lione e la Corsica</note>
+      </person>
+      <person>
+        <persName xml:id="Cantacuzeno">Cantacuzeno, Antonio</persName>
       </person>
       
     </listPerson>
@@ -233,8 +239,7 @@
         <placeName type="alt">Marca</placeName>
       </place>
       <place>
-        <placeName ref="https://www.geonames.org/3182982/appennines.html" xml:id="appennini"
-          >Appennini</placeName>
+        <placeName ref="https://www.geonames.org/3182982/appennines.html" xml:id="appennini">Appennini</placeName>
         
       </place>
       <place>
@@ -486,11 +491,11 @@
         <p>Considerando io, Piero Antonio Michiel fu de Messer Marco, che l'ordine in tutte le ationi
           sonno apreciabile, però al meglio io ho saputo, ho partito le varietà delle piante in
           diversi libri aciò siano manco confusi et reduti in manco volume essendo partiti in quatro
-          distinte opere, zioè questa di Albori, frutici et invogli (<ptr target="#prN1"/>), la seconda di Herbe
+          distinte opere, zioè questa di Albori, frutici et invogli (<ptr target="#A-000-N1"/>), la seconda di Herbe
           aculeate et di radici bulbose et rotonde, il terzio di Piante legnose et di piante con
           radice capillare et sottille, il quarto di Herbe con radice carnose et grosse; dunde
-          l'huomo saperà (<ptr target="#prN2"/>) più al facile ritrovare quello che desidera governandosi da questo
-          ordine saperà in qual libro son la pianta che ricerca. Et ogni libro harà (<ptr target="#prN3"/>) il suo
+          l'huomo saperà (<ptr target="#A-000-N2"/>) più al facile ritrovare quello che desidera governandosi da questo
+          ordine saperà in qual libro son la pianta che ricerca. Et ogni libro harà (<ptr target="#A-000-N3"/>) il suo
           indice et alfabeto con tutte le varietà de sinonomi ho possuto intravenire, acioché tanto
           il latin quanto il volgare et tanto il greco quanto l'aleman et altre nationi anche possi
           ogni uno per il suo nome intravenire in quello che desidera, et pigliarne quella utilità
@@ -524,10 +529,10 @@
             che la morte quasi improvvisa ne lo impedì.</p>
         </div>
         <div type="notes">
-          <note xml:id="prN1" n="1"> Invogli, cioè piante volubili, quindi il primo libro comprende le piante
+          <note xml:id="A-000-N1" n="1"> Invogli, cioè piante volubili, quindi il primo libro comprende le piante
             legnose e le rampicanti.</note>
-          <note xml:id="prN2" n="2"> Saprà.</note>
-          <note xml:id="prN3" n="3"> Avrà.</note>
+          <note xml:id="A-000-N2" n="2"> Saprà.</note>
+          <note xml:id="A-000-N3" n="3"> Avrà.</note>
         </div>
       </div>
     </front>
@@ -848,7 +853,7 @@
         <div type="name">
           <head>NOMI</head>
           <p> Vite biacha <ptr target="#A-007-N1"/> da volgari - Clematite dal ecc. M. <persName ref="#Anguillara">Alovise Anguilara</persName> - Clematitis aspera
-            dal ecc. M. <persName ref="#Ghini">Luca Ghini</persName> - Flamula Jovis da volgari - Ciclamino Secondo da il <persName ref="#Gualtiero">Gualtieri</persName> -
+            dal ecc. M. <persName ref="#Ghini">Luca Ghini</persName> - Flamula Jovis da volgari - Ciclamino Secondo da il <persName ref="#Ryff">Gualtieri</persName> -
             Epigetin da alcuni Phylacrion da Egyptij - Ambuxum da Romani.</p>
         </div>
         <div type="genus">
@@ -865,7 +870,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> Parmi vengha assa bene con il Ciclamino Secondo et non son oppinion de il <persName ref="#Gualtiero">Gualtieri</persName>
+          <p> Parmi vengha assa bene con il Ciclamino Secondo et non son oppinion de il <persName ref="#Ryff">Gualtieri</persName>
             perché dimostra sia altra pianta. Et M. <persName ref="#Anguillara">Aloise Anguilara</persName> [a] k. 301 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> vole sia
             la Clematite et l'ecc. M. <persName ref="#Ghini">Luca Ghini</persName> tiene sia la <hi>Clematitis aspera</hi>. Et de molti
             inganatosi pensorno che fusse quella spezie commune de volubili produce la campanella
@@ -926,7 +931,7 @@
             nell'altro una figura di donna incappucciata, forse la maga che l'autore avrebbe condannato ad esser conservata in alcool per subir la pena del taglione. La seconda pianta
             fu contemporaneamente figurata dal <persName ref="#Mattioli">Mattioli</persName> sotto il nome di <hi>cedro fenicio</hi>. Sia dalla
             presente figura, sia da quanto dice espressamente nel testo l'<persName ref="#Anguillara">Anguillara</persName>, risulta che la
-            pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName>Pasqualigo</persName> è la
+            pianta da questi chiamata <hi>Thuia</hi> o <hi>Thia</hi> e da lui veduta nel giardino del <persName ref="#Pasqualigo">Pasqualigo</persName> è la
             sabina, quindi a torto il De Visiani <ref type="bibl" target="http://id.sbn.it/bid/PUV0871304">[315]</ref> disse che l'Anguillara vide in quel giardino
             la vera <hi>Thuia</hi>.</p>
         </div>
@@ -1043,7 +1048,7 @@
             (Ed.)</note>
           <note xml:id="A-009-N4" n="4">* La correzione fu fatta dal <persName ref="#Mattioli">Mattioli</persName>, come dice egli stesso <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">(ed. Valgrisi,
             1568, pag. 141)</ref>, valendosi di «uno essemplare d'un Dioscoride antico hauto in
-            <placeName ref="#istanbul">Costantinopoli</placeName> dal Sig. <persName>Antonio Cantacuzeno</persName>, gentilhomo di quella città, con il cui
+            <placeName ref="#istanbul">Costantinopoli</placeName> dal Sig. <persName ref="#Cantacuzeno">Antonio Cantacuzeno</persName>, gentilhomo di quella città, con il cui
             testimonio sono io restato chiaro, che i Dioscoridi greci che vanno communemente attorno
             nelle librarie, sono tutti scorretti, ecc. (Ed.) </note>
         </div>
@@ -1154,7 +1159,7 @@
             <hi>Al-henne</hi>, <hi>Al-hanna</hi> donde venne il nostro <hi>alcanna</hi>. Contuttociò non solo <persName ref="#Barbaro">Ermolao Barbaro</persName>
             ma altri contemporanei come <persName ref="#Mattioli">Mattioli</persName>, <persName ref="#Durante">Durante</persName> e lo stesso P.A. Michiel confondevano le
             due specie che pure un secolo prima erano state ben distinte dal <persName ref="#Rinio">Rinio</persName> (c. 389, 390) e
-            che poi furono riconosciute diverse da due esploratori, il <persName ref="#Belonio">Belonio</persName> ed il <persName ref="#Dasilico">Dasilico</persName>. Il
+            che poi furono riconosciute diverse da due esploratori, il <persName ref="#Belonio">Belonio</persName> ed il <persName ref="#Rauwolf">Dasilico</persName>. Il
             nome Conastrel o Conostrel è tuttora usato nel Veneto per indicare la presente specie ed
             anche un'altra che per aspetto e stazione le somiglia, il sanguine (<hi>Cornus
               sanguinea</hi>).</p>
@@ -1184,7 +1189,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName>Agustin Alpago</persName>
+          <p> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName ref="#Alpago">Agustin Alpago</persName>
             et a molti non sonno de oppinion.</p>
         </div>
         <div type="disagreements">
@@ -1280,7 +1285,7 @@
         </div>
         <div type="editorial-D">
           <p>Pianta fiorita e fruttifera, figura abbastanza buona. Qui si fa strada la teoria delle
-            signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="#Porta">G.B. Porta</persName> ove accanto
+            signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="#DellaPorta">G.B. Porta</persName> ove accanto
             alle figure espresse dalle piante ci sono quelle degli organi umani contro le cui
             malattie doveva semplice usarsi. Riguardo alla presente specie troviamo la medesima
             credenza nel <persName ref="#Mattioli">Mattioli</persName>.</p>
@@ -1532,7 +1537,7 @@
           <p>Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
             trovasi in altri convolvoli.</p>
           <p>Il Michiel ottenne la pianta di semi che accidentalmente si trovavano racchiusi nel
-            succo concreto di scammonea spedito da <placeName ref="#aleppo">Aleppo</placeName> da <persName ref="#Cechin">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
+            succo concreto di scammonea spedito da <placeName ref="#aleppo">Aleppo</placeName> da <persName ref="#Martinelli">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
         </div>
         <div type="notes">
           <note xml:id="A-023-N1" n="1"> Avvolgono.</note>
@@ -1540,7 +1545,7 @@
           <note xml:id="A-023-N3" n="3"> Eletta,</note>
           <note xml:id="A-023-N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="#Anguillara">Anguillara</persName> ne fece nascere una
             pianta da semi avuti di <placeName ref="#siria">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="#Priuli">Lorenzo Priuli</persName>
-            a <placeName ref="#padova">Padova</placeName> e <persName>Giulio Moderato</persName> a <placeName ref="#rimini">Rimini</placeName>. </note>
+            a <placeName ref="#padova">Padova</placeName> e <persName ref="#Moderato">Giulio Moderato</persName> a <placeName ref="#rimini">Rimini</placeName>. </note>
         </div>
       </div>
 
@@ -2282,7 +2287,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> In (sic) l'hebbi di Francia dal <persName>Tholomei giovane simplicista</persName> degnissimo.</p>
+          <p> In (sic) l'hebbi di Francia dal <persName ref="#Tolomei">Tholomei giovane simplicista</persName> degnissimo.</p>
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
@@ -3035,12 +3040,12 @@
         </div>
         <div type="editorial-D">
           <p>Pianta sterile a foglie lanceolate; a parte i foglia (lembo cm 8X1, picciolo cm
-            1). Sprengel dalla fig. N. 112, del Zarnab di <persName ref="#Dasilico">Dasilico</persName> deduce che possa essere Salix
+            1). Sprengel dalla fig. N. 112, del Zarnab di <persName ref="#Rauwolf">Dasilico</persName> deduce che possa essere Salix
             aegyptiaca. <ptr target="#A-061-N1"/></p>
         </div>
         <div type="notes">
           <note xml:id="A-061-N1" n="1"> * Infatti lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref>, p. 66,
-            riporta, secondo <persName ref="#Dasilico">Rauwolf</persName>, «zarnab» a <hi>Safsaf Syrorum</hi> (<hi>Salix Safsal</hi> Forsk).
+            riporta, secondo <persName ref="#Rauwolf">Rauwolf</persName>, «zarnab» a <hi>Safsaf Syrorum</hi> (<hi>Salix Safsal</hi> Forsk).
             (Ed.)</note>
         </div>
       </div>
@@ -4332,7 +4337,7 @@
             seconda di Cappedocia. L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 36 narra de uno altro Aspalato rodioto el qual
             tiene che il legno aloe rodio sia il vero aspalato. Et di questa non ne fa mentione
             alcuna, ma molti savij la tengono questa pianta piu presto per Acatia seconda che per
-            Aspalato. mes. <persName ref="#Cechin">Cechin dal Angelo</persName> spetial singularissimo mi ha dimostro uno legno odorato
+            Aspalato. mes. <persName ref="#Martinelli">Cechin dal Angelo</persName> spetial singularissimo mi ha dimostro uno legno odorato
             molto corrispondente per l'Aspalato. Vero è, che non havendo veduto de lui altro ch'il
             legnio el qual potrebonsi de legiero dargli l'odore io non scio afirmare.</p>
         </div>
@@ -6904,7 +6909,7 @@
         <ab>[<hi>Ipomoea purpurea Lam.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001296676"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30043043-2"/></ab>
         <div type="name">
           <head>NOMI</head>
-          <p> Nil spetie da messer <persName ref="#Cechin">Cechin</persName>, legi <ref type="internal" target="#A-142">k. 142</ref>.</p>
+          <p> Nil spetie da messer <persName ref="#Martinelli">Cechin</persName>, legi <ref type="internal" target="#A-142">k. 142</ref>.</p>
         </div>
         <div type="genus">
           <head>GENERA</head>
@@ -6945,7 +6950,7 @@
         <head>N. 142 Nil Sp.</head>
         <div type="name">
           <head>NOMI</head>
-          <p> Nil da <persName ref="#Cechin">m. Cechin dal Angelo</persName> - Endego del Nil - Son il glasto sativo così tenuto da
+          <p> Nil da <persName ref="#Martinelli">m. Cechin dal Angelo</persName> - Endego del Nil - Son il glasto sativo così tenuto da
             molti.</p>
         </div>
         <div type="genus">
@@ -7339,7 +7344,7 @@
         </div>
         <div type="opinions">
           <head>OPPINIONI</head>
-          <p><persName ref="#Cechin">M. Cechino dal Angelo</persName> virtuosissimo et inteligente mi diede questa mostra et dissemi
+          <p><persName ref="#Martinelli">M. Cechino dal Angelo</persName> virtuosissimo et inteligente mi diede questa mostra et dissemi
             come per raporti si tiene che questa sia il Tembul et che la chiamano con questo nome.
             Et apresso ha la fede dal ecc. M. huomo singularissimo Michiele di Muti et veridico.
             Conferma a questo l'ecc. <persName ref="#Anguillara">Anguillara</persName> ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> k. 30.</p>

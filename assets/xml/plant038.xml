@@ -4,47 +4,47 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 38 Pezzo</head>
-        <ab part="N">[<hi>Picea excelsa Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000482527"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77172071-1"/> </ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Picea excelsa Lk.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000482527"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77172071-1"/> </ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Pezzo da volgari.</p>
+          <p> Pezzo da volgari.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Il pezzo et il pino sonno una medema spezie. Et le spezie che fanno raggia sonno 8
+          <p> Il pezzo et il pino sonno una medema spezie. Et le spezie che fanno raggia sonno 8
             come narra Theophrasto [N. 9].</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti fredi de Italia ne sonno in quantità dunde si fanno tanti legniami et
+          <p> Ne monti fredi de Italia ne sonno in quantità dunde si fanno tanti legniami et
             tavole.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> È da credere che tutte queste spezie ci nascano de suoi cascati fruti.</p>
+          <p> È da credere che tutte queste spezie ci nascano de suoi cascati fruti.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 42 di 8 spezie di Alberi resiniferi raggiona.</p>
+          <p> L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 42 di 8 spezie di Alberi resiniferi raggiona.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">L'albero fruttifero sorge in mezzo ad una prateria con figure umane, agarici e
+        <div type="editorial-D">
+          <p>L'albero fruttifero sorge in mezzo ad una prateria con figure umane, agarici e
             chiocciole. È mal disegnato, ma invece è buona una figura a parte di ramoscello con una
             bella pigna.</p>
-          <p part="N">Il <persName ref="rinio-benedetto">Rinio</persName> a c. 203 chiama questa specie abete, mentre pel Michiel l'abete è <hi>Abies alba</hi> a
+          <p>Il <persName ref="rinio-benedetto">Rinio</persName> a c. 203 chiama questa specie abete, mentre pel Michiel l'abete è <hi>Abies alba</hi> a
             <ref type="internal" target="#A-036">N. 36</ref>. Oggidì ambedue le specie chiamansi abeti e nel Veneto l'abete p.d. (albéo) è la
             specie presente, l'altra chiamansi <hi>avedin</hi>, nome notato dal Michiel a [<ref type="internal" target="#A-036">N. 36</ref>.</p>
         </div>

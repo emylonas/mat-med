@@ -4,56 +4,56 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 149 Frangola</head>
-        <ab part="N"> [<hi>Lonicera Xylosteum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149194-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab> [<hi>Lonicera Xylosteum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149194-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Frangola da Boemi.</p>
+          <p> Frangola da Boemi.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Sua radice in superficie, suoi tronchi frangibili dunde si ha preso il nome, et son
+          <p> Sua radice in superficie, suoi tronchi frangibili dunde si ha preso il nome, et son
             albero di mediocre statura. Suoe frondi maggiori che di Corniuolo, et il suo scorzio
             come di bianco pentecchiato, ma di dentro giallezzio, suoi fiori non li ho veduti, et
             poi suoe bache congiunte due a uno, con semi dentro maggiori et simili di
             lentecchie.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In Alemagnia et Boemia.</p>
+          <p> In Alemagnia et Boemia.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONE</head>
-          <p part="N"> Io non son fuori di oppinione che questo sia l'istesso demostro zioe (1) da driedo a
+          <p> Io non son fuori di oppinione che questo sia l'istesso demostro zioe (1) da driedo a
             k. 46, ma perché di quello non ho veduto li fruti et di questo li fiori pero non mi scio
             risolvere.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Adoperasi nelle sopra ditte parti a tutte le dotti et virtu come li ebuli et sambuchi
+          <p> Adoperasi nelle sopra ditte parti a tutte le dotti et virtu come li ebuli et sambuchi
             come ci narra il Mathiolo a k. 1334.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fruttifera. Benché non si tratti della medesima specie, il Michiel mostro un
+        <div type="editorial-D">
+          <p>Pianta fruttifera. Benché non si tratti della medesima specie, il Michiel mostro un
             certo acume, ravvicinando questa pianta a quella figurata al N. 46 che le è molto
             affine.</p>
-          <p part="N">Improprio è il nome frangola appartenente a Rhamnus Frangula, come è improprio quello
+          <p>Improprio è il nome frangola appartenente a Rhamnus Frangula, come è improprio quello
             di halimus sotto il quale, prima del Michiel, la specie fu descritta dal Trago.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-149-N1" n="1" anchored="true"> * Il testo dopo e demostro portava inanti»; l'autore ha corretto azioè da
+        <div type="notes">
+          <note xml:id="A-149-N1" n="1"> * Il testo dopo e demostro portava inanti»; l'autore ha corretto azioè da
             driedo, e poi ba cancellato «inanti. Quel siod dunque non ha senso nella forma attuale
             del testo. (Ed.) </note>
         </div>

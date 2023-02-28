@@ -4,52 +4,52 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 157 Hai</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <div type="name">
           <head>NOME</head>
-          <p part="N"> Hai albero da Indiani.</p>
+          <p> Hai albero da Indiani.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N">Suoe radice legnose, son albero di mediocre statura che portano foglie di mirto, et
+          <p>Suoe radice legnose, son albero di mediocre statura che portano foglie di mirto, et
             tenere come di Therebinto. </p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="107"/>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nelle Indie ci nasce dunde ne hebbi una mostra.</p>
+          <p> Nelle Indie ci nasce dunde ne hebbi una mostra.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Credo che sempre verdeggia.</p>
+          <p> Credo che sempre verdeggia.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Luogho calido et solsticio.</p>
+          <p> Luogho calido et solsticio.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> De suoe propagine overo de nuclei ma non li ho già veduti.</p>
+          <p> De suoe propagine overo de nuclei ma non li ho già veduti.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Il sugo o polvere de suoe foglie sonno mirabile a doglia de denti et a non lasciarli
+          <p> Il sugo o polvere de suoe foglie sonno mirabile a doglia de denti et a non lasciarli
             marcir, ma li fanno neri. Come si legge nel <ref type="bibl" target="http://id.sbn.it/bid/TO0E019412">libro secondo delle Indie k. 116</ref>.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta sterile.</p>
+        <div type="editorial-D">
+          <p>Pianta sterile.</p>
         </div>
       </body></text></TEI>

@@ -4,21 +4,21 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 28 Giande</head>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Tre buone figure rappresentanti ghiande di quercia prive di cupola. Manca il
+        <div type="editorial-D">
+          <p>Tre buone figure rappresentanti ghiande di quercia prive di cupola. Manca il
             testo.</p>
         </div>
       </body></text></TEI>

@@ -4,36 +4,36 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 47 Albero da l'Uva</head>
-        <ab part="N">[<hi>Prunus Padus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001008273"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:730076-1"/> </ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Prunus Padus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001008273"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:730076-1"/> </ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Albero dall'uva da volgari - Bedusa da molti studenti.</p>
+          <p> Albero dall'uva da volgari - Bedusa da molti studenti.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Hano qualche similitudine in sieme con l'Elo Capoli del India demostr[at]o inanti <ref type="internal" target="#A-016">k.
+          <p> Hano qualche similitudine in sieme con l'Elo Capoli del India demostr[at]o inanti <ref type="internal" target="#A-016">k.
             16</ref>.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In rari monti de Italia ne sonno et in giardini da simplicisti sonno custoditi. Et
+          <p> In rari monti de Italia ne sonno et in giardini da simplicisti sonno custoditi. Et
             io ne avevo nel mio et ne ho posto in Padova in quello del clar. cav. <persName ref="mocenigo-alvise-i">Mozenigo</persName>.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Intera pianta fiorita; a sinistra ramoscello con foglie e racemo pendente di fiori ed
+        <div type="editorial-D">
+          <p>Intera pianta fiorita; a sinistra ramoscello con foglie e racemo pendente di fiori ed
             a destra ramoscello con foglie e racemo di frutti. La pianta coltivata dal Michiel
             portava frutti rosso-verdastri, come si scorge nella figura e si apprende dalla
             diagnosi.</p>

@@ -4,40 +4,40 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 123 Genestela</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <div type="name">
           <head>NOMI</head>
-          <p part="N">Genestrella da Latini - Genistela da volgari — Stechende Ginst da Germani et Erdt
+          <p>Genestrella da Latini - Genistela da volgari — Stechende Ginst da Germani et Erdt
             Frymon, Caliin Streichblumen - Petit Genet da Galli.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Legasi da driedo al Sparto.</p>
+          <p> Legasi da driedo al Sparto.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne' monti de Italia non ce ne manca. Et in giardini per inspessir porte et far
+          <p> Ne' monti de Italia non ce ne manca. Et in giardini per inspessir porte et far
             fazzate.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Nel Autunno ci manca di fronde et a primavera le rimette. Il fiore de maggio et
+          <p> Nel Autunno ci manca di fronde et a primavera le rimette. Il fiore de maggio et
             giugno, poi suoi baccelli.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fiorita a foglie imparipennate (9 foglioline); a parte un ramoscello con tre
+        <div type="editorial-D">
+          <p>Pianta fiorita a foglie imparipennate (9 foglioline); a parte un ramoscello con tre
             fiori.</p>
         </div>
       </body></text></TEI>

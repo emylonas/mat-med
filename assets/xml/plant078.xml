@@ -4,31 +4,31 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 78 Garofali</head>
-        <ab part="N">[<hi>Eugenia caryophyllata Thunbg.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000956730"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601421-1"/> </ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Eugenia caryophyllata Thunbg.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000956730"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601421-1"/> </ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Garofali orientali volgarmente - Harmufel da Arabi.</p>
+          <p> Garofali orientali volgarmente - Harmufel da Arabi.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Varie piante con questo nome da volgari si dimostrano.</p>
+          <p> Varie piante con questo nome da volgari si dimostrano.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Son albero grande et grosso di profunda radice. Suoi tronchi giallezi et duri simil
+          <p> Son albero grande et grosso di profunda radice. Suoi tronchi giallezi et duri simil
             al bosso, suoa foglia di Lauro durete et piu larghete con il sapore simil agli fruti
             massime secha come la gustai, produce li garrofali in grappoli come Hedera over
             corimbi in principio verdi, poi bianchi, et maturati rossi, ma sechi neri come sono
@@ -36,51 +36,51 @@
             l'India k. 145 [* 77]. Altri dicono far prima uno botone che da quello vien il fiore
             simil all'melarancio. Et poi il fruto che si colgono doi volte al'aanno.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nasce nella Orientale India in honesta quantità, ne colli, piani, et valle non fanno
+          <p> Nasce nella Orientale India in honesta quantità, ne colli, piani, et valle non fanno
             fruto, ma quelli sonno in alte ripe si, come nelle Maluche <ptr target="#A-078-N1"/> che vengono in spessi
             boschi, in cinque di quelle Isole sopra le montagne.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Per ogni staggion verdeggia. Suoi fruti nel mezzo dell'Esta. per raporto di cui mi
+          <p> Per ogni staggion verdeggia. Suoi fruti nel mezzo dell'Esta. per raporto di cui mi
             diede uno ramo et si racolgono due volte al'anno.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Luogho calido, solsticio, et monte. Et li Indiani li conservano nelle fosse.</p>
+          <p> Luogho calido, solsticio, et monte. Et li Indiani li conservano nelle fosse.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> Dicono nascere de suoi semi et di virgusti ancora.</p>
+          <p> Dicono nascere de suoi semi et di virgusti ancora.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Gli antiqui li usorno solamente per odorare et hora in coppia ne condimenti honorati.
+          <p>Gli antiqui li usorno solamente per odorare et hora in coppia ne condimenti honorati.
             Sonno odorifferi, acuti, amareti, calidi et secchi nel terzio <ptr target="#A-078-N2"/>, Et conferisce al
             stomaco come narra Serrapione al fegato, fanno digerire, ristagniano il ventre et
             allegrano il cuore. Et leggesi in Plinio lib. 12.7 Serap. cap. 319, <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Thomaso Porcacchi</ref> 
             alla descretione delle Isole Molucche a k. 99</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">In una prateria di collina sorge l'albero con due liocorni ai lati; a parte una foglia
+        <div type="editorial-D">
+          <p>In una prateria di collina sorge l'albero con due liocorni ai lati; a parte una foglia
             in grandezza naturale.</p>
-          <p part="N">Dal testo ben si comprende che l'autore non vide l'intera pianta né tentò coltivarla,
+          <p>Dal testo ben si comprende che l'autore non vide l'intera pianta né tentò coltivarla,
             ma fece la figura dietro visione di un ramo che gli fu portato dall'Oriente. E difatti
             egli, ritenendo che i chiodi del garofano fossero i frutti, fece dipingere un albero <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="56"/> portante dei piccoli
             fori fittizi di colori vari dal verde al rosso e portante pure i chiodi di color bruno
             nelle parti superiori dei rami, accompagnati alla base da un calice persistente
             immaginario.</p>
-          <p part="N">I due liocomi hanno la solita figura di cavallo con un dente di narvalo, lungo quanto
+          <p>I due liocomi hanno la solita figura di cavallo con un dente di narvalo, lungo quanto
             il corpo dell'animale, piantato in mezzo alla fronte a guisa di corno. Furono qui
             disegnati forse per alludere agli usi che facevansi della pianta come antidoto, perche
             a quei tempi il dente del narvalo si usava in medicina a scopo simile.</p>
-          <p part="N">Le cinque isole citate dal Porcacchi sono Tarenate (Ternate), Tidore, Mutir (Motir),
+          <p>Le cinque isole citate dal Porcacchi sono Tarenate (Ternate), Tidore, Mutir (Motir),
             Macchian (Makian) e Bacchian (Bacian) che trovansi a W. di Halmahera o Gilolo.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-078-N1" n="1" anchored="true"> Molucche.</note>
-          <note xml:id="A-078-N2" n="2" anchored="true"> Grado,</note>
+        <div type="notes">
+          <note xml:id="A-078-N1" n="1"> Molucche.</note>
+          <note xml:id="A-078-N2" n="2"> Grado,</note>
         </div>
       </body></text></TEI>

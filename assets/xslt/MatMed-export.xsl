@@ -30,10 +30,11 @@
                 <xsl:text>---
 title: "</xsl:text><xsl:value-of select="t:head"/><xsl:text>"
 plant-name: "</xsl:text><xsl:value-of select="t:head"/><xsl:text>"
-plant-number: "0"
+plant-number: "000"
 plant-xml: "/assets/xml/plant000.xml"
 plant-title: "</xsl:text><xsl:value-of select="t:head"/><xsl:text>"
-layout: single-xml
+plant-img2: "/assets/img/preface000.jpg"
+layout: single-xml-000
 ---</xsl:text>
             </xsl:result-document>-->
         
@@ -94,7 +95,10 @@ layout: single-xml
 title: "Index of People"
 permalink: "/index-people/"
 layout: single
----</xsl:text>
+---
+ 
+This list provides access to people who are mentioned in the Michiele text and the notes on each plant. Please note that the indices have not yet been completely finalized or standardized. Also, the encoding of personal names in the text is not yet complete.          
+            </xsl:text>
             
            <xsl:for-each-group select="descendant::t:persName" group-by="@ref">
                <xsl:sort select="lower-case(current-grouping-key())"/>
@@ -104,7 +108,9 @@ layout: single
 <xsl:for-each select="id(substring-after(current-grouping-key(),'#'))">
     <xsl:if test="following-sibling::t:persName[@type='alt']">Alternate Names: <xsl:for-each select="following-sibling::t:persName"><xsl:value-of select="." /><xsl:if test="not(position() = last())"><xsl:text>; </xsl:text></xsl:if></xsl:for-each></xsl:if>
 
-<xsl:if test="following-sibling::t:note"><xsl:value-of select="following-sibling::t:note"/></xsl:if>
+<xsl:if test="following-sibling::t:note"><xsl:text>
+    
+</xsl:text><xsl:value-of select="following-sibling::t:note"/></xsl:if>
 </xsl:for-each>
                
                <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
@@ -125,7 +131,11 @@ layout: single
 title: "Index of Places"
 permalink: "/index-places/"
 layout: single
----</xsl:text>
+
+---
+                
+                
+This list provides access to places mentioned in the Michiele text and the notes on each plant. Please note that the indices have not yet been completely finalized or standardized. Also, the encoding of place names in the text is not yet complete. </xsl:text>
                 
                 <xsl:for-each-group select="descendant::t:placeName" group-by="@ref">
                     <xsl:sort select="current-grouping-key()"/>

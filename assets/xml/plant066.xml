@@ -4,52 +4,52 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 66 Sambuco Sp.e</head>
-        <ab part="N">[<hi>Sambucus racemosa L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30056767-2"/> </ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Sambucus racemosa L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30056767-2"/> </ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Sambucus silvestris Trago - Acten, Dendronarctu, hoc est Arborem ursi, da altri –
+          <p> Sambucus silvestris Trago - Acten, Dendronarctu, hoc est Arborem ursi, da altri –
             Scobiem da Galli Seba da Daci - Grosser Malbaum da Germani- Frassini species da
             alcuni.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Due spezie sonno poste da Diascoride, et per esser volgare io non le dimostro, una
+          <p> Due spezie sonno poste da Diascoride, et per esser volgare io non le dimostro, una
             son in albero et son proprio sambuco <ptr target="#A-066-N2"/>, l'altra spezie chiamato Chameacte et Ebulo
             <ptr target="#A-066-N3"/>, qual viene in frutice. Et questo che non son in altro differente se non nel fiore
             et fruto et son tenuto per il silvestre.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In <placeName ref="germania">Germania</placeName> et in <placeName ref="monte-baldo">Monte Baldo sul Veronese</placeName>.</p>
+          <p> In <placeName ref="germania">Germania</placeName> et in <placeName ref="monte-baldo">Monte Baldo sul Veronese</placeName>.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Columella ci narra questi versi: Atque habilis naturi soli et Gramina letto. Parturit
+          <p> Columella ci narra questi versi: Atque habilis naturi soli et Gramina letto. Parturit
             et ruptilas. Ebuli creat uvida baccas. Sanguinis Ebuli minioque rubentem. Et nella
             Bucolica Egloga ultima <ptr target="#A-066-N4"/>. Et il <ref type="bibl" target="http://id.sbn.it/bid/BVEE020824">Ruelio de Natura Stirpium libro primo cap. primo</ref>
             versus finem. </p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fiorita in mezzo ad un prato. Sul fusto si arrampica un gatto, mentre un altro
+        <div type="editorial-D">
+          <p>Pianta fiorita in mezzo ad un prato. Sul fusto si arrampica un gatto, mentre un altro
             è a terra con un topo in bocca. A parte due rami, uno fiorito, l'altro fruttifero.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-066-N1" n="1" anchored="true"> S. nigra.</note>
-          <note xml:id="A-066-N2" n="2" anchored="true"> S. Ebulus.</note>
-          <note xml:id="A-066-N3" n="3" anchored="true"> * I versi cui si allude sono: Atque habilis natura soli et gramina lacta
+        <div type="notes">
+          <note xml:id="A-066-N1" n="1"> S. nigra.</note>
+          <note xml:id="A-066-N2" n="2"> S. Ebulus.</note>
+          <note xml:id="A-066-N3" n="3"> * I versi cui si allude sono: Atque habilis natura soli et gramina lacta
             Parturit et rutilas ebuli creat uvido baccas <hi>Colum. X, 9-10</hi> Sanguineis ebuli baccis
             minioque rubentem <hi>Verg. Buc. X. 37</hi> (Ed.)</note>
         </div>

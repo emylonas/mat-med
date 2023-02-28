@@ -4,59 +4,59 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 107 Cumara</head>
-        <ab part="N">[<hi>Arbutus Unedo L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000543204"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326526-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Arbutus Unedo L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000543204"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326526-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Cumara nel Vesentin - Arbuto, Albatro, Corbezolo et Arbor fragaria da Latini - Comaron et
+          <p> Cumara nel Vesentin - Arbuto, Albatro, Corbezolo et Arbor fragaria da Latini - Comaron et
             Memechile hoc est Unedonem da Greci - Laureolo, Legno Giudeo et Imbriacola nella Toscana - 
             Cerasa marina in Romagnia - Catilabinch, Hautanchi da Arabi - Strangulator patris sui, Fidus
             lupi, Suborbito da Latini.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Due sonno le spetie di Arbuto, una fertile et l'altra sterile. Et ne sonno poi in
+          <p> Due sonno le spetie di Arbuto, una fertile et l'altra sterile. Et ne sonno poi in
             herba che fanno le fraghe piui gentile che si mangiano con foglie di Trifolio, come
             narra le Pandette <ptr target="#A-107-N1"/>.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti de Italia, in Istria, in Arabia venghono molto grande come ci narra Juba de
+          <p> Ne monti de Italia, in Istria, in Arabia venghono molto grande come ci narra Juba de
             altezza de 50 gommiti.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
+          <p>L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 77 dice che è l'Arbuto di Theophrasto questo et la portulaca
             vel andrachne sia l'Arbuto di Diascoride.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Vengono li montagnieri fino a Venetia a vendere de mazzi de suoi vaghi fruti ma
+          <p>Vengono li montagnieri fino a Venetia a vendere de mazzi de suoi vaghi fruti ma
             pungenti et nuocono al stomaco. Et li tordi et merli nel verno di essi si notriscono et
             sonno tenuto esser utile alla peste et anche con questi si ristagniano li flussi et
             corsi di sangue.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fiorita e fruttifera con figure di farfalle volanti e di un lupo ai piedi dell'arboscello, allusivo al nome «ficus lupi» A parte due coppie di frutti accompagnati
+        <div type="editorial-D">
+          <p>Pianta fiorita e fruttifera con figure di farfalle volanti e di un lupo ai piedi dell'arboscello, allusivo al nome «ficus lupi» A parte due coppie di frutti accompagnati
             da foglia. Il disegno delle foglie non compete certo con quello che troviamo nel <persName ref="rinio-benedetto">Rinio</persName> a
             c. 330, ma la figura del Michiel è più completa ed esatta, comprendendo fiori e frutti a
             tutti i gradi di maturità ed aggregati come lo sono in natura.</p>
-          <p part="N">Il nome qui citato del dialetto vicentino è corruzione del <foreign xml:lang="grc">κόμαρος</foreign> di Teofrasto.</p>
+          <p>Il nome qui citato del dialetto vicentino è corruzione del <foreign xml:lang="grc">κόμαρος</foreign> di Teofrasto.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-107-N1" n="1" anchored="true"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
+        <div type="notes">
+          <note xml:id="A-107-N1" n="1"> Il Michiel avvicina, per la grossolana somiglianza del frutto, le fragole
             agli arbuti, citando le Pandette, ma in quest'opera esse sono collocate separate sub
             Fragaria.</note>
         </div>

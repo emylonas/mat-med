@@ -4,60 +4,60 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 101 Barba Iovis</head>
-        <ab part="N">[<hi>Anthyllis Barba-Jovis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:474645-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Anthyllis Barba-Jovis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000212106"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:474645-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Barba Jovis in Italia - Impia Plinij da molti - Herba Herculis vel Honades, idest
+          <p> Barba Jovis in Italia - Impia Plinij da molti - Herba Herculis vel Honades, idest
             Sticados citrinum, ma non è pero il sticados <ptr target="#A-101-N1"/>.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Se Impia questa et nel primo Libro Rosso k. 102.</p>
+          <p> Se Impia questa et nel primo Libro Rosso k. 102.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> L'hebbi de <placeName ref="abruzzo">Abruzzio</placeName>, ne luoghi maritimi et asperi che ne mangiano le capre.</p>
+          <p> L'hebbi de <placeName ref="abruzzo">Abruzzio</placeName>, ne luoghi maritimi et asperi che ne mangiano le capre.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> A primavera si rivede et con il fredo si perde.</p>
+          <p> A primavera si rivede et con il fredo si perde.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Luogho solsticio et che sentano da salso come il corniculato Papavero (Ve. 57).</p>
+          <p> Luogho solsticio et che sentano da salso come il corniculato Papavero (Ve. 57).</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Alcuni volevano la fusse l'Impia di Plinio, altri la Barba Giovis. Et l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alnguillara</ref> k.
+          <p> Alcuni volevano la fusse l'Impia di Plinio, altri la Barba Giovis. Et l'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alnguillara</ref> k.
             86 dice esserne due sorte, la prima si ritrova in Toscana nel Monte nero <ptr target="#A-101-N2"/> et son
             questa, l'altra nelle montagnie della Magiella et son specie di Citiso flessibile con
             foglie d'argento.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Dice Plinio che suoi rami deti figliuoli sorgono sopra la madre zioe <ptr target="#A-101-N3"/> rami grossi
+          <p>Dice Plinio che suoi rami deti figliuoli sorgono sopra la madre zioe <ptr target="#A-101-N3"/> rami grossi
             dunde di quivi son domandata Impia. Et altri dicono per che son lasciata da animali et
             pesta tra doi sassi bolle ma no ho ritrovato la esperienza esser vera in questa. Il
             suo succhio mescolato con late et vino de la impia son contra l'angine.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fiorita. Nella diagnosi l'autore dice: «picciol frondi nel ordine del gensa-
+        <div type="editorial-D">
+          <p>Pianta fiorita. Nella diagnosi l'autore dice: «picciol frondi nel ordine del gensa-
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="73"/> min et ogni
             ramuscolo par una sol fronda», sospettando così trattarsi di una foglia composta.</p>
-          <p part="N">Dopo il Michiel e l'Anguillara parlò di questa specie Gaspare Bauhin che la trovo
+          <p>Dopo il Michiel e l'Anguillara parlò di questa specie Gaspare Bauhin che la trovo
             coltivata nel giardino di <persName ref="bembo-torquato">mons. Torquato Bembo in Padova</persName>, ma non ne diede figura. Più
             tardi lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> [63] se ne procurò un campione sterile da Montenero dietro l'indicazione di Anguillara e ne diede figura (pag. 611) in sostituzione di altra falsa che
             avea dato (pag. 83), perd non ne fu ancora soddisfatto <ptr target="#A-101-N4"/>, Perciò non conoscendosi che
@@ -65,12 +65,12 @@
             sulla identificazione della Barba Jovis prima di Anguillara [315] che ora la figura del
             Michiel permette di accertare.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-101-N1" n="1" anchored="true"> Helichrysum Stoechas, lib. Ro. I, 324, e Ve. 90. H. Slouchas è il Barba Tovis
+        <div type="notes">
+          <note xml:id="A-101-N1" n="1"> Helichrysum Stoechas, lib. Ro. I, 324, e Ve. 90. H. Slouchas è il Barba Tovis
             dei vecchi codici (61).</note>
-          <note xml:id="A-101-N2" n="2" anchored="true"> PT. Livorno.</note>
-          <note xml:id="A-101-N3" n="3" anchored="true"> Ciod.</note>
-          <note xml:id="A-101-N4" n="4" anchored="true"> * Non omni ex parte bona, siquidem desiderantur pores.</note>
-          <note xml:id="A-101-N5" n="5" anchored="true"> * Vaga quidem significationis est Barba Jovis. (Chabray., p. 82).</note>
+          <note xml:id="A-101-N2" n="2"> PT. Livorno.</note>
+          <note xml:id="A-101-N3" n="3"> Ciod.</note>
+          <note xml:id="A-101-N4" n="4"> * Non omni ex parte bona, siquidem desiderantur pores.</note>
+          <note xml:id="A-101-N5" n="5"> * Vaga quidem significationis est Barba Jovis. (Chabray., p. 82).</note>
         </div>
       </body></text></TEI>

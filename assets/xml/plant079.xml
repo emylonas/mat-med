@@ -4,34 +4,34 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 79 Canela</head>
-        <ab part="N">[<hi>*Cinnamomum zeylanicum Nees</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000605543"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463752-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>*Cinnamomum zeylanicum Nees</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000605543"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463752-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Canella da volgari - Cinamomo da molti avegna che altro ci sia il Cinamomo - Cassia
+          <p> Canella da volgari - Cinamomo da molti avegna che altro ci sia il Cinamomo - Cassia
             fistula con doi ss da Diascoride <ptr target="#A-079-N1"/> - Chiarzamber da Arabi et Darsen da Arabi - Arbor Sceni
             da Persiani - Melochaa pur da Arabi.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Ne sonno de varie sorte come narra Diascoride, Et la migliore son quella nominata da
+          <p> Ne sonno de varie sorte come narra Diascoride, Et la migliore son quella nominata da
             Galeno zigi. Et sonno tutte sarmentose con grossa cortezzia et foglie di pepe.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoe radice lunghe et sotille son albero di honesta grandezza et si rasembra al pomo
+          <p> Suoe radice lunghe et sotille son albero di honesta grandezza et si rasembra al pomo
             in granato <ptr target="#A-079-N2"/>, suoi trunchi et rami non molto grossi et scorziuti che si fendino
             formando la Canela, sua foglia di Lauro con uno spigolo nel mezzo, grossete et ferme,
             liscie' et palide, al gusto aromatiche con pocha amaritudine, et fa certe capellete
@@ -39,44 +39,44 @@
             sapor di Canela, ma le capelete sonno Migliori et mi maraviglio che non si portano a
             noi.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Nasce nell'India come apare nel secondo <ptr target="#A-079-N3"/> <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">[libro] del India k. 145 et 205</ref> ma in pochi
+          <p> Nasce nell'India come apare nel secondo <ptr target="#A-079-N3"/> <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533">[libro] del India k. 145 et 205</ref> ma in pochi
             luoghi. In Matil <ptr target="#A-079-N4"/> isola, nelle Maluche <ptr target="#A-079-N5"/> ne sonno assai. In Cumaro et nel suo
             contorno che cade soto l'Equinotiale sonnovi le selve di questi Alberi et anche ne
             mantengano assai nelle loro possessioni. El Diascoride dice nascere in Arabia.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> In ogni staggion non perde foglia dissemi quello mi diede uno ramo,</p>
+          <p> In ogni staggion non perde foglia dissemi quello mi diede uno ramo,</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> De suoi virgulti et germini mi disse lui, ma non mi seppe dire de suoi fiori et fruti
+          <p> De suoi virgulti et germini mi disse lui, ma non mi seppe dire de suoi fiori et fruti
             per non esser stato in quel tempo li producono.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">Il Mattiolo tiene, et altri simplicisti degni, che la Cassia con doi ss de Greci sia la
+          <p>Il Mattiolo tiene, et altri simplicisti degni, che la Cassia con doi ss de Greci sia la
             volgar canela. Et Galeno dice che la canella si <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="57"/> transforma in Cinamomo. Et la Cassia fistula non è la
             Casia solutiva, ma questa non sera <ptr target="#A-079-N6"/> già quella descrive Diascoride sarmentosa con
             foglie di pepe, ma pero questa depinta al gusto di la foglia non puol negar che non sia
             sperie di Canela.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">La differenza fra le varie piante chiamate cassia e casia è meglio spiegata al N.
+        <div type="editorial-D">
+          <p>La differenza fra le varie piante chiamate cassia e casia è meglio spiegata al N.
             102.</p>
-          <p part="N">La figura del presente foglio rappresenta un albero fruttifero situato alla base di una
+          <p>La figura del presente foglio rappresenta un albero fruttifero situato alla base di una
             collina; a lato è dipinta una foglia. Il disegno, fatto come il precedente, colla guida
             di un ramo, ha pure la sua parte di fittizio.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-079-N1" n="1" anchored="true">
+        <div type="notes">
+          <note xml:id="A-079-N1" n="1">
             <foreign xml:id="grc">Kασσία</foreign>.</note>
-          <note xml:id="A-079-N2" n="2" anchored="true"> Punica Granatum.</note>
-          <note xml:id="A-079-N3" n="3" anchored="true"> Libro.</note>
-          <note xml:id="A-079-N4" n="4" anchored="true"> Motir.</note>
-          <note xml:id="A-079-N5" n="5" anchored="true"> Molucche.</note>
-          <note xml:id="A-079-N6" n="6" anchored="true"> Sara.</note>
+          <note xml:id="A-079-N2" n="2"> Punica Granatum.</note>
+          <note xml:id="A-079-N3" n="3"> Libro.</note>
+          <note xml:id="A-079-N4" n="4"> Motir.</note>
+          <note xml:id="A-079-N5" n="5"> Molucche.</note>
+          <note xml:id="A-079-N6" n="6"> Sara.</note>
         </div>
       </body></text></TEI>

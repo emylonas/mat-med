@@ -4,39 +4,39 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 144 Aria</head>
-        <ab part="N">[<hi>Pirus Aria Ehrh.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016017"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:721579-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Pirus Aria Ehrh.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001016017"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:721579-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Aria Theophrasti - Matallo quasi metalo per suoa durezza nell'Apenino.</p>
+          <p> Aria Theophrasti - Matallo quasi metalo per suoa durezza nell'Apenino.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In luoghi alti et selvosi, ne sonno nella Magiela nell’Abruzzio <ptr target="#A-144-N1"/>,</p>
+          <p> In luoghi alti et selvosi, ne sonno nella Magiela nell’Abruzzio <ptr target="#A-144-N1"/>,</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fiorita e fruttifera; a parte una foglia in grandezza naturale.</p>
-          <p part="N"> L'<persName ref="anguillara-luigi">Anguillara</persName> nei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> diede una descrizione dell'aåpla di Teofrasto che
+        <div type="editorial-D">
+          <p>Pianta fiorita e fruttifera; a parte una foglia in grandezza naturale.</p>
+          <p> L'<persName ref="anguillara-luigi">Anguillara</persName> nei suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> diede una descrizione dell'aåpla di Teofrasto che
               <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="101"/> corrisponde a
             Pirus Aria ed il Michiel seguì la sua opinione che non fu invece quella del Guilandino,
             il quale nelle note a margine del testo dei «Semplici» scrive: «Aria inter
             glandiferas est. Vide Theophr. lib. 3 hist. cap. 16». Contuttociò anche i botanici
             posteriori accettarono l'identificazione di Anguillara.</p>
-          <p part="N">Poco dopo il Michiel la specie venne figurata da Pena e Lobelio.</p>
+          <p>Poco dopo il Michiel la specie venne figurata da Pena e Lobelio.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-144-N1" n="1" anchored="true">Tratto dall'Anguillara.</note>
+        <div type="notes">
+          <note xml:id="A-144-N1" n="1">Tratto dall'Anguillara.</note>
         </div>
       </body></text></TEI>

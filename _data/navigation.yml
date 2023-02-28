@@ -118,9 +118,10 @@ apothecaries:
 edition:
   - title: Table of Contents
     children:
-      - title: Libro Azzurro
+      - title: Editorial Note
         url:  /edition/index/
-      - title: Introduction
+      - title: 
+      - title: Preface
         url:  /edition/plant000/
       - title: 1 Ciruelas Monteses
         url:  /edition/plant001/

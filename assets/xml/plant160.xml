@@ -4,69 +4,69 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 160 Grana</head>
-        <ab part="N">[<hi>Quercus coccifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000290191"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295963-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Quercus coccifera L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000290191"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295963-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Grana para tenir da Spagnioli - Cocus baphica, Granum infectorium da Greci et Latini -
+          <p> Grana para tenir da Spagnioli - Cocus baphica, Granum infectorium da Greci et Latini -
             Carmen, Kermes da Arabi - Scharlach ber <ptr target="#A-160-N1"/> da Tedeschi - Vermillon da Francesi - Chervach da
             Dalmati.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Di Grana sara questo arbusto. Et sonno varie spetie la produce, quella che dice
+          <p> Di Grana sara questo arbusto. Et sonno varie spetie la produce, quella che dice
             Diascoride nascer nelle quercie, et della pimpinella ancora. Una altra spetie si porta
             novamente dalle Indie occidentali che potria esser quella pungente ho dimostro nel Libro
             Giallo a k. 144.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Son arbusto assa di grossa radice, et tronchi, con foglie che tira al quanto
+          <p> Son arbusto assa di grossa radice, et tronchi, con foglie che tira al quanto
             all'aquifolio ma non pungente, con rotondi frutini poi che di essi se ne cavano la
             grana.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N">Io di questo arbusto ne hebbi uno ramo secho et insieme <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="109"/> la discretione con queste parole quivi
-            scrite dal cl.mo M. <persName ref="da-mula-marcantonio">Antonio Barbarigo</persName> fu bailo a Costantinopoli. Et disse nascerne verso
+          <p>Io di questo arbusto ne hebbi uno ramo secho et insieme <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="109"/> la discretione con queste parole quivi
+            scrite dal cl.mo M. <persName ref="barbarigo-antonio">Antonio Barbarigo</persName> fu bailo a Costantinopoli. Et disse nascerne verso
             <placeName ref="edirne">Andernopoli</placeName> <ptr target="#A-160-N2"/> ne boschi loro. Et questa potria esser quella che narra <ref type="http://id.sbn.it/bid/MILE002311">Plinio</ref> nascere
             in Aphrica et quella di Diascoride che nasce nelle quercie in Cilicia, ne sonno anchora
             in Boemia et Polonia.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Sempre verdeggia. Et suoi fruti l'Esta qualli stano lungho tempo sopra l'albero.</p>
+          <p> Sempre verdeggia. Et suoi fruti l'Esta qualli stano lungho tempo sopra l'albero.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> De suoi fruti da se caduti ci nasce.</p>
+          <p> De suoi fruti da se caduti ci nasce.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Quello che si dimostra nelle spetiarie non si rasembra a quella che narra Diascoride
+          <p> Quello che si dimostra nelle spetiarie non si rasembra a quella che narra Diascoride
             se ingana <ref type="bibl" target=" http://id.sbn.it/bid/BVEE001024">li reverendi Padri [196]</ref> intorno alla Grana et il Cremesino, credendo che ci
             siano differenza insieme. Et... <ptr target="#A-160-N3"/>.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p part="N"> Et perché io ho havuto la discrecione diversamente cioe esser albero et non pongente
+          <p> Et perché io ho havuto la discrecione diversamente cioe esser albero et non pongente
             lo posto quivi <ptr target="#A-160-N4"/>. Et altri con foglie spinose pero lo posto anche al luogo delle
             piante spinose <ptr target="#A-160-N5"/>.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta con foglie e cogli insetti parassiti (Coccus Ilicis) collocati alle ascelle
+        <div type="editorial-D">
+          <p>Pianta con foglie e cogli insetti parassiti (Coccus Ilicis) collocati alle ascelle
             foliari, dietro l'idea che fossero frutti, idea che troveremo ribadita al N. 144 del
             Libro Giallo colle parole: «di fruti di granna ci nasce benché in quel libro il Michiel
             mostri di sapere che quei corpi rossi lasciati a sé producono insetti. Questo errore
@@ -76,7 +76,7 @@
             Pena ed il Lobelio asserirono che la grana non era né frutto, né seme, ma «excrementum
             ilicis» che poi si trasforma in moscerini, assimilandola alle galle, come più tardi
             fece il Fagon. <ref type="bibl" target="http://id.sbn.it/bid/BVEE003707">Durante [111]</ref> li chiamò bacche.</p>
-          <p part="N">Nel commento alla figura di questa stessa pianta al N. 144 del Libro Giallo si parlerà
+          <p>Nel commento alla figura di questa stessa pianta al N. 144 del Libro Giallo si parlerà
             delle tre piante coccifere di <persName ref="anguillara-luigi">Anguillara</persName> e della loro identificazione. Qui l'autore
             parla di un'altra specie di grana tintoria, di cui parla anche il Mattioli, proveniente
             dalle Indie occidentali che è la cocciniglia (Coccus Cacti) ma mostra di non conoscere
@@ -84,16 +84,16 @@
             121. Solo, forse per aver sentito dire che era pianta spinosa, arrischia l'opinione che
             sia la «pianta propria» figurata nel medesimo libro N. 144 che invece è identica
             alla presente.</p>
-          <p part="N">La figura data in questa pagina è inferiore a quella del <persName ref="rinio-benedetto">Rinio</persName> c. 172, ma superiore a
+          <p>La figura data in questa pagina è inferiore a quella del <persName ref="rinio-benedetto">Rinio</persName> c. 172, ma superiore a
             quella molto infelice che diede, un secolo dopo il Michiel, lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> [63]. Che la
             pianta fosse poco diffusa abbiamo la prova in ciò che nel secolo XVII era notata fra le
             più cospicue dell'Orto botanico di Pisa <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</p>
-          <div type="notes" part="N" org="uniform" sample="complete">
-            <note xml:id="A-160-N1" n="1" anchored="true"> Beere = bacca da scarlatto.</note>
-            <note xml:id="A-160-N2" n="2" anchored="true"> Adrianopoli.</note>
-            <note xml:id="A-160-N3" n="3" anchored="true"> Non continua.</note>
-            <note xml:id="A-160-N4" n="4" anchored="true"> E non pungente l'ho posto qui.</note>
-            <note xml:id="A-160-N5" n="5" anchored="true"> Cioè alla fine del Libro Giallo.</note>
+          <div type="notes">
+            <note xml:id="A-160-N1" n="1"> Beere = bacca da scarlatto.</note>
+            <note xml:id="A-160-N2" n="2"> Adrianopoli.</note>
+            <note xml:id="A-160-N3" n="3"> Non continua.</note>
+            <note xml:id="A-160-N4" n="4"> E non pungente l'ho posto qui.</note>
+            <note xml:id="A-160-N5" n="5"> Cioè alla fine del Libro Giallo.</note>
           </div>
         </div>
       </body></text></TEI>

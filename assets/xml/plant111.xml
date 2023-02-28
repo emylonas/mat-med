@@ -4,42 +4,42 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 111 Sebeste di Levante</head>
-        <ab part="N">[<hi>Cordia Myxa L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000620765"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114380-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Cordia Myxa L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000620765"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114380-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Sebeste da volgari et latini - Mixaria et Mahalomagiata da Greci - Faulis Sebesten da
+          <p> Sebeste da volgari et latini - Mixaria et Mahalomagiata da Greci - Faulis Sebesten da
             Arabi - Mamilla cannis <ptr target="#A-111-N1"/> da Persi - Schwartzbrustbeerle da Tedeschi.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Sarebbe due spetie, questa una et quella inanti demostra chi volesse fusse spezie di
+          <p> Sarebbe due spetie, questa una et quella inanti demostra chi volesse fusse spezie di
             Sebeste piui presto che altro k. 110.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In Alesandria et <placeName ref="siria">Soria</placeName> dunde sonno portate a noi.</p>
+          <p> In Alesandria et <placeName ref="siria">Soria</placeName> dunde sonno portate a noi.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N">Mi naque de suoi semi et mi pare sempre stia verde ma pero non lo afermo perché mi
+          <p>Mi naque de suoi semi et mi pare sempre stia verde ma pero non lo afermo perché mi
             morse <ptr target="#A-111-N2"/> con il grande fredo. Suoi fruti io ho sentito che nascono molti insieme in
             cima e' rami come in panocchia et me lo disse il <persName ref="falloppia-gabriele">Falopia</persName>.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fruttifera sorgente in un prato con figure di uomini nudi e di animali. A parte
+        <div type="editorial-D">
+          <p>Pianta fruttifera sorgente in un prato con figure di uomini nudi e di animali. A parte
             un ramo con foglie e frutti. Benché il Falloppio avesse giustamente descritta
             l'infruttescenza, il Michiel la figurd come grappolo semplice; contuttociò la figura è
             migliore dal lato scientifico di quella del <persName ref="rinio-benedetto">Rinio</persName> (c. 414) nella quale solo i frutti
@@ -56,14 +56,14 @@
             expressam ostenderemus, quam nemo hactenus, quod equidem sciam, monstravit, eius nobis
             sicut et aliorum multorum copiam fecit insignis vir probitate ac meritis Petrus Antonius
             Michaelius, quem antea saepe nominavimus.</p>
-          <p part="N">Rammentando ciò che dicemmo altrove, che il presente Codice fu cominciato intorno al
+          <p>Rammentando ciò che dicemmo altrove, che il presente Codice fu cominciato intorno al
             1561, tenendo presente altresì che il Marini pubblicò l'opera sua nel 1562 e facendo gli
             opportuni confronti delle asserzioni dei tre autori, possiamo trarre le conseguenze:
             1° Il primato della conoscenza della specie spetta al <persName ref="falloppia-gabriele">Falloppio</persName>; 2° Il primato
             dell'iconografia spetta al Michiel.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-111-N1" n="1" anchored="true"> Canis.</note>
-          <note xml:id="A-111-N2" n="2" anchored="true"> Mori.</note>
+        <div type="notes">
+          <note xml:id="A-111-N1" n="1"> Canis.</note>
+          <note xml:id="A-111-N2" n="2"> Mori.</note>
         </div>
       </body></text></TEI>

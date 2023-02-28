@@ -4,63 +4,63 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 90 Charance</head>
-        <ab part="N">[<hi>Momordica Balsamina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000376910"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:293397-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Momordica Balsamina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000376910"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:293397-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Charancia da volgari - Balsamina da latini et Pomum mirabile dal Trago - Merveille zioè
+          <p> Charancia da volgari - Balsamina da latini et Pomum mirabile dal Trago - Merveille zioè
             <ptr target="#A-090-N1"/> mirabile pomum da Galli - Viticella da alcuni - Pomum hierosolimitanum da Italia
             - Balsamkraut da Germani.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Tre spetie da volgari sono di Balsamina. Una simplicemente con il nome di Balsamina
+          <p> Tre spetie da volgari sono di Balsamina. Una simplicemente con il nome di Balsamina
             <ptr target="#A-090-N2"/>, l'altra son il Giranio Momordica <ptr target="#A-090-N3"/> et questa. Et di tutte li antiqui non ne ha
             fatto mentione salvo chi non volesse dire che la Momordica fusse il Geranio primo di
             Diascoride.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In Lombardia non ci manca sopra le finestre custodita da vaghe et delicate mani
+          <p> In Lombardia non ci manca sopra le finestre custodita da vaghe et delicate mani
             facendosi umbra di esse et gelosia.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Se ne fanno perfetissimo oglio per con prestezza consolidare, et ferite massime suoe
+          <p>Se ne fanno perfetissimo oglio per con prestezza consolidare, et ferite massime suoe
             foglie per nervi. Et giova alle mamelle ulcerate et a dolori della matrice, aposteme et
             ulcere. Et diconsi che ungendosi con <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="65"/> questo oglio la matrice et poi usar con il marito fa
             ingravidare. Et il Mathiolo ne raggiona de molte virtu al cap. 184 <ptr target="#A-090-N4"/> de Vite nera.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Buona figura di pianta avvolgentesi intorno ad uno stelo. A sinistra un rametto con
+        <div type="editorial-D">
+          <p>Buona figura di pianta avvolgentesi intorno ad uno stelo. A sinistra un rametto con
             foglia, fiore e frutto verde, a destra un rametto con foglie e frutto maturo.</p>
-          <p part="N">La più antica figura che si conosca di questa specie è quella alla c. 140 del Cod.
+          <p>La più antica figura che si conosca di questa specie è quella alla c. 140 del Cod.
             <persName ref="rinio-benedetto">Rinio</persName>, la quale supera in bellezza questa del Michiel. A quei tempi, cioè nella prima
             metà del sec. XV, si usava solo il nome caranza, ora applicato ad una congenere, e
             quelli di Balsamina e Momordica cominciarono ad usarsi verso la fine [19.</p>
-          <p part="N">Il Geranio primo di Dioscoride è G. tuberosum come risulta dalla diagnosi: <foreign xml:lang="grc">γεράνιον φύλλῳ ἀνεμόνης ῥίζᾳ ὑποστρογγύλῃ γλυγέιᾳ</foreign> (geranio a
+          <p>Il Geranio primo di Dioscoride è G. tuberosum come risulta dalla diagnosi: <foreign xml:lang="grc">γεράνιον φύλλῳ ἀνεμόνης ῥίζᾳ ὑποστρογγύλῃ γλυγέιᾳ</foreign> (geranio a
             foglie d'anemone, a radice gonfia, dolce) e quello che si chiamava nel sec. XVI Geranio
             Momordica (G. rotundifolium) era secondo il Mattioli, il <foreign xml:lang="grc">γεράνιον ἕτερον</foreign> o Geranio secondo di Dioscoride, benché la diagnosi possa
             servire ad altre specie, come G. molle, Erodium malacoides.</p>
-          <p part="N">La specie presente è la Balsamina 1 o Caranzi di Anguillara, p. 243.</p>
+          <p>La specie presente è la Balsamina 1 o Caranzi di Anguillara, p. 243.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-090-N1" n="1" anchored="true"> Ciod.</note>
-          <note xml:id="A-090-N2" n="2" anchored="true"> Impalions Balsamina, lib. Ro. I, N. 64.</note>
-          <note xml:id="A-090-N3" n="3" anchored="true"> Geranium rotundifolium. </note>
-          <note xml:id="A-090-N4" n="4" anchored="true"> * c. 148 del lib. IV. (Ed.)</note>
+        <div type="notes">
+          <note xml:id="A-090-N1" n="1"> Ciod.</note>
+          <note xml:id="A-090-N2" n="2"> Impalions Balsamina, lib. Ro. I, N. 64.</note>
+          <note xml:id="A-090-N3" n="3"> Geranium rotundifolium. </note>
+          <note xml:id="A-090-N4" n="4"> * c. 148 del lib. IV. (Ed.)</note>
         </div>
       </body></text></TEI>

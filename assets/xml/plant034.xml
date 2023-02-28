@@ -4,41 +4,41 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 34 Chameceraso</head>
-        <ab part="N">*[<hi>Lonicera xylosteum L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149194-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>*[<hi>Lonicera xylosteum L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000361644"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149194-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N">Chameceraso da volg.</p>
+          <p>Chameceraso da volg.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Son sp. magg. d'il albero dell'uva scritto <ref type="internal" target="#A-047">k. 47</ref>.</p>
+          <p> Son sp. magg. d'il albero dell'uva scritto <ref type="internal" target="#A-047">k. 47</ref>.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti d'<placeName ref="">Alemagnia</placeName> et .... <ptr target="#A-034-N1"/>.</p>
+          <p> Ne monti d'<placeName ref="">Alemagnia</placeName> et .... <ptr target="#A-034-N1"/>.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Fanno il suo fruto pessimo sangue et son in fin nocivo ma per non esser agrato [= grato, gradevole] viene
+          <p>Fanno il suo fruto pessimo sangue et son in fin nocivo ma per non esser agrato [= grato, gradevole] viene
             lasciato.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Fiori bianchi, frutti rossi e calice supero.</p>
-          <div type="notes" part="N" org="uniform" sample="complete">
-            <note xml:id="A-034-N1" n="1" anchored="true"> In bianco.</note>
+        <div type="editorial-D">
+          <p>Fiori bianchi, frutti rossi e calice supero.</p>
+          <div type="notes">
+            <note xml:id="A-034-N1" n="1"> In bianco.</note>
           </div>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>

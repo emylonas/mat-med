@@ -4,63 +4,63 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 50 Seco Moro Fratesco</head>
-        <ab part="N">[<hi>Melia Azedarach L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000450150"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:578949-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Melia Azedarach L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000450150"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:578949-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Sico moro fratesco et albero di lagrime di Santo Agioppo vel Job da volgari - Ostrin
+          <p> Sico moro fratesco et albero di lagrime di Santo Agioppo vel Job da volgari - Ostrin
             Plinio dal Anguillara.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Io non scio come si habbi usurpato questo nome di seco moro, non havendo niuna
+          <p> Io non scio come si habbi usurpato questo nome di seco moro, non havendo niuna
             corispondentia con li sico mori inanti nominati sì nella forma come ne' poteri suoi.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Diconsi che li Zoccolanti li condussero de Portogallo per bisognio loro da infilzare
+          <p> Diconsi che li Zoccolanti li condussero de Portogallo per bisognio loro da infilzare
             pater nostri. Et hora per Italia oltra li giardini de simplici che per sua vaggezza [= vaghezza] li
             tengono se incominciano anche ponerli nelle campagnie per sustentare le viti.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> L'<persName ref="anguillara-luigi">Anguillara</persName> mi disse esser l'Ostrin di Plinio perché il fruto vol dire di Chacris et
+          <p> L'<persName ref="anguillara-luigi">Anguillara</persName> mi disse esser l'Ostrin di Plinio perché il fruto vol dire di Chacris et
             non di Orzo.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Gli profumieri radoppia la quantità de suoi fiori con li fiori de gensamini bianchi <ptr target="#A-050-N1"/>
+          <p>Gli profumieri radoppia la quantità de suoi fiori con li fiori de gensamini bianchi <ptr target="#A-050-N1"/>
             lambicandoli per far aqua perfettissima odoriffera. De suoi fruti over nuclei infilzati
             se ne fanno corone de pater nostri ... .</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Intero albero con frutti immaturi, portante animali fantastici tra' quali un uccello a
+        <div type="editorial-D">
+          <p>Intero albero con frutti immaturi, portante animali fantastici tra' quali un uccello a
             due teste e due piccoli mammiferi con lungo giugno di tapiro, canini di cignale, dita
             unguicolate, coda di castoro. A destra una buona figura di ramoscello con foglie e fiori
             ed a sinistra un ramo fruttifero.</p>
-          <p part="N">In complesso questa figura è migliore di quella data dal Mattioli col nome di Sicomoro
+          <p>In complesso questa figura è migliore di quella data dal Mattioli col nome di Sicomoro
             falso. Se ne occupò il Targioni-Tozzetti a pag. 185 dei suoi Cenni storici <ref type="bibl" target="http://id.sbn.it/bid/SBL0061900">[286]</ref>. </p>
-          <p part="N"><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="40"/>A ragione il Michiel
+          <p><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="40"/>A ragione il Michiel
             censura coloro che ritenevano questa pianta una specie di Sicomoro. Anche l'<persName ref="aldrovandi-ulisse">Aldrovandi</persName>
             nel suo Erbario (II, 261) la chiama Sycomorus perperam.</p>
-          <p part="N">A proposito di quanto dice il Michiel sulla diffusione di quest'albero nei giardini dei
+          <p>A proposito di quanto dice il Michiel sulla diffusione di quest'albero nei giardini dei
             semplici, notiamo che al tempo del <persName ref="ghini-luca">Ghini</persName> <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287 ">[305]</ref> esso c'era all'Orto botanico di Pisa col
             nome Lotus arbor vulgo Sicomorus e che, mezzo secolo dopo la morte del Michiel, il P.
             <persName ref="veglia-pierio-dionisio">Dionisio Veglia</persName> lo segnalava come una delle piante più cospicue di quell'Orto <ref type="bibl" target="http://id.sbn.it/bid/SBLE000359">[262]</ref>.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-050-N1" n="1" anchored="true"> Gelsomini.</note>
+        <div type="notes">
+          <note xml:id="A-050-N1" n="1"> Gelsomini.</note>
         </div>
       </body></text></TEI>

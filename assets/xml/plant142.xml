@@ -4,59 +4,59 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 142 Nil Sp.</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Nil da <persName ref="martinelli-francesco">m. Cechin dal Angelo</persName> - Endego del Nil - Son il glasto sativo così tenuto da
+          <p> Nil da <persName ref="martinelli-francesco">m. Cechin dal Angelo</persName> - Endego del Nil - Son il glasto sativo così tenuto da
             molti.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> </p>
+          <p> </p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N">Suoa radice profunda ramosa rovanezzia, suo tronco fermo sarmentoso de longhi rami che
+          <p>Suoa radice profunda ramosa rovanezzia, suo tronco fermo sarmentoso de longhi rami che
             se invoglieno rotondi bianchezzi forniti con lunghi intervalli di fronde rotonde grande
             che finiscono apuntite come simil alle minor della Colocassia con il roverso bianchezzio
             et le costelle et nervi k. 141.<fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="100"/> rilevati, al gusto acetosete che tirano alla zucha. Suoi fiori.... <ptr target="#A-142-N1"/> suoi
             semi poi son quali simil a cioli di naranza.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N">L'hebbi di <placeName ref="siria">Soria</placeName> dal ditto M. Cechino.</p>
+          <p>L'hebbi di <placeName ref="siria">Soria</placeName> dal ditto M. Cechino.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> La seminai a primavera et mi naque.</p>
+          <p> La seminai a primavera et mi naque.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> El ditto M. Cechino intelligentissimo simplicista mi diede le ditte doe piante et
+          <p> El ditto M. Cechino intelligentissimo simplicista mi diede le ditte doe piante et
             dissemi che deli <ptr target="#A-142-N2"/> in Soria erano tenute tutte due per spetie di Nil.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> L'Endego de qui leggi nel primo Libro Rosso k. 224, 225.</p>
+          <p> L'Endego de qui leggi nel primo Libro Rosso k. 224, 225.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Dal testo si comprende che la pianta crebbe nel giardino del Michiel ma non giunse a
+        <div type="editorial-D">
+          <p>Dal testo si comprende che la pianta crebbe nel giardino del Michiel ma non giunse a
             fiorire e la figura lo conferma rappresentandoci una pianta sterile.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-142-N1" n="1" anchored="true"> In bianco.</note>
-          <note xml:id="A-142-N2" n="2" anchored="true"> Di là.</note>
+        <div type="notes">
+          <note xml:id="A-142-N1" n="1"> In bianco.</note>
+          <note xml:id="A-142-N2" n="2"> Di là.</note>
         </div>
       </body></text></TEI>

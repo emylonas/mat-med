@@ -4,53 +4,53 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 27 Fusaria, Stonber</head>
-        <ab part="N">[<hi>Euonymus Europaeus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000681728"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:160876-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Euonymus Europaeus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000681728"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:160876-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N">Evonimo da Theophrasto - Fusaria latini - Barete da preti da vuolgari - Stomber <ptr target="#A-027-N1"/> da
+          <p>Evonimo da Theophrasto - Fusaria latini - Barete da preti da vuolgari - Stomber <ptr target="#A-027-N1"/> da
             Germani - Silio da Italiani et Fusaro - Spindelbaum da Tedeschi.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="28"/>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Due spezie ci sonno maschio et femina ne altra differenza tra loro non ci è se non
+          <p> Due spezie ci sonno maschio et femina ne altra differenza tra loro non ci è se non
             nella grandezza.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne sonno in boschi de <placeName ref="lombardia">Lombardia</placeName> della minor. Et del maggior in <placeName ref="germania">Alemagnia</placeName> et io nel mio
+          <p> Ne sonno in boschi de <placeName ref="lombardia">Lombardia</placeName> della minor. Et del maggior in <placeName ref="germania">Alemagnia</placeName> et io nel mio
             giardino per molti anni ne ho mantenuto uno.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Da simplicisti sonno tenuti per l'Euonimo di Theophrasto lib. 3 cap. ultimo. Et
+          <p> Da simplicisti sonno tenuti per l'Euonimo di Theophrasto lib. 3 cap. ultimo. Et
             l'eccell. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 81 tiene anchora lui.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> Si dice che de suoi semi bagnati in acqua di vita et posti sopra a fracidi denti et
+          <p> Si dice che de suoi semi bagnati in acqua di vita et posti sopra a fracidi denti et
             dolorati li risanano et cavano il dolore. Et la sua polvere ocide li pedocchi. ... </p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fruttifera; a parte un ramo fiorito. La pianta sorge in un piano erboso con
+        <div type="editorial-D">
+          <p>Pianta fruttifera; a parte un ramo fiorito. La pianta sorge in un piano erboso con
             case e figure di donne ed uccelli.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-027-N1" n="1" anchored="true"> Forse Slounboer, cioè bacca producente stupore, pegli effetti venefici.
+        <div type="notes">
+          <note xml:id="A-027-N1" n="1"> Forse Slounboer, cioè bacca producente stupore, pegli effetti venefici.
             Veramente i frutti sono capsule, ma pel vivo color rosso o per la consistenza carnosa
             dei semi si riguardavano come bacche.</note>
         </div>

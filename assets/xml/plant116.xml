@@ -4,58 +4,58 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>* N. II6 Cua Muchel</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Cua muchel colorado es fruta da Spagnioli overo Indiani.</p>
+          <p> Cua muchel colorado es fruta da Spagnioli overo Indiani.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERE</head>
-          <p part="N"> Vengono tenuto per spetie di anagiro.</p>
+          <p> Vengono tenuto per spetie di anagiro.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa Radice proffunde, son albero grande di color beretinazzio. Suoe frondi di pruno
+          <p> Suoa Radice proffunde, son albero grande di color beretinazzio. Suoe frondi di pruno
             ma minore, suoi fruti simil all'Anagiros con silique di fasuoli.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Come detto nelli altri Alberi dell'India.</p>
+          <p> Come detto nelli altri Alberi dell'India.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Molto sole, luogho calido, et grasso terreno.</p>
+          <p> Molto sole, luogho calido, et grasso terreno.</p>
         </div>
-        <div type="reproduction" part="N" org="uniform" sample="complete">
+        <div type="reproduction">
           <head>GENERATIONE</head>
-          <p part="N"> De suoi fagiuoli ci nasce.</p>
+          <p> De suoi fagiuoli ci nasce.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Sonno de molti che vogliono siano uno Anagiros.</p>
+          <p> Sonno de molti che vogliono siano uno Anagiros.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p part="N"> Leggi di sopra. Et son l'istesso.</p>
+          <p> Leggi di sopra. Et son l'istesso.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N"> De Anagiros leggi k. 58.</p>
+          <p> De Anagiros leggi k. 58.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Figura della stessa fattura dei n. 1, 21, 69; albero a foglie abbinate, lanceolate,
+        <div type="editorial-D">
+          <p>Figura della stessa fattura dei n. 1, 21, 69; albero a foglie abbinate, lanceolate,
             penninervie; legumi verdi, subarticolati lunghi il doppio delle foglie. (Ed.) </p>
         </div>
       </body></text></TEI>

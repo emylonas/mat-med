@@ -4,55 +4,55 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 117 Ramno primo Bianco</head>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Rhamno bianco primo da volg. - Maruch da Arabi - Spino santo in Romagnia - Spino de Christo
+          <p> Rhamno bianco primo da volg. - Maruch da Arabi - Spino santo in Romagnia - Spino de Christo
             Salutare et spina bianca da Marzello - Hausis da Serrapione et pandette.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Di 3 speci sequitando ne dimostro. Et 3 ne scrive Diascoride.</p>
+          <p> Di 3 speci sequitando ne dimostro. Et 3 ne scrive Diascoride.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoe radice lunghe et proffunde. Son arboscelo di rami bianchi driti, forniti di acute
+          <p> Suoe radice lunghe et proffunde. Son arboscelo di rami bianchi driti, forniti di acute
             et lunghe spine apresso alle frondi le qualli sonno strette di olivo, lunghete et
             grassete et molte di esse ci sonno sopra impegniate come da rotonda gomma et piccola.
             Suoi fruti overo bache piccole rosse tra le foglie.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Io l'hebbi della <placeName ref="majella">Megella [= Majella]</placeName> <ptr target="#A-117-N1"/>,</p>
+          <p> Io l'hebbi della <placeName ref="majella">Megella [= Majella]</placeName> <ptr target="#A-117-N1"/>,</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">Parmi che il Gualtieri demostra questo Rhamno al cap. del Poterio con nome de Schlehen
+          <p>Parmi che il Gualtieri demostra questo Rhamno al cap. del Poterio con nome de Schlehen
             dorn con foglia de olivo. Il Ruelio et Gualtieri in vece di Rhamno prese il spin
             cervino et spino merlo. Et apresso alegando egli Theophrasto disse del fruto del
             Rhamno quello che egli del paliuro.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta fruttifera sorgente in un paesaggio montano con pastore e greggie. È il Rhamno
+        <div type="editorial-D">
+          <p>Pianta fruttifera sorgente in un paesaggio montano con pastore e greggie. È il Rhamno
             primo dell'<persName ref="anguillara-luigi">Anguillara</persName>. <ref type="bibl" target="http://id.sbn.it/bid/CFIE000607">Marcello fiorentino [= Marcello Virgilio Adriani]</ref> lo chiamò salutare et spina bianca nella
             credenza da lui esposta nel libro De re medicinali: «Spina alba qua Christus incoronatus
             fuit». <ptr target="#A-117-N2"/>. </p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-117-N1" n="1" anchored="true"> Maiella.</note>
-          <note xml:id="A-117-N2" n="2" anchored="true"> * Figura di esecuzione infelice; bacche rosse, ascellari, solitarie; foglie
+        <div type="notes">
+          <note xml:id="A-117-N1" n="1"> Maiella.</note>
+          <note xml:id="A-117-N2" n="2"> * Figura di esecuzione infelice; bacche rosse, ascellari, solitarie; foglie
             senza la «rotonda gomma et piccola», di cui parla la diagnosi. (Ed.)</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>

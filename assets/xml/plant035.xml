@@ -4,46 +4,46 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 35 Rosa Senis</head>
-        <ab part="N">[<hi>Philadelphus coronarius L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000465348"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:792194-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Philadelphus coronarius L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000465348"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:792194-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Rosa Senis da volg. - Et Seringa.</p>
+          <p> Rosa Senis da volg. - Et Seringa.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Son posto anche quel albero son a <ref type="internal" target="#A-004">k. 4</ref> per spezie di Seringa dimandato Argavani.</p>
+          <p> Son posto anche quel albero son a <ref type="internal" target="#A-004">k. 4</ref> per spezie di Seringa dimandato Argavani.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne monti di <placeName ref="lombardia">Lumbardia</placeName> non ci mancano et ne' giardini per intesser spaliere et anche si
+          <p> Ne monti di <placeName ref="lombardia">Lumbardia</placeName> non ci mancano et ne' giardini per intesser spaliere et anche si
             riduce in albero come ho fato io.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Sole et humido ci vuole a farla produr bella vaghezza de suoi copiosi fiori con odore
+          <p> Sole et humido ci vuole a farla produr bella vaghezza de suoi copiosi fiori con odore
             grato in principio ma sequitando nel odorarlo fastidisse.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Plinio et Diascoride nelle spezie delle Canne ne parla di questa per oppinione di
+          <p> Plinio et Diascoride nelle spezie delle Canne ne parla di questa per oppinione di
             molti. Et son tenuta per la terza spezie.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Figura mediocre di pianta fiorita; a parte una bella figura di ramoscello fiorito.</p>
-          <p part="N">Il Michiel, come narra, coltivò nel suo giardino questa pianta e fu il primo ad
+        <div type="editorial-D">
+          <p>Figura mediocre di pianta fiorita; a parte una bella figura di ramoscello fiorito.</p>
+          <p>Il Michiel, come narra, coltivò nel suo giardino questa pianta e fu il primo ad
             effigiarla. Più tardi viene la figura data dal <persName ref="clusius-carolus">Clusio</persName> (<ref type="bibl" target="http://id.sbn.it/bid/UFIE002981">Hist. I. 55</ref>) sotto il nome <hi>Frutex
               coronarius</hi>.</p>
         </div>

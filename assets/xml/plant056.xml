@@ -4,48 +4,48 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 56 Suber Th.</head>
-        <ab part="N">[<hi>Quercus Suber L.</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296785-1"/> </ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Quercus Suber L.</hi>] <ref type="wfo" target=" http://www.worldfloraonline.org/taxon/wfo-0000293451"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296785-1"/> </ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Suber da Theophrasto et dal Gaza.</p>
+          <p> Suber da Theophrasto et dal Gaza.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Son albero palido con crasse foglie strette, lunghe, liscie et falate sopra e fusti
+          <p> Son albero palido con crasse foglie strette, lunghe, liscie et falate sopra e fusti
             simil al frassino et apresso a suoe frondi ci nasce certi minuti grappolini, da qualli
             poi ci viene suoe giande mi penso perché non le vidi ed hebbi questa mostra dal ecc.
             sig. <persName ref="aldrovandi-ulisse">Ulisse Aldrovandi</persName> di Bolognia.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Theophrasto dice esser albero familiare de <placeName ref="pirenei">Pyrreni [Pirenei]</placeName> et questo dimostro l'hebbi di
+          <p> Theophrasto dice esser albero familiare de <placeName ref="pirenei">Pyrreni [Pirenei]</placeName> et questo dimostro l'hebbi di
             Bolognia dal deto Aldrovandi.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> De suoe giande da se ci nascono.</p>
+          <p> De suoe giande da se ci nascono.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONE</head>
-          <p part="N"> Son de oppinion de molti che questo sia il vero Suber el qual son la seconda sp. dal
+          <p> Son de oppinion de molti che questo sia il vero Suber el qual son la seconda sp. dal
             Gaza così denominato. </p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta cogli amenti maschili. A parte una foglia.</p>
-          <p part="N">Il Michiel non vide gli amenti femmine e perciò suppose che le ghiande si formassero
+        <div type="editorial-D">
+          <p>Pianta cogli amenti maschili. A parte una foglia.</p>
+          <p>Il Michiel non vide gli amenti femmine e perciò suppose che le ghiande si formassero
             dai «minuti grappolini cioè dagli amenti maschili pero con riserva, perché questi non
             fruttificarono, ma, com'era loro destino, morirono.</p>
         </div>

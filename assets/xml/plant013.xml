@@ -4,50 +4,50 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 13 Putana vel Olivela</head>
-        <ab part="N">[<hi>Rhamnus Alaternus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000462513"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:718169-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Rhamnus Alaternus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000462513"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:718169-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Olivela, Putana vel Phylirea in Roma - Faulbauim da Germani.</p>
+          <p> Olivela, Putana vel Phylirea in Roma - Faulbauim da Germani.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> In Romagnia voleno sia sp. di Phylirea. Et la Conestrella, <ref type="internal" target="#A-012">[N. 12]</ref> la terza poi la
+          <p> In Romagnia voleno sia sp. di Phylirea. Et la Conestrella, <ref type="internal" target="#A-012">[N. 12]</ref> la terza poi la
             sequente et migliore delle qual ne sonno una altra sp. con le foglie rascontrate.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Ne sonno nei monti et vigne di <placeName ref="roma">Roma</placeName>.</p>
+          <p> Ne sonno nei monti et vigne di <placeName ref="roma">Roma</placeName>.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Sempre sta verde, suoi fiori de agosto con il fruto poi del qual li tordi se
+          <p> Sempre sta verde, suoi fiori de agosto con il fruto poi del qual li tordi se
             ingrassano.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName ref="">Agustin Alpago</persName>
+          <p> In Romagnia hanno oppinion che la sia la Phylirea ma al Eccellente M. <persName ref="alpago-agostino">Agustin Alpago</persName>
             et a molti non sonno de oppinion.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p part="N"> Non si puol negare che la non sia sp. di Phylirea si per il gusto come per la
+          <p> Non si puol negare che la non sia sp. di Phylirea si per il gusto come per la
             forma.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta con fiori e frutti a due gradi di maturità, cioè rossi ed oscuri. A parte un
+        <div type="editorial-D">
+          <p>Pianta con fiori e frutti a due gradi di maturità, cioè rossi ed oscuri. A parte un
             rametto con foglie e frutti maturi. Sui rami varie figure di tordi. Il <persName ref="bonato-giuseppe-antonio">Bonato</persName> la ritenne
             Phyllirea latifolia, ma la figura ha le foglie alterne il che è asserito anche nel testo
             colle parole: «et venghon falate». Notisi che anche il <persName ref="cesalpino-andrea">Cesalpino</persName> chiamava questa

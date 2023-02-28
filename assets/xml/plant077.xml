@@ -4,28 +4,28 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 77 Opulo</head>
-        <ab part="N">[<hi>Acer monspessulanum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000514593"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:781402-1"/> </ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Acer monspessulanum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000514593"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:781402-1"/> </ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Opulo.</p>
+          <p> Opulo.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Nel testo non v'è che questo nome; mancano le descrizioni e le citazioni. La figura
+        <div type="editorial-D">
+          <p>Nel testo non v'è che questo nome; mancano le descrizioni e le citazioni. La figura
             non finita rappresenta un ramo con foglie e frutti.</p>
-          <p part="N">Il nome opulo cangiato ora in oppio, loppio, loppo si dà oggidi a due specie affini, A.
+          <p>Il nome opulo cangiato ora in oppio, loppio, loppo si dà oggidi a due specie affini, A.
             Opulus ed A. campestre.</p>
         </div>
       </body></text></TEI>

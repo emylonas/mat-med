@@ -4,60 +4,60 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 23 Scamonea</head>
-        <ab part="N">[<hi>Convolvulus Scammonia L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001298534"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:266929-1"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Convolvulus Scammonia L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001298534"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:266929-1"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Scamonea da volg. - Scambonia radix da alcuni - Colophonia Dactylion da altri -
+          <p> Scamonea da volg. - Scambonia radix da alcuni - Colophonia Dactylion da altri -
             Apopleumonos da Magi - Sanilun da Egyptij Diagridion da Greci.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Alcuni tengono che il fiore di note <ref type="internal" target="#A-011">[N. 11]</ref> sia spezie di Scamonea ma per non haver
+          <p> Alcuni tengono che il fiore di note <ref type="internal" target="#A-011">[N. 11]</ref> sia spezie di Scamonea ma per non haver
             radice corispondente mal si puol haver questa oppinione. Et l'Helsine Cissampello over
             Broeggia è dimandata da Plinio Scamonea picciola. Et otra manera di Mecoacan demostra
             <ref type="internal" target="#A-161">161</ref> son tenuta per spezie di Scamonea. Et anche uno altra pianta con nome di Mechoacan
             son tenuta per spezie di essa; la seminai ma non mi naque.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <p part="N"> Suoa radice gomosa sfilosa gialezzia, grande et grossa. suoi fusti sotilli, rotondi
+          <p> Suoa radice gomosa sfilosa gialezzia, grande et grossa. suoi fusti sotilli, rotondi
             che se invogliono <ptr target="#A-023-N1"/> a quel li sonno acanto, suoe frondi con intervallo dal una al
             altra di forma simil al volgare volubile con 3 punte in sesto di lancia, ma larghe
             abasso, al gusto pocho acetose, suoi fiori bianchi in campanele simil volubilo deto,
             suoi semi di scuro colore lungheto et simil a quello del fiore di note ma roano.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In <placeName ref="siria">Soria</placeName>, in <placeName ref="candia">Candia</placeName> et per <placeName ref="levante">Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
+          <p> In <placeName ref="siria">Soria</placeName>, in <placeName ref="candia">Candia</placeName> et per <placeName ref="levante">Levante</placeName> et gli uceli de suoi semi molto se ingrassano come
             si vegono nelli pitteri in smartello <ptr target="#A-023-N2"/> che di <placeName ref="">Cipri</placeName> vengono mandati a noi. L'elleta
             <ptr target="#A-023-N1"/> si ricoglie in <placeName ref="mysie">Misia</placeName> nell'Asia, et in <placeName ref="cefalonia">Collophone</placeName> isola nel Jonie dunde vi sonno l'
             Oraculo di Appoline.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Ogni ano a primavera rimandano suoi lunghi rami. Suoi fiori de giugno con il seme
+          <p> Ogni ano a primavera rimandano suoi lunghi rami. Suoi fiori de giugno con il seme
             poi.</p>
         </div>
-        <div type="disagreements" part="N" org="uniform" sample="complete">
+        <div type="disagreements">
           <head>DISPARERI NELLA PIANTA</head>
-          <p part="N">Questa son la istessa descritta da Diascoride ma però non ha li rami così grossi
+          <p>Questa son la istessa descritta da Diascoride ma però non ha li rami così grossi
             come narra lui.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">La figura di pianta fiorita è mediocre ma fu tratta dal vero, come lo prova un rametto
+        <div type="editorial-D">
+          <p>La figura di pianta fiorita è mediocre ma fu tratta dal vero, come lo prova un rametto
             foglioso disseccato che trovasi conservato fra le pagine del codice. Essa è
             contemporanea a quella che pubblicò il <persName ref="mattioli-pietro-andrea">Mattioli</persName> pur traendola dal vero e sebbene, <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="26"/> come si disse, non sia
             molto ben fatta, fa vedere un carattere che non fu avvertito ne dal <persName ref="mattioli-pietro-andrea">Mattioli</persName>, né dal
@@ -66,31 +66,31 @@
             Michiel perché la differenza di gradazione delle tinte verdi prova che il disegno delle
             foglie fu corretto più tardi, aggiungendo i dentini, ed un'altra prova l'abbiamo nella
             diagnosi in cui non se ne fa parola.</p>
-          <p part="N">Non teniamo conto della figura data da <persName ref="marini-andrea">Andrea Marini</persName> perché essa è copiata da quella di
+          <p>Non teniamo conto della figura data da <persName ref="marini-andrea">Andrea Marini</persName> perché essa è copiata da quella di
             <persName ref="mattioli-pietro-andrea">Mattioli</persName>, come risulta dalle seguenti parole: «Scamoniae imaginem nullus hactenus ex
             herbarijs quod equidem sciam pictam tradidit. Nobis autem hanc Byzantio adlatam dono
             dedit Georgius Liberalis pictor egregius et mihi perfamiliaris, quae Dioscoridis
             historiae omni ex parte consentire videtur, consimilem quoque ostendit Petrus Antonius
             Michaelius patritius Venetus ...».</p>
-          <p part="N">Il Mattioli rispose: «M. <persName ref="marini-andrea">Andrea Marini</persName> nelle sue <ref type="bibl" target="http://id.sbn.it/bid/PUVE006496"><hi>Annotazioni sopra Mesue</hi></ref> mette questa
+          <p>Il Mattioli rispose: «M. <persName ref="marini-andrea">Andrea Marini</persName> nelle sue <ref type="bibl" target="http://id.sbn.it/bid/PUVE006496"><hi>Annotazioni sopra Mesue</hi></ref> mette questa
             medesima pianta, dicendo haverla ricevuta da M. <persName ref="liberale-giorgio">Giorgio Liberale</persName> pittore il quale ha
             dissegnato la maggior parte delle figure di questo nostro volume per non haver forse
             egli saputo che il Liberale l'haveva presa dal nostro giardino...».</p>
-          <p part="N">Da ciò può dedursi che le figure date dal <persName ref="mattioli-pietro-andrea">Mattioli</persName> e dal Michiel sono contemporanee o
+          <p>Da ciò può dedursi che le figure date dal <persName ref="mattioli-pietro-andrea">Mattioli</persName> e dal Michiel sono contemporanee o
             quasi, ma d'altra parte la questione della priorità diventa oziosa <ptr target="#A-023-N4"/> ora che sappiamo
             essere stata la scammonea figurata, benché imperfettamente, un secolo prima dei nostri
             due botanici, da <persName ref="rinio-benedetto">Benedetto Rinio</persName>.</p>
-          <p part="N">Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
+          <p>Tutti tre gli iconografi trascurarono il carattere delle bratteole pedicellari che pur
             trovasi in altri convolvoli.</p>
-          <p part="N">Il Michiel ottenne la pianta di semi che accidentalmente si trovavano racchiusi nel
+          <p>Il Michiel ottenne la pianta di semi che accidentalmente si trovavano racchiusi nel
             succo concreto di scammonea spedito da <placeName ref="aleppo">Aleppo</placeName> da <persName ref="martinelli-francesco">Francesco Martinelli</persName> <ref type="bibl" target="http://id.sbn.it/bid/CFIE000972">[34]</ref>.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-023-N1" n="1" anchored="true"> Avvolgono.</note>
-          <note xml:id="A-023-N2" n="2" anchored="true"> Vasi da fiori di terraglia smaltata.</note>
-          <note xml:id="A-023-N3" n="3" anchored="true"> Eletta,</note>
-          <note xml:id="A-023-N4" n="4" anchored="true"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="anguillara-luigi">Anguillara</persName> ne fece nascere una
+        <div type="notes">
+          <note xml:id="A-023-N1" n="1"> Avvolgono.</note>
+          <note xml:id="A-023-N2" n="2"> Vasi da fiori di terraglia smaltata.</note>
+          <note xml:id="A-023-N3" n="3"> Eletta,</note>
+          <note xml:id="A-023-N4" n="4"> Notiamo che nel 1550, prima del Mattioli, l'<persName ref="anguillara-luigi">Anguillara</persName> ne fece nascere una
             pianta da semi avuti di <placeName ref="siria">Siria</placeName>. Dice di averla anche veduta negli orti di <persName ref="priuli-lorenzo">Lorenzo Priuli</persName>
-            a <placeName ref="padova">Padova</placeName> e <persName ref="">Giulio Moderato</persName> a <placeName ref="rimini">Rimini</placeName>. </note>
+            a <placeName ref="padova">Padova</placeName> e <persName ref="moderato-liberale">Giulio Moderato</persName> a <placeName ref="rimini">Rimini</placeName>. </note>
         </div>
       </body></text></TEI>

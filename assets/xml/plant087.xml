@@ -4,44 +4,44 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 87 Spin Bianco</head>
-        <ab part="N">[<hi>Crataegus oxyacantha L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000985328"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Crataegus oxyacantha L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000985328"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Spin bianco da volgari Oxiacanta da molti Azarolo sp. da alcuni.</p>
+          <p> Spin bianco da volgari Oxiacanta da molti Azarolo sp. da alcuni.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Varij et infiniti sonno le spetie di spini.</p>
+          <p> Varij et infiniti sonno le spetie di spini.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> Tutti li fosși et boschi ne sonno in quantità.</p>
+          <p> Tutti li fosși et boschi ne sonno in quantità.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N">- L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 57 de spina acuta dice non essere questo spin bianco perché non sta
+          <p>- L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 57 de spina acuta dice non essere questo spin bianco perché non sta
             sempre verde ne ha spini di malo medico, ne simil al pero salvatico. Et che non conosce
             la spina acuta. Io ne dimostro una inanti k. 152 così tenuta dal ecc. <persName ref="ghini-luca">Ghino</persName> et da molti
             simplicisti degni.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta con foglie, fiori e frutti, supponendosene, per comodo iconografico, la con-
+        <div type="editorial-D">
+          <p>Pianta con foglie, fiori e frutti, supponendosene, per comodo iconografico, la con-
             temporaneità, il che pur trovasi in uno dei rami figurati a parte. L'altro ramo ha solo
             spine e frutti maturi.</p>
-          <p part="N">Al tempo del Michiel i pareri sull'identificazione della sp. otvárania di Teofrasto e
+          <p>Al tempo del Michiel i pareri sull'identificazione della sp. otvárania di Teofrasto e
             Dioscoride erano divisi. Alcuni, seguendo il Trago che alla sua volta aveva seguito gli
             autori medievali [246], stavano per Berberis vulgaris <ref type="internal" target="#A-139">[N.
               139]</ref>, altri, seguendo il Ruellio, <fw type="running-head" place="top">LIBRO

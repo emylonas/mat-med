@@ -4,62 +4,62 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. II Smilace Lisia</head>
-        <ab part="N">[<hi>Ipomoea hederacea Jacq.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000747944"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1071575-2"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>Ipomoea hederacea Jacq.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000747944"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1071575-2"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Fior di notte a Napoli - Smilace liscia celeste, Viteal et Volubile medio da volgari -
+          <p> Fior di notte a Napoli - Smilace liscia celeste, Viteal et Volubile medio da volgari -
             Helxine cissampelos et Convolvulus da Latini - Mitellvviden <ptr target="#A-011-N1"/> et Vvoigartenvviden <ptr target="#A-011-N2"/>
             da Germani - Capanete vitreole <ptr target="#A-011-N3"/> et lizet <ptr target="#A-011-N4"/> da Galli - Granum Nil Avicena dal Ghyno vel
             Habel Nil.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N"> Varie sono le spezie di Volubili come in altro serà manifesto, legi <ref type="internal" target="#A-134">k. 134</ref>. Et de Nil
+          <p> Varie sono le spezie di Volubili come in altro serà manifesto, legi <ref type="internal" target="#A-134">k. 134</ref>. Et de Nil
             simil a questo <ref type="internal" target="#A-141">k. 141</ref>.</p>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In <placeName ref="spagna">Ispagnia</placeName>, in <placeName ref="germania">Germania</placeName> in quantità, et nelli giardini et finestre la esta[te] ne sonno in
+          <p> In <placeName ref="spagna">Ispagnia</placeName>, in <placeName ref="germania">Germania</placeName> in quantità, et nelli giardini et finestre la esta[te] ne sonno in
             quantità per la <placeName ref="italia">Italia</placeName>, dove [ha] preso il nome di Cissampelos.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Ogni anno seminato rinasce. Suoe campanelle di giugno et vano durando et remetendo
+          <p> Ogni anno seminato rinasce. Suoe campanelle di giugno et vano durando et remetendo
             ogni mattina alla aurora di fresche et nove ma come il sol le vengono imediate si
             seccano et per questo a preso il nome di fior di notte, suoi folicoli poi.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> Non son oppinione che questa sia la Helsine di Diascoride come al suo cap.
+          <p> Non son oppinione che questa sia la Helsine di Diascoride come al suo cap.
             dimostrarò. L'ecc. <persName ref="ghini-luca">Ghyno</persName> la ritira al Granum Nil de Avicenna overo Habel Nil ma stante
             la scritura delle Pandette altri non voleno ne li corispondeno. Et per quelle parti ho
             vedute son una pianta simile havuta con il nome di Nil ma spinoseta, demostra <ref type="internal" target="#A-141">k. 141</ref>.</p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Figura abbastanza buona di pianta fiorita e fruttifera. Il Michiel ed il <persName ref="gesner-conrad">Gesner</persName> (<ref type="bibl" target="http://id.sbn.it/bid/PUVE006389"><hi>De
+        <div type="editorial-D">
+          <p>Figura abbastanza buona di pianta fiorita e fruttifera. Il Michiel ed il <persName ref="gesner-conrad">Gesner</persName> (<ref type="bibl" target="http://id.sbn.it/bid/PUVE006389"><hi>De
             hortis Germaniae</hi>, f. 255a)</ref> furono i primi ad effigiare questa specie. Linneo, accettando l'identificazione del <persName ref="ghini-luca">Ghini</persName>, lo chiamò Convolvulus Nil benché il Nil degli Arabi
             sia Indigofera tinctoria od altra pianta producente indaco, secondo i vari autori. Il
             fior di notte odierno è <hi>Mirabilis Jalapa</hi>. <ptr target="#A-011-N5"/></p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-011-N1" n="1" anchored="true"> Mittelwindc.</note>
-          <note xml:id="A-011-N2" n="2" anchored="true"> Weingartenwinde.</note>
-          <note xml:id="A-011-N3" n="3" anchored="true"> Campanette v.</note>
-          <note xml:id="A-011-N4" n="4" anchored="true"> Liset</note>
-          <note xml:id="A-011-N5" n="5" anchored="true"> * Del resto <hi>Ipomaca bona-nox L.</hi>, elencata dal SACCARDO (<ref type="bibl" target="http://id.sbn.it/bid/CUB0569627"><hi>Cronologia Fl. Italiana</hi>, Padova 1909</ref>) fra le piante settecentesche, è assai poco distinta da Ip. Nil e
+        <div type="notes">
+          <note xml:id="A-011-N1" n="1"> Mittelwindc.</note>
+          <note xml:id="A-011-N2" n="2"> Weingartenwinde.</note>
+          <note xml:id="A-011-N3" n="3"> Campanette v.</note>
+          <note xml:id="A-011-N4" n="4"> Liset</note>
+          <note xml:id="A-011-N5" n="5"> * Del resto <hi>Ipomaca bona-nox L.</hi>, elencata dal SACCARDO (<ref type="bibl" target="http://id.sbn.it/bid/CUB0569627"><hi>Cronologia Fl. Italiana</hi>, Padova 1909</ref>) fra le piante settecentesche, è assai poco distinta da Ip. Nil e
             da Pk, hederacea, i caratteri differenziali essendo su la tinta della corolla e la forma
             delle foglie, sovente alterate da eterofillia. Non potrebbero essere state confuse tutte
             insieme dal Michiel? (Ed.) </note>

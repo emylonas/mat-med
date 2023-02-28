@@ -4,59 +4,59 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p part="N">Publication information</p>
+        <p>Publication information</p>
       </publicationStmt>
-      <sourceDesc default="false">
-        <p part="N">Information about the source</p>
+      <sourceDesc>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc>
+      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 9 Cedro</head>
-        <ab part="N">[<hi>I. Juniperus Oxycedrus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000355658"/> - [<hi>II. J. macrocarpa S. et S.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000355640"/></ab>
-        <div type="name" part="N" org="uniform" sample="complete">
+        <ab>[<hi>I. Juniperus Oxycedrus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000355658"/> - [<hi>II. J. macrocarpa S. et S.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000355640"/></ab>
+        <div type="name">
           <head>NOMI</head>
-          <p part="N"> Cedrus da Arabi et Latini - Serbin da Greci - Oxicedro da molti - Reomiher da Hebrei nel
+          <p> Cedrus da Arabi et Latini - Serbin da Greci - Oxicedro da molti - Reomiher da Hebrei nel
             Genesis - Ginepro da Diascoride - Sethim dal Esodo cap. 25 et 26 - Alkitran da <persName ref="serapio-junior">Serapione</persName> il
             maggiore <ref type="internal" target="#A-038">[N. 38]</ref>.</p>
         </div>
-        <div type="genus" part="N" org="uniform" sample="complete">
+        <div type="genus">
           <head>GENERA</head>
-          <p part="N">Soto questo nome 4 sonno le spezie di Cedri, due di Theophrasto, queste dipinte due,
+          <p>Soto questo nome 4 sonno le spezie di Cedri, due di Theophrasto, queste dipinte due,
             una delle sacre littere et una Atlantica come dice M. <persName ref="anguillara-luigi">Aloise Anguillara</persName> ne suoi <title ref="http://id.sbn.it/bid/BVEE000526">Pareri</title>
             k. 47. Et quello de Diascoride <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="18"/> son il Genepro volgare - De Sethim legi avanti <ref type="internal" target="#A-089">k. 89</ref>. Et il <persName ref="mattioli-pietro-andrea">Mattiolo</persName> k. 140 ne
             dimostra una spezie del monte Libano con fruto piui presto di picea che di Cedro.</p>
         </div>
-        <div type="shape" part="N" org="uniform" sample="complete">
+        <div type="shape">
           <head>FORMA</head>
-          <note type="editorial-D" anchored="true">[Paragona la pianta ai ginepri e soggiunge in fine: «Et il
+          <note type="editorial-D">[Paragona la pianta ai ginepri e soggiunge in fine: «Et il
             maggiore il fruto di pino ma minor alquanto et il vedreti avanti a <ref type="internal" target="#A-038">k. 38</ref>»].</note>
         </div>
-        <div type="location" part="N" org="uniform" sample="complete">
+        <div type="location">
           <head>LUOGHO</head>
-          <p part="N"> In <placeName ref="phoeniciae">Phenice</placeName>, in <placeName ref="">Licia</placeName>, in <placeName ref="livorno">Livorno</placeName> et a <placeName ref="ostia">Ostia</placeName> apresso a Roma ne son in quantità di
+          <p> In <placeName ref="phoeniciae">Phenice</placeName>, in <placeName ref="">Licia</placeName>, in <placeName ref="livorno">Livorno</placeName> et a <placeName ref="ostia">Ostia</placeName> apresso a Roma ne son in quantità di
             questo Phenicea. Et in <placeName ref="istria">Istria</placeName>, ma per esser simil a Genepri li tolghono in falò per
             Genepri. In <placeName ref="cipro">Cipri</placeName> vengono in tanta procerita che cinque huomeni ci bisognia ad abraciare
             il tronco et con altezza di 25 passa, ma gli optimi sonno in Africa, nel <placeName ref="monte-lebanon">monte Libano</placeName>  et
             a <placeName ref="tripoli">Tripoli</placeName>de Soria.</p>
         </div>
-        <div type="seasonality" part="N" org="uniform" sample="complete">
+        <div type="seasonality">
           <head>TEMPO</head>
-          <p part="N"> Sempre in ogni staggion sonno virenti. Suoi fruti nell'autunno, et sempre inanti che
+          <p> Sempre in ogni staggion sonno virenti. Suoi fruti nell'autunno, et sempre inanti che
             maturati producono gli altri novelli fruti et molte volte il primo vede il terzio.</p>
         </div>
-        <div type="exposure" part="N" org="uniform" sample="complete">
+        <div type="exposure">
           <head>AMANO</head>
-          <p part="N"> Ne monti frigidi et sassosi sonno il suo proprio et non li bisognia tagliare suoe
+          <p> Ne monti frigidi et sassosi sonno il suo proprio et non li bisognia tagliare suoe
             cime, impero <ptr target="#A-009-N1"/> si muore et piui non germinano.</p>
         </div>
-        <div type="opinions" part="N" org="uniform" sample="complete">
+        <div type="opinions">
           <head>OPPINIONI</head>
-          <p part="N"> L'<persName ref="aldrovandi-ulisse">Aldrovandi</persName> tiene ch'il Cedro phenicea vel Oxicedro sia quella spezie de Junipero che
+          <p> L'<persName ref="aldrovandi-ulisse">Aldrovandi</persName> tiene ch'il Cedro phenicea vel Oxicedro sia quella spezie de Junipero che
             descrive Diascoride quando dice <ptr target="#A-009-N2"/> «Baccarum non nulle nucem pontu equar nar.a» lui
             intende di questo <hi>Cedro phenicea</hi>. Et Plinio par che confundano li giuniperi facendone di
             4 spezie et quello Cedralite son depinto dal <persName ref="belon-pierre">Belonio</persName> nel suo libro <ref type="bibl" target="http://id.sbn.it/bid/CFIE000031">de Resiniferis</ref>, et
@@ -65,38 +65,38 @@
             chiamorno Ginepri. Et il <persName ref="guilandino-melchiorre">Guilandini</persName> nel Membro 24 <ptr target="#A-009-N3"/> tiene che il Cedro maggior de
             Greci sia il Larice de Latini et con molti belli discorsi.</p>
         </div>
-        <div type="properties" part="N" org="uniform" sample="complete">
+        <div type="properties">
           <head>VIRTÙ</head>
-          <p part="N">Il Cedro tiene il suo legnio di eternita dunde li antiqui di lui ne faceano statue come
+          <p>Il Cedro tiene il suo legnio di eternita dunde li antiqui di lui ne faceano statue come
             fu la statua di Apoline Sosiano. Et nel tempio di Salamone si vegono maraviglie. In
             <placeName ref="siria">Soria</placeName> li usano per le navi ma no tiene chiodi et onto con oglio non intarla. Et son
             calido et secho quasi nel terzio ordine. Et la suoa Ragia chiamata Cedria legesi in
             Diascoride... </p>
         </div>
-        <div type="editorial-D" part="N" org="uniform" sample="complete">
-          <p part="N">Pianta sterile in mezzo, rametto fruttifero a sinistra e frutto isolato a destra. In
+        <div type="editorial-D">
+          <p>Pianta sterile in mezzo, rametto fruttifero a sinistra e frutto isolato a destra. In
             alto due figure rappresentanti statue nella nicchia, la prima colla scritta «Statua»
             sembra quella di Apollo sopra nominata, la seconda colla scritta «Eterna» è di donna con
             un calice in una mano ed un mazzo di fiori nell'altra, forse la Fede.</p>
           <fw type="running-head" place="top">LIBRO AZZURRO</fw>
           <pb n="19"/>
-          <p part="N">Il rametto fruttifero ed il frutto isolato sono della seconda specie, la pianta sterile
+          <p>Il rametto fruttifero ed il frutto isolato sono della seconda specie, la pianta sterile
             è della prima. A questo proposito avvertiamo che le parole all'articolo «Genera»
             vanno intese così: «dei quattro cedri ve ne sono due di Teofrasto, cioè quelli qui
             dipinti (i ginepri), un terzo della Bibbia ed un quarto nascente ne' monti dell'Atlante, come già spiega l'<persName ref="anguillara-luigi">Anguillara</persName>».</p>
-          <p part="N">All'articolo «Forma» è nominato un «cedro maggiore», il quale è il cedro del Libano
+          <p>All'articolo «Forma» è nominato un «cedro maggiore», il quale è il cedro del Libano
             figurato dal <persName ref="mattioli-pietro-andrea">Mattioli</persName>, come più sopra dice il nostro autore. Il Michiel poi ne parla
             oscuramente al <ref type="internal" target="#A-038">N. 38</ref>, limitandosi a citar l'<persName ref="anguillara-luigi">Anguillara</persName> che più ampiamente ne
             discorre.</p>
-          <p part="N">Facendo poi i debiti confronti col testo dell'<persName ref="anguillara-luigi">Anguillara</persName>, deduciamo che la prima di
+          <p>Facendo poi i debiti confronti col testo dell'<persName ref="anguillara-luigi">Anguillara</persName>, deduciamo che la prima di
             queste figure rappresenta il suo Cedro II o Ginepro II, la seconda il suo Cedro I di
             Teofrasto o Ginepro I di Dioscoride.</p>
-          <p part="N">L'osservazione del Michiel sul Cedro del Libano figurato dal <persName ref="mattioli-pietro-andrea">Mattioli</persName> proviene dalla
+          <p>L'osservazione del Michiel sul Cedro del Libano figurato dal <persName ref="mattioli-pietro-andrea">Mattioli</persName> proviene dalla
             prevenzione che i Cedri dovessero aver frutti a galbulo come i ginepri, mentre il
             Mattioli fece conoscere che il Cedro del Libano ha per frutti delle pigne. Da ciò la
             poca persuasione del Michiel che esso fosse un Cedro, la quale si basava sopra un passo
             mal trascritto da Dioscoride che fu ridotto alla giusta lezione dal <persName ref="mattioli-pietro-andrea">Mattioli</persName>. <ptr target="#A-009-N4"/></p>
-          <p part="N">Π passo in questione è: «<foreign xml:lang="grc">Κέδρος δένδρον εστί μέγα εξ ου η
+          <p>Π passo in questione è: «<foreign xml:lang="grc">Κέδρος δένδρον εστί μέγα εξ ου η
               λεγομένη κεδρία συνάγεται. καρπόν δε έχει ώσπερ κυπαρίσσου, μακρότερον μεν παρά πολύ.
               λέγεται δε και άλλη κέδρος μικρά, ακανθώδης ώσπερ άρκευθος, φέρουσα καρπόν μέγεθος
               μύρτου περιφερή</foreign>». Come si vede, Dioscoride paragona il frutto del Cedro
@@ -106,20 +106,20 @@
             scritto che il Cedro maggiore (Cedrus Libanotica Lk.) ha frutti di ginepro e di mirto.
             Dietro questa credenza il <persName ref="rinio-benedetto">Rinio</persName> a c. 425 fece una figura fittizia di Cedro del Libano
             con galbuli di ginepro.</p>
-          <p part="N">Non comprendiamo poi con qual fondamento lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> asserisca che il <persName ref="mattioli-pietro-andrea">Mattioli</persName> erra
+          <p>Non comprendiamo poi con qual fondamento lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref> asserisca che il <persName ref="mattioli-pietro-andrea">Mattioli</persName> erra
             con Dioscoride, ammettendo che il Cedro maggiore sia baccifero.</p>
         </div>
-        <div type="notes" part="N" org="uniform" sample="complete">
-          <note xml:id="A-009-N1" n="1" anchored="true"> Imperocché.</note>
-          <note xml:id="A-009-N2" n="2" anchored="true">* Il passo cui si riferisce qui il Michiel si legge nel <ref type="bibl" target="http://id.sbn.it/bid/RMLE006854">Dioscoride curato
+        <div type="notes">
+          <note xml:id="A-009-N1" n="1"> Imperocché.</note>
+          <note xml:id="A-009-N2" n="2">* Il passo cui si riferisce qui il Michiel si legge nel <ref type="bibl" target="http://id.sbn.it/bid/RMLE006854">Dioscoride curato
             dal Ruellio (Lugduni, 1552, p. 84)</ref>: «Baccarum nonnullae nucis juglandis magnitudine
             nonnunquam grandescere, aliae nucem Ponticam acquare inveniuntur...» (Ed.)</note>
-          <note xml:id="A-009-N3" n="3" anchored="true">* <ref type="bibl" target="http://id.sbn.it/bid/BVEE008573">M. GUILANDINI, <hi>Papyrus, hoc est Commentarius in tria C. Plinij maioris de
+          <note xml:id="A-009-N3" n="3">* <ref type="bibl" target="http://id.sbn.it/bid/BVEE008573">M. GUILANDINI, <hi>Papyrus, hoc est Commentarius in tria C. Plinij maioris de
             Papyro capita</hi> (Venezia, 1572)</ref>, «Membro XXIIII» (che va da p. 199 a p. 290).
             (Ed.)</note>
-          <note xml:id="A-009-N4" n="4" anchored="true">* La correzione fu fatta dal <persName ref="mattioli-pietro-andrea">Mattioli</persName>, come dice egli stesso <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">(ed. Valgrisi,
+          <note xml:id="A-009-N4" n="4">* La correzione fu fatta dal <persName ref="mattioli-pietro-andrea">Mattioli</persName>, come dice egli stesso <ref type="bibl" target="http://id.sbn.it/bid/RMLE007083">(ed. Valgrisi,
             1568, pag. 141)</ref>, valendosi di «uno essemplare d'un Dioscoride antico hauto in
-            <placeName ref="costantinopoli">Costantinopoli</placeName> dal Sig. <persName ref="">Antonio Cantacuzeno</persName>, gentilhomo di quella città, con il cui
+            <placeName ref="costantinopoli">Costantinopoli</placeName> dal Sig. <persName ref="cantacuzeno-antonio">Antonio Cantacuzeno</persName>, gentilhomo di quella città, con il cui
             testimonio sono io restato chiaro, che i Dioscoridi greci che vanno communemente attorno
             nelle librarie, sono tutti scorretti, ecc. (Ed.) </note>
         </div>
