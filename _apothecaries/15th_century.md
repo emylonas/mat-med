@@ -8,7 +8,7 @@ classes: wide
 
 One of the oldest and most detailed depictions of the interior of an apothecary shop is a fresco at the castle of Issogne, in Val d’Aosta (North-West Italy). Frescoed in the Renaissance period, it actually intends to recreate a medieval setting.
 
-<figure><img src="{{ site.baseurl }}assets/img/72dpi_fresco_all.jpg" /><figcaption>Apothecary shop, fresco, 1489-1502, Castello Challant, Issogne (Valle d'Aosta). By kind permission of the local Soprintendenza per i Beni e le Attività Culturali
+<figure><a href="{{ site.baseurl }}assets/img/72dpi_fresco_all.jpg" class="image-popup"><img src="{{ site.baseurl }}assets/img/72dpi_fresco_all.jpg" /></a><figcaption>Apothecary shop, fresco, 1489-1502, Castello Challant, Issogne (Valle d'Aosta). By kind permission of the local Soprintendenza per i Beni e le Attività Culturali
 </figcaption></figure>
 
 This was an apothecary shop that served the few inhabitants of a mountainous area in North-West Italy, selling not only medicines but also a range of products for everyday life.
@@ -50,15 +50,16 @@ The 18 faience vessels on the bottom-most shelf contain distilled waters.
 The second shelf holds eight amphorae of oils on the left side. The first is labelled Oleum rosatum.
 
 <figure><img src="{{ site.baseurl }}assets/img/a-shelf2-jars.jpg" /><figcaption>Detail showing eight jars on the right hand side of the second shelf</figcaption></figure>
-<!-- <figure style="float:right;max-width:40%;vertical-align:middle;margin-left:30px; border-style:solid;border-color:black;border-width:thin;"><img src="{{ site.baseurl }}assets/img/a-alkermes-recipe.jpg" /><figcaption>Alkermes recipe in <em>Lessico farmaceutico-chimico</em></figcaption></figure> -->
+
 On the right side of the second shelf are jars with jams and preserves.
 
-* Alkermes  For the recipe for alkermes syrup “a base di sciroppo di cocciniglia” (based on cochineal syrup), see Capello, _Lessico farmaceutico-chimico_, p. 52, _Confezion Alchermes_
-* Conserva rosacea
-* Conserva olivarum
-* Conserva rosarum
-* Conserva pomorum
-
+<ul>
+<li><a href="{{ site.baseurl }}assets/img/a-alkermes-recipe.jpg" class="image-popup"><img src="{{ site.baseurl }}assets/img/a-alkermes-recipe.jpg" style="float:right;max-width:20%;vertical-align:middle;margin-left:30px"/></a>Alkermes  For the recipe for alkermes syrup “a base di sciroppo di cocciniglia” (based on cochineal syrup), see Capello, <i>Lessico farmaceutico-chimico</i>, p. 52, <i>Confezion Alchermes</i></li>
+<li>Conserva rosacea</li>
+<li>Conserva olivarum</li>
+<li>Conserva rosarum</li>
+<li>Conserva pomorum</li>
+</ul>
 Hanging from the fourth shelf on hooks are: white and coloured wax torches, wax candles, wicks for torches, sponges and cylinders of melted sulphur tied with string, large red and green blocks of wax for seals, worked with Savoy coats of arms; a small saddled horse (ex voto for St. Egidio), a human figure and a wax leg (ex voto for the healing of a person and a limb).
 
 ### Fourth Shelf

@@ -25,11 +25,10 @@ identifications.
 
 **Files relevant to the encoding process**
 -   Encoding Documentation (Draft Version):
-     [https://emylonas.reclaim.hosting/mat-med/doc/](https://www.google.com/url?q=https://emylonas.reclaim.hosting/mat-med/doc/&sa=D&source=editors&ust=1677537176547657&usg=AOvVaw34qv7TBzvPklArN2TIR45N)
+     [https://github.com/emylonas/mat-med/blob/main/assets/xml/DRAFTEncodingDoc.pdf](https://github.com/emylonas/mat-med/blob/main/assets/xml/DRAFTEncodingDoc.pdf)
 -   Libro Azzurro encoded in XML:
-    [https://github.com/emylonas/mat-med/blob/main/assets/xml/michiele-azzurro.xml](https://www.google.com/url?q=https://github.com/emylonas/mat-med/blob/main/assets/xml/michiele-azzurro.xml&sa=D&source=editors&ust=1677537176548315&usg=AOvVaw3gp7h3-5MFyzkSegp7UfJN)
--   Mat Med TEI customization:
-    [https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_MatMed.rng](https://www.google.com/url?q=https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_MatMed.rng&sa=D&source=editors&ust=1677537176548985&usg=AOvVaw1wKGh3DCHjqwf0AmUpGHBj)
+    [https://github.com/emylonas/mat-med/blob/main/assets/xml/michiele-azzurro.xml](https://github.com/emylonas/mat-med/blob/main/assets/xml/michiele-azzurro.xml)
+-   Mat Med TEI customization: [https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_MatMed.rng](https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_MatMed.rng)
 -   ODD file for generating the TEI customization: [https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_simplePrint-matMed.odd](https://github.com/emylonas/mat-med/blob/main/assets/xml/tei_simplePrint-matMed.odd)
 
 Currently the *Libro Azzurro* has been encoded, and it is possible
@@ -43,7 +42,7 @@ the Michiel Herbal.
 In order to publish the project on the web it was necessary to find a
 framework that could handle XML and lend itself to automated
 regeneration of the site, so that Dr. Minuzzi could easily edit and
-generate new versions of the site. TEI Publisher
+generate new versions of the site. It also had to be easily portable, couldn’t rely on significant infrastructure, and had to be as sustainable as possible with little support. TEI Publisher
 ([https://teipublisher.com/index.html](https://www.google.com/url?q=https://teipublisher.com/index.html&sa=D&source=editors&ust=1677537176550241&usg=AOvVaw0PrwEo-x6RFvksfCqdy8Pz))
 initially seemed to be a good choice, as it is a native TEI online
 publishing system. However, at the time when we were working with it, it
@@ -52,16 +51,16 @@ cost-prohibitive, and did not fit the constraints of most institutional
 hosting. TEI Publisher is now able to generate a static site, but this
 wasn't the case 2 years ago.
 
-The group decided to use a static site generator in order to have a
+The team decided to use a static site generator in order to have a
 site that would require no back end support, and so would be easy to
 host. We chose Jekyll and the Minimal Mistakes theme. Jekyll has the
-advantage that it is also native to GitHub and can be set up so as to
-generate a new site whenever changes are committed and pushed to GitHub,
-so a scholar editing the site can make edits or add content and make it
+advantage that it is also native to GitHub; it can be set up to
+generate a new site whenever changes are committed and pushed to GitHub. This
+enambles scholars or content specialists to edit the site or add content, and make it
 live without intervention from technical contributors.
 The project received 20 hours of design help from the Brown University
 Library, to create a header graphic and provide help with layout and
-consistency.
+consistency. We added CSS, Javascript and new layouts to the theme, but have not made changes to its basic structure.
 The website consists of three main components - two expository sections
 on gardens and apothecary shops in Venice, and the Michiel edition. The
 first two are edited directly in Jekyll using Markdown or HTML as
@@ -79,8 +78,8 @@ The project is in the process of acquiring the domain name
 `materiamedicaintransit.eu`.
 
 **Documentation**
-The project plans to publish a description of the process and work flow
-they are using, as well as encoding documentation, on the website.
+The project plans to add to the description of the process and work flow,
+as well as expanding the encoding documentation, on the website.
 
 **Future Work**
 As noted above, the work that has been done to add XML markup to the

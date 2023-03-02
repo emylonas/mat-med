@@ -98,7 +98,7 @@
         <persName xml:id="Priuli" ref="https://www.treccani.it/enciclopedia/lorenzo-priuli_%28Dizionario-Biografico%29/">Priuli, Lorenzo</persName>
       </person>
       <person>
-        <persName xml:id="Moderato">Moderato, Liberale</persName>
+        <persName xml:id="Moderato">Moderato, Giulio</persName> <note>Possessore di un giardino a Rimini.</note>
       </person>
       <person>
         <persName xml:id="Gesner" ref="http://thesaurus.cerl.org/record/cnp01317315">Gesner, Conrad</persName>
@@ -179,9 +179,14 @@
         <persName xml:id="Tolomei">Tolomei, Antonio</persName> <note>Semplicista francese (Tholomé, Antoine?) che inviava piante a Michiel, attivo fra Lione e la Corsica</note>
       </person>
       <person>
-        <persName xml:id="Cantacuzeno">Cantacuzeno, Antonio</persName>
+        <persName xml:id="Cantacuzeno">Cantacuzenus, Antonio</persName>
       </person>
-      
+      <person>
+        <persName xml:id="VeneziaFrancescani" ref="http://viaf.org/viaf/57158790636338852116">Venezia, Francescani, S. Francesco della Vigna, OFM</persName>
+      </person>
+      <person>
+        <persName xml:id="Morelli" ref="https://www.treccani.it/enciclopedia/jacopo-morelli_%28Dizionario-Biografico%29/ ">Morelli, Jacopo</persName>
+      </person>
     </listPerson>
     
     <listPlace>
@@ -483,7 +488,7 @@
   
   <text>
     <front>
-      <div type="preface">
+      <div type="preface" xml:id="A-000">
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="11"/>
         <head>LIBRO DE ALBORI, FRUTICI ET IN VOGLI</head>
@@ -3232,7 +3237,7 @@
         </div>
         <div type="location">
           <head>LUOGHO</head>
-          <p> Ne' monti de Italia ne sonno. Et li frati zocolanti <persName ref="#SanFrancesco">in San Francesco</persName> nel suo
+          <p> Ne' monti de Italia ne sonno. Et li frati zocolanti <persName ref="#VeneziaFrancescani">in San Francesco</persName> nel suo
             giardineto ne ha uno.</p>
         </div>
         <div type="opinions">
@@ -6369,7 +6374,7 @@
         <div type="notes">
           <note xml:id="A-129-N1" n="1"> Mal trascritto da <foreign xml:lang="grc">λευκὸϊον</foreign> (viola bianca), nome conveniente alle altre due
             specie di gelsomini.</note>
-          <note xml:id="A-129-N2" n="2"> I. officinalo.</note>
+          <note xml:id="A-129-N2" n="2"> I. officinale.</note>
           <note xml:id="A-129-N3" n="3"> I. grandiflorum. </note>
         </div>
       </div>

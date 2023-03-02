@@ -94,7 +94,7 @@ Alternate Names: Anguillara, Alvise
  - [N. 125 Jaruma Albero de India]({{ site.baseurl }}edition/plant125/) 
  - [N. 126 Tithimalo Dendroide]({{ site.baseurl }}edition/plant126/) 
                    
-## [Cantacuzeno, Antonio]()
+## [Cantacuzenus, Antonio]()
 
  - [N. 9 Cedro]({{ site.baseurl }}edition/plant009/) 
                    
@@ -234,12 +234,15 @@ Speziale attivo a Venezia all'insegna dell'Angelo, chiamato Cechin (o Cecchin) a
  - [N. 47 Albero da l'Uva]({{ site.baseurl }}edition/plant047/) 
  - [N. 48 Agrifolio]({{ site.baseurl }}edition/plant048/) 
                    
-## [Moderato, Liberale]()
+## [Moderato, Giulio]()
 
+    
+Possessore di un giardino a Rimini.
  - [N. 23 Scamonea]({{ site.baseurl }}edition/plant023/) 
                    
-## []()
+## [Morelli, Jacopo](https://www.treccani.it/enciclopedia/jacopo-morelli_%28Dizionario-Biografico%29/ )
 
+ - [LIBRO DE ALBORI, FRUTICI ET IN VOGLI]({{ site.baseurl }}edition/plant000/) 
                    
 ## [Pasqualigo, Filippo](http://viaf.org/viaf/289809522)
 
@@ -302,10 +305,6 @@ Alternate Names: Rinius, Benedictus
 Alternate Names: Gualtieri
  - [N. 7 Vite Bianca Vulgare]({{ site.baseurl }}edition/plant007/) [2]
                    
-## []()
-
- - [N. 65 Sorbo Terminale]({{ site.baseurl }}edition/plant065/) 
-                   
 ## [Serapio, Junior](http://thesaurus.cerl.org/record/cnp00152538)
 
  - [N. 9 Cedro]({{ site.baseurl }}edition/plant009/) 
@@ -343,6 +342,10 @@ Semplicista francese (Tholomé, Antoine?) che inviava piante a Michiel, attivo f
 Esperto semplicista, botanico, matematico, costruttore di orologi solari, 
           fra il 1634 ed il 1636 fu prefetto dell'Orto Botanico di Pisa. Frate dell'Ordine dei Servi, nacque a Perugia e morì a Pisa.
  - [N. 50 Seco Moro Fratesco]({{ site.baseurl }}edition/plant050/) 
+                   
+## [Venezia, Francescani, S. Francesco della Vigna, OFM](http://viaf.org/viaf/57158790636338852116)
+
+ - [N. 65 Sorbo Terminale]({{ site.baseurl }}edition/plant065/) 
                    
 ## [Vergilius Maro, Publius](https://isni.org/isni/0000000430695667)
 

@@ -93,7 +93,7 @@ tei-div[type="notes"]::before {
 
 tei-div[type="notes"] tei-note {
   display: block;
-  font-size: 1em!important;
+  font-size: .875em!important;
 }
 
 

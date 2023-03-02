@@ -113,9 +113,9 @@ This list provides access to people who are mentioned in the Michiele text and t
 </xsl:text><xsl:value-of select="following-sibling::t:note"/></xsl:if>
 </xsl:for-each>
                
-               <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant']/@xml:id">
+               <xsl:for-each-group select="current-group()" group-by="ancestor::t:div[@type='plant' or @type='preface']/@xml:id">
                    <xsl:text>
- - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant']/t:head"/><xsl:text>]({{ site.baseurl }}edition/plant</xsl:text><xsl:value-of select="substring-after(ancestor::t:div[@type='plant']/@xml:id, '-')"/><xsl:text>/) </xsl:text> 
+ - [</xsl:text><xsl:value-of select="ancestor::t:div[@type='plant'  or @type='preface']/t:head"/><xsl:text>]({{ site.baseurl }}edition/plant</xsl:text><xsl:value-of select="substring-after(ancestor::t:div[@type='plant' or @type='preface']/@xml:id, '-')"/><xsl:text>/) </xsl:text> 
                    <xsl:if test="count(current-group()) > 1">
                        <xsl:value-of select="concat('[',count(current-group()),']')"/>
                    </xsl:if>

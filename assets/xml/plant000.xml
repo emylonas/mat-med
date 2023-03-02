@@ -15,7 +15,7 @@
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
-  </teiHeader><div type="preface">
+  </teiHeader><div type="preface" xml:id="A-000">
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="11"/>
         <head>LIBRO DE ALBORI, FRUTICI ET IN VOGLI</head>
