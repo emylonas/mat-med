@@ -65,4 +65,4 @@ Hanging from the fourth shelf on hooks are: white and coloured wax torches, wax 
 ### Fourth Shelf
 
 <figure><img src="{{ site.baseurl }}assets/img/a-shelf4-det.jpg" /><figcaption>Detail showing paper lined boxes on the top shelf </figcaption></figure>
-The top shelf holds round boxes and wooden crates. These are lined on the inside with paper and contain herbs, roots, spices, seeds, pills, trocis (troches? lozenges?), sugar, resin, etc.
+The top shelf holds round boxes and wooden crates. These are lined on the inside with paper and contain herbs, roots, spices, seeds, pills, troches, sugar, resin, etc.
