@@ -14,7 +14,7 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 url                      : "https://emylonas.github.io"
-baseurl                  : "/mat-med/"
+baseurl                  : "/a/"
 
 # THEME-SETTINGS-RECLAIM
 # theme                    : "minimal-mistakes-jekyll"

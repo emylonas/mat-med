@@ -2,7 +2,7 @@
 Title: "Vittoria"
 permalink: "/gardens/vittoria/"
 layout: single
-map-detail: "/assets/img/g-vitorria-det.png"
+map-detail: "/assets/img/g-vittoria-det.png"
 map-overview: "/assets/img/Venice-thumb.png"
 
 ---

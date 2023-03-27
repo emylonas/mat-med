@@ -40,12 +40,12 @@ A widower with a daughter, Cipriana, Angelo Bergognin subsequently married the d
 <br/> c. 4v </a> </span>
 </div>
 
-## Learn more: 
-- Richard Palmer, ‘The influence of botanical research on pharmacists in Sixteenth century Venice’, _NTM-Schriftnenrheie für Geschichte der Naturwissenshaften Teknik und Medizin_, 21, 1984/2, pp. 69-80 
-- Sabrina Minuzzi, ‘Il medico Tommaso Giannotti Rangone (1493-1577) nell’economia della cura ovvero un trionfo di libri, segreti e _regimen sanitatis_’, _Medicina & Storia_, N.S., 1/2013, 29-66: 49-50.
+## Learn more:
+* Richard Palmer, ‘The influence of botanical research on pharmacists in Sixteenth century Venice’, _NTM-Schriftnenrheie für Geschichte der Naturwissenshaften Teknik und Medizin_, 21, 1984/2, pp. 69-80
+* Sabrina Minuzzi, ‘Il medico Tommaso Giannotti Rangone (1493-1577) nell’economia della cura ovvero un trionfo di libri, segreti e _regimen sanitatis_’, _Medicina & Storia_, N.S., 1/2013, 29-66: 49-50.
 
 ----------
 
-<p style="font-size: .875em;"><a name="_ftn1">[1]</a> ASV, _Cancelleria inferiore, Miscellanea notai diversi, Inventari_, b. 43, n. 17, 1° dicembre 1589.</p>
+<p><a name="_ftn1">[1]</a> ASV, _Cancelleria inferiore, Miscellanea notai diversi, Inventari_, b. 43, n. 17, 1° dicembre 1589.</p>
 
-<p style="font-size: .875em;"><a name="_ftn2">[2]</a> Venice, Museo Correr Library, Mariegola 209, I, ff. 33v-34r</p>
+<p><a name="_ftn2">[2]</a> Venice, Museo Correr Library, Mariegola 209, I, ff. 33v-34r</p>

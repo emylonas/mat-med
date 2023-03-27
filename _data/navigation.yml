@@ -69,7 +69,9 @@ gardens:
       - title: Giovanni Beni
         url:  /gardens/beni/
       - title: Pietro Bosello
-        url:  /gardens/bosello/
+        url:  /gardens/Bosello/
+      - title: Carmelitani
+        url:  /gardens/carmelitani/
       - title: Contarini Family (Madonna dell’Orto)
         url:  /gardens/contarini-orto/
       - title: Contarini Family (S. Samuel)
@@ -120,7 +122,7 @@ edition:
     children:
       - title: Editorial Note
         url:  /edition/index/
-      - title: 
+      - title:
       - title: Preface
         url:  /edition/plant000/
       - title: 1 Ciruelas Monteses

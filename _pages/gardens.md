@@ -35,9 +35,9 @@ sidebar:
 
  <!-- Murano - Grimani Family (St. Chiara) -->
  <a href="{{ site.baseurl }}gardens/grimani/">
-   <circle cx="2340" cy="535" class="svg-outer" />
-   <circle cx="2340" cy="535" class="svg-inner" />
-   <text x="2300" y="555" style="text-anchor:end" class="svg-map-label">Grimani Family</text>
+   <circle cx="2340" cy="505" class="svg-outer" />
+   <circle cx="2340" cy="505" class="svg-inner" />
+   <text x="2300" y="525" style="text-anchor:end" class="svg-map-label">Grimani Family</text>
  </a>
 
  <!-- Murano - Mocenigo Family-->
@@ -153,10 +153,10 @@ sidebar:
 </a>
 
 <!-- Carmelitani -->
-<a href="{{ site.baseurl }}gardens/xx/">
+<a href="{{ site.baseurl }}gardens/carmelitani/">
   <circle cx="555" cy="580" class="svg-outer" />
   <circle cx="555" cy="580" class="svg-inner" />
-  <text x="605" y="600" class="svg-map-label">??Carmelitani</text>
+  <text x="605" y="600" class="svg-map-label">Carmelitani</text>
 </a>
 
 <!-- Foscarini ai Carmini -->
@@ -175,9 +175,9 @@ sidebar:
 
 <!-- Giovanni Beni -->
 <a href="{{ site.baseurl }}gardens/beni/">
-  <circle cx="475" cy="905" class="svg-outer" />
-  <circle cx="475" cy="905" class="svg-inner" />
-  <text x="425" y="925" class="svg-map-label">Giovanni Benni</text>
+  <circle cx="1870" cy="852" class="svg-outer" />
+  <circle cx="1870" cy="852" class="svg-inner" />
+  <text x="1870" y="872" class="svg-map-label">Giovanni Beni</text>
 </a>
 
 <!-- Lorenzo Patarol -->

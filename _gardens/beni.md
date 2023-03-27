@@ -2,15 +2,15 @@
 Title: "Giovanni Beni Garden"
 permalink: "/gardens/beni/"
 name-stub: "beni"
-layout: single
 map-detail: "/assets/img/g-beni-det.png"
+layout: single
 map-overview: "/assets/img/Venice-thumb.png"
 
 ---
 
 ## Giovanni Beni Garden
 
-<figure><img src="/assets/img/g-{{ page.name-stub }}-det.png" class="img-ctr" align="center"/></figure>
+<figure><img src="{{ page.map-detail | relative_url }}" class="img-ctr" align="center"/></figure>
 
 ### Description
 

@@ -240,7 +240,7 @@ div#TEI {
 
   @font-face {
 	font-family: "BodoniOrnaments";
-	src: url("https://emylonas.github.io/xml-minimal/assets/fonts/bodoni_ornaments.woff2") format("woff2");
+	src: url("/a/assets/fonts/bodoni_ornaments.woff2") format("woff2");
 	font-style: normal;
 	font-weight: normal;
 	}
