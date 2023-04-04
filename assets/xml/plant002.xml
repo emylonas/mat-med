@@ -4,24 +4,24 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 2 Incognita</head>
 
-        <ab>[<hi>Sambucus racemosa L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/> <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30056767-2"/></ab>
+        <ab part="N">[<hi>Sambucus racemosa L.</hi>]<ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000439333"/> <ref type="kew" target="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30056767-2"/></ab>
 
-        <div type="editorial-D">
-          <p>Il verso della pagina è bianco. Nel recto una figura incompletamente dipinta di ramo
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Il verso della pagina è bianco. Nel recto una figura incompletamente dipinta di ramo
             fruttifero. Il disegno completo colla nomenclatura è a <ref type="internal" target="#A-066">N. 66</ref>. Notiamo che il <persName ref="ghini-luca">Ghini</persName>
             a <placeName ref="pisa">Pisa</placeName> coltivava un <hi rendition="italic">Frutex incognitus</hi>
             di cui dà la descrizione <ref type="bibl" target="http://id.sbn.it/bid/MOD0412287">[305]</ref> 

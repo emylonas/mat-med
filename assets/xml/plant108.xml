@@ -4,64 +4,64 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 108 Frutice Incognito</head>
-        <ab>[<hi>I. Vaccinium Vitis Idaea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421966"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261823-2"/> </ab> <ab> [<hi>II. Vaccinium Myrtillus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422209"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30006039-2"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>I. Vaccinium Vitis Idaea L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000421966"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:261823-2"/> </ab> <ab part="N"> [<hi>II. Vaccinium Myrtillus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000422209"/> <ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30006039-2"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Incognito frutice - Uva d'Orso dal Anguillara - Loto da alcuni spetie questa seconda
+          <p part="N"> Incognito frutice - Uva d'Orso dal Anguillara - Loto da alcuni spetie questa seconda
             mostra Arctostaphilo da Greci — Vigna del Orso per l'Apenino - Vitis Idea da
             Theophrasto.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Due mostre ci sonno consimili. Et de lothi legi nel lib. primo purpureo k. 116.</p>
+          <p part="N"> Due mostre ci sonno consimili. Et de lothi legi nel lib. primo purpureo k. 116.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p>L'altra mostra [II] simile ma le suoe foglie piui rotonde et all'inorno dentate.
+          <p part="N">L'altra mostra [II] simile ma le suoe foglie piui rotonde et all'inorno dentate.
             Suoi fruti neri con semi dentro neri lungheti de imperfetta forma.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne monti bologniesi alti et in Romagnia. Et l'altra mostra di Levante.</p>
+          <p part="N"> Ne monti bologniesi alti et in Romagnia. Et l'altra mostra di Levante.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> A primavera rimette suoe frondi. Li fruti di Giugnio poi.</p>
+          <p part="N"> A primavera rimette suoe frondi. Li fruti di Giugnio poi.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 90 parla de uva d'orso, potria esser questo. Et l'altra mostra sonno
+          <p part="N"> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 90 parla de uva d'orso, potria esser questo. Et l'altra mostra sonno
             molti che la ritira a specie di Loto.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Leggi di sopra. Ma che questa sia l'Uva di Orso di Galeno al 7 de medicamenti el ce da
+          <p part="N"> Leggi di sopra. Ma che questa sia l'Uva di Orso di Galeno al 7 de medicamenti el ce da
             fare perché lui dice havere frondi simili all'Arbuto et queste quasi rotonde.</p>
         </div>
-        <div type="editorial-D">
-          <p>Anche oggidì per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Anche oggidì per la somiglianza delle foglie piccole, coriacee, intere, punteggiate
             e persistenti e delle bacche rosse il volgo confonde sotto i nomi di uva d'orso, mirtillo rosso le due specie Arctostaphylos Uva-Ursi e Vaccinium Vitis-Idaea. Il Michiel
             però ebbe sospetto trattarsi di due piante differenti perché dopo avere scritto che
             quella qui figurata potrebb'essere l'Uva d'Orso dell'Anguillara aggiunge che essa ha le
             foglie quasi rotonde e non d'arbuto come dice Galeno. Ed avendo più tardi vista la
             pianta in fiore aggiunse nella diagnosi: «suoi fiori in corimbeti piccolini et
             bianchezzi».</p>
-          <p>La prima figura è di pianta fiorita e fruttifera con a destra una foglia ed una bacca,
+          <p part="N">La prima figura è di pianta fiorita e fruttifera con a destra una foglia ed una bacca,
             a sinistra un ramo fiorito della seconda pianta. Il Trago aveva già figurata la specie
             col nome Myrtillus exiguus.</p>
-          <p>La seconda figura è un ramo fiorifero rozzamente disegnato.</p>
+          <p part="N">La seconda figura è un ramo fiorifero rozzamente disegnato.</p>
         </div>
       </body></text></TEI>

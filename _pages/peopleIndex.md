@@ -242,7 +242,7 @@ Possessore di un giardino a Rimini.
                    
 ## [Morelli, Jacopo](https://www.treccani.it/enciclopedia/jacopo-morelli_%28Dizionario-Biografico%29/ )
 
- - [LIBRO DE ALBORI, FRUTICI ET IN VOGLI]({{ site.baseurl }}edition/plant000/) 
+ - [LIBRO DE ALBORI, FRUTICI ET IN VOGLI Preface]({{ site.baseurl }}edition/plant000/) 
                    
 ## [Pasqualigo, Filippo](http://viaf.org/viaf/289809522)
 

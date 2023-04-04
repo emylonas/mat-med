@@ -4,53 +4,53 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 61 Zarnab</head>
-        <ab>[<hi>Not identified</hi>]</ab>
-        <div type="name">
+        <ab part="N">[<hi>Not identified</hi>]</ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Zarnab da <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298">le Pandette [di Matteo Silvatico]</ref>.</p>
+          <p part="N"> Zarnab da <ref type="bibl" target="http://id.sbn.it/bid/RMLE009298">le Pandette [di Matteo Silvatico]</ref>.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoe radice legnose, son albero grande con foglie di salice che hanno odore che
+          <p part="N"> Suoe radice legnose, son albero grande con foglie di salice che hanno odore che
             respira al Citro et non fa fruto.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In <placeName ref="arabia">Arabia</placeName> et in <placeName ref="damietta">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
+          <p part="N"> In <placeName ref="arabia">Arabia</placeName> et in <placeName ref="damietta">Damiata</placeName>. Io ne hebbi una mostra secha.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Sempre verdeggia. Et dice le Pandette non far fruto.</p>
+          <p part="N"> Sempre verdeggia. Et dice le Pandette non far fruto.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Questo albero sempre che suoe frondi rispira d'odore di Citro sarà il Zarnab delle Pandette</p>
+          <p part="N"> Questo albero sempre che suoe frondi rispira d'odore di Citro sarà il Zarnab delle Pandette</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Per esser il suo odore simil al citro puol valere come quello. Et leggesi nelle
+          <p part="N"> Per esser il suo odore simil al citro puol valere come quello. Et leggesi nelle
             Pandette a k. 183.</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta sterile a foglie lanceolate; a parte i foglia (lembo cm 8X1, picciolo cm
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta sterile a foglie lanceolate; a parte i foglia (lembo cm 8X1, picciolo cm
             1). Sprengel dalla fig. N. 112, del Zarnab di <persName ref="rauwolf-leonhard">Dasilico</persName> deduce che possa essere Salix
             aegyptiaca. <ptr target="#A-061-N1"/></p>
         </div>
-        <div type="notes">
-          <note xml:id="A-061-N1" n="1"> * Infatti lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref>, p. 66,
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-061-N1" n="1" anchored="true"> * Infatti lo <ref type="bibl" target="http://id.sbn.it/bid/UFIE001466">Chabray</ref>, p. 66,
             riporta, secondo <persName ref="rauwolf-leonhard">Rauwolf</persName>, «zarnab» a <hi>Safsaf Syrorum</hi> (<hi>Salix Safsal</hi> Forsk).
             (Ed.)</note>
         </div>

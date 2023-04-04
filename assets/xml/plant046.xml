@@ -4,48 +4,48 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 46 Frutice Incognito</head>
-        <ab>[<hi>Lonicera alpigena L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000359767"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:148836-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Lonicera alpigena L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000359767"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:148836-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Frutice incognito ritrovato dal Piloto - Corno femina da molti.</p>
+          <p part="N"> Frutice incognito ritrovato dal Piloto - Corno femina da molti.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Si questo fusse spezie di Corno ne sarebbe di due spezie di femina et uno di maschio,
+          <p part="N"> Si questo fusse spezie di Corno ne sarebbe di due spezie di femina et uno di maschio,
             legi <ref type="internal" target="#A-075">k. 75</ref>.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne coli bolognesi ne sonno in quantità.</p>
+          <p part="N"> Ne coli bolognesi ne sonno in quantità.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>L'ecc. m. <persName ref="aldrovandi-ulisse">Ulisse Aldrovandi</persName> tiene sia spezie di Corno femina unde la si potrà chiamare
+          <p part="N">L'ecc. m. <persName ref="aldrovandi-ulisse">Ulisse Aldrovandi</persName> tiene sia spezie di Corno femina unde la si potrà chiamare
             con genere al Corno femina.</p>
         </div>
-        <div type="editorial-D">
-          <p> [La figura non molto buona è di pianta fiorita; a parte un rametto con due foglie in
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N"> [La figura non molto buona è di pianta fiorita; a parte un rametto con due foglie in
             grandezza naturale. Il Michiel nota circa la disposizione dei fiori che son <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="38"/> «tenuti da lunghi et
             sotil picioli che ogni uno ne portano due simil a quelli del Chamaepitis ma minor
             alquanto da quali ci vengono suoi...». La diagnosi non prosegue, perché l'autore non
             conobbe i frutti.</p>
-          <p>Più tardi il Michiel trovò una pianta congenere non fiorita, ma fruttifera che da lui
+          <p part="N">Più tardi il Michiel trovò una pianta congenere non fiorita, ma fruttifera che da lui
             fu figurata al <ref type="internal" target="#A-149">N. 149</ref> col nome «frangola» ed espresse il dubbio che si trattasse della
             medesima specie, andando poco lontano dal vero.</p>
-          <p>La specie presente ſu descritta dal <persName ref="gesner-conrad">Gesner</persName> <ref type="bibl" target="http://id.sbn.it/bid/PUVE006389">[131]</ref> col nome <hi>Chamaecerasus</hi>.</p>
+          <p part="N">La specie presente ſu descritta dal <persName ref="gesner-conrad">Gesner</persName> <ref type="bibl" target="http://id.sbn.it/bid/PUVE006389">[131]</ref> col nome <hi>Chamaecerasus</hi>.</p>
         </div>
 
       </body></text></TEI>

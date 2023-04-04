@@ -4,56 +4,56 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 25 Centunculo</head>
-        <ab>[<hi>Polygonum Convolvulus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000489602"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:103354-2"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Polygonum Convolvulus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000489602"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:103354-2"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Centunculo da Plinio - Clematide sp. da molti Greci.</p>
+          <p part="N"> Centunculo da Plinio - Clematide sp. da molti Greci.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Varie sonno le spezie di Clematide come si lege in Plinio al luogho qui soto
+          <p part="N"> Varie sonno le spezie di Clematide come si lege in Plinio al luogho qui soto
             prealegato <ptr target="#A-025-N1"/>.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Nasce ne argeni campi et giardini da per se per tutta <placeName ref="lombardia">Lombardia</placeName>.</p>
+          <p part="N"> Nasce ne argeni campi et giardini da per se per tutta <placeName ref="lombardia">Lombardia</placeName>.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> A primavera si vede et suoi semi di giugno.</p>
+          <p part="N"> A primavera si vede et suoi semi di giugno.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Si tiene da molti esser questa una specie di Clematite. M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alovise Anguillara</ref> tiene
+          <p part="N"> Si tiene da molti esser questa una specie di Clematite. M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Alovise Anguillara</ref> tiene
             che questa sia il Centunculo ma Plinio non dice che el se invilupi come fa questo ma la
             timologia <ptr target="#A-025-N2"/> di Centunculo che vol dir scala fa che così si creda.</p>
         </div>
-        <div type="editorial-D">
-          <p> [Nella diagnosi il Michiel dice che le foglie «somigliano al capir di una cappa da
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N"> [Nella diagnosi il Michiel dice che le foglie «somigliano al capir di una cappa da
             huomo dunde l'eccell. <persName ref="anguillara-luigi">Anguilara</persName> si [h]a mosso a credere per questo che la sia il <hi>Centunculo</hi>». Alla pag. 173 dei <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Semplici</ref> di Anguillara all'articolo Cenlanculo non è portata questa ragione che forse fu detta a voce al Michiel.</p>
-          <p>La figura presente è mediocre e presenta i fiori in grappoletti terminali, però ha
+          <p part="N">La figura presente è mediocre e presenta i fiori in grappoletti terminali, però ha
             interesse perché identifica una delle specie di Anguillara che dal solo nome sarebbe
             irreconoscibile perché nessuna delle piante conosciute oggidì sotto i nomi <hi>contunculo</hi>,
             <hi>centonchio</hi> è <hi>Polygonum Convolvulus</hi>, anzi esse appartengono tutte ad altre famiglie
             <ptr target="#A-025-N3"/>.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-025-N1" n="1"> Lib. 24 C. 13.</note>
-          <note xml:id="A-025-N2" n="2"> Etimologia.</note>
-          <note xml:id="A-025-N3" n="3"> <hi>Stellaria media</hi> (cariofillee), <hi>Contunculus minimus</hi> ed <hi>Anagallis arvensis</hi>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-025-N1" n="1" anchored="true"> Lib. 24 C. 13.</note>
+          <note xml:id="A-025-N2" n="2" anchored="true"> Etimologia.</note>
+          <note xml:id="A-025-N3" n="3" anchored="true"> <hi>Stellaria media</hi> (cariofillee), <hi>Contunculus minimus</hi> ed <hi>Anagallis arvensis</hi>
             (primulacee). Myosotis arvensis (borragince). </note>
         </div>
       </body></text></TEI>

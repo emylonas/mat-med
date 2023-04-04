@@ -4,38 +4,38 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 51 Cuciophoron</head>
-        <ab>[<hi>Hyphaene Thebaica Mart.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:667540-1"/> </ab>
-        <div type="name">
+        <ab part="N">[<hi>Hyphaene Thebaica Mart.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000216304"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:667540-1"/> </ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p>Cuciophoron da <persName ref="theophrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="plinius-caecilius-secundus-gaius">Plinio</persName>.</p>
+          <p part="N">Cuciophoron da <persName ref="theophrastus">Thepphrasto</persName> - Arieno il suo frutto da <persName ref="plinius-caecilius-secundus-gaius">Plinio</persName>.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Non ho fin hora veduto se non uno fruto che vide anche l'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 70 qual
+          <p part="N"> Non ho fin hora veduto se non uno fruto che vide anche l'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 70 qual
             tiene sia di questo albero, qual è simil a uno melo cotognio ripieno de nervi che fa
             fastidio a mangiarlo che conviensi sputarlo, son alquanto dolcie con nocciolo di pruno
             durissimo et bianco del qualle si fanno manichi di trivelli et anelli. Et li portò M.
             <persName ref="passamonte-michele">Michiele Passamonte</persName> spetiale piacentino.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Dalla remota reggione dalla <placeName ref="nubia">Nubia</placeName>.</p>
+          <p part="N"> Dalla remota reggione dalla <placeName ref="nubia">Nubia</placeName>.</p>
         </div>
-        <div type="editorial-D">
-          <p>È figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">È figurato a destra in basso il frutto immaturo. Si comprende che il Michiel aveva
             lasciato lo spazio in mezzo per dipingere la pianta, ma non poté mai farne la
             conoscenza.</p>
         </div>

@@ -4,46 +4,46 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 124 Solano Aquatico</head>
-        <ab>[<hi>Solanum Dulcamara L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001027661"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:285213-2"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Solanum Dulcamara L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0001027661"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:285213-2"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Solano aquatico da molti - Amara dulcis da Germani - Ciclaminus altera dal Dodonei -
+          <p part="N"> Solano aquatico da molti - Amara dulcis da Germani - Ciclaminus altera dal Dodonei -
             perperam Solanum rubrum da alcuni - Vacinium dal Ecc. Alpago - Vite salvatica dal
             Mattiolo.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Diascoride ne pone di 4 spetie. Et ne sonno de varii solani come in tucti 4 li miei
+          <p part="N"> Diascoride ne pone di 4 spetie. Et ne sonno de varii solani come in tucti 4 li miei
             libri si vedrano. Et di questo molti voleno sia spetie di solano.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Non ci manca ne sieppi et a longho le rippe de fiumare.</p>
+          <p part="N"> Non ci manca ne sieppi et a longho le rippe de fiumare.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 301 dice non esser la Vite salvatica. Et molti anche non
+          <p part="N">M. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 301 dice non esser la Vite salvatica. Et molti anche non
             voleno sia spetie di Solano. Et il Gualtieri la dimostra per il Ciclamino altro. Et il
             Mattiolo la pone per vite salvatica a k. 1345.</p>
         </div>
-        <div type="editorial-D">
-          <p>Avviluppata ad un tronco è la pianta fruttifera con foglie tutte intere, però l'au-
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Avviluppata ad un tronco è la pianta fruttifera con foglie tutte intere, però l'au-
             tore nel testo dice: «ne sonno di intercise et altre no». A parte un ramoscello
             fiorito.</p>
-          <p>Il Michiel mise questa specie nel presente libro perché rampicante, ma avvertì esservi
+          <p part="N">Il Michiel mise questa specie nel presente libro perché rampicante, ma avvertì esservi
             altri Solanum a fusto eretto che egli si proponeva descrivere nei libri seguenti, come
             infatti egli fece nel primo Libro Rosso NN. 63, 69 e nel libro verde NN. 63, 64, 207. Il
             nome S. rubrum che erroneamente, secondo il Michiel, si dava a questa specie pel colore delle bacche, spetta invece alla var. villosum di S. nigrum che ha pure le bacche

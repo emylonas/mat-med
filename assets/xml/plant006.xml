@@ -4,51 +4,51 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 6 Vite Nera Vulgare</head>
-        <ab>[<hi>Clematis Viticella L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610944"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:710196-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Clematis Viticella L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000610944"/><ref type="kew" target=" https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:710196-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Vite nera da volgari - Clematide altera da Diascoride - Philacrion da Egiptij - Epigetin da
+          <p part="N"> Vite nera da volgari - Clematide altera da Diascoride - Philacrion da Egiptij - Epigetin da
             alcuni - Ambuxum da Romani - Flamula da molti - Viburnum Virgilij dal <persName ref="dodoens-rembert">Dodonei</persName>.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> De due spezie ne fano mentione Diascoride, l'una sonno la provinca <ptr target="#A-006-N1"/>, l'altra parmi
+          <p part="N"> De due spezie ne fano mentione Diascoride, l'una sonno la provinca <ptr target="#A-006-N1"/>, l'altra parmi
             molto s'acompagnia et corisponda a questa. <ptr target="#A-006-N2"/></p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Molto vi regna in siepi et fossi de <placeName ref="italia">Italia</placeName> avilupandosi a quello li son acanto. Et ne
+          <p part="N"> Molto vi regna in siepi et fossi de <placeName ref="italia">Italia</placeName> avilupandosi a quello li son acanto. Et ne
             giardini ameni son adoperata per far porte et inbelire et coprir pergolate et muri.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>Credo che il <persName ref="dodoens-rembert">Dodonei</persName> la pone per <hi>Viburnum Virgilij</hi>. Et questa viene meglio che la
+          <p part="N">Credo che il <persName ref="dodoens-rembert">Dodonei</persName> la pone per <hi>Viburnum Virgilij</hi>. Et questa viene meglio che la
             sequente per <hi>Clematitis secunda</hi> de Diascoride. <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="16"/></p>
         </div>
-        <div type="editorial-D">
-          <p> [Figura abbastanza buona di pianta fiorita. Dioscoride descrisse col nome di <foreign xml:lang="grc">κληματίς</foreign> la pervinca e con quelo di <foreign xml:lang="grc">κληματίτις</foreign> 1a specie presente che il <persName ref="mattioli-pietro-andrea">Mattioli</persName> chiamò <hi>Clematis secunda</hi>. Il
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N"> [Figura abbastanza buona di pianta fiorita. Dioscoride descrisse col nome di <foreign xml:lang="grc">κληματίς</foreign> la pervinca e con quelo di <foreign xml:lang="grc">κληματίτις</foreign> 1a specie presente che il <persName ref="mattioli-pietro-andrea">Mattioli</persName> chiamò <hi>Clematis secunda</hi>. Il
             Viburno di <persName ref="vergilius-maro-publius">Virgilio</persName> <ptr target="#A-006-N3"/> secondo <persName ref="dodoens-rembert">Dodoneo</persName> era <hi>Viburnum Lantana</hi> qui figurato a <ref type="internal" target="#A-138">N. 138.</ref>. La
             falsa credenza del Michiel si basava o su informazioni avute o sopra una mala
             determinazione della figura pubblicata nel <hi>Cruydtboek</hi>.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-006-N1" n="1"> Vinca minor.</note>
-          <note xml:id="A-006-N2" n="2"> V. riferimento al <ref type="internal" target="#A-129">N. 129</ref></note>
-          <note xml:id="A-006-N3" n="3"> «Verum haec tantum alias inter caput extulit urbes Quantum lenta solent inter
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-006-N1" n="1" anchored="true"> Vinca minor.</note>
+          <note xml:id="A-006-N2" n="2" anchored="true"> V. riferimento al <ref type="internal" target="#A-129">N. 129</ref></note>
+          <note xml:id="A-006-N3" n="3" anchored="true"> «Verum haec tantum alias inter caput extulit urbes Quantum lenta solent inter
             viburna cupressi» (Egl. I. v. 24, 25).</note>
         </div>
       </body></text></TEI>

@@ -4,28 +4,28 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 75 Corniolo</head>
-        <ab>[<hi>Cornus mas L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000924760"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:271612-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Cornus mas L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000924760"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:271612-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Corniolo da volgari - Cranea, Cran et Carmu da Greci - Canium vel Cornicellium da
+          <p part="N"> Corniolo da volgari - Cranea, Cran et Carmu da Greci - Canium vel Cornicellium da
             Latini.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p>Diconsi ritrovarsi maschio et femina. Il maschio son differente che vengono maggiore,
+          <p part="N">Diconsi ritrovarsi maschio et femina. Il maschio son differente che vengono maggiore,
             gli suoi tronchi et rami piui grossi et malagevoli da scorziare sanza midola. Et per
             esser pocha differenza ne ho dato una pittura. Et son anche una altra femina tenuti
             leggi k. 46.</p>
@@ -33,27 +33,27 @@
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="54"/>
 
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Avegna che in Italia non ce ne manchino, non di meno in Macedonia ne sonno in coppia
+          <p part="N"> Avegna che in Italia non ce ne manchino, non di meno in Macedonia ne sonno in coppia
             et con piui saporiti frutini. Nel monte Ida il maschio son sterile et la femina produce
             il fruto, ma in Macedonia l'uno et l'altro il produce.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Mantengono assa suoe fronde. Suoi fioreti a principio di primavera con li fruti poi.
+          <p part="N"> Mantengono assa suoe fronde. Suoi fioreti a principio di primavera con li fruti poi.
             Il maschio li mandano inanti che la femina.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Suoi fiori sonno nocivi alle appi. Et il suo legno tiene del veleno essendo verde.
+          <p part="N"> Suoi fiori sonno nocivi alle appi. Et il suo legno tiene del veleno essendo verde.
             Et de suoi fruti fannosi aqua per restringere e' flussi...</p>
         </div>
-        <div type="editorial-D">
-          <p>L'autore nella diagnosi aggiunge altre differenze tra il maschio e la femmina: «la
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">L'autore nella diagnosi aggiunge altre differenze tra il maschio e la femmina: «la
             femina produce le suoe cocole acerbe doppo l'autunno le quali alcuno animale le gusta.
             Et il suo legnio son inutile et fongoso della femina, ma il maschio son forte et duro».</p>
-          <p>In una prateria sorge l'albero con foglie, fiori e frutti ed a sinistra v'è un ramo pur
+          <p part="N">In una prateria sorge l'albero con foglie, fiori e frutti ed a sinistra v'è un ramo pur
             con foglie, fiori e frutti, mentre ben si sa che i fiori sono precoci. Un uomo scende da
             una scala a piuoli appoggiata all'albero con una cesta carica di frutta.</p>
         </div>

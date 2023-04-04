@@ -4,64 +4,64 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 155 Loto</head>
-        <ab>[<hi>Celtis australis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000593422"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850999-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Celtis australis L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000593422"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850999-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Loto tenuto da molti Bagolaro a Trento Perlaro nel Veronese Celtis da Latini Almez
+          <p part="N"> Loto tenuto da molti Bagolaro a Trento Perlaro nel Veronese Celtis da Latini Almez
             da Spagnioli Celtis da Latini Sadar et Alsadar da Arabi.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Con questo nome di Loto ne sonno varietà si di arbori come di herbe. Et legi nel libro
+          <p part="N"> Con questo nome di Loto ne sonno varietà si di arbori come di herbe. Et legi nel libro
             primo purpureo a k. 116.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p>In Lombardia ne sonno per le possessioni et alla Zudecha <ptr target="#A-155-N1"/> a S. Giacomo. Et era
+          <p part="N">In Lombardia ne sonno per le possessioni et alla Zudecha <ptr target="#A-155-N1"/> a S. Giacomo. Et era
             anche a S. Giovane <ptr target="#A-155-N2"/> ma son mancato il grande ne son uno bellissimo in Campo sopra il
             Canal Grande.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 74 fa uno discorso lunghissimo in questa materia dil Loto. Et non vole
+          <p part="N"> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 74 fa uno discorso lunghissimo in questa materia dil Loto. Et non vole
             che questo perlaro sia il de Loto Theophrasto et il Loto di Atheneo vol sia quello di
             Faride di Theophrasto che son le Giuggiole domestiche, ma il Mathiolo a k. 277 li dice
             contra et lo confonde.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p>Questo non disconviene alla pocha discretione che ci ha narrato
+          <p part="N">Questo non disconviene alla pocha discretione che ci ha narrato
             Diascoride d'il Loto.</p>
         </div>
-        <div type="editorial-D">
-          <p>Figura d'albero con tronco mozzato e vari rami con foglie e frutti. A parte una <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="106"/> foglia in grandezza
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Figura d'albero con tronco mozzato e vari rami con foglie e frutti. A parte una <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="106"/> foglia in grandezza
             naturale. Poca accuratezza nel disegno e nel colorito, mentre un secolo prima il <persName ref="rinio-benedetto">Rinio</persName>
             avea dato a c. 98 del suo codice una bella figura di ramo fruttifero sotto il falso
             nome di faggio.</p>
-          <p>Degli alberi alla isola della <placeName ref="giudecca-isola">Giudecca</placeName> qui nominati parla anche il <persName ref="belon-pierre">Belon</persName>, soggiungendo che ivi la pianta chiamavasi Bagolaro, dimodochè se anche l'origine della parola è
+          <p part="N">Degli alberi alla isola della <placeName ref="giudecca-isola">Giudecca</placeName> qui nominati parla anche il <persName ref="belon-pierre">Belon</persName>, soggiungendo che ivi la pianta chiamavasi Bagolaro, dimodochè se anche l'origine della parola è
             trentina, come asserisce il Michiel, essa ormai era usata a Venezia nel sec. XVI. È
             quindi singolare che il Boerio la abbia dimenticata nel suo Dizionario ove pur si trovano il verbo bagolar (tremolare) ed il sosta ivo bagolina indicante le mazze flessibili
             che si fanno col legno di quest'albero e che agitate nello spazio fanno vibrar l'aria,
             producendo un suono sordo. </p>
-          <p>La minuta esposizione delle località fatta dagli Autori prova che a quei tempi l'albero
+          <p part="N">La minuta esposizione delle località fatta dagli Autori prova che a quei tempi l'albero
             era piuttosto raro nel Veneto, mentre oggidi esso ampiamente coltivato pei suoi rami coi
             quali si fanno mazze e manichi di fruste. Nel Padovano è chiamato bessolaro.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-155-N1" n="1"> Giudecca.</note>
-          <note xml:id="A-155-N2" n="2"> S. Giovanni.</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-155-N1" n="1" anchored="true"> Giudecca.</note>
+          <note xml:id="A-155-N2" n="2" anchored="true"> S. Giovanni.</note>
         </div>
       </body></text></TEI>

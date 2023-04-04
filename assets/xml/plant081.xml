@@ -4,34 +4,34 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 81 Noce Moscata</head>
-        <ab>[<hi>*Myristica fragrans Houtt.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000447317"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:586076-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>*Myristica fragrans Houtt.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000447317"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:586076-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Noce moscata da volgari - Nux miristica da Latini- Jeuzbaue da Arabi et Sistose,
+          <p part="N"> Noce moscata da volgari - Nux miristica da Latini- Jeuzbaue da Arabi et Sistose,
             Bisbese, Hescebelle - Galifer, Talifar, Machil da Greci - Adaes, Adache in Oriente - Macis da
             Latini.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Varie sonno con questo nome di noce, questa moscata, la noce grande de India, la noce
+          <p part="N"> Varie sonno con questo nome di noce, questa moscata, la noce grande de India, la noce
             methel, la noce volgare, le nocelle avelane.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p>Suoe radice legnose, giallezzie, son albero simil all'Illice <ptr target="#A-081-N1"/> perciò nascono come
+          <p part="N">Suoe radice legnose, giallezzie, son albero simil all'Illice <ptr target="#A-081-N1"/> perciò nascono come
             Giande et la Guscia son come un dedalo, et quelle noci che sonno lunghete sonno
             dimandate maschi et le rotonde femine con il suo invoglio adimandato Macis, suoe frondi
             simil a piccoline di agrifolio per quello si giudicano, per ritrovarsene insieme con li
@@ -40,45 +40,45 @@
             un cotognio, con la prima scorza grossa et poi come una tella che invoglie il macis et
             dentro suoa noce.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In India nelle isole Maluche <ptr target="#A-081-N2"/>, come Tidore, Terrenate <ptr target="#A-081-N3"/>, Mate, Matil <ptr target="#A-081-N4"/>,
+          <p part="N"> In India nelle isole Maluche <ptr target="#A-081-N2"/>, come Tidore, Terrenate <ptr target="#A-081-N3"/>, Mate, Matil <ptr target="#A-081-N4"/>,
             Machian, Zebut <ptr target="#A-081-N5"/> che è in mezo il camin del mondo andando per la via del Isole come
             andorno li Spagnioli. Et ne sonno de molte altre Isole ancora come apare nel testo del
             secondo libro delle Indie k. 145 et di Banda.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Sempre verdeggia suoi frondi. Li fruti al fin dell’esta' [= estate].</p>
+          <p part="N"> Sempre verdeggia suoi frondi. Li fruti al fin dell’esta' [= estate].</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p> Luogho calido in fazzia di mezzo giorno.</p>
+          <p part="N"> Luogho calido in fazzia di mezzo giorno.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> De suoe noci da si ci nascono.</p>
+          <p part="N"> De suoe noci da si ci nascono.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Il Mattiolo tiene che il macis sia il suo fiore et sia simil alle rose salvatiche ma
+          <p part="N"> Il Mattiolo tiene che il macis sia il suo fiore et sia simil alle rose salvatiche ma
             altri tengono sia il suo invoglio et scorzio di sopra la noce et che altro sia suoi
             fiori. Come ci dimostra anche il Mattiolo a k. 300 et lo fa con foglie di pesco diverso
             da questo, ma qual sia il vero non lo scio a firmare.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Questo son l'albero istesso che produce la noce moscata.</p>
+          <p part="N"> Questo son l'albero istesso che produce la noce moscata.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p>Son calide et secche nel fin del secondo grado, stiticano et fanno buon fiato come come <ref type="bibl" target=" http://id.sbn.it/bid/RMLE007083"> el Mattiolo</ref> ne ne dechiara de molte doti et virtù al cap. delle noci. Et nel prealegato [= pre-citato] <ref type="bibl" target="http://id.sbn.it/bid/TO0E019412"> libro
+          <p part="N">Son calide et secche nel fin del secondo grado, stiticano et fanno buon fiato come come <ref type="bibl" target=" http://id.sbn.it/bid/RMLE007083"> el Mattiolo</ref> ne ne dechiara de molte doti et virtù al cap. delle noci. Et nel prealegato [= pre-citato] <ref type="bibl" target="http://id.sbn.it/bid/TO0E019412"> libro
               secondo del India</ref> — <ref type="bibl" target="http://id.sbn.it/bid/PUVE030738">Corolario del Barbaro</ref> cap. 773, al capitolo de Ballanus myrepsica — <ref type="bibl" target="http://id.sbn.it/bid/MILE002540">Avicenna
                 ij. Canon diiij, li. ij, c. DIX</ref>. — Galeno al 7 Sim. Phar. — Diascoride libro primo, capitolo
             112, 101. Nelli <ref type="bibl" target="http://id.sbn.it/bid/BVEE002483">Isolani de Thomaso Porcacchi</ref> alla Malucche a k. 99.</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fittizia con foglie spinose di agrifoglio come è annunziato nel testo e coi
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fittizia con foglie spinose di agrifoglio come è annunziato nel testo e coi
             semi privi di arillo e pendenti dall'albero a guisa di frutti. A parte un seme in gran-
             dezza naturale mal disegnato e dipinto, come lo sono quelli pendenti. Dal testo risulta
             che il Michiel in seguito ebbe notizie più esatte sulle foglie e sul frutto della
@@ -89,7 +89,7 @@
             essi. Per tutti i riguardi il Michiel si mostra nelle cognizioni ben inferiore al <persName ref="rinio-benedetto">Rinio</persName>
             che un secolo prima (c. II) avea ben distinto le varie parti e data una figura più
             soddisfacente.</p>
-          <p>Una certa importanza per la storia della scienza e la letteratura dialettale ha il
+          <p part="N">Una certa importanza per la storia della scienza e la letteratura dialettale ha il
             termine bisbese che troviamo anche nel Rinio accompagnato dall'altra forma besbese, ma
             la cui lezione originaria in Avicenna [148] è «besabesa ed indica presso quest'autore il
             frutto della noce moscata. Se consultiamo Boerio [45], vi si trova il voc bolo besá-besa notato come un neologismo del dialetto veneziano sinonimo di meneghela, cioè del
@@ -99,31 +99,31 @@
             significato che tuttora appare in alcune frasi triviali. La ragione di ciò non è difficile a capirsi, riflettendo che il frutto della noce moscata carnoso ed in forma di
             piccola pera si apre alla maturità in due valve, lasciando vedere il seme coperto dal
             macis reticolato e di color sanguigno, imitante le caruncole mirtiformi.</p>
-          <p>Che il significato indecente sia stato dato prima dagli arabi par dimostrato da ciò che
+          <p part="N">Che il significato indecente sia stato dato prima dagli arabi par dimostrato da ciò che
             essi soli erano in grado di assistere allo schiudersi del frutto e la parola besa-besa,
             come si vide, è originariamente araba. Aggiungasi che il macis dopo qualche tempo perde
             il color rosso vivo che aveva al momento della deiscenza e diviene di color arancio
             pallido come lo troviamo in commercio.</p>
-          <p>Abbiamo dunque una prova che gli Arabi videro la pianta del moscadiere prima di
+          <p part="N">Abbiamo dunque una prova che gli Arabi videro la pianta del moscadiere prima di
             Barthema e Pigafetta e forse da loro notizie o disegni il Rinio potè trarre la figura di
             cui sopra fu parlato.</p>
-          <p>Nelle carte da gioco italiane tuttora usate nel Veneto le due spade son curve a guisa
+          <p part="N">Nelle carte da gioco italiane tuttora usate nel Veneto le due spade son curve a guisa
             di scimitarte e si incrociano, formando una curva biangola. Perciò nelle taverne il nome
             besábesa passo ad indicare il due di spade, promiscuamente con quello di meneghèla <ptr target="#A-081-N6"/>
             ed ora lo si usa anche nelle case, essendo quasi dimenticato il significato indecente
             di cui sopra.</p>
-          <p>La frase del Michiel sull'isola di Zebu «in mezo al camin del mondo andando per la via
+          <p part="N">La frase del Michiel sull'isola di Zebu «in mezo al camin del mondo andando per la via
             delle Isole» cioè per la via del Pacifico seminato di arcipelaghi (come fecero la prima
             volta i navigli di Magellano partiti da Sanlucar di Barrameda in <placeName ref="spagna">Ispagna</placeName>) si connette
             alla divisione dei due emisferi di cui il commento al N. 99 del libro Giallo. </p>
         </div>
-        <div type="notes">
-          <note xml:id="A-081-N1" n="1"> Elce.</note>
-          <note xml:id="A-081-N2" n="2"> Molucche.</note>
-          <note xml:id="A-081-N3" n="3"> Ternate.</note>
-          <note xml:id="A-081-N4" n="4"> Motir.</note>
-          <note xml:id="A-081-N5" n="5"> Zebu.</note>
-          <note xml:id="A-081-N6" n="6"> Diminutivo di Dénega (Domenica) forse per la figurina di donna che si usa
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-081-N1" n="1" anchored="true"> Elce.</note>
+          <note xml:id="A-081-N2" n="2" anchored="true"> Molucche.</note>
+          <note xml:id="A-081-N3" n="3" anchored="true"> Ternate.</note>
+          <note xml:id="A-081-N4" n="4" anchored="true"> Motir.</note>
+          <note xml:id="A-081-N5" n="5" anchored="true"> Zebu.</note>
+          <note xml:id="A-081-N6" n="6" anchored="true"> Diminutivo di Dénega (Domenica) forse per la figurina di donna che si usa
             dipingere nel vano fra le due spade. Il nome di battesimo Domenica era usitatissimo al
             tempo della Repubblica. </note>
         </div>

@@ -4,51 +4,51 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 55 Licio Secondo Indiano</head>
-        <ab>[<hi>Not identified</hi>]</ab>
-        <div type="name">
+        <ab part="N">[<hi>Not identified</hi>]</ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Licio secondo indiano da Diascoride Lonchite da altri Aspalato da molti li nomi
+          <p part="N"> Licio secondo indiano da Diascoride Lonchite da altri Aspalato da molti li nomi
             sequenti Erysi sceptrum, Sphagnon et Phasganum da altri Diaxylon da Syri Darsisahan,
             Mahat, Michad, Kilkij da Arabi Arbor granati Silvestris da latini Atrac da altri.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Di doi licij ragiona Dioscoride.</p>
+          <p part="N"> Di doi licij ragiona Dioscoride.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> suoi fruti rotondi simil al altro primo Licio over al rotondo pepe, neri et molti
+          <p part="N"> suoi fruti rotondi simil al altro primo Licio over al rotondo pepe, neri et molti
             insieme come in folti grappoli et duri nel masticarli.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Nasce in India dice Dioscoride ma questo l'hebbi de Puglia.</p>
+          <p part="N"> Nasce in India dice Dioscoride ma questo l'hebbi de Puglia.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 63 dice non lo conoscer et de molti dimostrano questo. Et l'ecc.
+          <p part="N">L'ecc. <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 63 dice non lo conoscer et de molti dimostrano questo. Et l'ecc.
             M. <persName ref="trevisan-bernardino">Bernardin Trivisan</persName>, letor di Simplici in Padova dignissimo tiene che questo sia
             l'Aspalato.</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fiorita in paesaggio montuoso. A sinistra un rametto con foglie e frutti
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fiorita in paesaggio montuoso. A sinistra un rametto con foglie e frutti
             <ptr target="#A-055-N1"/>.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-055-N1" n="1">* Rami spinosi; frutu in grappoli, coronati dal calice. (Ed.)</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-055-N1" n="1" anchored="true">* Rami spinosi; frutu in grappoli, coronati dal calice. (Ed.)</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="42"/>

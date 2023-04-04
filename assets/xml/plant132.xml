@@ -4,59 +4,59 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 132 Zarzaparilla</head>
-        <div type="name">
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Zarza parilla da Indiani - Salsa pariglia da volgari.</p>
+          <p part="N"> Zarza parilla da Indiani - Salsa pariglia da volgari.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoe radici legniose proffunde intricate in se medesime et foltamente, non grosse et
+          <p part="N"> Suoe radici legniose proffunde intricate in se medesime et foltamente, non grosse et
             scorziute, nasce in gran coppia a guisa de rovi et per li suoi germogli manda fuora
             quasi da ogni parte de rami picciole fogline sopra a ramuscoli lunghi che credo se
             invilupano.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In molte parte dell'India se ne ritrova ma la migliore nell'isola di Puna et nel
+          <p part="N"> In molte parte dell'India se ne ritrova ma la migliore nell'isola di Puna et nel
             teritorio di <placeName ref="">Guaiaquil</placeName> cità. Et nell'Isola de Argento in grande quantità.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> De molti si credeno che il sequente milax aspero sia la zarzaperiglia <hi>overo congenere
+          <p part="N"> De molti si credeno che il sequente milax aspero sia la zarzaperiglia <hi>overo congenere
             come il Mattiolo. Et dimostra la zarzaperiglia con foglie simili ma non pungenti, non
             scio a cui si debba prestar piui fede hover <ptr target="#A-132-N1"/> alli <ref type="bibl" target="http://id.sbn.it/bid/CNCE012533 http://id.sbn.it/bid/TO0E019412 http://id.sbn.it/bid/RMLE012360">libri dell'India</ref> over a lui. La
             dimostra a k. 1271</hi>.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Questa son la pianta medesima così dimandata da Indiani et con foglie piccole.</p>
+          <p part="N"> Questa son la pianta medesima così dimandata da Indiani et con foglie piccole.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> In India si prevaleno di suoe radici per molte infirmita et spetialmente per dolori
+          <p part="N"> In India si prevaleno di suoe radici per molte infirmita et spetialmente per dolori
             del mal francese, per il fiato puzzolente, agli ritrati <ptr target="#A-132-N2"/> et alli impiagati. Il modo
             di doprarle insegnia il primo libro del India k. III.</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fittizia con foglie di veccia e sterile. Pero, dopo aver data la figura,
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fittizia con foglie di veccia e sterile. Pero, dopo aver data la figura,
             l'autore ebbe dei dubbi sulla sua legittimità, come lo provano le parole da lui aggiunte
             nel testo. E difatti la prima figura fatta sull'originale è quella del Mattioli.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-132-N1" n="1"> Ovvero.</note>
-          <note xml:id="A-132-N2" n="2"> Rattratti. </note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-132-N1" n="1" anchored="true"> Ovvero.</note>
+          <note xml:id="A-132-N2" n="2" anchored="true"> Rattratti. </note>
         </div>
       </body></text></TEI>

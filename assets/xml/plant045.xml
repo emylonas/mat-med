@@ -4,53 +4,53 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 45 Chico Capolt</head>
-        <ab>[<hi>Achras Sapota L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000294988"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:152641-2"/> </ab>
-        <div type="name">
+        <ab part="N">[<hi>Achras Sapota L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000294988"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:152641-2"/> </ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Chico capolt <ptr target="#A-045-N1"/> da Indiani over Spagnioli.</p>
+          <p part="N"> Chico capolt <ptr target="#A-045-N1"/> da Indiani over Spagnioli.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Parmi sp. di pomi musetini et gentili.</p>
+          <p part="N"> Parmi sp. di pomi musetini et gentili.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoe radice grande grosse et legnose, son albero grande di grosso tronco et di
+          <p part="N"> Suoe radice grande grosse et legnose, son albero grande di grosso tronco et di
             pavonazio colore fornito di amuchiate frondi strete et lunghe simil a persichi, suoi
             fruti simil a pomi piccoli et tenuti da lungheti piccioli, overo a armelini <ptr target="#A-045-N2"/>. De
             l'India transferiti in Ispania come deto nell'altri.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> De in serto <ptr target="#A-045-N3"/> è da credere che meglio ci venga che di nuclei seminati.</p>
+          <p part="N"> De in serto <ptr target="#A-045-N3"/> è da credere che meglio ci venga che di nuclei seminati.</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fruttifera con vari insetti volanti all'intorno. La figura fu copiata dal
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fruttifera con vari insetti volanti all'intorno. La figura fu copiata dal
             <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879"> Marini</ref> che la credette il Mirabolano indo degli antichi. La figura del Marini è
             invertita rispetto alla presente in conseguenza della riproduzione fatta per la stampa.
             Oltracciò fu cangiato il colorito, essendovi verde il fusto che il Michiel fa paonazzo
             ed atri i frutti che il Michiel fece ranciati. Il Marini portò queste variazioni per
             uniformarsi alla descrizione dei Mirabolani indi.</p>
-          <p>Per maggiori spiegazioni v. <ref type="internal" target="#A-067">N. 67</ref>.</p>
+          <p part="N">Per maggiori spiegazioni v. <ref type="internal" target="#A-067">N. 67</ref>.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-045-N1" n="1"> * La lettura del codice è incerta: potrebbe essere anche zapolt. Si tratta
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-045-N1" n="1" anchored="true"> * La lettura del codice è incerta: potrebbe essere anche zapolt. Si tratta
             ogni modo della pianta che gli spagnoli chiamano Chico zapote (<hi>Achras Sapota L.</hi>).
             (Ed.)</note>
-          <note xml:id="A-045-N2" n="2"> Albicocche.</note>
-          <note xml:id="A-045-N3" n="3"> Innesto. </note>
+          <note xml:id="A-045-N2" n="2" anchored="true"> Albicocche.</note>
+          <note xml:id="A-045-N3" n="3" anchored="true"> Innesto. </note>
         </div>
       </body></text></TEI>

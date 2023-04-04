@@ -4,35 +4,35 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 73 Pepe Tondo</head>
-        <ab>[<hi>Ribes nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405161"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:792873-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Ribes nigrum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000405161"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:792873-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p>Pepe tondo Pepe da Greci et Latini Falfel da Arabici Pimenta del rabo da Portogesi
+          <p part="N">Pepe tondo Pepe da Greci et Latini Falfel da Arabici Pimenta del rabo da Portogesi
             Amomo da simplicisti Haabelzelin, Grana ezelen da Arabi Molaga nell'isola Taprobana.</p>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="52"/>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Con questo nome di pepe ne sonno de molte spetie come diversamente sera chiarito, ma
+          <p part="N"> Con questo nome di pepe ne sonno de molte spetie come diversamente sera chiarito, ma
             il migliore son l’Ethyopico, leggi anche a k. 159 che ne sonno due mostre.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoe radice legnose in superficie della terra, dentro bianche et di fora scure con
+          <p part="N"> Suoe radice legnose in superficie della terra, dentro bianche et di fora scure con
             aspero sapore. Frutica molto di viticei rami alti come huomo et nodosi, ripieni di
             foglie viticie ma piccole, con alquanto di brusco sapore, et odore pessimo che ritira
             <ptr target="#A-073-N1"/> alla malitia <ptr target="#A-073-N2"/> di gatta con reverentia parlando, gli suoi fiori in racemi
@@ -40,35 +40,35 @@
             gusto acuto. Io lo vidi et gustai et mi naque. Tutta la pianta si rasembra assa al
             nostro ribes comun [N. 74].</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Dalle Indie nuove del Perù et da Calecut ne vengono portati a noi, et io ne ho
+          <p part="N"> Dalle Indie nuove del Perù et da Calecut ne vengono portati a noi, et io ne ho
             custodito de molti anni fa. Et ne son in Toscana ancora di questa pianta per ralation
             del ecc. M. <persName ref="ghini-luca">Luca Ghino</persName>. L'Ethiopico son il buono, et il resto e anche questo sonno
             tenuti per salvatici. Et di questo ne sonno nel regnio di Beniamin in Soria <ptr target="#A-073-N3"/>.
             L'optimo si porta d'Armenia; quello di Media son manco buono con il legno venenoso;
             quello di Ponto rosseggia et il suo seme offende nel odorarlo.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Qui da noi con il fredo si spoglia et a primavera si riveste, suoi fiori di maggio con
+          <p part="N"> Qui da noi con il fredo si spoglia et a primavera si riveste, suoi fiori di maggio con
             il fruto poi.</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p> Luogho solsticio humido et grasso terreno, ma il migliore ama il sciuto.</p>
+          <p part="N"> Luogho solsticio humido et grasso terreno, ma il migliore ama il sciuto.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p>L'ecc. <persName ref="anguillara-luigi">Anguilara</persName> mi disse esser l'Amomo de Diascoride ma non fa fior di viola bianca.
+          <p part="N">L'ecc. <persName ref="anguillara-luigi">Anguilara</persName> mi disse esser l'Amomo de Diascoride ma non fa fior di viola bianca.
             Et k. 34 ne suoi <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Pareri</ref> dice esser il Pepe salvatico. Et che questo sia veramente sp.
             di pepe mi son confirmato da alcuni degni Turchi soriani, ma sonno piante diverse che lo
             producono. Et anche diverse da il longo pepe come Portogesi affermano. Et che producono
             il fruto in racemi et non in bacelli come narra li antiqui. qualli de molti se
             inganano.</p>
         </div>
-        <div type="editorial-D">
-          <p>L'Anguillara classificò questa pianta per Amomo o Pepe selvatico e scrisse che la si
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">L'Anguillara classificò questa pianta per Amomo o Pepe selvatico e scrisse che la si
             può vedere: «nel vaghissimo giardino del clarissimo Messer Pier'Antonio Michiele
             gentilhuomo dottissimo di questa facolta de' Semplici et in Padova nel copioso giar-
             dino del clarissimo Messer Lorenzo Priuli alla Saracinesca». Malgrado l'obiezione qui
@@ -81,21 +81,21 @@
             giardino del medico <persName ref="maffei-maffeo">Maffeo de Maffei</persName> a Venezia, la chiama arbuscula piper racematim
             proferens, e soggiunge che alcuni credono il ribes. Il Michiel nel testo riconosce le
             sue analogie col Ribes rubrum.</p>
-          <p>La figura è di pianta fiorita in un paesaggio di valle prossima al mare; le glandole
+          <p part="N">La figura è di pianta fiorita in un paesaggio di valle prossima al mare; le glandole
             alla pagina inferiore delle foglie furono imitate con orpello.</p>
-          <p>Il nome arabo Hab-el-zelin qui citato trovasi la prima volta in <persName ref="serapio-junior">Serapione</persName>, indicante
+          <p part="N">Il nome arabo Hab-el-zelin qui citato trovasi la prima volta in <persName ref="serapio-junior">Serapione</persName>, indicante
             una pianta non ancora determinata. Per alcuni autori [246] era Cyperus esculentus, il
             che fu negato dal Dodoneo [107], per altri, come il nostro, Ribes nigrum. Il nome gradatamente si corruppe in El-zelin, Al-zelin, Azzelin, Assaline e sotto quest'ultima
             forma è tuttora vivo nel dialetto veneto, ma indica una pianta ben diversa e nemmeno
             aromatica, la canna palustre.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-073-N1" n="1"> Si avvicina a quello.</note>
-          <note xml:id="A-073-N2" n="2"> Sterco.</note>
-          <note xml:id="A-073-N3" n="3"> Anguillara parlò del regno di <placeName ref="benin">Benin nella Guinea</placeName>, che il Michiel erroneamente
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-073-N1" n="1" anchored="true"> Si avvicina a quello.</note>
+          <note xml:id="A-073-N2" n="2" anchored="true"> Sterco.</note>
+          <note xml:id="A-073-N3" n="3" anchored="true"> Anguillara parlò del regno di <placeName ref="benin">Benin nella Guinea</placeName>, che il Michiel erroneamente
             credette fosse il territorio della tribù di Beniamin nella Palestina, ora annessa alla
             Siria.</note>
-          <note xml:id="A-073-N4" n="4"> Gesner conobbe la pianta presso Zurigo e la chiamò col nome che porta
+          <note xml:id="A-073-N4" n="4" anchored="true"> Gesner conobbe la pianta presso Zurigo e la chiamò col nome che porta
             attualmente.</note>
         </div>
       </body></text></TEI>

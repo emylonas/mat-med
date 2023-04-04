@@ -4,55 +4,55 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 86 Azarolo</head>
-        <ab>[<hi>Crataegus Azarolus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000988173"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324722-2"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Crataegus Azarolus L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000988173"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324722-2"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Lazaroli da volgari - Mespili genus da Latini - Aronia da molti - Zaror et Gubera da Arabi -
+          <p part="N"> Lazaroli da volgari - Mespili genus da Latini - Aronia da molti - Zaror et Gubera da Arabi -
              Trigonum et Tricoctum da Greci - Trioco da altri - Pomo imperiale in Lombardia - Tricoccoco el
             suo fruto da molti - Epimelida da certi.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p>Due sonno le spetie de nespolo, una questo chiamato azarolo da zaror nominato dagli
+          <p part="N">Due sonno le spetie de nespolo, una questo chiamato azarolo da zaror nominato dagli
             Arabi ma per coruptione transcorsa denominasi <fw type="running-head" place="top">LIBRO
               AZZURRO</fw><pb n="62"/> azaroli. L'altra Setonio <ptr target="#A-086-N1"/> et sonno la familiar a Italia
             tutta. Et così intese Diascoride di queste due ancora et della communa non daro
             pittura.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In Sicilia, Aragusi <ptr target="#A-086-N2"/> in quantità et ho inteso esserne anche con il fruto gialdo a
+          <p part="N"> In Sicilia, Aragusi <ptr target="#A-086-N2"/> in quantità et ho inteso esserne anche con il fruto gialdo a
             Napoli verso Pe di grota <ptr target="#A-086-N3"/>, et arimano <ptr target="#A-086-N4"/>, Pesaro, et ne Giardini sonno ormai
             multiplicato et quando prima lo vidi si dimostrava per cosa rarissima.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> El fa di mestiero in estarlo <ptr target="#A-086-N5"/> sopra dil tronco del Spin bianco [N. 87] chi vogliono
+          <p part="N"> El fa di mestiero in estarlo <ptr target="#A-086-N5"/> sopra dil tronco del Spin bianco [N. 87] chi vogliono
             de belli fruti.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> - Legesi che <persName ref="serapio-junior">Serapione</persName> posse <ptr target="#A-086-N6"/> il Sorbo in vece di Nespolo per li atributi gli
+          <p part="N"> - Legesi che <persName ref="serapio-junior">Serapione</persName> posse <ptr target="#A-086-N6"/> il Sorbo in vece di Nespolo per li atributi gli
             diede.</p>
         </div>
-        <div type="editorial-D">
-          <p>Sopra una verde spianata un albero fiorito e fruttifero. A sinistra un ramo fiorito, a
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Sopra una verde spianata un albero fiorito e fruttifero. A sinistra un ramo fiorito, a
             destra uno fruttifero. Due figurine umane sul prato, una delle quali sostiene il ramo
             fruttifero, il che porta sproporzione perché il ramo è in grandezza naturale.</p>
-          <p>Dalla testimonianza del Michiel ricaviamo che quest'albero fu introdotto in Italia solo
+          <p part="N">Dalla testimonianza del Michiel ricaviamo che quest'albero fu introdotto in Italia solo
             nei tempi moderni, probabilmente nella prima metà del sec. XVI <ptr target="#A-086-N7"/>. Se l'abbiano
             conosciuto gli antichi è molto dubbio, non essendovi buone diagnosi della pianta chia-
             mata <foreign xml:lang="grc">άχυρδος</foreign> da Omero, <foreign xml:lang="grc">αμαμηλίς</foreign> da Ippocrate, <foreign xml:lang="grc">κράταιγος</foreign> da
@@ -60,13 +60,13 @@
             come Mattioli, lo identificavano col nespolo comune, mentre, a quanto pare, il
             déontidos ontávalos di Teofrasto è Mespilus Cotoneaster qui figurato al N. 145. -</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-086-N1" n="1"> Mespilus germanica.</note>
-          <note xml:id="A-086-N2" n="2"> A Ragusa.</note>
-          <note xml:id="A-086-N3" n="3"> Piedigrotta.</note>
-          <note xml:id="A-086-N4" n="4"> A Rimini.</note>
-          <note xml:id="A-086-N5" n="5"> Innestarlo.</note>
-          <note xml:id="A-086-N6" n="6"> Pose.</note>
-          <note xml:id="A-086-N7" n="7"> Trovasi un campione nell'Erbario Aldrovandi col nome Mespilus Aronia.</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-086-N1" n="1" anchored="true"> Mespilus germanica.</note>
+          <note xml:id="A-086-N2" n="2" anchored="true"> A Ragusa.</note>
+          <note xml:id="A-086-N3" n="3" anchored="true"> Piedigrotta.</note>
+          <note xml:id="A-086-N4" n="4" anchored="true"> A Rimini.</note>
+          <note xml:id="A-086-N5" n="5" anchored="true"> Innestarlo.</note>
+          <note xml:id="A-086-N6" n="6" anchored="true"> Pose.</note>
+          <note xml:id="A-086-N7" n="7" anchored="true"> Trovasi un campione nell'Erbario Aldrovandi col nome Mespilus Aronia.</note>
         </div>
       </body></text></TEI>

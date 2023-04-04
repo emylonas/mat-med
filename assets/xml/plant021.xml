@@ -4,39 +4,39 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 21 Ciruelas Incarnadas es Fruta</head>
-        <ab><hi><hi>[Not identified]</hi></hi></ab>
-        <div type="name">
+        <ab part="N"><hi><hi>[Not identified]</hi></hi></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Cirvelas incarnadas es fruta.</p>
+          <p part="N"> Cirvelas incarnadas es fruta.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Sua radice profonda son albero grande di beretinaccia scorzia con foglie di gensamin
+          <p part="N"> Sua radice profonda son albero grande di beretinaccia scorzia con foglie di gensamin
             <ptr target="#A-021-N1"/> et fruto di pruni picoli chiamati brombe da volg. et son simili alla <hi>Ciruelas
               monteses</hi> dimostra inanti <ref type="internal" target="#A-001">[N. I]</ref> se non che questa ha il scorzio beretinacio et il fruto
             magior.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> De la <placeName ref="spagna">Spagnia</placeName> depinti in <placeName ref="america-meridionale">India</placeName> et trasportati li, et io li cavai da quelli.</p>
+          <p part="N"> De la <placeName ref="spagna">Spagnia</placeName> depinti in <placeName ref="america-meridionale">India</placeName> et trasportati li, et io li cavai da quelli.</p>
         </div>
-        <div type="editorial-D">
-          <p>Albero fruttifero con farfalle. </p>
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Albero fruttifero con farfalle. </p>
         </div>
-        <div type="notes">
-          <note xml:id="A-021-N1" n="1"> Gelsomino.</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-021-N1" n="1" anchored="true"> Gelsomino.</note>
         </div>
       </body></text></TEI>

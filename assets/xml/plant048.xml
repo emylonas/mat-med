@@ -4,59 +4,59 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 48 Agrifolio</head>
-        <ab>[<hi>Ilex Aquifolium L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000729203"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:83051-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Ilex Aquifolium L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000729203"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:83051-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Agrifolio da volgari – Lothos, Mella, Agrifolium, Locrus et Sidra da Greci - Paliuro da
+          <p part="N"> Agrifolio da volgari – Lothos, Mella, Agrifolium, Locrus et Sidra da Greci - Paliuro da
             Aphricani - Edar et Nabuch da Arabi - Cicerasa da Latini - Aquifolium dal Trago.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Molti et varii sonno li Paliuri ma questo molto meglio si rasembra al Paliuro scrito
+          <p part="N"> Molti et varii sonno li Paliuri ma questo molto meglio si rasembra al Paliuro scrito
             da Plinio et tolto da Theophrasto che tutti gli altri da varii et diversi autori
             menzonati come alli suoi capitoli chiaro vedrassi. Et de lothi legi nel <ref type="internal" target="#R1-116">libro primo
               rosso k. 116 </ref> <ptr target="#A-048-N3"/>.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoe radice bianche tenace che di esse se ne cava vischio, come di la fluida [<ref type="internal" target="#A-138">N. 138</ref>] ...</p>
+          <p part="N"> Suoe radice bianche tenace che di esse se ne cava vischio, come di la fluida [<ref type="internal" target="#A-138">N. 138</ref>] ...</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne <placeName ref="appennino-settentrionale">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
+          <p part="N"> Ne <placeName ref="appennino-settentrionale">monti de Italia dalla parte septentrional</placeName> et anche in Giardini de simplici. Et io
             ne havevo uno molto ben formato et ne ho posto nel giardino in Padova del clar. cav.
             <persName ref="mocenigo-alvise-i">Mozenigo</persName>.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'<persName ref="anguillara-luigi">Anguillara</persName> tiene esser l'Aquifoglia vel Agria Theophrasti. Et il <persName ref="ruel-jean">Ruelio</persName> mosso da non
+          <p part="N"> L'<persName ref="anguillara-luigi">Anguillara</persName> tiene esser l'Aquifoglia vel Agria Theophrasti. Et il <persName ref="ruel-jean">Ruelio</persName> mosso da non
             scio che tiene che questo sia il Loto.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p>Considerando de suoe virtu ciascaduno che non si confonda nel nome di Paliuro imperoche
+          <p part="N">Considerando de suoe virtu ciascaduno che non si confonda nel nome di Paliuro imperoche
             questo nome son a de molte piante et aciascheduno bisogna particolarmente distinguerlo,
             a ciascuno da per se dargli le doti suoe secondo li Autori ....</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fruttifera. A destra un rametto con foglie e fiori, a sinistra un altro con
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fruttifera. A destra un rametto con foglie e fiori, a sinistra un altro con
             foglie e drupe. commune</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-048-N1" n="1"> Ed azzurro N. 155.</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-048-N1" n="1" anchored="true"> Ed azzurro N. 155.</note>
         </div>
         <fw type="running-head" place="top">LIBRO AZZURRO</fw>
         <pb n="39"/>

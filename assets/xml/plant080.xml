@@ -4,46 +4,46 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 80 Mamai Albero de India</head>
-        <ab>[<hi>Mammea americana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000375040"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428743-1"/> </ab>
-        <div type="name">
+        <ab part="N">[<hi>Mammea americana L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000375040"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428743-1"/> </ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Mamaj da Indiani.</p>
+          <p part="N"> Mamaj da Indiani.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Sua radice dura et proffunda, son albero bello verde alto et in capellato di frondi
+          <p part="N"> Sua radice dura et proffunda, son albero bello verde alto et in capellato di frondi
             più lunghe che larghe et viene ristreto come il cipresso, son di legno tenue. Produce
             suoi fruti grandi, tondi con gusto di persico et suoa carne come di susino et sonno
             buoni, et dentro fa 4 et più ossi ristreti insieme come semi, et molto amari.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> In India nel Darien come apar [* 77] nel testo del secondo del India k. 97.</p>
+          <p part="N"> In India nel Darien come apar [* 77] nel testo del secondo del India k. 97.</p>
         </div>
-        <div type="seasonality">
+        <div type="seasonality" part="N" org="uniform" sample="complete">
           <head>TEMPO</head>
-          <p> Credo che sempre verdeggia.</p>
+          <p part="N"> Credo che sempre verdeggia.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p> Non sonno da mangiarsene molti havendo il gusto di persico convien haversi anche
+          <p part="N"> Non sonno da mangiarsene molti havendo il gusto di persico convien haversi anche
             delle quallità cative come lui. Et suoi semi ancora puolsi convenire come quelli di
             persichi deti. </p>
         </div>
-        <div type="editorial-D">
-          <p>Albero fruttifero. La pianta era stata descritta col nome Mamey da <ref type="bibl" target="http://id.sbn.it/bid/RMLE012034">Gonzalo Ferdinando Oviedo de Valdes (1525 [ma 1535])</ref>. -</p>
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Albero fruttifero. La pianta era stata descritta col nome Mamey da <ref type="bibl" target="http://id.sbn.it/bid/RMLE012034">Gonzalo Ferdinando Oviedo de Valdes (1525 [ma 1535])</ref>. -</p>
         </div>
       </body></text></TEI>

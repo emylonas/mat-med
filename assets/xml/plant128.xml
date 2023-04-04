@@ -4,37 +4,37 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 128 Mirto Minuto</head>
-        <ab>[<hi>Myrtus communis L. var. tarentina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000248725"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77188725-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Myrtus communis L. var. tarentina L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000248725"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77188725-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Mirto gentile da volgari - Mirtus da latini - Myrine, Myrsinos et Myrsine da Greci
+          <p part="N"> Mirto gentile da volgari - Mirtus da latini - Myrine, Myrsinos et Myrsine da Greci
              - Phibaleos ab Antiphane - Mortina et Mortella da Toscani - Dex domestica, Hes da Arabi.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Leggesi da driedo.</p>
+          <p part="N"> Leggesi da driedo.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p>Li piui aromatichi et odorifferi quelli di Egipto, ne ven-<fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="91"/> ghono in caldi monti et mine a Siena,
+          <p part="N">Li piui aromatichi et odorifferi quelli di Egipto, ne ven-<fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="91"/> ghono in caldi monti et mine a Siena,
             Genova, Roma, et a tutte le rippe del Tirreno et Napolitano. Et si custodiscano ne vasi
             da dote mani composte in belle et vaghe forme.</p>
         </div>
-        <div type="editorial-D">
-          <p>In coerenza con quanto è scritto nel testo la figura rappresenta un elegante vaso sul
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">In coerenza con quanto è scritto nel testo la figura rappresenta un elegante vaso sul
             quale sorge una pianta sterile tagliata a modo che il contorno rappresenti un falco
             colle ale spiegate. Per completar la figura sono aggiunti due modelli di zampe che
             posano sopra uno stecco fissato traversalmente sull'orlo del vaso.</p>

@@ -4,68 +4,68 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 15 Chieregini</head>
-        <ab>[<hi>Cardiospermum Halicacabum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000587875"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:782206-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Cardiospermum Halicacabum L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000587875"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:782206-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Halicacabo pelegrin da Latini Chiereghini et Fratonzelli da volgari - Chairella a Napoli -
+          <p part="N"> Halicacabo pelegrin da Latini Chiereghini et Fratonzelli da volgari - Chairella a Napoli -
             Concordia a Bressa - Vesicaria nigra seu peregrina dal Trago - Vvelsch Schluten da
             Germani.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Varie sonno le spezie di Halicacabi, questo, la Physalida commune qual produce le
+          <p part="N"> Varie sonno le spezie di Halicacabi, questo, la Physalida commune qual produce le
             vesiche rosse con il fruto dentro rosso manifesto a speciali <ptr target="#A-015-N1"/> una altra specie di
             Halicacabo sonnifero con questo nome <ptr target="#A-015-N2"/>.</p>
         </div>
-        <div type="shape">
+        <div type="shape" part="N" org="uniform" sample="complete">
           <head>FORMA</head>
-          <p> Suoi fiori sonno bianchi piccolini da quali ci viene suoe verdi vesiche simil
+          <p part="N"> Suoi fiori sonno bianchi piccolini da quali ci viene suoe verdi vesiche simil
             all'uoigare Halicacabo che dentro portano suoi rotondi semi dui over 3 per vesicha Deri
             signiati come da uno bianco cuore overo meza chierica di prete dunde a preso il
             nome.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Io non saprei dire suo originale ma per Italia nelle fenestre et giardini non ci
+          <p part="N"> Io non saprei dire suo originale ma per Italia nelle fenestre et giardini non ci
             mancano.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> De suoi semi seminati fata la luna di febraro ci nasce.</p>
+          <p part="N"> De suoi semi seminati fata la luna di febraro ci nasce.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Per esserli depinto il cuore nel mezo d'il seme molti si credono che la sia valorosa
+          <p part="N"> Per esserli depinto il cuore nel mezo d'il seme molti si credono che la sia valorosa
             in amore.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p>Io per me crederei che il bolo de uno cuore scolpito che ci sonno nel suo seme non
+          <p part="N">Io per me crederei che il bolo de uno cuore scolpito che ci sonno nel suo seme non
             vogli manifestare altro che valore et util forza si contenga a rimedii del cuore,
             manifestandolo con questo esquisito segnio la natura.</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fiorita e fruttifera, figura abbastanza buona. Qui si fa strada la teoria delle
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fiorita e fruttifera, figura abbastanza buona. Qui si fa strada la teoria delle
             signature che a quei tempi era dominante e lo si vede nella <hi>Physognomonica</hi> di <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="23"/> <persName ref="della-porta-giambattista">G.B. Porta</persName> ove accanto
             alle figure espresse dalle piante ci sono quelle degli organi umani contro le cui
             malattie doveva semplice usarsi. Riguardo alla presente specie troviamo la medesima
             credenza nel <persName ref="mattioli-pietro-andrea">Mattioli</persName>.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-015-N1" n="1"> Physalis Alkekengi.</note>
-          <note xml:id="A-015-N2" n="2"> Physalis somnifera v. <ref type="internal" target="#V-063">libro verde N. 63</ref>.</note>
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-015-N1" n="1" anchored="true"> Physalis Alkekengi.</note>
+          <note xml:id="A-015-N2" n="2" anchored="true"> Physalis somnifera v. <ref type="internal" target="#V-063">libro verde N. 63</ref>.</note>
         </div>
       </body></text></TEI>

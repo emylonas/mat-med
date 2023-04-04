@@ -4,76 +4,76 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 95 Storace</head>
-        <ab>[<hi>Styrax officinale L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000492654"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327052-2"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Styrax officinale L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000492654"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327052-2"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Storax da Latini - Melachac da Arabi - Sigia da Greci - Calamita da volgari il suo
+          <p part="N"> Storax da Latini - Melachac da Arabi - Sigia da Greci - Calamita da volgari il suo
             liquore.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Ne sonno in Syria prossima a Giudea, nel Monte Casio di Seleucia <ptr target="#A-095-N1"/>, vengono lodato
+          <p part="N"> Ne sonno in Syria prossima a Giudea, nel Monte Casio di Seleucia <ptr target="#A-095-N1"/>, vengono lodato
             quello di Psidia <ptr target="#A-095-N2"/>, Sidone, Cypri et di Cilicia et inferiore quello di Candia, et ne
             sonno in la Natolia <ptr target="#A-095-N3"/> dunde de li io hebbi de suoi fruti et seminati mi naquero, ne
             son in Italia a Tivoli di Romagnia, in l'Abruzzio ma non fanno la lagrima.</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p> Luogho calido, solsticio, et humido, in terra grassa et ne bo custodito de molto tempo
+          <p part="N"> Luogho calido, solsticio, et humido, in terra grassa et ne bo custodito de molto tempo
             ma mai ha fato la lagrima.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> Molti con errore si credeno che il legnio di questo sia l'Aspalato.</p>
+          <p part="N"> Molti con errore si credeno che il legnio di questo sia l'Aspalato.</p>
         </div>
-        <div type="disagreements">
+        <div type="disagreements" part="N" org="uniform" sample="complete">
           <head>DISPARERI NELLA PIANTA</head>
-          <p> Quello pocho che ci narra Diascoride del Storace questa si rascontra bene et son anche
+          <p part="N"> Quello pocho che ci narra Diascoride del Storace questa si rascontra bene et son anche
             tenuto,</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p>Da questo ci viene uno liquore el qualle son il stirace et quello son tenuto per il
+          <p part="N">Da questo ci viene uno liquore el qualle son il stirace et quello son tenuto per il
             migliore che son grasso, raggioso et rosso et che nelle suoe ginnelle <ptr target="#A-095-N4"/> biancheggia
             riservando in lungo il suo odore. Il piu tristo son il frangibile, nero et muffo et si
             falsifica ancora. Lo storace scalda, molifica et digerisce...</p>
         </div>
-        <div type="editorial-D">
-          <p>L'<persName ref="anguillara-luigi">Anguillara</persName> nel <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">secondo Parere sopra i Semplici</ref> dedicato al nostro Michiel, così
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">L'<persName ref="anguillara-luigi">Anguillara</persName> nel <ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">secondo Parere sopra i Semplici</ref> dedicato al nostro Michiel, così
             scrive dello storace: «si può vedere nel giardino di Vostra Magnificentia et del mio
             carissimo amico M. Antonio Filetti a Santa Lucia et ancora nell'horto delli venerandi
             frati di S. Francesco della Vigna. Trovasi ancora partendo da Tivoli nella strada che va
             a Roma et anco nell’Abruzzo». La pianta si trova tuttora presso Tivoli, ma non fu
             trovata nell'Abruzzo donde forse è scomparsa.</p>
-          <p>La figura di questo codice rappresenta una pianta fiorita e fruttifera. A sinistra un
+          <p part="N">La figura di questo codice rappresenta una pianta fiorita e fruttifera. A sinistra un
             ramoscello fiorito, a destra uno fruttifero ed una figura umana che offre incenso al.
             l'altare di una martire,</p>
-          <p>La pianta era coltivata in vari giardini di Venezia, come attesta il sopracitato passo
+          <p part="N">La pianta era coltivata in vari giardini di Venezia, come attesta il sopracitato passo
             dell'Anguillara <ptr target="#A-095-N5"/> e come pure attesta il Mattioli che la vide nel giardino di Maffeo de Maffei.</p>
-          <p>L'individuo che servi d'originale alla presente figura aveva numerosi fiori con numero
+          <p part="N">L'individuo che servi d'originale alla presente figura aveva numerosi fiori con numero
             anomalo di petali, il che non apparisce dal disegno, non essendovene alcuno <fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="68"/> che si presenti di
             fronte, ma risulta dalla diagnosi dell'autore: «fiori candidi odorati per el piui di 7
             foglie». </p>
         </div>
-        <div type="notes">
-          <note xml:id="A-095-N1" n="1"> Gebel-Akrah degli Arabi.</note>
-          <note xml:id="A-095-N2" n="2"> Pisidia.</note>
-          <note xml:id="A-095-N3" n="3"> Anatolia.</note>
-          <note xml:id="A-095-N4" n="4"> Sporgenze mammillari.</note>
-          <note xml:id="A-095-N5" n="5"> Aoche Pena e Lobelio (180) dichiarano averla vista la prima volta nel
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-095-N1" n="1" anchored="true"> Gebel-Akrah degli Arabi.</note>
+          <note xml:id="A-095-N2" n="2" anchored="true"> Pisidia.</note>
+          <note xml:id="A-095-N3" n="3" anchored="true"> Anatolia.</note>
+          <note xml:id="A-095-N4" n="4" anchored="true"> Sporgenze mammillari.</note>
+          <note xml:id="A-095-N5" n="5" anchored="true"> Aoche Pena e Lobelio (180) dichiarano averla vista la prima volta nel
             giardino di S. Francesco in Venezia, anzi fu loro di guida per riconoscere poi la specie
             presso Solliès (Tolone) ove tuttora essa vegeta. Oggidi la pianta non si trova più a S.
             Francosco della Vigna. L'Aldrovandi la raccolse e la conservo col nome Stirar nel suo

@@ -4,85 +4,85 @@
         <title>Libro Azzurro</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication information</p>
+        <p part="N">Publication information</p>
       </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <change when="2022-01-10" who="EM">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
+    <revisionDesc status="draft">
+      <change when="2022-01-10" who="EM" status="draft">Refactored listPerson entries to have descriptive text in a note, easier to parse. Added 
         @type="alt" attribute to persName elements. 
       </change>
     </revisionDesc>
   </teiHeader><text><body>
         <head>N. 102 Casia Solutiva</head>
-        <ab>[<hi>Cassia Fistula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000163802"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1"/></ab>
-        <div type="name">
+        <ab part="N">[<hi>Cassia Fistula L.</hi>] <ref type="wfo" target="http://www.worldfloraonline.org/taxon/wfo-0000163802"/><ref type="kew" target="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1"/></ab>
+        <div type="name" part="N" org="uniform" sample="complete">
           <head>NOMI</head>
-          <p> Cassia solutiva et siliqua de Egipto - da Latini Cassia nera - da il Greco Atuario.</p>
+          <p part="N"> Cassia solutiva et siliqua de Egipto - da Latini Cassia nera - da il Greco Atuario.</p>
         </div>
-        <div type="genus">
+        <div type="genus" part="N" org="uniform" sample="complete">
           <head>GENERA</head>
-          <p> Sonno de piui specie le Cassie arabice, ma questa son solutiva, non conosciuta dalli
+          <p part="N"> Sonno de piui specie le Cassie arabice, ma questa son solutiva, non conosciuta dalli
             Greci antiqui ecceto Atuario.</p>
         </div>
-        <div type="location">
+        <div type="location" part="N" org="uniform" sample="complete">
           <head>LUOGHO</head>
-          <p> Vengono le Cassie portate a noi di Alessandria.</p>
+          <p part="N"> Vengono le Cassie portate a noi di Alessandria.</p>
         </div>
-        <div type="exposure">
+        <div type="exposure" part="N" org="uniform" sample="complete">
           <head>AMANO</head>
-          <p>Luogho calido, grasso, et humoroso, et qui da noi con il fredo si perde.</p>
+          <p part="N">Luogho calido, grasso, et humoroso, et qui da noi con il fredo si perde.</p>
         </div>
-        <div type="reproduction">
+        <div type="reproduction" part="N" org="uniform" sample="complete">
           <head>GENERATIONE</head>
-          <p> De suoi caratori <ptr target="#A-102-N1"/> ci nasce voluntieri et si lascia vedere fino alla altezzia di
+          <p part="N"> De suoi caratori <ptr target="#A-102-N1"/> ci nasce voluntieri et si lascia vedere fino alla altezzia di
             brazzio et poi il fredo la amazza.</p>
         </div>
-        <div type="opinions">
+        <div type="opinions" part="N" org="uniform" sample="complete">
           <head>OPPINIONI</head>
-          <p> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 31 dice esser differenza tra la Cassia de latini et quella de Greci
+          <p part="N"> L'<ref type="bibl" target="http://id.sbn.it/bid/BVEE000526">Anguillara</ref> k. 31 dice esser differenza tra la Cassia de latini et quella de Greci
             per doi ss aromatica et con uno solo et chiarisce bene. Casia son il Cneoro de Greci et
             tiene sia la Lavanda et il Rosmarino li Cneori di Theophrasto et la Cassia di Igino. Et
             il saputo Ruelio nel primo volume della natura delle piante chiama la Cassia solutiva
             questa sequitando gli Arabi Cassia fistola.</p>
         </div>
-        <div type="properties">
+        <div type="properties" part="N" org="uniform" sample="complete">
           <head>VIRTÙ</head>
-          <p>Son di temperamento calida et humida nel primo <ptr target="#A-102-N2"/>. Et spinge le acute colore <ptr target="#A-102-N3"/> et
+          <p part="N">Son di temperamento calida et humida nel primo <ptr target="#A-102-N2"/>. Et spinge le acute colore <ptr target="#A-102-N3"/> et
             purifica il sangue et son risolutiva et lenitiva come son già in manifesto uso per le
             spetiarie. ma bene diro così che tenga in se qualche di oculta malignita percio con la
             esperienza si vede che a molti son nociva con pessimo travaglio caggionando, come con
             mio esperimento lo manifesto. et nuoce a cui alle <ptr target="#A-102-N4"/> viscere deboli et il corpo
             lubrico. Et leggesi copioso nel Mathiolo al cap. del Cinamomo.</p>
         </div>
-        <div type="editorial-D">
-          <p>Pianta fruttifera con insetti volanti. A parte una foglia ed un frammento di
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">Pianta fruttifera con insetti volanti. A parte una foglia ed un frammento di
             frutto.</p>
-          <p><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="74"/> Al N. 79 l'autore
+          <p part="N"><fw type="running-head" place="top">LIBRO AZZURRO</fw><pb n="74"/> Al N. 79 l'autore
             parla della nasalz dei Greci differente dalla cassia attuale che è qui descritta ed in
             questa pagina parla anche della xxola che i Latini trascrivevano pur cassia <ptr target="#A-102-N5"/> e che
             era un'erba usata per ghirlande (cassia coronaria dei Romani) chiamata da Igino
             xvéopov. Per le lunghe questioni sull'identificazione del cneoro può vedersi il
             Mattioli <ptr target="#A-102-N6"/>.</p>
-          <p>La presente specie fu chiamata dai Greci bizantini <foreign xml:lang="grc">γλυκοκάλαμος</foreign> (canna dolce) come trovasi in Nicola Mirepsico (201 p. 49
+          <p part="N">La presente specie fu chiamata dai Greci bizantini <foreign xml:lang="grc">γλυκοκάλαμος</foreign> (canna dolce) come trovasi in Nicola Mirepsico (201 p. 49
             (Ed.) e più tardi usurpo il nome di cassia per la somiglianza dei suoi legumi
             cilindrici e legnosi colla scorza rotolata dell'antica <foreign xml:lang="grc">κασσία</foreign> (Cinnamomum Cassia) ora chiamata cassia lignea. Questo errore
             insinuato dagli Arabi fu però riconosciuto da vari semplicisti, p. e. dal <persName ref="rinio-benedetto">Rinio</persName> che però
             a c. 322 dà una figura fittizia della Cassia fistula ed a c. 437 pur parlando della
             cassia lignea non ne dà alcuna figura.</p>
-          <p>Della presente figura del Michiel fece copia il <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879">Marini [197]</ref> cui si attribuisce il primato della iconografia [276]. Donde l'abbia tratta il Michiel non sappiamo perché egli
+          <p part="N">Della presente figura del Michiel fece copia il <ref type="bibl" target=" http://id.sbn.it/bid/RMLE013879">Marini [197]</ref> cui si attribuisce il primato della iconografia [276]. Donde l'abbia tratta il Michiel non sappiamo perché egli
             non dice espressamente di aver coltivato la pianta; notiamo che il Brasavola suo contemporaneo vide la pianta stessa coltivata nell'orto dei Cornaro a Murano.</p>
         </div>
-        <div type="notes">
-          <note xml:id="A-102-N1" n="1"> Cardiolo o gardtolo diminutivo di carato è veramente il nome veneziano del
+        <div type="notes" part="N" org="uniform" sample="complete">
+          <note xml:id="A-102-N1" n="1" anchored="true"> Cardiolo o gardtolo diminutivo di carato è veramente il nome veneziano del
             seme di carrubo; qui è usato pel seme di cassia.</note>
-          <note xml:id="A-102-N2" n="2"> Grado.</note>
-          <note xml:id="A-102-N3" n="3"> * Coloro sta per collere = umori. (Ed.)</note>
-          <note xml:id="A-102-N4" n="4"> Ha le. 10</note>
-          <note xml:id="A-102-N5" n="5"> La lettera , dei Greci si pronuncia aspra e percid i Romani la traducevano
+          <note xml:id="A-102-N2" n="2" anchored="true"> Grado.</note>
+          <note xml:id="A-102-N3" n="3" anchored="true"> * Coloro sta per collere = umori. (Ed.)</note>
+          <note xml:id="A-102-N4" n="4" anchored="true"> Ha le. 10</note>
+          <note xml:id="A-102-N5" n="5" anchored="true"> La lettera , dei Greci si pronuncia aspra e percid i Romani la traducevano
             con due S. es. Parnassus, Narcissus.</note>
-          <note xml:id="A-102-N6" n="6"> La casia o cassia poetica di Pena e Lobelio. Osyris alba.</note>
+          <note xml:id="A-102-N6" n="6" anchored="true"> La casia o cassia poetica di Pena e Lobelio. Osyris alba.</note>
         </div>
       </body></text></TEI>
